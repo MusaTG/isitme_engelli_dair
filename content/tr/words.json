@@ -1,0 +1,5341 @@
+{
+"words": [
+{
+"id": "tr.w.anne",
+"w": "anne",
+"cat": "people",
+"lvl": 1,
+"aud": "both",
+"e": "👩",
+"syl": 2
+},
+{
+"id": "tr.w.baba",
+"w": "baba",
+"cat": "people",
+"lvl": 1,
+"aud": "both",
+"e": "👨",
+"syl": 2
+},
+{
+"id": "tr.w.bebek",
+"w": "bebek",
+"cat": "people",
+"lvl": 1,
+"aud": "both",
+"e": "👶",
+"syl": 2
+},
+{
+"id": "tr.w.cocuk",
+"w": "çocuk",
+"cat": "people",
+"lvl": 1,
+"aud": "both",
+"e": "🧒",
+"syl": 2
+},
+{
+"id": "tr.w.kardes",
+"w": "kardeş",
+"cat": "people",
+"lvl": 1,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.abla",
+"w": "abla",
+"cat": "people",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.agabey",
+"w": "ağabey",
+"cat": "people",
+"lvl": 2,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.dede",
+"w": "dede",
+"cat": "people",
+"lvl": 1,
+"aud": "both",
+"e": "👴",
+"syl": 2
+},
+{
+"id": "tr.w.nine",
+"w": "nine",
+"cat": "people",
+"lvl": 1,
+"aud": "both",
+"e": "👵",
+"syl": 2
+},
+{
+"id": "tr.w.teyze",
+"w": "teyze",
+"cat": "people",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.amca",
+"w": "amca",
+"cat": "people",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.hala",
+"w": "hala",
+"cat": "people",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.dayi",
+"w": "dayı",
+"cat": "people",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.arkadas",
+"w": "arkadaş",
+"cat": "people",
+"lvl": 1,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.komsu",
+"w": "komşu",
+"cat": "people",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.aile",
+"w": "aile",
+"cat": "people",
+"lvl": 1,
+"aud": "both",
+"e": "👪",
+"syl": 3
+},
+{
+"id": "tr.w.kiz",
+"w": "kız",
+"cat": "people",
+"lvl": 1,
+"aud": "both",
+"e": "👧",
+"syl": 1
+},
+{
+"id": "tr.w.oglan",
+"w": "oğlan",
+"cat": "people",
+"lvl": 1,
+"aud": "both",
+"e": "👦",
+"syl": 2
+},
+{
+"id": "tr.w.kadin",
+"w": "kadın",
+"cat": "people",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.adam",
+"w": "adam",
+"cat": "people",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.misafir",
+"w": "misafir",
+"cat": "people",
+"lvl": 3,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.goz",
+"w": "göz",
+"cat": "body",
+"lvl": 1,
+"aud": "both",
+"e": "👁️",
+"syl": 1
+},
+{
+"id": "tr.w.kulak",
+"w": "kulak",
+"cat": "body",
+"lvl": 1,
+"aud": "both",
+"e": "👂",
+"syl": 2
+},
+{
+"id": "tr.w.burun",
+"w": "burun",
+"cat": "body",
+"lvl": 1,
+"aud": "both",
+"e": "👃",
+"syl": 2
+},
+{
+"id": "tr.w.agiz",
+"w": "ağız",
+"cat": "body",
+"lvl": 1,
+"aud": "both",
+"e": "👄",
+"syl": 2
+},
+{
+"id": "tr.w.dis",
+"w": "diş",
+"cat": "body",
+"lvl": 1,
+"aud": "both",
+"e": "🦷",
+"syl": 1
+},
+{
+"id": "tr.w.el",
+"w": "el",
+"cat": "body",
+"lvl": 1,
+"aud": "both",
+"e": "✋",
+"syl": 1
+},
+{
+"id": "tr.w.ayak",
+"w": "ayak",
+"cat": "body",
+"lvl": 1,
+"aud": "both",
+"e": "🦶",
+"syl": 2
+},
+{
+"id": "tr.w.kol",
+"w": "kol",
+"cat": "body",
+"lvl": 1,
+"aud": "both",
+"e": "💪",
+"syl": 1
+},
+{
+"id": "tr.w.bacak",
+"w": "bacak",
+"cat": "body",
+"lvl": 1,
+"aud": "both",
+"e": "🦵",
+"syl": 2
+},
+{
+"id": "tr.w.sac",
+"w": "saç",
+"cat": "body",
+"lvl": 1,
+"aud": "both",
+"e": "💇",
+"syl": 1
+},
+{
+"id": "tr.w.parmak",
+"w": "parmak",
+"cat": "body",
+"lvl": 2,
+"aud": "both",
+"e": "☝️",
+"syl": 2
+},
+{
+"id": "tr.w.dil",
+"w": "dil",
+"cat": "body",
+"lvl": 1,
+"aud": "both",
+"e": "👅",
+"syl": 1
+},
+{
+"id": "tr.w.yuz",
+"w": "yüz",
+"cat": "body",
+"lvl": 1,
+"aud": "both",
+"syl": 1
+},
+{
+"id": "tr.w.omuz",
+"w": "omuz",
+"cat": "body",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.diz",
+"w": "diz",
+"cat": "body",
+"lvl": 2,
+"aud": "both",
+"syl": 1
+},
+{
+"id": "tr.w.sirt",
+"w": "sırt",
+"cat": "body",
+"lvl": 2,
+"aud": "both",
+"syl": 1
+},
+{
+"id": "tr.w.karin",
+"w": "karın",
+"cat": "body",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.dis-fircasi",
+"w": "diş fırçası",
+"cat": "body",
+"lvl": 2,
+"aud": "both",
+"e": "🪥",
+"syl": 4
+},
+{
+"id": "tr.w.sabun",
+"w": "sabun",
+"cat": "body",
+"lvl": 1,
+"aud": "both",
+"e": "🧼",
+"syl": 2
+},
+{
+"id": "tr.w.havlu",
+"w": "havlu",
+"cat": "body",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.tarak",
+"w": "tarak",
+"cat": "body",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.sampuan",
+"w": "şampuan",
+"cat": "body",
+"lvl": 2,
+"aud": "both",
+"e": "🧴",
+"syl": 3
+},
+{
+"id": "tr.w.kafa",
+"w": "kafa",
+"cat": "body",
+"lvl": 1,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.ev",
+"w": "ev",
+"cat": "home",
+"lvl": 1,
+"aud": "both",
+"e": "🏠",
+"syl": 1,
+"frame": true
+},
+{
+"id": "tr.w.oda",
+"w": "oda",
+"cat": "home",
+"lvl": 1,
+"aud": "both",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.kapi",
+"w": "kapı",
+"cat": "home",
+"lvl": 1,
+"aud": "both",
+"e": "🚪",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.pencere",
+"w": "pencere",
+"cat": "home",
+"lvl": 1,
+"aud": "both",
+"e": "🪟",
+"syl": 3,
+"frame": true
+},
+{
+"id": "tr.w.yatak",
+"w": "yatak",
+"cat": "home",
+"lvl": 1,
+"aud": "both",
+"e": "🛏️",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.masa",
+"w": "masa",
+"cat": "home",
+"lvl": 1,
+"aud": "both",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.sandalye",
+"w": "sandalye",
+"cat": "home",
+"lvl": 1,
+"aud": "both",
+"e": "🪑",
+"syl": 3,
+"frame": true
+},
+{
+"id": "tr.w.koltuk",
+"w": "koltuk",
+"cat": "home",
+"lvl": 2,
+"aud": "both",
+"e": "🛋️",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.lamba",
+"w": "lamba",
+"cat": "home",
+"lvl": 1,
+"aud": "both",
+"e": "💡",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.hali",
+"w": "halı",
+"cat": "home",
+"lvl": 2,
+"aud": "both",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.banyo",
+"w": "banyo",
+"cat": "home",
+"lvl": 2,
+"aud": "both",
+"e": "🛁",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.mutfak",
+"w": "mutfak",
+"cat": "home",
+"lvl": 2,
+"aud": "both",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.merdiven",
+"w": "merdiven",
+"cat": "home",
+"lvl": 2,
+"aud": "both",
+"syl": 3,
+"frame": true
+},
+{
+"id": "tr.w.duvar",
+"w": "duvar",
+"cat": "home",
+"lvl": 2,
+"aud": "both",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.anahtar",
+"w": "anahtar",
+"cat": "home",
+"lvl": 1,
+"aud": "both",
+"e": "🔑",
+"syl": 3,
+"frame": true
+},
+{
+"id": "tr.w.ayna",
+"w": "ayna",
+"cat": "home",
+"lvl": 2,
+"aud": "both",
+"e": "🪞",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.perde",
+"w": "perde",
+"cat": "home",
+"lvl": 2,
+"aud": "both",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.dolap",
+"w": "dolap",
+"cat": "home",
+"lvl": 2,
+"aud": "both",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.balkon",
+"w": "balkon",
+"cat": "home",
+"lvl": 2,
+"aud": "both",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.yastik",
+"w": "yastık",
+"cat": "home",
+"lvl": 2,
+"aud": "both",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.battaniye",
+"w": "battaniye",
+"cat": "home",
+"lvl": 3,
+"aud": "both",
+"syl": 4,
+"frame": true
+},
+{
+"id": "tr.w.tabak",
+"w": "tabak",
+"cat": "kitchen",
+"lvl": 1,
+"aud": "both",
+"e": "🍽️",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.kasik",
+"w": "kaşık",
+"cat": "kitchen",
+"lvl": 1,
+"aud": "both",
+"e": "🥄",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.catal",
+"w": "çatal",
+"cat": "kitchen",
+"lvl": 1,
+"aud": "both",
+"e": "🍴",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.bicak",
+"w": "bıçak",
+"cat": "kitchen",
+"lvl": 2,
+"aud": "both",
+"e": "🔪",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.tava",
+"w": "tava",
+"cat": "kitchen",
+"lvl": 2,
+"aud": "both",
+"e": "🍳",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.bardak",
+"w": "bardak",
+"cat": "kitchen",
+"lvl": 1,
+"aud": "both",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.tencere",
+"w": "tencere",
+"cat": "kitchen",
+"lvl": 2,
+"aud": "both",
+"syl": 3,
+"frame": true
+},
+{
+"id": "tr.w.firin",
+"w": "fırın",
+"cat": "kitchen",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.buzdolabi",
+"w": "buzdolabı",
+"cat": "kitchen",
+"lvl": 2,
+"aud": "both",
+"syl": 4
+},
+{
+"id": "tr.w.caydanlik",
+"w": "çaydanlık",
+"cat": "kitchen",
+"lvl": 2,
+"aud": "both",
+"e": "🫖",
+"syl": 3,
+"frame": true
+},
+{
+"id": "tr.w.surahi",
+"w": "sürahi",
+"cat": "kitchen",
+"lvl": 3,
+"aud": "both",
+"syl": 3,
+"frame": true
+},
+{
+"id": "tr.w.pecete",
+"w": "peçete",
+"cat": "kitchen",
+"lvl": 3,
+"aud": "both",
+"syl": 3,
+"frame": true
+},
+{
+"id": "tr.w.tuzluk",
+"w": "tuzluk",
+"cat": "kitchen",
+"lvl": 2,
+"aud": "both",
+"e": "🧂",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.kepce",
+"w": "kepçe",
+"cat": "kitchen",
+"lvl": 3,
+"aud": "both",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.tepsi",
+"w": "tepsi",
+"cat": "kitchen",
+"lvl": 3,
+"aud": "both",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.elma",
+"w": "elma",
+"cat": "food",
+"lvl": 1,
+"aud": "both",
+"e": "🍎",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.armut",
+"w": "armut",
+"cat": "food",
+"lvl": 1,
+"aud": "both",
+"e": "🍐",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.muz",
+"w": "muz",
+"cat": "food",
+"lvl": 1,
+"aud": "both",
+"e": "🍌",
+"syl": 1,
+"frame": true
+},
+{
+"id": "tr.w.uzum",
+"w": "üzüm",
+"cat": "food",
+"lvl": 1,
+"aud": "both",
+"e": "🍇",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.cilek",
+"w": "çilek",
+"cat": "food",
+"lvl": 1,
+"aud": "both",
+"e": "🍓",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.portakal",
+"w": "portakal",
+"cat": "food",
+"lvl": 1,
+"aud": "both",
+"e": "🍊",
+"syl": 3,
+"frame": true
+},
+{
+"id": "tr.w.limon",
+"w": "limon",
+"cat": "food",
+"lvl": 1,
+"aud": "both",
+"e": "🍋",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.karpuz",
+"w": "karpuz",
+"cat": "food",
+"lvl": 1,
+"aud": "both",
+"e": "🍉",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.kiraz",
+"w": "kiraz",
+"cat": "food",
+"lvl": 1,
+"aud": "both",
+"e": "🍒",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.seftali",
+"w": "şeftali",
+"cat": "food",
+"lvl": 2,
+"aud": "both",
+"e": "🍑",
+"syl": 3,
+"frame": true
+},
+{
+"id": "tr.w.domates",
+"w": "domates",
+"cat": "food",
+"lvl": 1,
+"aud": "both",
+"e": "🍅",
+"syl": 3,
+"frame": true
+},
+{
+"id": "tr.w.havuc",
+"w": "havuç",
+"cat": "food",
+"lvl": 1,
+"aud": "both",
+"e": "🥕",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.patates",
+"w": "patates",
+"cat": "food",
+"lvl": 1,
+"aud": "both",
+"e": "🥔",
+"syl": 3,
+"frame": true
+},
+{
+"id": "tr.w.sogan",
+"w": "soğan",
+"cat": "food",
+"lvl": 2,
+"aud": "both",
+"e": "🧅",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.sarimsak",
+"w": "sarımsak",
+"cat": "food",
+"lvl": 2,
+"aud": "both",
+"e": "🧄",
+"syl": 3,
+"frame": true
+},
+{
+"id": "tr.w.misir",
+"w": "mısır",
+"cat": "food",
+"lvl": 1,
+"aud": "both",
+"e": "🌽",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.ekmek",
+"w": "ekmek",
+"cat": "food",
+"lvl": 1,
+"aud": "both",
+"e": "🍞",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.peynir",
+"w": "peynir",
+"cat": "food",
+"lvl": 1,
+"aud": "both",
+"e": "🧀",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.yumurta",
+"w": "yumurta",
+"cat": "food",
+"lvl": 1,
+"aud": "both",
+"e": "🥚",
+"syl": 3,
+"frame": true
+},
+{
+"id": "tr.w.sut",
+"w": "süt",
+"cat": "food",
+"lvl": 1,
+"aud": "both",
+"e": "🥛",
+"syl": 1,
+"frame": true
+},
+{
+"id": "tr.w.su",
+"w": "su",
+"cat": "food",
+"lvl": 1,
+"aud": "both",
+"e": "💧",
+"syl": 1,
+"frame": true
+},
+{
+"id": "tr.w.cay",
+"w": "çay",
+"cat": "food",
+"lvl": 1,
+"aud": "both",
+"e": "🍵",
+"syl": 1,
+"frame": true
+},
+{
+"id": "tr.w.kahve",
+"w": "kahve",
+"cat": "food",
+"lvl": 2,
+"aud": "both",
+"e": "☕",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.corba",
+"w": "çorba",
+"cat": "food",
+"lvl": 1,
+"aud": "both",
+"e": "🍲",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.pilav",
+"w": "pilav",
+"cat": "food",
+"lvl": 1,
+"aud": "both",
+"e": "🍚",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.makarna",
+"w": "makarna",
+"cat": "food",
+"lvl": 1,
+"aud": "both",
+"e": "🍝",
+"syl": 3,
+"frame": true
+},
+{
+"id": "tr.w.kofte",
+"w": "köfte",
+"cat": "food",
+"lvl": 2,
+"aud": "both",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.simit",
+"w": "simit",
+"cat": "food",
+"lvl": 1,
+"aud": "both",
+"e": "🥯",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.pasta",
+"w": "pasta",
+"cat": "food",
+"lvl": 1,
+"aud": "both",
+"e": "🎂",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.kurabiye",
+"w": "kurabiye",
+"cat": "food",
+"lvl": 1,
+"aud": "both",
+"e": "🍪",
+"syl": 4,
+"frame": true
+},
+{
+"id": "tr.w.dondurma",
+"w": "dondurma",
+"cat": "food",
+"lvl": 1,
+"aud": "both",
+"e": "🍦",
+"syl": 3,
+"frame": true
+},
+{
+"id": "tr.w.bal",
+"w": "bal",
+"cat": "food",
+"lvl": 1,
+"aud": "both",
+"e": "🍯",
+"syl": 1,
+"frame": true
+},
+{
+"id": "tr.w.zeytin",
+"w": "zeytin",
+"cat": "food",
+"lvl": 2,
+"aud": "both",
+"e": "🫒",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.seker",
+"w": "şeker",
+"cat": "food",
+"lvl": 1,
+"aud": "both",
+"e": "🍬",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.salata",
+"w": "salata",
+"cat": "food",
+"lvl": 1,
+"aud": "both",
+"e": "🥗",
+"syl": 3,
+"frame": true
+},
+{
+"id": "tr.w.et",
+"w": "et",
+"cat": "food",
+"lvl": 2,
+"aud": "both",
+"e": "🥩",
+"syl": 1,
+"frame": true
+},
+{
+"id": "tr.w.yogurt",
+"w": "yoğurt",
+"cat": "food",
+"lvl": 2,
+"aud": "both",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.tereyagi",
+"w": "tereyağı",
+"cat": "food",
+"lvl": 2,
+"aud": "both",
+"e": "🧈",
+"syl": 4,
+"frame": true
+},
+{
+"id": "tr.w.recel",
+"w": "reçel",
+"cat": "food",
+"lvl": 2,
+"aud": "both",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.borek",
+"w": "börek",
+"cat": "food",
+"lvl": 2,
+"aud": "both",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.mercimek",
+"w": "mercimek",
+"cat": "food",
+"lvl": 3,
+"aud": "both",
+"syl": 3,
+"frame": true
+},
+{
+"id": "tr.w.kedi",
+"w": "kedi",
+"cat": "animals",
+"lvl": 1,
+"aud": "both",
+"e": "🐱",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.kopek",
+"w": "köpek",
+"cat": "animals",
+"lvl": 1,
+"aud": "both",
+"e": "🐶",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.kus",
+"w": "kuş",
+"cat": "animals",
+"lvl": 1,
+"aud": "both",
+"e": "🐦",
+"syl": 1,
+"frame": true
+},
+{
+"id": "tr.w.balik",
+"w": "balık",
+"cat": "animals",
+"lvl": 1,
+"aud": "both",
+"e": "🐟",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.at",
+"w": "at",
+"cat": "animals",
+"lvl": 1,
+"aud": "both",
+"e": "🐴",
+"syl": 1,
+"frame": true
+},
+{
+"id": "tr.w.inek",
+"w": "inek",
+"cat": "animals",
+"lvl": 1,
+"aud": "both",
+"e": "🐄",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.koyun",
+"w": "koyun",
+"cat": "animals",
+"lvl": 1,
+"aud": "both",
+"e": "🐑",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.keci",
+"w": "keçi",
+"cat": "animals",
+"lvl": 1,
+"aud": "both",
+"e": "🐐",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.tavuk",
+"w": "tavuk",
+"cat": "animals",
+"lvl": 1,
+"aud": "both",
+"e": "🐔",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.ordek",
+"w": "ördek",
+"cat": "animals",
+"lvl": 1,
+"aud": "both",
+"e": "🦆",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.tavsan",
+"w": "tavşan",
+"cat": "animals",
+"lvl": 1,
+"aud": "both",
+"e": "🐰",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.fare",
+"w": "fare",
+"cat": "animals",
+"lvl": 1,
+"aud": "both",
+"e": "🐭",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.aslan",
+"w": "aslan",
+"cat": "animals",
+"lvl": 1,
+"aud": "both",
+"e": "🦁",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.kaplan",
+"w": "kaplan",
+"cat": "animals",
+"lvl": 1,
+"aud": "both",
+"e": "🐯",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.fil",
+"w": "fil",
+"cat": "animals",
+"lvl": 1,
+"aud": "both",
+"e": "🐘",
+"syl": 1,
+"frame": true
+},
+{
+"id": "tr.w.zurafa",
+"w": "zürafa",
+"cat": "animals",
+"lvl": 1,
+"aud": "both",
+"e": "🦒",
+"syl": 3,
+"frame": true
+},
+{
+"id": "tr.w.maymun",
+"w": "maymun",
+"cat": "animals",
+"lvl": 1,
+"aud": "both",
+"e": "🐒",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.ayi",
+"w": "ayı",
+"cat": "animals",
+"lvl": 1,
+"aud": "both",
+"e": "🐻",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.kurbaga",
+"w": "kurbağa",
+"cat": "animals",
+"lvl": 1,
+"aud": "both",
+"e": "🐸",
+"syl": 3,
+"frame": true
+},
+{
+"id": "tr.w.yilan",
+"w": "yılan",
+"cat": "animals",
+"lvl": 1,
+"aud": "both",
+"e": "🐍",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.kaplumbaga",
+"w": "kaplumbağa",
+"cat": "animals",
+"lvl": 1,
+"aud": "both",
+"e": "🐢",
+"syl": 4,
+"frame": true
+},
+{
+"id": "tr.w.ari",
+"w": "arı",
+"cat": "animals",
+"lvl": 1,
+"aud": "both",
+"e": "🐝",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.kelebek",
+"w": "kelebek",
+"cat": "animals",
+"lvl": 1,
+"aud": "both",
+"e": "🦋",
+"syl": 3,
+"frame": true
+},
+{
+"id": "tr.w.karinca",
+"w": "karınca",
+"cat": "animals",
+"lvl": 1,
+"aud": "both",
+"e": "🐜",
+"syl": 3,
+"frame": true
+},
+{
+"id": "tr.w.esek",
+"w": "eşek",
+"cat": "animals",
+"lvl": 2,
+"aud": "both",
+"e": "🫏",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.deve",
+"w": "deve",
+"cat": "animals",
+"lvl": 2,
+"aud": "both",
+"e": "🐫",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.penguen",
+"w": "penguen",
+"cat": "animals",
+"lvl": 1,
+"aud": "both",
+"e": "🐧",
+"syl": 3,
+"frame": true
+},
+{
+"id": "tr.w.baykus",
+"w": "baykuş",
+"cat": "animals",
+"lvl": 2,
+"aud": "both",
+"e": "🦉",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.sincap",
+"w": "sincap",
+"cat": "animals",
+"lvl": 2,
+"aud": "both",
+"e": "🐿️",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.kartal",
+"w": "kartal",
+"cat": "animals",
+"lvl": 2,
+"aud": "both",
+"e": "🦅",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.horoz",
+"w": "horoz",
+"cat": "animals",
+"lvl": 2,
+"aud": "both",
+"e": "🐓",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.yunus",
+"w": "yunus",
+"cat": "animals",
+"lvl": 2,
+"aud": "both",
+"e": "🐬",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.gunes",
+"w": "güneş",
+"cat": "nature",
+"lvl": 1,
+"aud": "both",
+"e": "☀️",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.ay",
+"w": "ay",
+"cat": "nature",
+"lvl": 1,
+"aud": "both",
+"e": "🌙",
+"syl": 1
+},
+{
+"id": "tr.w.yildiz",
+"w": "yıldız",
+"cat": "nature",
+"lvl": 1,
+"aud": "both",
+"e": "⭐",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.bulut",
+"w": "bulut",
+"cat": "nature",
+"lvl": 1,
+"aud": "both",
+"e": "☁️",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.gokyuzu",
+"w": "gökyüzü",
+"cat": "nature",
+"lvl": 2,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.deniz",
+"w": "deniz",
+"cat": "nature",
+"lvl": 1,
+"aud": "both",
+"e": "🌊",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.dag",
+"w": "dağ",
+"cat": "nature",
+"lvl": 1,
+"aud": "both",
+"e": "⛰️",
+"syl": 1,
+"frame": true
+},
+{
+"id": "tr.w.nehir",
+"w": "nehir",
+"cat": "nature",
+"lvl": 2,
+"aud": "both",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.gol",
+"w": "göl",
+"cat": "nature",
+"lvl": 1,
+"aud": "both",
+"e": "🏞️",
+"syl": 1,
+"frame": true
+},
+{
+"id": "tr.w.tas",
+"w": "taş",
+"cat": "nature",
+"lvl": 1,
+"aud": "both",
+"e": "🪨",
+"syl": 1,
+"frame": true
+},
+{
+"id": "tr.w.kum",
+"w": "kum",
+"cat": "nature",
+"lvl": 2,
+"aud": "both",
+"syl": 1,
+"frame": true
+},
+{
+"id": "tr.w.ates",
+"w": "ateş",
+"cat": "nature",
+"lvl": 1,
+"aud": "both",
+"e": "🔥",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.toprak",
+"w": "toprak",
+"cat": "nature",
+"lvl": 2,
+"aud": "both",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.ada",
+"w": "ada",
+"cat": "nature",
+"lvl": 2,
+"aud": "both",
+"e": "🏝️",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.selale",
+"w": "şelale",
+"cat": "nature",
+"lvl": 3,
+"aud": "both",
+"syl": 3,
+"frame": true
+},
+{
+"id": "tr.w.magara",
+"w": "mağara",
+"cat": "nature",
+"lvl": 3,
+"aud": "both",
+"syl": 3,
+"frame": true
+},
+{
+"id": "tr.w.col",
+"w": "çöl",
+"cat": "nature",
+"lvl": 2,
+"aud": "both",
+"e": "🏜️",
+"syl": 1,
+"frame": true
+},
+{
+"id": "tr.w.gokkusagi",
+"w": "gökkuşağı",
+"cat": "nature",
+"lvl": 1,
+"aud": "both",
+"e": "🌈",
+"syl": 4,
+"frame": true
+},
+{
+"id": "tr.w.volkan",
+"w": "volkan",
+"cat": "nature",
+"lvl": 3,
+"aud": "both",
+"e": "🌋",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.orman",
+"w": "orman",
+"cat": "nature",
+"lvl": 2,
+"aud": "both",
+"e": "🌲",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.agac",
+"w": "ağaç",
+"cat": "plants",
+"lvl": 1,
+"aud": "both",
+"e": "🌳",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.cicek",
+"w": "çiçek",
+"cat": "plants",
+"lvl": 1,
+"aud": "both",
+"e": "🌸",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.gul",
+"w": "gül",
+"cat": "plants",
+"lvl": 1,
+"aud": "both",
+"e": "🌹",
+"syl": 1,
+"frame": true
+},
+{
+"id": "tr.w.papatya",
+"w": "papatya",
+"cat": "plants",
+"lvl": 1,
+"aud": "both",
+"e": "🌼",
+"syl": 3,
+"frame": true
+},
+{
+"id": "tr.w.yaprak",
+"w": "yaprak",
+"cat": "plants",
+"lvl": 1,
+"aud": "both",
+"e": "🍃",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.ot",
+"w": "ot",
+"cat": "plants",
+"lvl": 2,
+"aud": "both",
+"syl": 1,
+"frame": true
+},
+{
+"id": "tr.w.tohum",
+"w": "tohum",
+"cat": "plants",
+"lvl": 2,
+"aud": "both",
+"e": "🌱",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.mantar",
+"w": "mantar",
+"cat": "plants",
+"lvl": 1,
+"aud": "both",
+"e": "🍄",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.kaktus",
+"w": "kaktüs",
+"cat": "plants",
+"lvl": 1,
+"aud": "both",
+"e": "🌵",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.bugday",
+"w": "buğday",
+"cat": "plants",
+"lvl": 2,
+"aud": "both",
+"e": "🌾",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.tarla",
+"w": "tarla",
+"cat": "plants",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.bahce",
+"w": "bahçe",
+"cat": "plants",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.ciftci",
+"w": "çiftçi",
+"cat": "plants",
+"lvl": 2,
+"aud": "both",
+"e": "🧑‍🌾",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.traktor",
+"w": "traktör",
+"cat": "plants",
+"lvl": 2,
+"aud": "both",
+"e": "🚜",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.sera",
+"w": "sera",
+"cat": "plants",
+"lvl": 3,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.fide",
+"w": "fide",
+"cat": "plants",
+"lvl": 3,
+"aud": "both",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.hasat",
+"w": "hasat",
+"cat": "plants",
+"lvl": 3,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.dal",
+"w": "dal",
+"cat": "plants",
+"lvl": 2,
+"aud": "both",
+"e": "🌿",
+"syl": 1,
+"frame": true
+},
+{
+"id": "tr.w.kirmizi",
+"w": "kırmızı",
+"cat": "colors",
+"lvl": 1,
+"aud": "both",
+"e": "🔴",
+"syl": 3
+},
+{
+"id": "tr.w.mavi",
+"w": "mavi",
+"cat": "colors",
+"lvl": 1,
+"aud": "both",
+"e": "🔵",
+"syl": 2
+},
+{
+"id": "tr.w.sari",
+"w": "sarı",
+"cat": "colors",
+"lvl": 1,
+"aud": "both",
+"e": "🟡",
+"syl": 2
+},
+{
+"id": "tr.w.yesil",
+"w": "yeşil",
+"cat": "colors",
+"lvl": 1,
+"aud": "both",
+"e": "🟢",
+"syl": 2
+},
+{
+"id": "tr.w.siyah",
+"w": "siyah",
+"cat": "colors",
+"lvl": 1,
+"aud": "both",
+"e": "⚫",
+"syl": 2
+},
+{
+"id": "tr.w.beyaz",
+"w": "beyaz",
+"cat": "colors",
+"lvl": 1,
+"aud": "both",
+"e": "⚪",
+"syl": 2
+},
+{
+"id": "tr.w.mor",
+"w": "mor",
+"cat": "colors",
+"lvl": 1,
+"aud": "both",
+"e": "🟣",
+"syl": 1
+},
+{
+"id": "tr.w.turuncu",
+"w": "turuncu",
+"cat": "colors",
+"lvl": 1,
+"aud": "both",
+"e": "🟠",
+"syl": 3
+},
+{
+"id": "tr.w.kahverengi",
+"w": "kahverengi",
+"cat": "colors",
+"lvl": 1,
+"aud": "both",
+"e": "🟤",
+"syl": 4
+},
+{
+"id": "tr.w.pembe",
+"w": "pembe",
+"cat": "colors",
+"lvl": 1,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.gri",
+"w": "gri",
+"cat": "colors",
+"lvl": 2,
+"aud": "both",
+"syl": 1
+},
+{
+"id": "tr.w.kare",
+"w": "kare",
+"cat": "colors",
+"lvl": 2,
+"aud": "both",
+"e": "🟥",
+"syl": 2
+},
+{
+"id": "tr.w.daire",
+"w": "daire",
+"cat": "colors",
+"lvl": 2,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.ucgen",
+"w": "üçgen",
+"cat": "colors",
+"lvl": 2,
+"aud": "both",
+"e": "🔺",
+"syl": 2
+},
+{
+"id": "tr.w.dikdortgen",
+"w": "dikdörtgen",
+"cat": "colors",
+"lvl": 3,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.kalp",
+"w": "kalp",
+"cat": "colors",
+"lvl": 2,
+"aud": "both",
+"e": "❤️",
+"syl": 1
+},
+{
+"id": "tr.w.gomlek",
+"w": "gömlek",
+"cat": "clothes",
+"lvl": 1,
+"aud": "both",
+"e": "👔",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.tisort",
+"w": "tişört",
+"cat": "clothes",
+"lvl": 1,
+"aud": "both",
+"e": "👕",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.pantolon",
+"w": "pantolon",
+"cat": "clothes",
+"lvl": 1,
+"aud": "both",
+"e": "👖",
+"syl": 3,
+"frame": true
+},
+{
+"id": "tr.w.elbise",
+"w": "elbise",
+"cat": "clothes",
+"lvl": 1,
+"aud": "both",
+"e": "👗",
+"syl": 3,
+"frame": true
+},
+{
+"id": "tr.w.etek",
+"w": "etek",
+"cat": "clothes",
+"lvl": 2,
+"aud": "both",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.ceket",
+"w": "ceket",
+"cat": "clothes",
+"lvl": 1,
+"aud": "both",
+"e": "🧥",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.mont",
+"w": "mont",
+"cat": "clothes",
+"lvl": 2,
+"aud": "both",
+"syl": 1,
+"frame": true
+},
+{
+"id": "tr.w.kazak",
+"w": "kazak",
+"cat": "clothes",
+"lvl": 2,
+"aud": "both",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.corap",
+"w": "çorap",
+"cat": "clothes",
+"lvl": 1,
+"aud": "both",
+"e": "🧦",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.ayakkabi",
+"w": "ayakkabı",
+"cat": "clothes",
+"lvl": 1,
+"aud": "both",
+"e": "👟",
+"syl": 4,
+"frame": true
+},
+{
+"id": "tr.w.terlik",
+"w": "terlik",
+"cat": "clothes",
+"lvl": 2,
+"aud": "both",
+"e": "🩴",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.sapka",
+"w": "şapka",
+"cat": "clothes",
+"lvl": 1,
+"aud": "both",
+"e": "🧢",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.eldiven",
+"w": "eldiven",
+"cat": "clothes",
+"lvl": 1,
+"aud": "both",
+"e": "🧤",
+"syl": 3,
+"frame": true
+},
+{
+"id": "tr.w.atki",
+"w": "atkı",
+"cat": "clothes",
+"lvl": 1,
+"aud": "both",
+"e": "🧣",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.pijama",
+"w": "pijama",
+"cat": "clothes",
+"lvl": 2,
+"aud": "both",
+"syl": 3,
+"frame": true
+},
+{
+"id": "tr.w.gozluk",
+"w": "gözlük",
+"cat": "clothes",
+"lvl": 1,
+"aud": "both",
+"e": "👓",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.canta",
+"w": "çanta",
+"cat": "clothes",
+"lvl": 1,
+"aud": "both",
+"e": "👜",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.kemer",
+"w": "kemer",
+"cat": "clothes",
+"lvl": 2,
+"aud": "both",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.dugme",
+"w": "düğme",
+"cat": "clothes",
+"lvl": 2,
+"aud": "both",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.cep",
+"w": "cep",
+"cat": "clothes",
+"lvl": 2,
+"aud": "both",
+"syl": 1
+},
+{
+"id": "tr.w.okul",
+"w": "okul",
+"cat": "school",
+"lvl": 1,
+"aud": "both",
+"e": "🏫",
+"syl": 2
+},
+{
+"id": "tr.w.sinif",
+"w": "sınıf",
+"cat": "school",
+"lvl": 1,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.ogretmen",
+"w": "öğretmen",
+"cat": "school",
+"lvl": 1,
+"aud": "both",
+"e": "🧑‍🏫",
+"syl": 3
+},
+{
+"id": "tr.w.ogrenci",
+"w": "öğrenci",
+"cat": "school",
+"lvl": 1,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.kitap",
+"w": "kitap",
+"cat": "school",
+"lvl": 1,
+"aud": "both",
+"e": "📖",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.defter",
+"w": "defter",
+"cat": "school",
+"lvl": 1,
+"aud": "both",
+"e": "📓",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.kalem",
+"w": "kalem",
+"cat": "school",
+"lvl": 1,
+"aud": "both",
+"e": "✏️",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.silgi",
+"w": "silgi",
+"cat": "school",
+"lvl": 2,
+"aud": "both",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.cetvel",
+"w": "cetvel",
+"cat": "school",
+"lvl": 2,
+"aud": "both",
+"e": "📏",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.makas",
+"w": "makas",
+"cat": "school",
+"lvl": 1,
+"aud": "both",
+"e": "✂️",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.tahta",
+"w": "tahta",
+"cat": "school",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.odev",
+"w": "ödev",
+"cat": "school",
+"lvl": 2,
+"aud": "both",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.sinav",
+"w": "sınav",
+"cat": "school",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.ders",
+"w": "ders",
+"cat": "school",
+"lvl": 1,
+"aud": "both",
+"syl": 1
+},
+{
+"id": "tr.w.teneffus",
+"w": "teneffüs",
+"cat": "school",
+"lvl": 2,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.boya",
+"w": "boya",
+"cat": "school",
+"lvl": 1,
+"aud": "both",
+"e": "🖍️",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.harita",
+"w": "harita",
+"cat": "school",
+"lvl": 2,
+"aud": "both",
+"e": "🗺️",
+"syl": 3,
+"frame": true
+},
+{
+"id": "tr.w.kutuphane",
+"w": "kütüphane",
+"cat": "school",
+"lvl": 2,
+"aud": "both",
+"e": "📚",
+"syl": 4
+},
+{
+"id": "tr.w.zil",
+"w": "zil",
+"cat": "school",
+"lvl": 1,
+"aud": "both",
+"e": "🔔",
+"syl": 1
+},
+{
+"id": "tr.w.doktor",
+"w": "doktor",
+"cat": "jobs",
+"lvl": 1,
+"aud": "both",
+"e": "🧑‍⚕️",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.hemsire",
+"w": "hemşire",
+"cat": "jobs",
+"lvl": 2,
+"aud": "both",
+"syl": 3,
+"frame": true
+},
+{
+"id": "tr.w.polis",
+"w": "polis",
+"cat": "jobs",
+"lvl": 1,
+"aud": "both",
+"e": "👮",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.itfaiyeci",
+"w": "itfaiyeci",
+"cat": "jobs",
+"lvl": 2,
+"aud": "both",
+"e": "🧑‍🚒",
+"syl": 5,
+"frame": true
+},
+{
+"id": "tr.w.asci",
+"w": "aşçı",
+"cat": "jobs",
+"lvl": 1,
+"aud": "both",
+"e": "🧑‍🍳",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.garson",
+"w": "garson",
+"cat": "jobs",
+"lvl": 2,
+"aud": "both",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.sofor",
+"w": "şoför",
+"cat": "jobs",
+"lvl": 2,
+"aud": "both",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.pilot",
+"w": "pilot",
+"cat": "jobs",
+"lvl": 2,
+"aud": "both",
+"e": "🧑‍✈️",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.muhendis",
+"w": "mühendis",
+"cat": "jobs",
+"lvl": 3,
+"aud": "adult",
+"syl": 3,
+"frame": true
+},
+{
+"id": "tr.w.avukat",
+"w": "avukat",
+"cat": "jobs",
+"lvl": 3,
+"aud": "adult",
+"syl": 3,
+"frame": true
+},
+{
+"id": "tr.w.berber",
+"w": "berber",
+"cat": "jobs",
+"lvl": 2,
+"aud": "both",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.terzi",
+"w": "terzi",
+"cat": "jobs",
+"lvl": 3,
+"aud": "both",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.kasiyer",
+"w": "kasiyer",
+"cat": "jobs",
+"lvl": 3,
+"aud": "adult",
+"syl": 3,
+"frame": true
+},
+{
+"id": "tr.w.postaci",
+"w": "postacı",
+"cat": "jobs",
+"lvl": 2,
+"aud": "both",
+"syl": 3,
+"frame": true
+},
+{
+"id": "tr.w.satici",
+"w": "satıcı",
+"cat": "jobs",
+"lvl": 2,
+"aud": "both",
+"syl": 3,
+"frame": true
+},
+{
+"id": "tr.w.mimar",
+"w": "mimar",
+"cat": "jobs",
+"lvl": 3,
+"aud": "adult",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.eczaci",
+"w": "eczacı",
+"cat": "jobs",
+"lvl": 3,
+"aud": "adult",
+"syl": 3,
+"frame": true
+},
+{
+"id": "tr.w.muhasebeci",
+"w": "muhasebeci",
+"cat": "jobs",
+"lvl": 3,
+"aud": "adult",
+"syl": 5,
+"frame": true
+},
+{
+"id": "tr.w.veteriner",
+"w": "veteriner",
+"cat": "jobs",
+"lvl": 2,
+"aud": "both",
+"syl": 4,
+"frame": true
+},
+{
+"id": "tr.w.temizlikci",
+"w": "temizlikçi",
+"cat": "jobs",
+"lvl": 3,
+"aud": "adult",
+"syl": 4,
+"frame": true
+},
+{
+"id": "tr.w.toplanti",
+"w": "toplantı",
+"cat": "office",
+"lvl": 2,
+"aud": "adult",
+"syl": 3
+},
+{
+"id": "tr.w.rapor",
+"w": "rapor",
+"cat": "office",
+"lvl": 2,
+"aud": "adult",
+"syl": 2
+},
+{
+"id": "tr.w.dosya",
+"w": "dosya",
+"cat": "office",
+"lvl": 2,
+"aud": "both",
+"e": "📁",
+"syl": 2
+},
+{
+"id": "tr.w.yazici",
+"w": "yazıcı",
+"cat": "office",
+"lvl": 2,
+"aud": "both",
+"e": "🖨️",
+"syl": 3
+},
+{
+"id": "tr.w.sunum",
+"w": "sunum",
+"cat": "office",
+"lvl": 3,
+"aud": "adult",
+"syl": 2
+},
+{
+"id": "tr.w.proje",
+"w": "proje",
+"cat": "office",
+"lvl": 3,
+"aud": "adult",
+"syl": 2
+},
+{
+"id": "tr.w.mudur",
+"w": "müdür",
+"cat": "office",
+"lvl": 2,
+"aud": "adult",
+"syl": 2
+},
+{
+"id": "tr.w.mesai",
+"w": "mesai",
+"cat": "office",
+"lvl": 3,
+"aud": "adult",
+"syl": 3
+},
+{
+"id": "tr.w.maas",
+"w": "maaş",
+"cat": "office",
+"lvl": 2,
+"aud": "adult",
+"syl": 2
+},
+{
+"id": "tr.w.izin",
+"w": "izin",
+"cat": "office",
+"lvl": 2,
+"aud": "adult",
+"syl": 2
+},
+{
+"id": "tr.w.sozlesme",
+"w": "sözleşme",
+"cat": "office",
+"lvl": 3,
+"aud": "adult",
+"syl": 3
+},
+{
+"id": "tr.w.imza",
+"w": "imza",
+"cat": "office",
+"lvl": 2,
+"aud": "adult",
+"syl": 2
+},
+{
+"id": "tr.w.ajanda",
+"w": "ajanda",
+"cat": "office",
+"lvl": 3,
+"aud": "adult",
+"syl": 3
+},
+{
+"id": "tr.w.mola",
+"w": "mola",
+"cat": "office",
+"lvl": 2,
+"aud": "adult",
+"syl": 2
+},
+{
+"id": "tr.w.ekip",
+"w": "ekip",
+"cat": "office",
+"lvl": 2,
+"aud": "adult",
+"syl": 2
+},
+{
+"id": "tr.w.hedef",
+"w": "hedef",
+"cat": "office",
+"lvl": 3,
+"aud": "adult",
+"syl": 2
+},
+{
+"id": "tr.w.fatura",
+"w": "fatura",
+"cat": "office",
+"lvl": 3,
+"aud": "adult",
+"e": "🧾",
+"syl": 3
+},
+{
+"id": "tr.w.bilgisayar",
+"w": "bilgisayar",
+"cat": "tech",
+"lvl": 1,
+"aud": "both",
+"e": "💻",
+"syl": 4,
+"frame": true
+},
+{
+"id": "tr.w.telefon",
+"w": "telefon",
+"cat": "tech",
+"lvl": 1,
+"aud": "both",
+"e": "📱",
+"syl": 3,
+"frame": true
+},
+{
+"id": "tr.w.tablet",
+"w": "tablet",
+"cat": "tech",
+"lvl": 2,
+"aud": "both",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.ekran",
+"w": "ekran",
+"cat": "tech",
+"lvl": 2,
+"aud": "both",
+"e": "🖥️",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.klavye",
+"w": "klavye",
+"cat": "tech",
+"lvl": 2,
+"aud": "both",
+"e": "⌨️",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.kulaklik",
+"w": "kulaklık",
+"cat": "tech",
+"lvl": 1,
+"aud": "both",
+"e": "🎧",
+"syl": 3,
+"frame": true
+},
+{
+"id": "tr.w.sarj",
+"w": "şarj",
+"cat": "tech",
+"lvl": 2,
+"aud": "both",
+"syl": 1
+},
+{
+"id": "tr.w.internet",
+"w": "internet",
+"cat": "tech",
+"lvl": 2,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.sifre",
+"w": "şifre",
+"cat": "tech",
+"lvl": 3,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.mesaj",
+"w": "mesaj",
+"cat": "tech",
+"lvl": 2,
+"aud": "both",
+"e": "💬",
+"syl": 2
+},
+{
+"id": "tr.w.kamera",
+"w": "kamera",
+"cat": "tech",
+"lvl": 1,
+"aud": "both",
+"e": "📷",
+"syl": 3,
+"frame": true
+},
+{
+"id": "tr.w.uygulama",
+"w": "uygulama",
+"cat": "tech",
+"lvl": 3,
+"aud": "both",
+"syl": 4
+},
+{
+"id": "tr.w.televizyon",
+"w": "televizyon",
+"cat": "tech",
+"lvl": 1,
+"aud": "both",
+"e": "📺",
+"syl": 4,
+"frame": true
+},
+{
+"id": "tr.w.kumanda",
+"w": "kumanda",
+"cat": "tech",
+"lvl": 2,
+"aud": "both",
+"syl": 3,
+"frame": true
+},
+{
+"id": "tr.w.pil",
+"w": "pil",
+"cat": "tech",
+"lvl": 1,
+"aud": "both",
+"e": "🔋",
+"syl": 1,
+"frame": true
+},
+{
+"id": "tr.w.hoparlor",
+"w": "hoparlör",
+"cat": "tech",
+"lvl": 3,
+"aud": "both",
+"e": "🔊",
+"syl": 3,
+"frame": true
+},
+{
+"id": "tr.w.mikrofon",
+"w": "mikrofon",
+"cat": "tech",
+"lvl": 2,
+"aud": "both",
+"e": "🎤",
+"syl": 3,
+"frame": true
+},
+{
+"id": "tr.w.video",
+"w": "video",
+"cat": "tech",
+"lvl": 2,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.fotograf",
+"w": "fotoğraf",
+"cat": "tech",
+"lvl": 2,
+"aud": "both",
+"syl": 3,
+"frame": true
+},
+{
+"id": "tr.w.araba",
+"w": "araba",
+"cat": "transport",
+"lvl": 1,
+"aud": "both",
+"e": "🚗",
+"syl": 3,
+"frame": true
+},
+{
+"id": "tr.w.otobus",
+"w": "otobüs",
+"cat": "transport",
+"lvl": 1,
+"aud": "both",
+"e": "🚌",
+"syl": 3,
+"frame": true
+},
+{
+"id": "tr.w.tren",
+"w": "tren",
+"cat": "transport",
+"lvl": 1,
+"aud": "both",
+"e": "🚆",
+"syl": 1,
+"frame": true
+},
+{
+"id": "tr.w.ucak",
+"w": "uçak",
+"cat": "transport",
+"lvl": 1,
+"aud": "both",
+"e": "✈️",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.gemi",
+"w": "gemi",
+"cat": "transport",
+"lvl": 1,
+"aud": "both",
+"e": "🚢",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.bisiklet",
+"w": "bisiklet",
+"cat": "transport",
+"lvl": 1,
+"aud": "both",
+"e": "🚲",
+"syl": 3,
+"frame": true
+},
+{
+"id": "tr.w.motosiklet",
+"w": "motosiklet",
+"cat": "transport",
+"lvl": 1,
+"aud": "both",
+"e": "🏍️",
+"syl": 4,
+"frame": true
+},
+{
+"id": "tr.w.taksi",
+"w": "taksi",
+"cat": "transport",
+"lvl": 1,
+"aud": "both",
+"e": "🚕",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.metro",
+"w": "metro",
+"cat": "transport",
+"lvl": 1,
+"aud": "both",
+"e": "🚇",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.tramvay",
+"w": "tramvay",
+"cat": "transport",
+"lvl": 2,
+"aud": "both",
+"e": "🚋",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.kamyon",
+"w": "kamyon",
+"cat": "transport",
+"lvl": 1,
+"aud": "both",
+"e": "🚚",
+"syl": 2
+},
+{
+"id": "tr.w.helikopter",
+"w": "helikopter",
+"cat": "transport",
+"lvl": 1,
+"aud": "both",
+"e": "🚁",
+"syl": 4
+},
+{
+"id": "tr.w.vapur",
+"w": "vapur",
+"cat": "transport",
+"lvl": 2,
+"aud": "both",
+"e": "⛴️",
+"syl": 2,
+"frame": true
+},
+{
+"id": "tr.w.durak",
+"w": "durak",
+"cat": "transport",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.bilet",
+"w": "bilet",
+"cat": "transport",
+"lvl": 1,
+"aud": "both",
+"e": "🎫",
+"syl": 2
+},
+{
+"id": "tr.w.istasyon",
+"w": "istasyon",
+"cat": "transport",
+"lvl": 2,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.havalimani",
+"w": "havalimanı",
+"cat": "transport",
+"lvl": 3,
+"aud": "both",
+"syl": 5
+},
+{
+"id": "tr.w.trafik",
+"w": "trafik",
+"cat": "transport",
+"lvl": 2,
+"aud": "both",
+"e": "🚦",
+"syl": 2
+},
+{
+"id": "tr.w.kopru",
+"w": "köprü",
+"cat": "transport",
+"lvl": 2,
+"aud": "both",
+"e": "🌉",
+"syl": 2
+},
+{
+"id": "tr.w.yolcu",
+"w": "yolcu",
+"cat": "transport",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.sokak",
+"w": "sokak",
+"cat": "city",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.cadde",
+"w": "cadde",
+"cat": "city",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.park",
+"w": "park",
+"cat": "city",
+"lvl": 1,
+"aud": "both",
+"syl": 1
+},
+{
+"id": "tr.w.cami",
+"w": "cami",
+"cat": "city",
+"lvl": 2,
+"aud": "both",
+"e": "🕌",
+"syl": 2
+},
+{
+"id": "tr.w.hastane",
+"w": "hastane",
+"cat": "city",
+"lvl": 1,
+"aud": "both",
+"e": "🏥",
+"syl": 3
+},
+{
+"id": "tr.w.banka",
+"w": "banka",
+"cat": "city",
+"lvl": 1,
+"aud": "both",
+"e": "🏦",
+"syl": 2
+},
+{
+"id": "tr.w.postane",
+"w": "postane",
+"cat": "city",
+"lvl": 2,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.belediye",
+"w": "belediye",
+"cat": "city",
+"lvl": 3,
+"aud": "adult",
+"syl": 4
+},
+{
+"id": "tr.w.meydan",
+"w": "meydan",
+"cat": "city",
+"lvl": 3,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.sag",
+"w": "sağ",
+"cat": "city",
+"lvl": 1,
+"aud": "both",
+"e": "➡️",
+"syl": 1
+},
+{
+"id": "tr.w.sol",
+"w": "sol",
+"cat": "city",
+"lvl": 1,
+"aud": "both",
+"e": "⬅️",
+"syl": 1
+},
+{
+"id": "tr.w.ileri",
+"w": "ileri",
+"cat": "city",
+"lvl": 2,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.geri",
+"w": "geri",
+"cat": "city",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.yukari",
+"w": "yukarı",
+"cat": "city",
+"lvl": 2,
+"aud": "both",
+"e": "⬆️",
+"syl": 3
+},
+{
+"id": "tr.w.asagi",
+"w": "aşağı",
+"cat": "city",
+"lvl": 2,
+"aud": "both",
+"e": "⬇️",
+"syl": 3
+},
+{
+"id": "tr.w.kose",
+"w": "köşe",
+"cat": "city",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.karsi",
+"w": "karşı",
+"cat": "city",
+"lvl": 3,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.yakin",
+"w": "yakın",
+"cat": "city",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.uzak",
+"w": "uzak",
+"cat": "city",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.harita-uygulamasi",
+"w": "harita uygulaması",
+"cat": "city",
+"lvl": 3,
+"aud": "adult",
+"syl": 8
+},
+{
+"id": "tr.w.market",
+"w": "market",
+"cat": "shopping",
+"lvl": 1,
+"aud": "both",
+"e": "🛒",
+"syl": 2
+},
+{
+"id": "tr.w.para",
+"w": "para",
+"cat": "shopping",
+"lvl": 1,
+"aud": "both",
+"e": "💵",
+"syl": 2
+},
+{
+"id": "tr.w.fiyat",
+"w": "fiyat",
+"cat": "shopping",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.indirim",
+"w": "indirim",
+"cat": "shopping",
+"lvl": 3,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.kasa",
+"w": "kasa",
+"cat": "shopping",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.fis",
+"w": "fiş",
+"cat": "shopping",
+"lvl": 2,
+"aud": "both",
+"e": "🧾",
+"syl": 1
+},
+{
+"id": "tr.w.poset",
+"w": "poşet",
+"cat": "shopping",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.sepet",
+"w": "sepet",
+"cat": "shopping",
+"lvl": 2,
+"aud": "both",
+"e": "🧺",
+"syl": 2
+},
+{
+"id": "tr.w.kilo",
+"w": "kilo",
+"cat": "shopping",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.paket",
+"w": "paket",
+"cat": "shopping",
+"lvl": 2,
+"aud": "both",
+"e": "📦",
+"syl": 2
+},
+{
+"id": "tr.w.magaza",
+"w": "mağaza",
+"cat": "shopping",
+"lvl": 2,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.kredi-karti",
+"w": "kredi kartı",
+"cat": "shopping",
+"lvl": 3,
+"aud": "adult",
+"e": "💳",
+"syl": 4
+},
+{
+"id": "tr.w.bozuk-para",
+"w": "bozuk para",
+"cat": "shopping",
+"lvl": 3,
+"aud": "both",
+"e": "🪙",
+"syl": 4
+},
+{
+"id": "tr.w.alisveris",
+"w": "alışveriş",
+"cat": "shopping",
+"lvl": 2,
+"aud": "both",
+"syl": 4
+},
+{
+"id": "tr.w.beden",
+"w": "beden",
+"cat": "shopping",
+"lvl": 3,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.iade",
+"w": "iade",
+"cat": "shopping",
+"lvl": 3,
+"aud": "adult",
+"syl": 3
+},
+{
+"id": "tr.w.kampanya",
+"w": "kampanya",
+"cat": "shopping",
+"lvl": 3,
+"aud": "adult",
+"syl": 3
+},
+{
+"id": "tr.w.restoran",
+"w": "restoran",
+"cat": "restaurant",
+"lvl": 2,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.menu",
+"w": "menü",
+"cat": "restaurant",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.siparis",
+"w": "sipariş",
+"cat": "restaurant",
+"lvl": 2,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.hesap",
+"w": "hesap",
+"cat": "restaurant",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.bahsis",
+"w": "bahşiş",
+"cat": "restaurant",
+"lvl": 3,
+"aud": "adult",
+"syl": 2
+},
+{
+"id": "tr.w.tatli",
+"w": "tatlı",
+"cat": "restaurant",
+"lvl": 2,
+"aud": "both",
+"e": "🍮",
+"syl": 2
+},
+{
+"id": "tr.w.icecek",
+"w": "içecek",
+"cat": "restaurant",
+"lvl": 2,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.kahvalti",
+"w": "kahvaltı",
+"cat": "restaurant",
+"lvl": 2,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.ogle-yemegi",
+"w": "öğle yemeği",
+"cat": "restaurant",
+"lvl": 2,
+"aud": "both",
+"syl": 5
+},
+{
+"id": "tr.w.aksam-yemegi",
+"w": "akşam yemeği",
+"cat": "restaurant",
+"lvl": 2,
+"aud": "both",
+"syl": 5
+},
+{
+"id": "tr.w.rezervasyon",
+"w": "rezervasyon",
+"cat": "restaurant",
+"lvl": 3,
+"aud": "adult",
+"syl": 4
+},
+{
+"id": "tr.w.servis",
+"w": "servis",
+"cat": "restaurant",
+"lvl": 3,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.porsiyon",
+"w": "porsiyon",
+"cat": "restaurant",
+"lvl": 3,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.aci",
+"w": "acı",
+"cat": "restaurant",
+"lvl": 2,
+"aud": "both",
+"e": "🌶️",
+"syl": 2
+},
+{
+"id": "tr.w.tuz",
+"w": "tuz",
+"cat": "restaurant",
+"lvl": 1,
+"aud": "both",
+"syl": 1
+},
+{
+"id": "tr.w.biber",
+"w": "biber",
+"cat": "restaurant",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.garnitur",
+"w": "garnitür",
+"cat": "restaurant",
+"lvl": 3,
+"aud": "adult",
+"syl": 3
+},
+{
+"id": "tr.w.ilac",
+"w": "ilaç",
+"cat": "health",
+"lvl": 2,
+"aud": "both",
+"e": "💊",
+"syl": 2
+},
+{
+"id": "tr.w.eczane",
+"w": "eczane",
+"cat": "health",
+"lvl": 2,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.randevu",
+"w": "randevu",
+"cat": "health",
+"lvl": 2,
+"aud": "adult",
+"syl": 3
+},
+{
+"id": "tr.w.agri",
+"w": "ağrı",
+"cat": "health",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.oksuruk",
+"w": "öksürük",
+"cat": "health",
+"lvl": 2,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.grip",
+"w": "grip",
+"cat": "health",
+"lvl": 2,
+"aud": "both",
+"syl": 1
+},
+{
+"id": "tr.w.asi",
+"w": "aşı",
+"cat": "health",
+"lvl": 2,
+"aud": "both",
+"e": "💉",
+"syl": 2
+},
+{
+"id": "tr.w.termometre",
+"w": "termometre",
+"cat": "health",
+"lvl": 3,
+"aud": "both",
+"e": "🌡️",
+"syl": 4
+},
+{
+"id": "tr.w.muayene",
+"w": "muayene",
+"cat": "health",
+"lvl": 3,
+"aud": "adult",
+"syl": 4
+},
+{
+"id": "tr.w.recete",
+"w": "reçete",
+"cat": "health",
+"lvl": 3,
+"aud": "adult",
+"syl": 3
+},
+{
+"id": "tr.w.kontrol",
+"w": "kontrol",
+"cat": "health",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.saglik",
+"w": "sağlık",
+"cat": "health",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.yara",
+"w": "yara",
+"cat": "health",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.yara-bandi",
+"w": "yara bandı",
+"cat": "health",
+"lvl": 2,
+"aud": "both",
+"e": "🩹",
+"syl": 4
+},
+{
+"id": "tr.w.surup",
+"w": "şurup",
+"cat": "health",
+"lvl": 3,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.alerji",
+"w": "alerji",
+"cat": "health",
+"lvl": 3,
+"aud": "adult",
+"syl": 3
+},
+{
+"id": "tr.w.tansiyon",
+"w": "tansiyon",
+"cat": "health",
+"lvl": 3,
+"aud": "adult",
+"syl": 3
+},
+{
+"id": "tr.w.isitme-cihazi",
+"w": "işitme cihazı",
+"cat": "health",
+"lvl": 3,
+"aud": "both",
+"syl": 6
+},
+{
+"id": "tr.w.koklear-implant",
+"w": "koklear implant",
+"cat": "health",
+"lvl": 3,
+"aud": "adult",
+"syl": 5
+},
+{
+"id": "tr.w.odyolog",
+"w": "odyolog",
+"cat": "health",
+"lvl": 3,
+"aud": "adult",
+"syl": 3
+},
+{
+"id": "tr.w.sifir",
+"w": "sıfır",
+"cat": "numbers",
+"lvl": 1,
+"aud": "both",
+"e": "0️⃣",
+"syl": 2
+},
+{
+"id": "tr.w.bir",
+"w": "bir",
+"cat": "numbers",
+"lvl": 1,
+"aud": "both",
+"e": "1️⃣",
+"syl": 1
+},
+{
+"id": "tr.w.iki",
+"w": "iki",
+"cat": "numbers",
+"lvl": 1,
+"aud": "both",
+"e": "2️⃣",
+"syl": 2
+},
+{
+"id": "tr.w.uc",
+"w": "üç",
+"cat": "numbers",
+"lvl": 1,
+"aud": "both",
+"e": "3️⃣",
+"syl": 1
+},
+{
+"id": "tr.w.dort",
+"w": "dört",
+"cat": "numbers",
+"lvl": 1,
+"aud": "both",
+"e": "4️⃣",
+"syl": 1
+},
+{
+"id": "tr.w.bes",
+"w": "beş",
+"cat": "numbers",
+"lvl": 1,
+"aud": "both",
+"e": "5️⃣",
+"syl": 1
+},
+{
+"id": "tr.w.alti",
+"w": "altı",
+"cat": "numbers",
+"lvl": 1,
+"aud": "both",
+"e": "6️⃣",
+"syl": 2
+},
+{
+"id": "tr.w.yedi",
+"w": "yedi",
+"cat": "numbers",
+"lvl": 1,
+"aud": "both",
+"e": "7️⃣",
+"syl": 2
+},
+{
+"id": "tr.w.sekiz",
+"w": "sekiz",
+"cat": "numbers",
+"lvl": 1,
+"aud": "both",
+"e": "8️⃣",
+"syl": 2
+},
+{
+"id": "tr.w.dokuz",
+"w": "dokuz",
+"cat": "numbers",
+"lvl": 1,
+"aud": "both",
+"e": "9️⃣",
+"syl": 2
+},
+{
+"id": "tr.w.on",
+"w": "on",
+"cat": "numbers",
+"lvl": 1,
+"aud": "both",
+"e": "🔟",
+"syl": 1
+},
+{
+"id": "tr.w.yirmi",
+"w": "yirmi",
+"cat": "numbers",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.elli",
+"w": "elli",
+"cat": "numbers",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.bin",
+"w": "bin",
+"cat": "numbers",
+"lvl": 2,
+"aud": "both",
+"syl": 1
+},
+{
+"id": "tr.w.yarim",
+"w": "yarım",
+"cat": "numbers",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.ceyrek",
+"w": "çeyrek",
+"cat": "numbers",
+"lvl": 3,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.toplama",
+"w": "toplama",
+"cat": "numbers",
+"lvl": 3,
+"aud": "both",
+"e": "➕",
+"syl": 3
+},
+{
+"id": "tr.w.cikarma",
+"w": "çıkarma",
+"cat": "numbers",
+"lvl": 3,
+"aud": "both",
+"e": "➖",
+"syl": 3
+},
+{
+"id": "tr.w.sayi",
+"w": "sayı",
+"cat": "numbers",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.tek",
+"w": "tek",
+"cat": "numbers",
+"lvl": 2,
+"aud": "both",
+"syl": 1
+},
+{
+"id": "tr.w.cift",
+"w": "çift",
+"cat": "numbers",
+"lvl": 2,
+"aud": "both",
+"syl": 1
+},
+{
+"id": "tr.w.saat",
+"w": "saat",
+"cat": "time",
+"lvl": 1,
+"aud": "both",
+"e": "⏰",
+"syl": 2
+},
+{
+"id": "tr.w.gun",
+"w": "gün",
+"cat": "time",
+"lvl": 1,
+"aud": "both",
+"syl": 1
+},
+{
+"id": "tr.w.hafta",
+"w": "hafta",
+"cat": "time",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.yil",
+"w": "yıl",
+"cat": "time",
+"lvl": 2,
+"aud": "both",
+"syl": 1
+},
+{
+"id": "tr.w.sabah",
+"w": "sabah",
+"cat": "time",
+"lvl": 1,
+"aud": "both",
+"e": "🌅",
+"syl": 2
+},
+{
+"id": "tr.w.ogle",
+"w": "öğle",
+"cat": "time",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.aksam",
+"w": "akşam",
+"cat": "time",
+"lvl": 1,
+"aud": "both",
+"e": "🌆",
+"syl": 2
+},
+{
+"id": "tr.w.gece",
+"w": "gece",
+"cat": "time",
+"lvl": 1,
+"aud": "both",
+"e": "🌃",
+"syl": 2
+},
+{
+"id": "tr.w.bugun",
+"w": "bugün",
+"cat": "time",
+"lvl": 1,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.yarin",
+"w": "yarın",
+"cat": "time",
+"lvl": 1,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.dun",
+"w": "dün",
+"cat": "time",
+"lvl": 1,
+"aud": "both",
+"syl": 1
+},
+{
+"id": "tr.w.takvim",
+"w": "takvim",
+"cat": "time",
+"lvl": 2,
+"aud": "both",
+"e": "📅",
+"syl": 2
+},
+{
+"id": "tr.w.dakika",
+"w": "dakika",
+"cat": "time",
+"lvl": 2,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.saniye",
+"w": "saniye",
+"cat": "time",
+"lvl": 3,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.pazartesi",
+"w": "pazartesi",
+"cat": "time",
+"lvl": 2,
+"aud": "both",
+"syl": 4
+},
+{
+"id": "tr.w.sali",
+"w": "salı",
+"cat": "time",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.carsamba",
+"w": "çarşamba",
+"cat": "time",
+"lvl": 2,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.persembe",
+"w": "perşembe",
+"cat": "time",
+"lvl": 2,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.cuma",
+"w": "cuma",
+"cat": "time",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.cumartesi",
+"w": "cumartesi",
+"cat": "time",
+"lvl": 2,
+"aud": "both",
+"syl": 4
+},
+{
+"id": "tr.w.pazar",
+"w": "pazar",
+"cat": "time",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.ilkbahar",
+"w": "ilkbahar",
+"cat": "time",
+"lvl": 3,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.yaz",
+"w": "yaz",
+"cat": "time",
+"lvl": 2,
+"aud": "both",
+"syl": 1
+},
+{
+"id": "tr.w.sonbahar",
+"w": "sonbahar",
+"cat": "time",
+"lvl": 3,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.kis",
+"w": "kış",
+"cat": "time",
+"lvl": 2,
+"aud": "both",
+"e": "⛄",
+"syl": 1
+},
+{
+"id": "tr.w.yagmur",
+"w": "yağmur",
+"cat": "weather",
+"lvl": 1,
+"aud": "both",
+"e": "🌧️",
+"syl": 2
+},
+{
+"id": "tr.w.kar",
+"w": "kar",
+"cat": "weather",
+"lvl": 1,
+"aud": "both",
+"e": "❄️",
+"syl": 1
+},
+{
+"id": "tr.w.ruzgar",
+"w": "rüzgâr",
+"cat": "weather",
+"lvl": 1,
+"aud": "both",
+"e": "🌬️",
+"syl": 2
+},
+{
+"id": "tr.w.gunesli",
+"w": "güneşli",
+"cat": "weather",
+"lvl": 2,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.firtina",
+"w": "fırtına",
+"cat": "weather",
+"lvl": 2,
+"aud": "both",
+"e": "⛈️",
+"syl": 3
+},
+{
+"id": "tr.w.sis",
+"w": "sis",
+"cat": "weather",
+"lvl": 3,
+"aud": "both",
+"e": "🌫️",
+"syl": 1
+},
+{
+"id": "tr.w.simsek",
+"w": "şimşek",
+"cat": "weather",
+"lvl": 2,
+"aud": "both",
+"e": "⚡",
+"syl": 2
+},
+{
+"id": "tr.w.gok-gurultusu",
+"w": "gök gürültüsü",
+"cat": "weather",
+"lvl": 3,
+"aud": "both",
+"syl": 5
+},
+{
+"id": "tr.w.nem",
+"w": "nem",
+"cat": "weather",
+"lvl": 3,
+"aud": "both",
+"syl": 1
+},
+{
+"id": "tr.w.derece",
+"w": "derece",
+"cat": "weather",
+"lvl": 3,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.hava-durumu",
+"w": "hava durumu",
+"cat": "weather",
+"lvl": 3,
+"aud": "both",
+"syl": 5
+},
+{
+"id": "tr.w.semsiye",
+"w": "şemsiye",
+"cat": "weather",
+"lvl": 1,
+"aud": "both",
+"e": "☂️",
+"syl": 3
+},
+{
+"id": "tr.w.yagmurluk",
+"w": "yağmurluk",
+"cat": "weather",
+"lvl": 3,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.buz",
+"w": "buz",
+"cat": "weather",
+"lvl": 2,
+"aud": "both",
+"e": "🧊",
+"syl": 1
+},
+{
+"id": "tr.w.serin",
+"w": "serin",
+"cat": "weather",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.bulutlu",
+"w": "bulutlu",
+"cat": "weather",
+"lvl": 2,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.mutlu",
+"w": "mutlu",
+"cat": "emotions",
+"lvl": 1,
+"aud": "both",
+"e": "😊",
+"syl": 2
+},
+{
+"id": "tr.w.uzgun",
+"w": "üzgün",
+"cat": "emotions",
+"lvl": 1,
+"aud": "both",
+"e": "😢",
+"syl": 2
+},
+{
+"id": "tr.w.kizgin",
+"w": "kızgın",
+"cat": "emotions",
+"lvl": 1,
+"aud": "both",
+"e": "😠",
+"syl": 2
+},
+{
+"id": "tr.w.korkmus",
+"w": "korkmuş",
+"cat": "emotions",
+"lvl": 1,
+"aud": "both",
+"e": "😨",
+"syl": 2
+},
+{
+"id": "tr.w.saskin",
+"w": "şaşkın",
+"cat": "emotions",
+"lvl": 1,
+"aud": "both",
+"e": "😲",
+"syl": 2
+},
+{
+"id": "tr.w.yorgun",
+"w": "yorgun",
+"cat": "emotions",
+"lvl": 1,
+"aud": "both",
+"e": "😩",
+"syl": 2
+},
+{
+"id": "tr.w.heyecanli",
+"w": "heyecanlı",
+"cat": "emotions",
+"lvl": 2,
+"aud": "both",
+"syl": 4
+},
+{
+"id": "tr.w.sakin",
+"w": "sakin",
+"cat": "emotions",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.merhaba",
+"w": "merhaba",
+"cat": "emotions",
+"lvl": 1,
+"aud": "both",
+"e": "👋",
+"syl": 3
+},
+{
+"id": "tr.w.tesekkurler",
+"w": "teşekkürler",
+"cat": "emotions",
+"lvl": 1,
+"aud": "both",
+"e": "🙏",
+"syl": 4
+},
+{
+"id": "tr.w.lutfen",
+"w": "lütfen",
+"cat": "emotions",
+"lvl": 1,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.ozur-dilerim",
+"w": "özür dilerim",
+"cat": "emotions",
+"lvl": 2,
+"aud": "both",
+"syl": 5
+},
+{
+"id": "tr.w.gunaydin",
+"w": "günaydın",
+"cat": "emotions",
+"lvl": 1,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.iyi-geceler",
+"w": "iyi geceler",
+"cat": "emotions",
+"lvl": 1,
+"aud": "both",
+"syl": 5
+},
+{
+"id": "tr.w.hosca-kal",
+"w": "hoşça kal",
+"cat": "emotions",
+"lvl": 1,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.tebrikler",
+"w": "tebrikler",
+"cat": "emotions",
+"lvl": 2,
+"aud": "both",
+"e": "🎉",
+"syl": 3
+},
+{
+"id": "tr.w.gecmis-olsun",
+"w": "geçmiş olsun",
+"cat": "emotions",
+"lvl": 2,
+"aud": "both",
+"syl": 4
+},
+{
+"id": "tr.w.afiyet-olsun",
+"w": "afiyet olsun",
+"cat": "emotions",
+"lvl": 2,
+"aud": "both",
+"syl": 5
+},
+{
+"id": "tr.w.utangac",
+"w": "utangaç",
+"cat": "emotions",
+"lvl": 3,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.merakli",
+"w": "meraklı",
+"cat": "emotions",
+"lvl": 3,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.kosmak",
+"w": "koşmak",
+"cat": "verbs",
+"lvl": 1,
+"aud": "both",
+"e": "🏃",
+"syl": 2
+},
+{
+"id": "tr.w.yurumek",
+"w": "yürümek",
+"cat": "verbs",
+"lvl": 1,
+"aud": "both",
+"e": "🚶",
+"syl": 3
+},
+{
+"id": "tr.w.yemek-yemek",
+"w": "yemek yemek",
+"cat": "verbs",
+"lvl": 1,
+"aud": "both",
+"e": "🍽️",
+"syl": 4
+},
+{
+"id": "tr.w.icmek",
+"w": "içmek",
+"cat": "verbs",
+"lvl": 1,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.uyumak",
+"w": "uyumak",
+"cat": "verbs",
+"lvl": 1,
+"aud": "both",
+"e": "😴",
+"syl": 3
+},
+{
+"id": "tr.w.okumak",
+"w": "okumak",
+"cat": "verbs",
+"lvl": 1,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.yazmak",
+"w": "yazmak",
+"cat": "verbs",
+"lvl": 1,
+"aud": "both",
+"e": "✍️",
+"syl": 2
+},
+{
+"id": "tr.w.oynamak",
+"w": "oynamak",
+"cat": "verbs",
+"lvl": 1,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.gelmek",
+"w": "gelmek",
+"cat": "verbs",
+"lvl": 1,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.gitmek",
+"w": "gitmek",
+"cat": "verbs",
+"lvl": 1,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.oturmak",
+"w": "oturmak",
+"cat": "verbs",
+"lvl": 1,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.kalkmak",
+"w": "kalkmak",
+"cat": "verbs",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.acmak",
+"w": "açmak",
+"cat": "verbs",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.kapatmak",
+"w": "kapatmak",
+"cat": "verbs",
+"lvl": 2,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.dinlemek",
+"w": "dinlemek",
+"cat": "verbs",
+"lvl": 2,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.konusmak",
+"w": "konuşmak",
+"cat": "verbs",
+"lvl": 1,
+"aud": "both",
+"e": "🗣️",
+"syl": 3
+},
+{
+"id": "tr.w.gulmek",
+"w": "gülmek",
+"cat": "verbs",
+"lvl": 1,
+"aud": "both",
+"e": "😂",
+"syl": 2
+},
+{
+"id": "tr.w.aglamak",
+"w": "ağlamak",
+"cat": "verbs",
+"lvl": 1,
+"aud": "both",
+"e": "😭",
+"syl": 3
+},
+{
+"id": "tr.w.yuzmek",
+"w": "yüzmek",
+"cat": "verbs",
+"lvl": 1,
+"aud": "both",
+"e": "🏊",
+"syl": 2
+},
+{
+"id": "tr.w.cizmek",
+"w": "çizmek",
+"cat": "verbs",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.temizlemek",
+"w": "temizlemek",
+"cat": "verbs",
+"lvl": 2,
+"aud": "both",
+"e": "🧹",
+"syl": 4
+},
+{
+"id": "tr.w.pisirmek",
+"w": "pişirmek",
+"cat": "verbs",
+"lvl": 2,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.almak",
+"w": "almak",
+"cat": "verbs",
+"lvl": 1,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.vermek",
+"w": "vermek",
+"cat": "verbs",
+"lvl": 1,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.aramak",
+"w": "aramak",
+"cat": "verbs",
+"lvl": 2,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.beklemek",
+"w": "beklemek",
+"cat": "verbs",
+"lvl": 2,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.sormak",
+"w": "sormak",
+"cat": "verbs",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.cevaplamak",
+"w": "cevaplamak",
+"cat": "verbs",
+"lvl": 3,
+"aud": "both",
+"syl": 4
+},
+{
+"id": "tr.w.buyuk",
+"w": "büyük",
+"cat": "adjectives",
+"lvl": 1,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.kucuk",
+"w": "küçük",
+"cat": "adjectives",
+"lvl": 1,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.uzun",
+"w": "uzun",
+"cat": "adjectives",
+"lvl": 1,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.kisa",
+"w": "kısa",
+"cat": "adjectives",
+"lvl": 1,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.sicak",
+"w": "sıcak",
+"cat": "adjectives",
+"lvl": 1,
+"aud": "both",
+"e": "🥵",
+"syl": 2
+},
+{
+"id": "tr.w.soguk",
+"w": "soğuk",
+"cat": "adjectives",
+"lvl": 1,
+"aud": "both",
+"e": "🥶",
+"syl": 2
+},
+{
+"id": "tr.w.yeni",
+"w": "yeni",
+"cat": "adjectives",
+"lvl": 1,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.eski",
+"w": "eski",
+"cat": "adjectives",
+"lvl": 1,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.hizli",
+"w": "hızlı",
+"cat": "adjectives",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.yavas",
+"w": "yavaş",
+"cat": "adjectives",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.agir",
+"w": "ağır",
+"cat": "adjectives",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.hafif",
+"w": "hafif",
+"cat": "adjectives",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.temiz",
+"w": "temiz",
+"cat": "adjectives",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.kirli",
+"w": "kirli",
+"cat": "adjectives",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.acik",
+"w": "açık",
+"cat": "adjectives",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.kapali",
+"w": "kapalı",
+"cat": "adjectives",
+"lvl": 2,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.kolay",
+"w": "kolay",
+"cat": "adjectives",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.zor",
+"w": "zor",
+"cat": "adjectives",
+"lvl": 2,
+"aud": "both",
+"syl": 1
+},
+{
+"id": "tr.w.guzel",
+"w": "güzel",
+"cat": "adjectives",
+"lvl": 1,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.yuksek",
+"w": "yüksek",
+"cat": "adjectives",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.alcak",
+"w": "alçak",
+"cat": "adjectives",
+"lvl": 3,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.kalin",
+"w": "kalın",
+"cat": "adjectives",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.ince",
+"w": "ince",
+"cat": "adjectives",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.sesli",
+"w": "sesli",
+"cat": "adjectives",
+"lvl": 3,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.sessiz",
+"w": "sessiz",
+"cat": "adjectives",
+"lvl": 3,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.dolu",
+"w": "dolu",
+"cat": "adjectives",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.bos",
+"w": "boş",
+"cat": "adjectives",
+"lvl": 2,
+"aud": "both",
+"syl": 1
+},
+{
+"id": "tr.w.ne",
+"w": "ne",
+"cat": "questions",
+"lvl": 1,
+"aud": "both",
+"syl": 1
+},
+{
+"id": "tr.w.kim",
+"w": "kim",
+"cat": "questions",
+"lvl": 1,
+"aud": "both",
+"syl": 1
+},
+{
+"id": "tr.w.nerede",
+"w": "nerede",
+"cat": "questions",
+"lvl": 1,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.ne-zaman",
+"w": "ne zaman",
+"cat": "questions",
+"lvl": 2,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.neden",
+"w": "neden",
+"cat": "questions",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.nasil",
+"w": "nasıl",
+"cat": "questions",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.kac",
+"w": "kaç",
+"cat": "questions",
+"lvl": 2,
+"aud": "both",
+"syl": 1
+},
+{
+"id": "tr.w.hangi",
+"w": "hangi",
+"cat": "questions",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.nereye",
+"w": "nereye",
+"cat": "questions",
+"lvl": 2,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.nereden",
+"w": "nereden",
+"cat": "questions",
+"lvl": 3,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.kimin",
+"w": "kimin",
+"cat": "questions",
+"lvl": 3,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.kac-tane",
+"w": "kaç tane",
+"cat": "questions",
+"lvl": 2,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.ben",
+"w": "ben",
+"cat": "function",
+"lvl": 1,
+"aud": "both",
+"syl": 1
+},
+{
+"id": "tr.w.sen",
+"w": "sen",
+"cat": "function",
+"lvl": 1,
+"aud": "both",
+"syl": 1
+},
+{
+"id": "tr.w.biz",
+"w": "biz",
+"cat": "function",
+"lvl": 2,
+"aud": "both",
+"syl": 1
+},
+{
+"id": "tr.w.siz",
+"w": "siz",
+"cat": "function",
+"lvl": 2,
+"aud": "both",
+"syl": 1
+},
+{
+"id": "tr.w.onlar",
+"w": "onlar",
+"cat": "function",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.ve",
+"w": "ve",
+"cat": "function",
+"lvl": 2,
+"aud": "both",
+"syl": 1
+},
+{
+"id": "tr.w.ama",
+"w": "ama",
+"cat": "function",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.cunku",
+"w": "çünkü",
+"cat": "function",
+"lvl": 3,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.icin",
+"w": "için",
+"cat": "function",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.ile",
+"w": "ile",
+"cat": "function",
+"lvl": 3,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.gibi",
+"w": "gibi",
+"cat": "function",
+"lvl": 3,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.sonra",
+"w": "sonra",
+"cat": "function",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.once",
+"w": "önce",
+"cat": "function",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.simdi",
+"w": "şimdi",
+"cat": "function",
+"lvl": 1,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.burada",
+"w": "burada",
+"cat": "function",
+"lvl": 2,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.orada",
+"w": "orada",
+"cat": "function",
+"lvl": 2,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.evet",
+"w": "evet",
+"cat": "function",
+"lvl": 1,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.hayir",
+"w": "hayır",
+"cat": "function",
+"lvl": 1,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.belki",
+"w": "belki",
+"cat": "function",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.hepsi",
+"w": "hepsi",
+"cat": "function",
+"lvl": 3,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.nasilsin",
+"w": "nasılsın",
+"cat": "phrases",
+"lvl": 1,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.iyiyim",
+"w": "iyiyim",
+"cat": "phrases",
+"lvl": 1,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.bir-dakika",
+"w": "bir dakika",
+"cat": "phrases",
+"lvl": 2,
+"aud": "both",
+"syl": 4
+},
+{
+"id": "tr.w.tamam",
+"w": "tamam",
+"cat": "phrases",
+"lvl": 1,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.anlamadim",
+"w": "anlamadım",
+"cat": "phrases",
+"lvl": 2,
+"aud": "both",
+"syl": 4
+},
+{
+"id": "tr.w.tekrar-eder-misin",
+"w": "tekrar eder misin",
+"cat": "phrases",
+"lvl": 2,
+"aud": "both",
+"syl": 6
+},
+{
+"id": "tr.w.yavas-konusur-musun",
+"w": "yavaş konuşur musun",
+"cat": "phrases",
+"lvl": 3,
+"aud": "both",
+"syl": 7
+},
+{
+"id": "tr.w.ne-dedin",
+"w": "ne dedin",
+"cat": "phrases",
+"lvl": 2,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.hic-sorun-degil",
+"w": "hiç sorun değil",
+"cat": "phrases",
+"lvl": 3,
+"aud": "both",
+"syl": 5
+},
+{
+"id": "tr.w.kolay-gelsin",
+"w": "kolay gelsin",
+"cat": "phrases",
+"lvl": 2,
+"aud": "both",
+"syl": 4
+},
+{
+"id": "tr.w.gorusuruz",
+"w": "görüşürüz",
+"cat": "phrases",
+"lvl": 2,
+"aud": "both",
+"syl": 4
+},
+{
+"id": "tr.w.hos-geldin",
+"w": "hoş geldin",
+"cat": "phrases",
+"lvl": 2,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.kendine-iyi-bak",
+"w": "kendine iyi bak",
+"cat": "phrases",
+"lvl": 3,
+"aud": "both",
+"syl": 6
+},
+{
+"id": "tr.w.alo",
+"w": "alo",
+"cat": "phone",
+"lvl": 1,
+"aud": "both",
+"e": "☎️",
+"syl": 2
+},
+{
+"id": "tr.w.kim-ariyor",
+"w": "kim arıyor",
+"cat": "phone",
+"lvl": 2,
+"aud": "both",
+"syl": 4
+},
+{
+"id": "tr.w.sesiniz-gelmiyor",
+"w": "sesiniz gelmiyor",
+"cat": "phone",
+"lvl": 3,
+"aud": "adult",
+"syl": 6
+},
+{
+"id": "tr.w.hat-kesildi",
+"w": "hat kesildi",
+"cat": "phone",
+"lvl": 3,
+"aud": "adult",
+"syl": 4
+},
+{
+"id": "tr.w.beni-duyuyor-musun",
+"w": "beni duyuyor musun",
+"cat": "phone",
+"lvl": 2,
+"aud": "both",
+"syl": 7
+},
+{
+"id": "tr.w.kamerayi-ac",
+"w": "kamerayı aç",
+"cat": "phone",
+"lvl": 2,
+"aud": "both",
+"syl": 5
+},
+{
+"id": "tr.w.mikrofonu-kapat",
+"w": "mikrofonu kapat",
+"cat": "phone",
+"lvl": 3,
+"aud": "both",
+"syl": 6
+},
+{
+"id": "tr.w.ekrani-paylas",
+"w": "ekranı paylaş",
+"cat": "phone",
+"lvl": 3,
+"aud": "adult",
+"syl": 5
+},
+{
+"id": "tr.w.sesli-mesaj",
+"w": "sesli mesaj",
+"cat": "phone",
+"lvl": 3,
+"aud": "both",
+"syl": 4
+},
+{
+"id": "tr.w.goruntulu-arama",
+"w": "görüntülü arama",
+"cat": "phone",
+"lvl": 2,
+"aud": "both",
+"syl": 7
+},
+{
+"id": "tr.w.tekrar-arayin",
+"w": "tekrar arayın",
+"cat": "phone",
+"lvl": 3,
+"aud": "adult",
+"syl": 5
+},
+{
+"id": "tr.w.mesgul",
+"w": "meşgul",
+"cat": "phone",
+"lvl": 3,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.yardim-edin",
+"w": "yardım edin",
+"cat": "emergency",
+"lvl": 2,
+"aud": "both",
+"syl": 4
+},
+{
+"id": "tr.w.imdat",
+"w": "imdat",
+"cat": "emergency",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.acil",
+"w": "acil",
+"cat": "emergency",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.ambulans",
+"w": "ambulans",
+"cat": "emergency",
+"lvl": 1,
+"aud": "both",
+"e": "🚑",
+"syl": 3
+},
+{
+"id": "tr.w.dikkat",
+"w": "dikkat",
+"cat": "emergency",
+"lvl": 2,
+"aud": "both",
+"e": "⚠️",
+"syl": 2
+},
+{
+"id": "tr.w.tehlike",
+"w": "tehlike",
+"cat": "emergency",
+"lvl": 3,
+"aud": "both",
+"syl": 3
+},
+{
+"id": "tr.w.yangin",
+"w": "yangın",
+"cat": "emergency",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.polisi-arayin",
+"w": "polisi arayın",
+"cat": "emergency",
+"lvl": 3,
+"aud": "adult",
+"syl": 6
+},
+{
+"id": "tr.w.dur",
+"w": "dur",
+"cat": "emergency",
+"lvl": 1,
+"aud": "both",
+"e": "🛑",
+"syl": 1
+},
+{
+"id": "tr.w.acil-cikis",
+"w": "acil çıkış",
+"cat": "emergency",
+"lvl": 3,
+"aud": "both",
+"syl": 4
+},
+{
+"id": "tr.w.sakin-olun",
+"w": "sakin olun",
+"cat": "emergency",
+"lvl": 3,
+"aud": "both",
+"syl": 4
+},
+{
+"id": "tr.w.yarali-var",
+"w": "yaralı var",
+"cat": "emergency",
+"lvl": 3,
+"aud": "adult",
+"syl": 4
+},
+{
+"id": "tr.w.buraya-gelin",
+"w": "buraya gelin",
+"cat": "emergency",
+"lvl": 3,
+"aud": "both",
+"syl": 5
+},
+{
+"id": "tr.w.deprem",
+"w": "deprem",
+"cat": "emergency",
+"lvl": 2,
+"aud": "both",
+"syl": 2
+},
+{
+"id": "tr.w.toplanma-alani",
+"w": "toplanma alanı",
+"cat": "emergency",
+"lvl": 3,
+"aud": "adult",
+"syl": 6
+},
+{
+"id": "tr.w.asansoru-kullanmayin",
+"w": "asansörü kullanmayın",
+"cat": "emergency",
+"lvl": 3,
+"aud": "adult",
+"syl": 8
+}
+]
+}

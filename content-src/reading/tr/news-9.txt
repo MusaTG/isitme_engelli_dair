@@ -1,0 +1,137 @@
+### 81 | Belediye Kütüphanesine Oyun Odası Açıldı
+sub: city | tags: kütüphane, oyun, çocuklar, aile
+---
+Taşköprü Belediyesi Halk Kütüphanesi, okul öncesi çocuklar için bir oyun ve kitap odası açtı. Odada yumuşak minderler, küçük masalar, resimli kitaplar ve eğitici oyuncaklar bulunuyor.
+
+Kütüphane müdürü Nihan Selçuk, odanın amacının çocukları küçük yaşta kitaplarla tanıştırmak olduğunu söyledi. "Kütüphaneler sessiz yerler olarak bilinir. Küçük çocuklu aileler, çocukları gürültü yapacak diye gelmekten çekiniyordu. Bu odada çocuklar rahatça oynayabiliyor, konuşabiliyor, gülebiliyor."
+
+Oda, kütüphanenin ana okuma salonundan ses geçirmeyen bir camla ayrıldı. Böylece diğer kullanıcılar da rahatsız olmuyor. Odanın duvarları, yerel bir ressamın çizdiği hayvan figürleriyle süslendi.
+
+Her gün öğleden sonra bir kütüphaneci çocuklara masal okuyor. Hafta sonları ise ebeveyn ve çocukların birlikte katılabileceği atölyeler düzenleniyor. Kâğıttan oyuncak yapma, parmak boyası ve kukla gösterileri bunlardan bazıları.
+
+Odanın açılmasından sonra kütüphaneye kayıt olan çocuk sayısı üç katına çıktı. İki çocuk annesi Gamze Hanım, artık her hafta çocuklarıyla kütüphaneye geldiğini söylüyor. "Oğlum her gelişinde iki kitap seçiyor. Eve gidince bana okutuyor. Ezberledi bile."
+
+### 82 | Bulutların Türleri ve Hava Durumu
+sub: environment | kind: feature | tags: bulut, hava durumu, gökyüzü, tahmin
+---
+Bulutlar sadece gökyüzünün süsü değildir. Şekilleri ve yükseklikleri, havanın nasıl değişeceği hakkında ipuçları verir.
+
+Bulutlar genellikle yüksekliklerine ve görünüşlerine göre sınıflandırılır. Bu sınıflandırmanın temelinde birkaç Latince kelime yatar. "Kümülüs" yığın, "stratus" tabaka, "sirrus" saç teli, "nimbus" ise yağmur anlamına gelir.
+
+Kümülüs bulutları, pamuk yığınlarına benzeyen, beyaz ve kabarık bulutlardır. Güzel havalarda sık görülür. Ancak gün içinde büyüyüp yükselirlerse, kümülonimbus denilen dev fırtına bulutlarına dönüşebilirler. Kümülonimbus bulutları sağanak yağmur, gök gürültüsü ve bazen dolu getirir.
+
+Stratus bulutları gökyüzünü gri bir örtü gibi kaplar. Genellikle kapalı ve kasvetli bir hava ile ilişkilidir. Bazen hafif çisenti getirebilir. Yere çok yakın oluşan stratus bulutlarına sis deriz.
+
+Sirrus bulutları ise çok yüksekte oluşan ince, tüy gibi bulutlardır. Buz kristallerinden oluşurlar. Gökyüzünde sirrus bulutlarının çoğalması, bazen yaklaşan bir hava değişikliğinin habercisi olabilir.
+
+Nimbostratus bulutları kalın, koyu gri katmanlardır ve uzun süreli, sürekli yağmur ya da kar getirir.
+
+Elbette bulutlara bakarak yapılan tahminler kesin değildir. Bugün meteorologlar uydu görüntüleri, radarlar ve bilgisayar modelleri kullanarak tahmin yapar. Ama bulutları okumayı öğrenmek, gökyüzüyle kurulan eski ve keyifli bir bağdır.
+
+### 83 | Yetişkinler İçin Okuma Yazma Kursu Mezunlarını Verdi
+sub: education | tags: okuma yazma, yetişkin eğitimi, kurs, başarı
+---
+Yazıköy Halk Eğitim Merkezi'nde açılan yetişkinler için okuma yazma kursu, ilk mezunlarını verdi. Kursu tamamlayan on dört kişi, törenle belgelerini aldı.
+
+Kursiyerlerin yaşları kırk ile yetmiş beş arasında değişiyor. Çoğu, çocukluklarında okula gidememiş kişiler. Bazıları ailelerine yardım etmek için tarlada çalışmak zorunda kalmış, bazılarının köyünde okul yokmuş.
+
+Kursun öğretmeni Bahar Yıldız, kursiyerlerin azmine hayran kaldığını söyledi. "Gündüz tarlada, evde çalışıp akşam derse geliyorlardı. Gözlükleriyle, titreyen elleriyle harfleri tek tek yazıyorlardı. Bir kez bile ders kaçırmayanlar var."
+
+Kurs altı ay sürdü. Kursiyerler önce harfleri, sonra heceleri, sonra kelimeleri öğrendi. Kursun sonunda hepsi kısa metinleri okuyabiliyor ve basit cümleler yazabiliyor.
+
+Mezuniyet töreninde yetmiş beş yaşındaki Zeliha Nine, kürsüye çıkıp kendi yazdığı kısa bir mektubu okudu. Mektup, yurt dışında yaşayan torununa yazılmıştı. "Sevgili torunum, bu mektubu sana kendi elimle yazıyorum," diye başlayan mektubu okurken salonda gözyaşları sel oldu. Zeliha Nine, şimdi torunlarının kitaplarını okumak istediğini söylüyor.
+
+### 84 | Termometre Nasıl Çalışır?
+sub: science | kind: feature | tags: termometre, sıcaklık, ölçüm, genleşme
+---
+Havanın ne kadar sıcak olduğunu, ateşimiz olup olmadığını ya da fırının ısınıp ısınmadığını termometreyle ölçeriz. Farklı termometreler farklı yöntemlerle çalışır.
+
+Geleneksel sıvılı termometreler, maddelerin ısınınca genleşmesi ilkesine dayanır. İnce bir cam borunun içinde renklendirilmiş alkol ya da eskiden cıva bulunur. Sıcaklık arttıkça sıvı genleşir ve boruda yükselir. Sıcaklık düşünce sıvı büzülür ve aşağı iner. Borunun yanındaki ölçek, sıvının seviyesine karşılık gelen sıcaklığı gösterir. Cıvalı termometreler, cıvanın zehirli olması nedeniyle bugün pek çok ülkede kullanımdan kaldırılmıştır.
+
+Dijital termometreler ise farklı çalışır. İçlerinde, sıcaklık değiştikçe elektriksel özellikleri değişen küçük bir algılayıcı bulunur. Termometrenin içindeki devre bu değişimi ölçer ve ekranda bir sayıya dönüştürür.
+
+Kızılötesi termometreler ise hiç dokunmadan ölçüm yapabilir. Her cisim, sıcaklığına bağlı olarak kızılötesi ışınım yayar. Bu termometreler o ışınımı algılayarak sıcaklığı hesaplar.
+
+Sıcaklık ölçmek için farklı ölçekler kullanılır. Türkiye'de ve dünyanın çoğu yerinde Celsius kullanılır; bu ölçekte su sıfır derecede donar ve deniz seviyesinde yüz derecede kaynar. Bazı ülkelerde ise Fahrenheit ölçeği yaygındır. Bilim insanları ise genellikle Kelvin ölçeğini kullanır.
+
+### 85 | Gönüllü İtfaiyeciler Köy Halkına Yangın Eğitimi Verdi
+sub: community | tags: yangın, güvenlik, köy, eğitim
+---
+Orman kenarındaki Çamyurt köyünde, gönüllü itfaiyeciler köy halkına yangın güvenliği eğitimi verdi. Eğitime köyün neredeyse bütün aileleri katıldı.
+
+Eğitim, yaz aylarında artan orman yangını riskine karşı düzenlendi. Gönüllü itfaiye ekibinin başkanı Yusuf Çelik, köylülerin hem yangını önleme hem de yangın anında doğru davranma konusunda bilgilendirilmesi gerektiğini söyledi. "Ormanın içindeyiz. Bir kıvılcım bütün köyü tehdit edebilir."
+
+Eğitimde önce yangınların nasıl başladığı anlatıldı. Tarla kenarlarında anız yakmanın, ormana yakın yerlerde ateş yakmanın ve cam şişeleri ortada bırakmanın tehlikeleri konuşuldu. Sonra yangın tüpünün nasıl kullanılacağı uygulamalı olarak gösterildi.
+
+Köylüler ayrıca bir tahliye tatbikatı yaptı. Yangın anında hangi yoldan çıkılacağı, toplanma yerinin neresi olduğu ve yaşlıların nasıl taşınacağı planlandı. Her ailenin acil durumda alması gereken eşyaları içeren küçük bir çanta hazırlaması önerildi.
+
+Eğitimin sonunda köyün çocukları, yangın ve orman güvenliği üzerine resimler çizdi. Resimler köy kahvesinin duvarına asıldı. On yaşındaki Yiğit'in resminde, bir ağacın altında "Ormanı sev, ateşi söndür" yazıyordu.
+
+### 86 | Kalemin Hikâyesi
+sub: history | kind: feature | tags: kalem, kurşun kalem, grafit, yazı
+---
+Her gün elimize aldığımız kurşun kalemin içinde aslında kurşun yoktur. Kalemin içindeki gri madde, grafit ile kilin karışımıdır.
+
+Bu karışıklığın kökeni tarihtedir. Eski Roma'da insanlar yazı ve çizim için kurşundan yapılmış aletler kullanıyordu. 16. yüzyılda İngiltere'de büyük bir grafit yatağı bulundu. Grafit, kâğıt üzerinde kurşundan çok daha belirgin ve koyu bir iz bırakıyordu. O zamanlar insanlar grafitin bir tür kurşun olduğunu düşündü ve ona "kara kurşun" dedi. İsim kaldı, ama malzeme değişti.
+
+İlk grafit kalemler, grafit çubuklarının iplik ya da deriyle sarılmasıyla yapılıyordu. Daha sonra grafit çubuklar tahta kılıfların içine yerleştirildi. 18. yüzyılın sonlarında Fransa'da, toz grafiti kille karıştırıp fırınlama yöntemi geliştirildi. Bu yöntem sayesinde kalemlerin sertliği ayarlanabildi. Daha fazla kil, daha sert ve açık renkli bir uç; daha fazla grafit, daha yumuşak ve koyu bir uç demekti.
+
+Kalemlerin üzerinde gördüğümüz harf ve rakamlar bu sertliği gösterir. H harfi sert, B harfi ise siyah ve yumuşak anlamına gelir. HB ise ikisinin ortasıdır ve en yaygın kullanılan türdür.
+
+Kalemin ucundaki silgi ise çok daha sonra eklendi. Bugün kurşun kalem, dünyanın en çok kullanılan yazı araçlarından biridir.
+
+### 87 | Kasaba Okulunda Ortak Kahvaltı Günü
+sub: education | tags: kahvaltı, okul, beslenme, aile
+---
+Pınarbaşı Ortaokulu'nda her ayın ilk cuması öğrenciler, öğretmenler ve veliler birlikte kahvaltı yapıyor. Okulun spor salonuna kurulan uzun masalarda, her aile evden bir şey getiriyor.
+
+Ortak kahvaltı fikri, okulun rehber öğretmeni Canan Kurt'tan çıktı. Kurt, bazı öğrencilerin sabahları kahvaltı yapmadan okula geldiğini fark etmişti. "Kahvaltı yapmayan çocukların dikkati ilk derslerde dağılıyor. Hem bu konuda farkındalık yaratmak hem de okul ile aileler arasındaki bağı güçlendirmek istedik."
+
+Masalarda peynir, zeytin, domates, salatalık, yumurta, bal, reçel ve ev yapımı börekler yer alıyor. Okul da çay ve ekmek sağlıyor. Hiçbir aileden bir şey getirmesi zorunlu olarak beklenmiyor. Kurt, "Herkes ne getirebilirse onu getiriyor. Hiçbir şey getiremeyen de gelip oturuyor. Masa herkesin," diyor.
+
+Kahvaltı aynı zamanda bir sohbet ortamı da oluyor. Veliler öğretmenlerle resmî olmayan bir ortamda konuşabiliyor. Öğrenciler de arkadaşlarının ailelerini tanıyor.
+
+Kahvaltıdan sonra öğrenciler masaları birlikte topluyor. Artan yiyecekler okulun yakınındaki bir yaşlı bakım evine götürülüyor. Bu ayki kahvaltıya iki yüzden fazla kişi katıldı.
+
+### 88 | Deprem Çantasında Neler Olmalı?
+sub: community | kind: feature | tags: deprem, hazırlık, acil durum, güvenlik
+---
+Türkiye bir deprem ülkesidir. Depreme hazırlıklı olmak, deprem anında ve sonrasında hayat kurtarabilir. Bu hazırlığın önemli bir parçası da acil durum çantasıdır.
+
+Acil durum çantası, deprem gibi bir afetten sonra ilk saatlerde ve günlerde ihtiyaç duyulabilecek temel malzemeleri içerir. Çanta kolay ulaşılabilecek bir yerde, örneğin kapının yakınında durmalıdır. Evdeki herkes çantanın yerini bilmelidir.
+
+Resmî kurumların önerdiği listelerde genellikle şunlar bulunur: Su, bozulmayan yiyecekler, el feneri ve yedek piller, pille çalışan bir radyo, düdük, ilk yardım malzemeleri, düzenli kullanılan ilaçlar, kimlik ve önemli belgelerin fotokopileri, bir miktar nakit para, mevsime uygun kıyafet, battaniye, ıslak mendil ve hijyen malzemeleri. Telefon için yedek bir şarj aleti de faydalı olabilir.
+
+Düdük özellikle önemlidir. Enkaz altında kalan biri, bağırmak yerine düdük çalarak hem enerjisini korur hem de sesini daha uzağa duyurabilir.
+
+Çantanın içindekiler belirli aralıklarla kontrol edilmelidir. Suyun ve yiyeceklerin son kullanma tarihleri geçmemeli, pillerin çalıştığından emin olunmalıdır.
+
+Hazırlık sadece çantadan ibaret değildir. Ağır eşyaları duvara sabitlemek, aile için bir buluşma noktası belirlemek ve deprem anında "çök, kapan, tutun" hareketini bilmek de hazırlığın parçasıdır. Ayrıntılı ve güncel bilgi için resmî afet kurumlarının yayınlarına başvurmak gerekir.
+
+### 89 | Sokak Müzisyenleri İçin Belirlenen Alanlar Hayata Geçti
+sub: culture | tags: sokak müziği, şehir, müzisyen, kültür
+---
+Lalebahçe Belediyesi, şehir merkezinde sokak müzisyenleri için on iki performans noktası belirledi. Noktalar, yerdeki renkli işaretler ve küçük tabelalarla gösteriliyor.
+
+Uygulama, hem sokak müzisyenlerinin hem de esnafın taleplerini dengelemek için başlatıldı. Daha önce bazı esnaf, dükkânlarının önünde uzun süre çalınan müzikten rahatsız olduğunu belirtiyordu. Müzisyenler ise nerede çalabileceklerini bilmediklerini ve zaman zaman uyarı aldıklarını söylüyordu.
+
+Yeni düzenlemeye göre her performans noktasında bir müzisyen en fazla iki saat çalabiliyor. Ses seviyesi için de bir sınır belirlendi. Müzisyenlerin belediyeye ücretsiz kayıt yaptırması isteniyor. Kayıt, sadece iletişim bilgisi bırakmaktan ibaret.
+
+Sokak müzisyenleri derneği düzenlemeyi genel olarak olumlu karşıladı. Keman çalan üniversite öğrencisi Ece, artık nereye gideceğini bildiği için kendini daha rahat hissettiğini söyledi. "Bir yerde çalarken kimse beni kovmuyor. İnsanlar da beni bulabiliyor. Bazı dinleyiciler her hafta aynı noktaya geliyor."
+
+Belediye, yaz akşamlarında bu noktalarda özel konserler de düzenlemeyi planlıyor.
+
+### 90 | Kum Saatinden Atom Saatine: Zamanı Ölçmek
+sub: history | kind: feature | tags: saat, zaman, ölçüm, tarih
+---
+İnsanlar binlerce yıldır zamanı ölçmeye çalışıyor. Bu çaba, gökyüzüne bakmakla başladı ve bugün atomların titreşimini saymaya kadar uzandı.
+
+İlk zaman ölçerler güneşe dayanıyordu. Güneş saatleri, yere dikilmiş bir çubuğun gölgesinin hareketinden saati gösterirdi. Ancak bulutlu havalarda ve geceleri işe yaramıyorlardı.
+
+Bu sorunu çözmek için su saatleri geliştirildi. Bir kaptan diğerine belirli bir hızla akan su, geçen zamanı gösteriyordu. Kum saatleri de benzer bir ilkeyle çalışır: Dar bir boğazdan akan kumun bitmesi, belirli bir sürenin geçtiğini anlatır.
+
+Orta Çağ'da Avrupa'da ağırlıkla çalışan mekanik saatler ortaya çıktı. Bu saatler kasaba meydanlarındaki kulelere yerleştirildi. 17. yüzyılda sarkacın saatlerde kullanılması, saatlerin doğruluğunu büyük ölçüde artırdı. Sonraki yüzyıllarda cep saatleri ve kol saatleri yaygınlaştı.
+
+20. yüzyılda kuvars saatler geliştirildi. Bu saatlerde, elektrik akımıyla titreştirilen küçük bir kuvars kristali çok düzenli bir ritim üretir. Bugün kullandığımız pek çok saat kuvarslıdır.
+
+En hassas saatler ise atom saatleridir. Bu saatler, belirli atomların enerji düzeyleri arasındaki geçişlere karşılık gelen çok düzenli titreşimleri temel alır. Uluslararası saniye tanımı da sezyum atomuna dayanır. Atom saatleri, uydu konum sistemlerinin ve iletişim ağlarının doğru çalışması için hayati önem taşır.

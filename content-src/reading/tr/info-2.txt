@@ -1,0 +1,332 @@
+### 26 | Elektrik Nedir?
+sub: science | tags: elektrik, elektron, akım, enerji
+---
+Lambaları yakan, telefonları şarj eden ve buzdolabını çalıştıran elektrik, aslında maddenin en küçük yapı taşlarıyla ilgilidir.
+
+Her şey atomlardan oluşur. Atomların merkezinde artı yüklü protonlar ve yüksüz nötronlar bulunur. Merkezin çevresinde ise eksi yüklü elektronlar vardır. Bazı maddelerde, özellikle metallerde, elektronların bir kısmı atomlar arasında görece serbestçe hareket edebilir.
+
+Elektrik akımı, yüklerin bir yönde düzenli hareketidir. Bir telin iki ucu arasında bir gerilim, yani bir tür elektriksel "itme" oluşturulduğunda, teldeki elektronlar hareket etmeye başlar. Pil ya da priz bu gerilimi sağlar.
+
+Elektriği iyi ileten maddelere iletken denir. Bakır, alüminyum ve gümüş iyi iletkenlerdir. Elektriği iletmeyen ya da çok az ileten maddelere ise yalıtkan denir. Plastik, cam, kauçuk ve kuru tahta yalıtkandır. Elektrik kablolarının içindeki bakır telin plastikle kaplanmasının nedeni budur.
+
+Elektrik çok faydalı ama aynı zamanda tehlikelidir. Islak ellerle elektrikli aletlere dokunmamak, prizlere metal nesneler sokmamak ve hasarlı kabloları kullanmamak temel güvenlik kurallarıdır. Elektrik tesisatıyla ilgili işler mutlaka yetkili kişilerce yapılmalıdır.
+
+### 27 | Sindirim Sistemi: Yiyeceğin Yolculuğu
+sub: body | tags: sindirim, mide, bağırsak, beslenme
+---
+Bir lokma yemek yediğimizde, o lokma vücudumuzda saatler süren bir yolculuğa çıkar. Bu yolculuğun amacı, yiyeceği vücudun kullanabileceği küçük parçalara ayırmaktır.
+
+Sindirim ağızda başlar. Dişler yiyeceği parçalar, tükürük ise onu ıslatır ve bazı karbonhidratları sindirmeye başlayan enzimler içerir. Yutkunduğumuzda lokma, yemek borusundan kasların dalga şeklindeki hareketleriyle mideye iner.
+
+Mide, kaslı bir torbadır. Yiyeceği çalkalar ve mide öz suyu ile karıştırır. Mide öz suyu asidiktir ve proteinlerin sindirimine yardım eder. Birkaç saat sonra yiyecek, yarı sıvı bir karışım hâlinde ince bağırsağa geçer.
+
+İnce bağırsak, sindirimin ve emilimin büyük kısmının gerçekleştiği yerdir. Karaciğerden gelen safra ve pankreastan gelen enzimler burada yiyeceği iyice parçalar. İnce bağırsağın iç yüzeyi, sayısız küçük çıkıntıyla kaplıdır. Bu çıkıntılar emilim yüzeyini büyük ölçüde artırır. Besinler buradan kana geçer.
+
+Geriye kalan kısım kalın bağırsağa geçer. Kalın bağırsakta su emilir ve kalan atıklar vücuttan atılmaya hazırlanır. Kalın bağırsakta yaşayan çok sayıda faydalı bakteri de sindirime katkıda bulunur. Lifli yiyecekler, bu sistemin düzenli çalışmasına yardım eder.
+
+### 28 | Faiz Nasıl Çalışır?
+sub: economy | tags: faiz, kredi, birikim, banka
+---
+Faiz, paranın kullanım bedelidir. Birinden borç aldığımızda, aldığımız paraya ek olarak bir miktar faiz öderiz. Bankaya para yatırdığımızda ise banka bize faiz öder; çünkü bankaya parayı kullanma imkânı vermiş oluruz.
+
+Faiz genellikle yıllık bir oran olarak ifade edilir. Örneğin yıllık yüzde on faizle bin lira yatırırsanız, bir yıl sonra yüz lira faiz kazanırsınız.
+
+Basit faiz ile bileşik faiz arasında önemli bir fark vardır. Basit faizde faiz sadece ilk yatırılan para üzerinden hesaplanır. Bileşik faizde ise kazanılan faiz de ana paraya eklenir ve bir sonraki dönemin faizi bu büyümüş tutar üzerinden hesaplanır. Yani faizin de faizi kazanılır. Uzun vadede bileşik faiz, paranın çok daha hızlı büyümesini sağlar.
+
+Aynı ilke borçlar için de geçerlidir. Kredi kartı borcu gibi yüksek faizli borçlar zamanında ödenmezse, bileşik faiz nedeniyle borç hızla büyüyebilir. Bu yüzden borçlanmadan önce faiz oranını, toplam geri ödeme tutarını ve ek masrafları dikkatle incelemek gerekir.
+
+Faiz oranları ekonominin genel durumuna göre değişir ve merkez bankalarının politikalarından etkilenir. Finansal kararlar kişisel duruma göre farklılık gösterdiğinden, önemli kararlar öncesinde bir uzmana danışmak faydalı olabilir.
+
+### 29 | E-posta Yazarken Dikkat Edilecekler
+sub: communication | tags: e-posta, yazışma, iş, nezaket
+---
+E-posta, iş hayatında ve resmî yazışmalarda en sık kullanılan iletişim araçlarından biridir. İyi yazılmış bir e-posta, mesajın doğru anlaşılmasını sağlar ve gönderen hakkında olumlu bir izlenim bırakır.
+
+İyi bir e-postanın ilk adımı açık bir konu satırıdır. Konu satırı, alıcının e-postayı açmadan önce ne hakkında olduğunu anlamasını sağlamalıdır. "Merhaba" yerine "Perşembe toplantısının saati hakkında" gibi bir konu çok daha kullanışlıdır.
+
+E-postanın gövdesi kısa ve öz olmalıdır. Ana mesaj ilk paragrafta verilmelidir. Uzun açıklamalar gerekiyorsa paragraflara bölünmeli ya da madde işaretleri kullanılmalıdır. Alıcıdan bir şey isteniyorsa, ne istendiği ve ne zamana kadar istendiği açıkça yazılmalıdır.
+
+Hitap ve kapanış, ilişkinin resmiyetine göre seçilmelidir. Tanımadığımız birine "Sayın" diye hitap etmek ve "Saygılarımla" diye kapatmak uygundur. Yakın çalıştığımız bir iş arkadaşına daha samimi bir dil kullanılabilir.
+
+Göndermeden önce e-postayı bir kez daha okumak önemlidir. Yazım hataları, eksik ekler ve yanlış alıcı en sık yapılan hatalardır. Özellikle "Tümünü yanıtla" düğmesini kullanırken dikkatli olmak gerekir. Öfkeli ya da gergin anlarda yazılan e-postaları hemen göndermemek, bir süre bekleyip yeniden okumak da iyi bir alışkanlıktır.
+
+### 30 | Çöller Nasıl Oluşur?
+sub: geography | tags: çöl, iklim, yağış, coğrafya
+---
+Çöl denince çoğumuzun aklına kum tepeleri ve kavurucu sıcak gelir. Oysa bilimsel olarak çöl, sıcaklıkla değil, yağışın azlığıyla tanımlanır. Yılda çok az yağış alan ve buharlaşmanın yağıştan fazla olduğu bölgeler çöl sayılır. Bu tanıma göre Antarktika da dünyanın en büyük çöllerinden biridir.
+
+Çöllerin oluşmasının birkaç nedeni vardır. Birincisi atmosferdeki büyük hava hareketleridir. Ekvator çevresinde ısınan nemli hava yükselir ve yağmur olarak düşer. Kuruyan hava daha sonra her iki yarımkürede yaklaşık otuzuncu enlemler civarında alçalır. Alçalan hava ısınır ve kurur. Bu yüzden Sahra gibi büyük çöller bu enlemlerin çevresinde bulunur.
+
+İkinci neden dağlardır. Nemli hava bir dağ sırasına çarptığında yükselir, soğur ve yağışını dağın rüzgâr alan yamacına bırakır. Dağın diğer tarafına kuru hava ulaşır. Bu kurak bölgeye yağmur gölgesi denir.
+
+Üçüncü neden denizden uzaklıktır. Kıtaların iç kısımlarına nemli hava ulaşana kadar nemini büyük ölçüde kaybeder.
+
+Çöller cansız değildir. Kaktüsler, sürüngenler, böcekler ve gece aktif olan pek çok hayvan, bu zorlu koşullara özel uyumlar geliştirmiştir.
+
+### 31 | Alışkanlıklar Nasıl Oluşur?
+sub: psychology | tags: alışkanlık, davranış, beyin, değişim
+---
+Sabah kalkınca dişlerimizi fırçalamak, eve gelince anahtarı aynı yere koymak, belli bir saatte çay içmek. Günlük davranışlarımızın önemli bir kısmı alışkanlıklardan oluşur.
+
+Alışkanlık, belirli bir durumda neredeyse otomatik olarak tekrarlanan bir davranıştır. Araştırmacılar alışkanlıkları sıklıkla üç parçalı bir döngüyle açıklar: İşaret, davranış ve ödül. İşaret, davranışı başlatan tetikleyicidir; bir saat, bir yer, bir duygu ya da başka bir eylem olabilir. Davranış, yaptığımız şeydir. Ödül ise davranışın bize sağladığı olumlu sonuçtur.
+
+Bir davranış aynı işaretle tekrar tekrar yapıldıkça beyin bu bağlantıyı güçlendirir. Zamanla davranış daha az çaba gerektirir ve daha az düşünerek yapılır. Yeni bir alışkanlığın oluşma süresi kişiye ve davranışa göre büyük farklılıklar gösterir.
+
+Yeni bir alışkanlık edinmek isteyenler için bazı öneriler vardır. Küçük başlamak önemlidir; her gün bir saat yerine beş dakika yürümek gibi. Yeni davranışı var olan bir alışkanlığa bağlamak da işe yarar: "Sabah kahvemi koyduktan sonra iki sayfa okuyacağım." Ortamı düzenlemek de yardımcı olur; örneğin spor ayakkabılarını kapının önüne koymak.
+
+Kötü bir alışkanlığı bırakmak için ise işaretleri fark etmek ve aynı ihtiyacı karşılayan başka bir davranış bulmak etkili olabilir.
+
+### 32 | Vida ve Eğik Düzlem
+sub: tools | tags: vida, eğik düzlem, rampa, basit makine
+---
+Ağır bir dolabı bir kamyonete yüklemek gerektiğinde, onu doğrudan kaldırmak yerine bir rampa kullanırız. Bu rampa, en eski basit makinelerden biridir: Eğik düzlem.
+
+Eğik düzlem, bir yükü yukarı çıkarmak için gereken kuvveti azaltır. Yükü dik olarak kaldırmak yerine eğimli bir yüzey boyunca iteriz. Rampa ne kadar uzun ve az eğimliyse, gereken kuvvet o kadar azalır. Ama yükü daha uzun bir yol boyunca itmemiz gerekir. Yani yine kuvvetten kazanç, yoldan kayıp söz konusudur.
+
+Dağ yolları da eğik düzlem ilkesini kullanır. Bir tepeye dümdüz çıkmak yerine kıvrılarak çıkan yollar, araçların ve yürüyenlerin işini kolaylaştırır.
+
+Vida, aslında bir silindirin etrafına sarılmış bir eğik düzlemdir. Bir kâğıttan dik üçgen kesip bir kalemin etrafına sararsanız, kâğıdın kenarının bir vida dişi gibi spiral çizdiğini görürsünüz. Vidayı çevirdiğimizde bu spiral eğim, dönme hareketini ileri doğru bir harekete çevirir. Küçük bir dönme kuvvetiyle vida, tahtanın içine güçlü bir şekilde ilerler.
+
+Kama da eğik düzlemin bir türüdür. Balta, bıçak ve keski gibi aletler kama ilkesiyle çalışır. Uygulanan kuvveti yanlara doğru büyük bir ayırma kuvvetine dönüştürürler.
+
+### 33 | Yazının İcadı
+sub: history | tags: yazı, çivi yazısı, Mezopotamya, tarih
+---
+Yazı, insanlık tarihinin en önemli buluşlarından biridir. Yazıdan önce bilgi sadece sözlü olarak, kuşaktan kuşağa anlatılarak aktarılabiliyordu. Yazı, bilgiyi kalıcı hâle getirdi.
+
+Bilinen en eski yazı sistemlerinden biri, yaklaşık beş bin yıl önce Mezopotamya'da, bugünkü Irak topraklarında Sümerler tarafından geliştirildi. Bu yazı, kamış kalemlerle ıslak kil tabletlere bastırılarak yazılıyordu. İzlerin çiviye benzemesi nedeniyle bu yazıya çivi yazısı denir.
+
+İlk yazılı metinlerin çoğu hikâye ya da şiir değil, kayıtlardı. Tahıl miktarları, hayvan sayıları, vergi ödemeleri ve ticari anlaşmalar kil tabletlere yazılıyordu. Yazı, büyüyen şehirlerin ve tapınakların ekonomisini yönetmek için bir araç olarak ortaya çıktı.
+
+Mısır'da da aşağı yukarı aynı dönemlerde hiyeroglif yazı gelişti. Çin'de ve Orta Amerika'da ise yazı sistemleri birbirinden bağımsız olarak ortaya çıktı.
+
+Anadolu da yazı tarihinde önemli bir yere sahiptir. Asurlu tüccarların Kayseri yakınlarındaki Kültepe'de bıraktığı binlerce kil tablet, Anadolu'nun yazılı tarihinin en eski belgeleri arasında yer alır. Bu tabletler, yaklaşık dört bin yıl önceki ticari hayata ışık tutar.
+
+Bugün kullandığımız alfabelerin pek çoğu, Doğu Akdeniz'de gelişen Fenike alfabesinden türemiştir.
+
+### 34 | Uyku Evreleri
+sub: body | tags: uyku, rüya, beyin, dinlenme
+---
+Uyku, gece boyunca aynı şekilde devam eden tek düze bir durum değildir. Uyurken beyin, döngüler hâlinde farklı evrelerden geçer.
+
+Uyku genel olarak iki ana türe ayrılır: Hızlı göz hareketlerinin olmadığı uyku ve hızlı göz hareketli uyku. İkincisi, İngilizce kısaltmasıyla REM uykusu olarak da bilinir.
+
+Uykuya dalınca önce hafif uyku evresine geçilir. Bu evrede kolayca uyanabiliriz. Kaslar gevşemeye başlar, kalp atışı ve nefes yavaşlar. Ardından daha derin evrelere geçilir. Derin uyku, vücudun dinlenmesi ve toparlanması için özellikle önemli kabul edilir. Bu evrede uyanmak zordur; uyandırılan kişi bir süre sersem hissedebilir.
+
+REM uykusunda ise beyin oldukça aktiftir. Gözler kapalı göz kapaklarının altında hızla hareket eder. Canlı rüyaların çoğu bu evrede görülür. İlginç bir şekilde, bu evrede vücudun büyük kasları geçici olarak hareketsiz kalır. Bunun, rüyaları fiziksel olarak yaşamamızı engellediği düşünülür.
+
+Bir uyku döngüsü genellikle bir buçuk saat civarında sürer ve gece boyunca birkaç kez tekrarlanır. Gecenin ilk yarısında derin uyku, ikinci yarısında ise REM uykusu daha fazla yer kaplar. Düzenli uyku saatleri, bu döngülerin sağlıklı işlemesine yardım eder.
+
+### 35 | İnternet Nasıl Çalışır?
+sub: technology | tags: internet, ağ, veri, bağlantı
+---
+Bir web sayfasını açtığımızda ya da bir mesaj gönderdiğimizde, bilgi saniyeler içinde dünyanın bir ucundan diğerine ulaşabilir. Bu, internet adı verilen dev bir ağlar ağı sayesinde mümkün olur.
+
+İnternet, dünyadaki milyonlarca bilgisayarın ve ağın birbirine bağlanmasıyla oluşur. Bu bağlantılar kablolar, fiber optik hatlar, kablosuz bağlantılar ve uydular aracılığıyla sağlanır. Kıtalar arasındaki bağlantıların büyük kısmı, okyanus tabanına döşenmiş denizaltı kablolarıyla yapılır.
+
+İnternette gönderilen veriler küçük parçalara, yani paketlere bölünür. Her paket, nereye gideceğini gösteren bir adres bilgisi taşır. Yönlendirici adı verilen cihazlar, paketleri hedeflerine ulaştırmak için en uygun yolu seçer. Aynı mesajın paketleri farklı yollardan gidebilir ve hedefte yeniden birleştirilir.
+
+İnternete bağlı her cihazın bir adresi vardır. Ancak bu adresler sayılardan oluşur ve akılda tutmak zordur. Bu yüzden alan adları kullanılır. Bir alan adını yazdığımızda, alan adı sistemi bu adı bilgisayarın anlayacağı sayısal adrese çevirir. Bu sistem, internetin bir tür telefon rehberi gibidir.
+
+Web sayfaları ise sunucu adı verilen bilgisayarlarda saklanır. Tarayıcımız sunucudan sayfayı ister, sunucu da sayfayı paketler hâlinde gönderir.
+
+### 36 | Okyanus Akıntıları
+sub: geography | tags: okyanus, akıntı, iklim, deniz
+---
+Okyanuslar durgun su kütleleri değildir. Suyun yüzeyinde ve derinliklerinde, dünyayı dolaşan dev akıntılar bulunur. Bu akıntılar, gezegenin ikliminde çok önemli bir rol oynar.
+
+Yüzey akıntıları büyük ölçüde rüzgârlar tarafından oluşturulur. Sürekli aynı yönde esen rüzgârlar, okyanusun yüzeyindeki suyu sürükler. Dünya'nın dönmesi ve kıtaların konumu, bu akıntıların yönünü etkiler. Sonuçta okyanuslarda büyük, döngüsel akıntı sistemleri oluşur.
+
+Derin akıntılar ise suyun sıcaklık ve tuzluluk farklarından kaynaklanır. Soğuk ve tuzlu su, sıcak ve daha az tuzlu sudan daha yoğundur ve dibe çöker. Kutup bölgelerinde soğuyan su derinlere iner ve okyanus tabanı boyunca yavaşça akar. Bu küresel dolaşım bazen "okyanus taşıma bandı" olarak adlandırılır. Bir su kütlesinin bu dolaşımı tamamlamasının yüzyıllar sürdüğü tahmin edilir.
+
+Akıntılar ısıyı bir yerden başka bir yere taşır. Örneğin Gulf Stream olarak bilinen sıcak akıntı, Karayipler'den Kuzey Atlantik'e ılık su taşır. Bu akıntının, Batı Avrupa'nın bazı bölgelerinin benzer enlemlerdeki diğer bölgelere göre daha ılıman olmasına katkıda bulunduğu kabul edilir.
+
+Akıntılar aynı zamanda besin maddelerini de taşır. Soğuk ve besin bakımından zengin suların yüzeye çıktığı bölgeler, dünyanın en verimli balıkçılık alanları arasındadır.
+
+### 37 | Hatırlamak ve Unutmak
+sub: psychology | tags: hafıza, hatırlama, unutma, öğrenme
+---
+Hafıza, bilgiyi alma, saklama ve gerektiğinde geri çağırma yeteneğimizdir. Ama hafıza bir video kaydı gibi çalışmaz. Hatırladıklarımız, her seferinde yeniden kurulan canlı bir yapıdır.
+
+Bilim insanları hafızayı genellikle farklı türlere ayırır. Kısa süreli hafıza, bir telefon numarasını tuşlayana kadar akılda tutmak gibi, bilgiyi kısa bir süre saklar ve kapasitesi sınırlıdır. Uzun süreli hafıza ise bilgileri yıllarca, hatta ömür boyu saklayabilir.
+
+Bilginin uzun süreli hafızaya geçmesi için tekrar ve anlamlandırma önemlidir. Yeni bir bilgiyi zaten bildiğimiz şeylerle ilişkilendirmek, onu hatırlamayı kolaylaştırır. Bir konuyu birine anlatmak da öğrenmeyi pekiştirir.
+
+Unutmak da hafızanın doğal bir parçasıdır. 19. yüzyılda Alman psikolog Hermann Ebbinghaus, öğrenilen bilgilerin önemli bir kısmının kısa süre içinde unutulduğunu gösteren deneyler yaptı. Bu bulgu "unutma eğrisi" olarak bilinir. Ancak aralıklı tekrar, yani bilgiyi zamana yayılmış aralıklarla tekrar etmek, unutmayı belirgin şekilde yavaşlatır.
+
+Hafızamız bazen bizi yanıltabilir. İnsanlar yaşamadıkları olayları yaşamış gibi hatırlayabilir ya da ayrıntıları karıştırabilir. Bu yüzden önemli konularda hafızaya değil, kayıtlara güvenmek daha doğrudur.
+
+### 38 | Arz ve Talep
+sub: economy | tags: arz, talep, fiyat, piyasa
+---
+Bir pazarda domates fiyatının bazı haftalar düşük, bazı haftalar yüksek olduğunu fark etmişsinizdir. Bu değişimin arkasında ekonominin en temel kavramlarından ikisi yatar: Arz ve talep.
+
+Talep, insanların belirli bir fiyattan satın almak istedikleri mal ya da hizmet miktarıdır. Genellikle bir ürünün fiyatı düştükçe talep artar, fiyat yükseldikçe talep azalır.
+
+Arz ise üreticilerin belirli bir fiyattan satmak istedikleri miktardır. Genellikle fiyat yükseldikçe üreticiler daha fazla üretmek ve satmak ister, fiyat düştükçe arz azalır.
+
+Piyasada fiyat, arz ile talebin buluştuğu noktada oluşma eğilimindedir. Bu noktaya denge fiyatı denir.
+
+Yaz aylarında domates hasadı bol olduğunda arz artar. Pazarda çok domates vardır ve satıcılar ürünlerini satabilmek için fiyatları düşürür. Kışın ise domates daha az yetişir; arz azalır ve fiyatlar yükselir.
+
+Talepte de değişiklikler olabilir. Örneğin bir yiyeceğin sağlığa faydalı olduğu yönünde bir haber yayıldığında, o yiyeceğe talep artabilir ve fiyatı yükselebilir.
+
+Gerçek piyasalar bu basit modelden çok daha karmaşıktır. Devlet düzenlemeleri, vergiler, rekabetin düzeyi ve beklentiler de fiyatları etkiler. Ama arz ve talep, fiyatların neden değiştiğini anlamak için iyi bir başlangıç noktasıdır.
+
+### 39 | Beden Dili
+sub: communication | tags: beden dili, jest, iletişim, sözsüz
+---
+İletişim sadece kelimelerden oluşmaz. Yüz ifademiz, duruşumuz, el hareketlerimiz ve ses tonumuz da karşımızdakine mesajlar gönderir. Bu sözsüz iletişime beden dili denir.
+
+Yüz ifadeleri beden dilinin en güçlü parçalarından biridir. Gülümseme, kaş çatma, şaşkınlıkla açılan gözler, duygularımızı çoğu zaman kelimelerden önce anlatır. Araştırmalar, mutluluk, üzüntü, korku ve öfke gibi bazı temel duygu ifadelerinin farklı kültürlerde büyük ölçüde benzer şekilde tanındığını öne sürer.
+
+Duruş da çok şey anlatır. Dik ve rahat bir duruş genellikle özgüvenle ilişkilendirilir. Kollarını kavuşturmuş biri bazen kapalı ya da savunmacı görünebilir, ama belki de sadece üşüyordur. Bu yüzden tek bir işarete bakarak kesin yargılara varmamak gerekir.
+
+Göz teması da önemli bir iletişim aracıdır. Ancak göz temasının anlamı kültürden kültüre değişir. Bazı kültürlerde doğrudan göz teması dürüstlük ve ilgi işareti sayılırken, bazılarında saygısızlık olarak algılanabilir.
+
+El hareketlerinin anlamı da kültüre göre farklılık gösterebilir. Bir ülkede onay anlamına gelen bir işaret, başka bir ülkede kaba sayılabilir. Farklı kültürlerden insanlarla iletişim kurarken bu farkların bilincinde olmak, yanlış anlamaları önlemeye yardım eder.
+
+### 40 | Antibiyotikler ve Doğru Kullanım
+sub: body | tags: antibiyotik, bakteri, ilaç, direnç
+---
+Antibiyotikler, bakterilerin neden olduğu enfeksiyonları tedavi etmek için kullanılan ilaçlardır. 20. yüzyılın ortalarından itibaren yaygın olarak kullanılmaya başlanan antibiyotikler, tıp tarihinin en önemli gelişmelerinden biri olarak kabul edilir.
+
+İlk antibiyotiklerden biri olan penisilin, 1928'de Alexander Fleming tarafından keşfedildi. Fleming, laboratuvarında bakteri üretilen bir kabın bir küf mantarıyla kirlendiğini ve küfün çevresinde bakterilerin üremediğini fark etti.
+
+Antibiyotiklerle ilgili en önemli bilgilerden biri, onların virüslere karşı etkili olmamasıdır. Soğuk algınlığı ve gribin büyük çoğunluğu virüslerden kaynaklanır. Bu hastalıklarda antibiyotik kullanmak genellikle fayda sağlamaz.
+
+Antibiyotiklerin gereksiz ya da yanlış kullanımı, ciddi bir soruna yol açar: Antibiyotik direnci. Bakteriler zamanla değişerek antibiyotiklerin etkisinden kurtulmayı öğrenebilir. Dirençli bakterilerin neden olduğu enfeksiyonları tedavi etmek çok daha zordur. Dünya Sağlık Örgütü antibiyotik direncini önemli bir küresel sağlık tehdidi olarak tanımlar.
+
+Bu yüzden antibiyotikler yalnızca hekim önerisiyle ve önerildiği şekilde kullanılmalıdır. Kendi kendine ilaç başlamak, artan ilaçları sonradan kullanmak ya da başkasının ilacını kullanmak doğru değildir.
+
+### 41 | Bilgisayarlar İkili Sistemi Nasıl Kullanır?
+sub: technology | tags: ikili sistem, bit, bilgisayar, sayı
+---
+Biz günlük hayatta onluk sayı sistemini kullanırız. Sıfırdan dokuza kadar on rakamımız vardır. Bilgisayarlar ise yalnızca iki rakam kullanır: Sıfır ve bir. Bu sisteme ikili sistem denir.
+
+Bilgisayarların ikili sistemi kullanmasının nedeni, elektronik devrelerin iki durumu ayırt etmesinin çok kolay ve güvenilir olmasıdır. Bir anahtar ya açıktır ya kapalı; bir devrede ya akım vardır ya yoktur. Bu iki durum, bir ve sıfır olarak temsil edilir.
+
+İkili sistemdeki her rakama bit denir. Tek bir bit sadece iki durumu gösterebilir. Ama bitler bir araya geldiğinde çok daha fazla bilgi taşıyabilir. Sekiz bitlik bir gruba bayt denir ve bir bayt iki yüz elli altı farklı değer alabilir.
+
+İkili sistemde basamak değerleri ikinin katlarıyla artar. Sağdan sola birinci basamak bir, ikinci basamak iki, üçüncü basamak dört, dördüncü basamak sekizdir. Örneğin ikili sistemdeki "101" sayısı, onluk sistemde dört artı sıfır artı bir, yani beştir.
+
+Bilgisayardaki her şey sonuçta bitlerle temsil edilir: Sayılar, harfler, fotoğraflar, müzik ve videolar. Her harfin bir sayısal kodu vardır. Bir fotoğraftaki her noktanın rengi sayılarla ifade edilir. Bilgisayar, bu milyonlarca biti çok büyük bir hızla işleyerek ekranda gördüğümüz her şeyi oluşturur.
+
+### 42 | Karadeniz'in Özellikleri
+sub: geography | tags: Karadeniz, deniz, oksijen, coğrafya
+---
+Karadeniz, Türkiye'nin kuzeyinde, Avrupa ile Asya arasında yer alan iç denizdir. Akdeniz'e İstanbul Boğazı, Marmara Denizi ve Çanakkale Boğazı aracılığıyla bağlanır.
+
+Karadeniz'in en ilginç özelliklerinden biri katmanlı yapısıdır. Denize Tuna, Dinyeper ve Don gibi büyük nehirler dökülür. Bu nehirlerin getirdiği tatlı su, yüzeyde daha az tuzlu ve hafif bir tabaka oluşturur. Derinlerde ise Akdeniz'den gelen daha tuzlu ve ağır su bulunur. İki katman birbirine çok az karışır.
+
+Bu az karışma nedeniyle Karadeniz'in derin sularına oksijen ulaşamaz. Belirli bir derinliğin altında su neredeyse tamamen oksijensizdir. Bu derinliklerde, bazı mikroorganizmalar dışında yaşam yok denecek kadar azdır. Bu durum Karadeniz'i dünyanın en büyük oksijensiz su kütlelerinden biri yapar.
+
+Oksijensiz derinliklerin şaşırtıcı bir sonucu da vardır. Normalde suyun altındaki ahşap, onu parçalayan canlılar tarafından zamanla yok edilir. Karadeniz'in derinliklerinde bu canlılar yaşayamadığı için, yüzyıllar önce batmış ahşap gemiler şaşırtıcı derecede iyi korunmuş olarak bulunabilir.
+
+Karadeniz'in yüzey suları ise canlılık açısından zengindir. Hamsi, bu denizin en bilinen balıklarından biridir ve bölgenin kültüründe önemli bir yer tutar.
+
+### 43 | Odaklanma ve Dikkat Dağınıklığı
+sub: learning | tags: dikkat, odaklanma, bildirim, verimlilik
+---
+Bir işe odaklanmaya çalışırken telefonun titremesi, bir bildirimin sesi ya da aklımıza gelen bir düşünce dikkatimizi kolayca dağıtabilir. Dikkatin sınırlı bir kaynak olduğunu bilmek, onu daha iyi kullanmamıza yardım eder.
+
+Pek çok insan aynı anda birden fazla iş yapabildiğini düşünür. Oysa araştırmalar, dikkat gerektiren iki işi gerçekten aynı anda yapmanın çok zor olduğunu gösterir. Çoğu zaman yaptığımız şey, işler arasında hızla geçiş yapmaktır. Her geçiş zaman ve zihinsel enerji kaybına yol açar. Bu yüzden tek bir işe odaklanmak genellikle daha verimlidir.
+
+Odaklanmayı artırmak için bazı basit yöntemler vardır. Çalışırken telefonu başka bir odaya koymak ya da bildirimleri kapatmak, dikkat dağıtıcıları azaltır. Çalışma süresini belirli zaman dilimlerine bölmek de işe yarar. Örneğin yirmi beş dakika çalışıp beş dakika ara vermek, popüler bir yöntemdir.
+
+Çalışma ortamının düzeni de önemlidir. Masada sadece o işle ilgili malzemelerin bulunması dikkati korur. Bazı insanlar sessizlikte, bazıları hafif bir arka plan sesiyle daha iyi odaklanır.
+
+Dinlenmek de odaklanmanın bir parçasıdır. Zihin uzun süre aralıksız çalıştığında yorulur. Kısa yürüyüşler, pencereden dışarı bakmak ya da birkaç dakika gözleri kapatmak, dikkatin yenilenmesine yardım edebilir.
+
+### 44 | Osmanlı'da Vakıflar
+sub: history | tags: vakıf, Osmanlı, sosyal hizmet, tarih
+---
+Osmanlı toplumunda pek çok sosyal hizmet, vakıflar aracılığıyla sağlanıyordu. Vakıf, bir kişinin malını ya da gelirini belirli bir hayır amacına kalıcı olarak ayırmasıyla kurulan bir kurumdur.
+
+Vakıflar çok çeşitli hizmetler sunuyordu. Camiler, medreseler, kütüphaneler, hastaneler, çeşmeler, köprüler, kervansaraylar ve aşevleri vakıflar tarafından yaptırılıyor ve işletiliyordu. Bazı vakıflar ise çok özel amaçlar için kurulmuştu: Fakir kızlara çeyiz hazırlamak, borcu yüzünden hapse düşenlerin borcunu ödemek, göçmen kuşlara yiyecek vermek ya da kırılan kapları yenilemek gibi.
+
+Bir vakfın nasıl yönetileceği, vakfiye adı verilen bir belgeyle belirlenirdi. Vakfiyede vakfın amacı, gelir kaynakları, çalışanların görevleri ve ücretleri ayrıntılı biçimde yazılırdı. Vakfın gelirleri genellikle dükkânlar, hanlar, tarlalar gibi mülklerin kiralarından sağlanırdı.
+
+Vakıflar sadece padişahlar ve devlet büyükleri tarafından kurulmuyordu. Kadınlar da dahil olmak üzere toplumun farklı kesimlerinden pek çok kişi vakıf kurmuştu.
+
+Bu kurumlar, devletin doğrudan sağlamadığı birçok hizmetin halka ulaşmasını sağlıyordu. Bugün de Türkiye'nin pek çok şehrinde vakıflar tarafından yaptırılmış tarihî çeşmeler, köprüler ve külliyeler ayakta durmaktadır.
+
+### 45 | Mikroskobun Gözüyle Dünya
+sub: science | tags: mikroskop, hücre, bilim tarihi, gözlem
+---
+Gözümüzle göremediğimiz kadar küçük bir dünya var: Bakteriler, hücreler, polen taneleri, minik su canlıları. Bu dünyayı keşfetmemizi sağlayan alet mikroskoptur.
+
+İlk mikroskoplar 16. yüzyılın sonu ile 17. yüzyılın başında Avrupa'da ortaya çıktı. 17. yüzyılda İngiliz bilim insanı Robert Hooke, mikroskopla bir mantar tıpasının ince bir dilimini inceledi. Gördüğü küçük, odacık benzeri yapılara "hücre" adını verdi.
+
+Aynı dönemde Hollandalı Antonie van Leeuwenhoek, kendi yaptığı tek mercekli mikroskoplarla şaşırtıcı keşifler yaptı. Bir damla su, diş arasından alınan bir örnek ya da başka sıvılar içinde hareket eden minik canlıları ilk gözlemleyen kişiler arasında yer aldı. Bu canlılara "küçük hayvancıklar" adını verdi.
+
+Bugün okullarda kullanılan ışık mikroskopları, ışığı ve mercekleri kullanarak nesneleri yüzlerce kez büyütebilir. Daha küçük yapıları görmek için ise elektron mikroskopları kullanılır. Bu mikroskoplar ışık yerine elektron demetleriyle çalışır ve virüsler gibi çok küçük yapıları bile görüntüleyebilir.
+
+Mikroskop, biyolojiden tıbba, malzeme biliminden suç araştırmalarına kadar pek çok alanda vazgeçilmez bir araçtır. Mikroskobun icadı, hastalıkların nedenlerinin anlaşılmasında da büyük rol oynamıştır.
+
+### 46 | Yapay Zekâya İyi Soru Sormak
+sub: ai | tags: yapay zekâ, soru sorma, istem, kullanım
+---
+Yapay zekâ sohbet araçlarından alınan cevapların kalitesi, büyük ölçüde sorulan sorunun kalitesine bağlıdır. Belirsiz bir soru genellikle genel bir cevap getirir. Açık ve ayrıntılı bir soru ise daha kullanışlı sonuçlar verir.
+
+İyi bir sorunun ilk özelliği bağlam vermesidir. "Bir e-posta yaz" yerine "Ev sahibime musluk arızasını bildiren, kibar ama net bir e-posta yaz" demek, aracın ne istediğinizi anlamasını kolaylaştırır.
+
+İkinci özellik, istenen biçimi belirtmektir. Cevabın ne kadar uzun olacağı, madde işaretli mi yoksa paragraf hâlinde mi olacağı, kime hitap edeceği gibi bilgiler sonucu iyileştirir.
+
+Üçüncü olarak, örnek vermek işe yarayabilir. Beğendiğiniz bir yazı tarzını göstermek, aracın benzer bir tonda yazmasına yardım eder.
+
+Cevabı aldıktan sonra konuşmaya devam etmek de önemlidir. İlk cevap tam istediğiniz gibi olmayabilir. "Daha kısa yap", "Daha resmî bir dil kullan" ya da "Şu kısmı açıkla" gibi isteklerle cevabı geliştirebilirsiniz.
+
+Son olarak, bu araçlarla kişisel ve hassas bilgileri paylaşırken dikkatli olmak gerekir. Önemli kararlar ve olgusal bilgiler söz konusu olduğunda cevapları güvenilir kaynaklarla kontrol etmek her zaman iyi bir alışkanlıktır.
+
+### 47 | Mahalle Ekonomisi: Yerel Alışverişin Etkisi
+sub: economy | tags: yerel ekonomi, esnaf, alışveriş, topluluk
+---
+Mahalledeki bakkaldan, fırından ya da manavdan alışveriş yaptığımızda, harcadığımız paranın bir kısmı yine o mahallede kalır. Ekonomistler bu durumu yerel ekonomi kavramıyla açıklar.
+
+Yerel bir işletme, gelirinin bir bölümünü bölgedeki diğer işletmelerle ve çalışanlarıyla paylaşabilir. Bir fırın unu yakındaki bir değirmenden alıyor, mahalleden çalışan istihdam ediyor ve muhasebe işlerini yerel bir muhasebeciye yaptırıyorsa, harcanan para bölge içinde dolaşmaya devam eder. Paranın bir bölgede birden fazla el değiştirmesine çarpan etkisi denir.
+
+Yerel işletmelerin ekonomik etkilerinin yanında sosyal etkileri de vardır. Mahalle esnafı çoğu zaman müşterilerini tanır, sohbet eder, gerektiğinde yardım eder. Bu ilişkiler mahallede güven ve dayanışma duygusunu güçlendirir.
+
+Bununla birlikte, büyük mağazaların ve çevrim içi alışverişin de avantajları vardır. Genellikle daha geniş ürün çeşitliliği ve bazen daha düşük fiyatlar sunarlar. Tüketiciler, alışveriş kararlarını verirken fiyat, kalite, kolaylık ve yerel ekonomiye katkı gibi farklı etkenleri tartabilir.
+
+Herkes için tek bir doğru seçim yoktur. Ama yaptığımız alışverişin sadece bir ürün satın almak olmadığını, aynı zamanda bir ekonomik ağın parçası olduğunu bilmek, daha bilinçli kararlar vermemize yardım eder.
+
+### 48 | Yeryüzündeki Saat Dilimleri
+sub: geography | tags: saat dilimi, zaman, boylam, dünya
+---
+İstanbul'da öğle vakti olduğunda Tokyo'da akşam, New York'ta ise sabahın erken saatleridir. Dünyanın farklı yerlerinde farklı saatlerin yaşanmasının nedeni, Dünya'nın kendi ekseni etrafında dönmesidir.
+
+Dünya, kendi ekseni etrafında yaklaşık yirmi dört saatte bir tur atar. Bu süre içinde Güneş, gezegenin farklı bölgelerini sırayla aydınlatır. Bir yerde öğle vakti, Güneş'in gökyüzünde en yüksek noktaya ulaştığı zamandır. Bu an, doğudaki yerlerde batıdakilerden daha önce yaşanır.
+
+Eskiden her kasaba kendi yerel saatini Güneş'e göre ayarlıyordu. Ancak 19. yüzyılda demiryollarının yaygınlaşmasıyla bu durum büyük karışıklıklara yol açtı. Tren tarifelerini düzenlemek için ortak saatlere ihtiyaç duyuldu. Böylece saat dilimleri sistemi gelişti.
+
+Teoride Dünya, her biri yaklaşık on beş boylam genişliğinde yirmi dört saat dilimine ayrılır. Çünkü Dünya bir saatte on beş derece döner. Ancak pratikte saat dilimlerinin sınırları, ülke sınırlarına ve siyasi kararlara göre düzensiz çizgiler izler. Bazı ülkeler, geniş topraklarına rağmen tek bir saat dilimi kullanır.
+
+Uluslararası tarih değiştirme çizgisi ise büyük ölçüde Pasifik Okyanusu'ndan geçer. Bu çizgiyi geçenler, yönlerine göre takvimde bir gün ileri ya da geri gider.
+
+### 49 | Ön Yargılar Nasıl Oluşur?
+sub: psychology | tags: ön yargı, düşünme, kalıp yargı, empati
+---
+Birini tanımadan, sadece bir gruba ait olduğu için hakkında olumlu ya da olumsuz bir yargıya varmak ön yargıdır. Ön yargılar hepimizde bir ölçüde bulunur ve çoğu zaman farkında olmadan oluşur.
+
+Beynimiz, karmaşık dünyayı anlamlandırmak için kategoriler kullanır. Bu kategoriler hızlı karar vermemizi sağlar. Bir köpeğin havladığını duyunca dikkatli olmak gibi. Ancak bu kategorileri insanlara uyguladığımızda, bir grubun tüm üyelerinin aynı özelliklere sahip olduğunu düşünmeye başlayabiliriz. Buna kalıp yargı denir.
+
+Ön yargılar farklı kaynaklardan beslenebilir: Çevremizden duyduklarımız, medyada gördüğümüz temsiller, sınırlı kişisel deneyimler. Bir grupla ilgili tek bir olumsuz deneyim, bazen o grubun tamamına genellenebilir.
+
+Araştırmalar, ön yargıları azaltmanın bazı yollarını ortaya koymuştur. Farklı gruplardan insanlarla eşit koşullarda, ortak bir amaç için bir araya gelmek bunlardan biridir. İnsanları bireyler olarak tanımak, onları gruplarının temsilcileri olarak görmekten çok daha doğru bir bakış sağlar.
+
+Kendi ön yargılarımızı fark etmek kolay değildir. Ama bir yargıya varmadan önce kendimize "Bunu neye dayanarak düşünüyorum?" diye sormak, daha adil ve açık fikirli olmanın ilk adımı olabilir.
+
+### 50 | Ölçü Birimlerinin Hikâyesi
+sub: tools | tags: ölçü, metre, kilogram, standart
+---
+Bir zamanlar uzunluklar insan bedeniyle ölçülürdü: Karış, ayak, kulaç, adım. Ama herkesin ayağı aynı uzunlukta olmadığı için bu ölçüler kişiden kişiye ve yerden yere değişiyordu. Ticarette ve inşaatta bu durum büyük karışıklıklara neden oluyordu.
+
+18. yüzyılın sonunda Fransa'da, herkes için ortak ve doğaya dayalı bir ölçü sistemi oluşturma çalışmaları başladı. Böylece metre doğdu. Metre ilk olarak, Kuzey Kutbu'ndan ekvatora uzanan mesafenin on milyonda biri olarak tanımlandı. Kilogram ise başlangıçta belirli bir hacimdeki suyun kütlesine dayandırıldı.
+
+Bu sistemin en büyük avantajı ondalık olmasıdır. Birimler arasında geçiş için sadece on, yüz ya da binle çarpmak veya bölmek yeterlidir. Bir kilometre bin metre, bir metre yüz santimetredir.
+
+Zamanla bu sistem geliştirildi ve Uluslararası Birimler Sistemi adını aldı. Bugün dünyanın neredeyse tüm ülkeleri bu sistemi resmî olarak kullanır. Türkiye de metrik sisteme Cumhuriyet'in ilk yıllarında geçmiştir.
+
+Bilim ilerledikçe birimlerin tanımları da değişti. Günümüzde metre ışık hızına, kilogram ise temel bir fizik sabitine dayanarak tanımlanır. Böylece birimler, herhangi bir fiziksel nesneye bağlı olmaktan kurtulmuştur.

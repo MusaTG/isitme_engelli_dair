@@ -1,0 +1,200 @@
+{
+ "id": "tr-core",
+ "lang": "tr",
+ "version": "2.0.0",
+ "license": "MIT",
+ "source": "Duyum projesi için özgün içerik",
+ "review": "draft",
+ "notes": "Uzman (DKT/odyolog) incelemesi bekliyor.",
+ "categories": {
+  "people": {
+   "tr": "İnsanlar ve aile",
+   "en": "People and family"
+  },
+  "body": {
+   "tr": "Vücut ve kişisel bakım",
+   "en": "Body and personal care"
+  },
+  "home": {
+   "tr": "Ev ve odalar",
+   "en": "Home and rooms"
+  },
+  "kitchen": {
+   "tr": "Mutfak ve ev eşyaları",
+   "en": "Kitchen and household items"
+  },
+  "food": {
+   "tr": "Yiyecek ve içecek",
+   "en": "Food and drink"
+  },
+  "animals": {
+   "tr": "Hayvanlar",
+   "en": "Animals"
+  },
+  "nature": {
+   "tr": "Doğa ve çevre",
+   "en": "Nature and environment"
+  },
+  "plants": {
+   "tr": "Tarım ve bitkiler",
+   "en": "Farming and plants"
+  },
+  "colors": {
+   "tr": "Renkler ve şekiller",
+   "en": "Colours and shapes"
+  },
+  "clothes": {
+   "tr": "Giysiler",
+   "en": "Clothes"
+  },
+  "school": {
+   "tr": "Okul ve eğitim",
+   "en": "School and education"
+  },
+  "jobs": {
+   "tr": "İş ve meslekler",
+   "en": "Jobs and occupations"
+  },
+  "office": {
+   "tr": "Ofis ve toplantılar",
+   "en": "Office and meetings"
+  },
+  "tech": {
+   "tr": "Teknoloji",
+   "en": "Technology"
+  },
+  "transport": {
+   "tr": "Ulaşım ve araçlar",
+   "en": "Transport and vehicles"
+  },
+  "city": {
+   "tr": "Şehir ve yönler",
+   "en": "City and directions"
+  },
+  "shopping": {
+   "tr": "Market ve alışveriş",
+   "en": "Shopping"
+  },
+  "restaurant": {
+   "tr": "Restoran ve sipariş",
+   "en": "Restaurant and ordering"
+  },
+  "health": {
+   "tr": "Günlük sağlık iletişimi",
+   "en": "Everyday health communication"
+  },
+  "numbers": {
+   "tr": "Sayılar ve matematik",
+   "en": "Numbers and maths"
+  },
+  "time": {
+   "tr": "Saat, tarih ve takvim",
+   "en": "Time, date and calendar"
+  },
+  "weather": {
+   "tr": "Hava durumu",
+   "en": "Weather"
+  },
+  "emotions": {
+   "tr": "Duygular ve sosyal ifadeler",
+   "en": "Feelings and social phrases"
+  },
+  "verbs": {
+   "tr": "Fiiller ve eylemler",
+   "en": "Verbs and actions"
+  },
+  "adjectives": {
+   "tr": "Sıfatlar ve karşıtlar",
+   "en": "Adjectives and opposites"
+  },
+  "questions": {
+   "tr": "Soru kelimeleri",
+   "en": "Question words"
+  },
+  "function": {
+   "tr": "Zamirler, bağlaçlar, edatlar",
+   "en": "Pronouns, conjunctions, prepositions"
+  },
+  "phrases": {
+   "tr": "Günlük konuşma ifadeleri",
+   "en": "Everyday expressions"
+  },
+  "phone": {
+   "tr": "Telefon ve görüntülü görüşme",
+   "en": "Phone and video calls"
+  },
+  "emergency": {
+   "tr": "Acil durum ifadeleri (eğitim amaçlı)",
+   "en": "Emergency phrases (for practice only)"
+  }
+ },
+ "frames": {
+  "food": [
+   "Masada {w} var.",
+   "Bugün markette {w} aldım."
+  ],
+  "animals": [
+   "Bahçede bir {w} gördüm.",
+   "Kitapta bir {w} resmi var."
+  ],
+  "kitchen": [
+   "Mutfakta bir {w} var.",
+   "Annem yeni bir {w} aldı."
+  ],
+  "clothes": [
+   "Dolapta bir {w} var.",
+   "Bugün yeni bir {w} aldım."
+  ],
+  "home": [
+   "Evimizde yeni bir {w} var."
+  ],
+  "school": [
+   "Çantamda bir {w} var."
+  ],
+  "tech": [
+   "Masada bir {w} duruyor."
+  ],
+  "transport": [
+   "Bugün işe {w.ins} gittim."
+  ],
+  "nature": [
+   "Duvardaki resimde {w} var."
+  ],
+  "plants": [
+   "Köydeki bahçede {w} var."
+  ],
+  "jobs": [
+   "Komşumuz {w} olarak çalışıyor."
+  ]
+ },
+ "infoFrames": {
+  "time": [
+   "Otobüs {x.at} kalkıyor.",
+   "Randevunuz {x.at}.",
+   "Film {x.at} başlıyor."
+  ],
+  "date": [
+   "Sınav {x} tarihinde yapılacak.",
+   "Toplantı {x} günü yapılacak.",
+   "Kursun son günü {x}."
+  ],
+  "money": [
+   "Toplam tutar {x}.",
+   "Bu ceketin fiyatı {x}.",
+   "Elektrik faturası {x} geldi."
+  ],
+  "number": [
+   "Salonda {x} kişi var.",
+   "Bu kitap {x} sayfa.",
+   "Okulumuzda {x} öğrenci okuyor."
+  ],
+  "address": [
+   "Yeni adresimiz {x}.",
+   "Kargo {x} adresine gelecek."
+  ],
+  "phone": [
+   "Numaram {x}.",
+   "Bize {x} numarasından ulaşabilirsiniz."
+  ]
+ }
+}

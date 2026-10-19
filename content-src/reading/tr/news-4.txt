@@ -1,0 +1,137 @@
+### 31 | Emekli Öğretmenler Köy Çocuklarına Çevrim İçi Ders Veriyor
+sub: education | tags: emekli öğretmen, gönüllü, ders, köy
+---
+Bir grup emekli öğretmen, uzak köylerdeki çocuklara gönüllü olarak çevrim içi destek dersleri vermeye başladı. "Bilgi Köprüsü" adlı girişimde şu anda kırk öğretmen ve yüz yirmi öğrenci yer alıyor.
+
+Girişimin kurucusu, otuz beş yıl matematik öğretmenliği yapan Nevzat Kara. Kara, emekli olduktan sonra kendini boşlukta hissettiğini anlatıyor: "Bütün hayatım boyunca öğrettim. Emekli olunca bir sabah uyandım ve kimseye bir şey öğretmediğimi fark ettim. Çok garip bir duyguydu."
+
+Öğretmenler haftada iki kez, akşam saatlerinde öğrencilerle görüntülü görüşme yapıyor. Dersler matematik, Türkçe, fen bilimleri ve İngilizce üzerine. Her öğretmen en fazla üç öğrenciyle çalışıyor, böylece her çocuğa yeterli zaman ayrılabiliyor.
+
+Bazı köylerde internet bağlantısı zayıf olduğu için dersler zaman zaman kesiliyor. Girişim bu sorunu çözmek için köy okullarıyla iş birliği yaptı. Öğrenciler dersleri okulun bilgisayar odasından takip edebiliyor.
+
+On iki yaşındaki Esra, Nevzat Hoca'yla çalışmaya başladıktan sonra matematikten korkmayı bıraktığını söylüyor. "Hoca bana kesirleri pizza dilimleriyle anlattı. İlk defa anladım."
+
+### 32 | Şehirde Sokak Ağaçlarına Kimlik Kartı
+sub: environment | tags: ağaç, şehir, kayıt, çevre
+---
+Akçaşehir Belediyesi, şehrin caddelerindeki ağaçları tek tek kayıt altına aldı. Her ağacın gövdesine türünü, yaşını ve dikim tarihini gösteren küçük bir levha asıldı.
+
+Kayıt çalışması bir yıl sürdü. Belediyenin park ve bahçeler ekibi, şehirdeki on bir bin ağacı ölçtü, fotoğrafladı ve sağlık durumunu not etti. Bilgiler dijital bir haritaya işlendi. Vatandaşlar bu haritaya internetten ulaşabiliyor.
+
+Belediyenin çevre müdürü Melike Aydın, çalışmanın amacının ağaçları daha iyi korumak olduğunu söyledi. "Hangi ağacın hasta olduğunu, hangisinin budanması gerektiğini artık biliyoruz. Ayrıca bir ağaç kesilmek istendiğinde, onun kaç yaşında olduğunu ve şehre ne kattığını görebiliyoruz."
+
+Kayıt sırasında bazı sürprizler de çıktı. Şehrin en yaşlı ağacının, eski çarşının yanındaki bir çınar olduğu belirlendi. Uzmanlar ağacın yaklaşık üç yüz yaşında olduğunu tahmin ediyor. Çınarın etrafına koruyucu bir çit yapıldı.
+
+Belediye, vatandaşları da sürece dahil etmek istiyor. Haritada her ağacın sayfasına yorum yazılabiliyor. Bir ağacın dalı kırıldığında veya hastalık belirtisi gösterdiğinde vatandaşlar bunu bildirebiliyor.
+
+### 33 | Kâğıt Nasıl Geri Dönüştürülür?
+sub: environment | kind: feature | tags: kâğıt, geri dönüşüm, atık, fabrika
+---
+Gazeteler, kartonlar, defterler ve ambalajlar. Her gün büyük miktarda kâğıt kullanıyoruz. Bu kâğıtların önemli bir kısmı geri dönüştürülerek yeniden kullanılabilir. Peki bu süreç nasıl işler?
+
+Geri dönüşüm kutularına atılan kâğıtlar önce toplama merkezlerine getirilir. Burada türlerine göre ayrılır: Gazete kâğıdı, karton, ofis kâğıdı. Plastik, metal ve diğer yabancı maddeler ayıklanır.
+
+Ayrılan kâğıtlar geri dönüşüm tesisinde büyük tanklara konur ve suyla karıştırılır. Karıştırıcılar kâğıdı parçalayarak lifli bir hamura dönüştürür. Bu hamura kâğıt hamuru denir.
+
+Hamur elekten geçirilerek zımba telleri, bant ve plastik parçaları gibi kalıntılardan temizlenir. Basılı kâğıtların mürekkebi ise mürekkep giderme adı verilen bir işlemle ayrılır. Bu aşamada hava kabarcıkları mürekkep parçacıklarını yüzeye taşır ve köpükle birlikte alınır.
+
+Temizlenen hamur ince bir tabaka hâlinde yayılır, preslenir ve ısıtılmış silindirlerle kurutulur. Sonuçta yeni kâğıt rulolar elde edilir.
+
+Kâğıt sonsuza kadar geri dönüştürülemez. Her dönüşümde lifler biraz daha kısalır. Genel olarak bir kâğıt lifinin birkaç kez geri dönüştürülebildiği kabul edilir. Bu yüzden üretimde yeni liflerle geri dönüştürülmüş lifler çoğu zaman karıştırılır.
+
+Kâğıdı geri dönüşüme atarken bazı kurallara dikkat etmek gerekir. Yağlı pizza kutuları, ıslak mendiller ve plastik kaplı kâğıtlar genellikle geri dönüştürülemez.
+
+### 34 | Kasabanın İlk Kadın Futbol Takımı Kuruldu
+sub: community | tags: futbol, kadınlar, spor, takım
+---
+Dereköy kasabasında ilk kadın futbol takımı kuruldu. Takımda on altı ile kırk iki yaş arasında yirmi iki oyuncu yer alıyor.
+
+Takımın kurulma fikri, kasabanın beden eğitimi öğretmeni Serap Tunç'tan çıktı. Tunç, okuldaki kız öğrencilerin futbola ilgisini gördükçe onların oynayabileceği bir takımın olmamasına üzüldüğünü söyledi. "Kızlar okulda oynuyordu ama mezun olunca bırakıyorlardı. Devam edebilecekleri bir yer yoktu."
+
+Tunç, kasaba belediyesine başvurdu. Belediye, haftada üç akşam kasaba stadını takıma ayırdı. Formalar ise kasabanın esnafının bağışlarıyla alındı. Takımın kaptanı, otuz beş yaşındaki iki çocuk annesi Gülsüm oldu.
+
+Takım ilk maçını komşu kasabanın kadın takımıyla oynadı. Maç 3-2 kaybedildi ama tribünler doluydu. Kasabalılar takımı ayakta alkışladı. Gülsüm, maçtan sonra oğlunun ona sarılıp "Anne, sen çok iyi oynadın," dediğini anlattı.
+
+Takım şimdi bölgesel ligde oynamak için hazırlanıyor. Serap Tunç'un hedefi ise daha büyük: "Bir gün bu takımdan çıkan bir oyuncuyu milli takımda görmek istiyorum."
+
+### 35 | Gelgit Nedir ve Neden Olur?
+sub: science | kind: feature | tags: gelgit, ay, deniz, çekim kuvveti
+---
+Bazı sahillerde deniz günde iki kez çekilir ve iki kez geri gelir. Kıyıda yürürken saatler önce suyun altında olan kayaların açığa çıktığını görürsünüz. Bu olaya gelgit denir.
+
+Gelgitin temel nedeni Ay'ın çekim kuvvetidir. Ay, Dünya'yı çeker. Bu çekim, Dünya'nın Ay'a bakan tarafında daha güçlü, karşı tarafında daha zayıftır. Bu fark, okyanusların Ay'a bakan tarafta ve tam karşı tarafta hafifçe kabarmasına yol açar.
+
+Dünya kendi ekseni etrafında döndükçe bir kıyı, bu kabarıklıkların içinden geçer. Kabarıklığın içindeyken deniz yükselir; buna met denir. Kabarıklıktan çıkınca deniz alçalır; buna cezir denir. İki kabarıklık olduğu için çoğu yerde günde yaklaşık iki met ve iki cezir yaşanır.
+
+Güneş de gelgiti etkiler ama Ay'dan çok daha uzak olduğu için etkisi daha azdır. Güneş, Ay ve Dünya aynı hizaya geldiğinde, yani yeni ay ve dolunay dönemlerinde, ikisinin etkisi birleşir ve gelgit daha güçlü olur.
+
+Gelgitin büyüklüğü yerden yere çok değişir. Bazı körfezlerde su seviyesi metrelerce yükselip alçalırken, Akdeniz gibi kapalı denizlerde gelgit çok küçüktür. Bu yüzden Türkiye'nin pek çok sahilinde gelgit neredeyse fark edilmez.
+
+### 36 | Hayvan Barınağına Gönüllü Okuma Saatleri
+sub: community | tags: barınak, köpek, kedi, okuma, çocuklar
+---
+Tepecik Hayvan Barınağı, çocukların barınaktaki hayvanlara kitap okuduğu bir program başlattı. Program her cumartesi sabahı yapılıyor ve yedi ile on iki yaş arasındaki çocuklar katılabiliyor.
+
+Barınak sorumlusu veteriner Oğuz Kılıç, programın iki amacı olduğunu açıkladı. "Barınaktaki hayvanlar insan sesine ve sakin bir ortama alışıyor. Bu, onların yeni ailelerine uyum sağlamasını kolaylaştırıyor. Çocuklar ise yargılanmadan sesli okuma pratiği yapıyor. Bir köpek, yanlış okuduğunuz kelimeyi düzeltmez."
+
+Çocuklar, görevliler eşliğinde sakin karakterli köpek ve kedilerin bulunduğu bölümlere alınıyor. Her çocuk bir hayvanın kafesinin önüne oturup yarım saat boyunca kitap okuyor. Hayvanlar çoğu zaman kafesin önüne gelip yatıyor ve dinliyor.
+
+Program başladığından beri barınaktan sahiplendirilen hayvan sayısında da artış oldu. Bazı aileler, çocuklarının kitap okuduğu hayvanı sahiplenmeye karar verdi.
+
+Dokuz yaşındaki Mert, her hafta aynı köpeğe kitap okuyor. "Adı Pamuk. İlk geldiğimde köşede saklanıyordu. Şimdi beni görünce kuyruğunu sallıyor," dedi. Mert'in ailesi Pamuk'u sahiplenmek için başvuru yaptı.
+
+### 37 | Antik Kentte Yeni Bir Mozaik Gün Yüzüne Çıktı
+sub: history | tags: arkeoloji, mozaik, kazı, antik kent
+---
+Kuzeybatı Anadolu'daki hayalî Eskikale antik kentinde süren kazılarda büyük bir taban mozaiği ortaya çıkarıldı. Mozaiğin bir zenginin evinin yemek salonunu süslediği düşünülüyor.
+
+Kazı başkanı arkeolog Doçent Gizem Uçar, mozaiğin yaklaşık altmış metrekare olduğunu açıkladı. "Mozaik geometrik desenlerle çevrili. Ortasında ise deniz canlıları tasvir edilmiş: Balıklar, ahtapotlar, yunuslar. Renkleri hâlâ çok canlı."
+
+Mozaik, kazı ekibinin gönüllü öğrencilerinden biri tarafından fark edildi. Öğrenci, bir duvarın kalıntısını temizlerken toprağın altında renkli taşlar gördü. Ekip birkaç hafta boyunca dikkatle çalışarak mozaiğin tamamını açığa çıkardı.
+
+Arkeologlar mozaiğin korunması için önlemler aldı. Mozaiğin üzeri koruyucu bir örtüyle kapatıldı ve etrafına geçici bir çatı yapıldı. Uzmanlar, mozaiğin yerinde mi bırakılacağına yoksa bir müzeye mi taşınacağına karar verecek.
+
+Uçar, kazıların önümüzdeki yıllarda da süreceğini söyledi. "Bu ev, kentin varlıklı mahallesinin sadece bir parçası. Etrafta daha pek çok yapı olduğunu düşünüyoruz."
+
+### 38 | Fermente Gıdalar: Turşudan Yoğurda
+sub: agriculture | kind: feature | tags: fermantasyon, yoğurt, turşu, mutfak
+---
+Yoğurt, turşu, peynir, boza, ekşi maya ekmeği. Bu yiyeceklerin ortak bir noktası var: Hepsi fermantasyon adı verilen bir süreçle yapılır.
+
+Fermantasyon, mikroorganizmaların, yani bakteri ve maya gibi çok küçük canlıların, yiyeceklerdeki şekerleri başka maddelere dönüştürmesidir. Örneğin yoğurtta bazı bakteriler sütteki şekeri, laktozu, laktik aside dönüştürür. Bu asit sütü koyulaştırır ve ona ekşimsi tadını verir.
+
+İnsanlar fermantasyonu binlerce yıldır kullanıyor. Buzdolabının olmadığı zamanlarda fermantasyon, yiyecekleri uzun süre saklamanın en önemli yollarından biriydi. Asitli ortam, yiyecekleri bozan pek çok mikroorganizmanın üremesini zorlaştırır.
+
+Turşu yapımında sebzeler tuzlu suya konur. Tuz, istenmeyen bazı mikropları baskılarken laktik asit bakterilerinin çalışmasına izin verir. Birkaç gün ya da hafta içinde sebzeler ekşir ve turşu olur.
+
+Ekmek yapımında ise mayalar şekerleri karbondioksit gazına ve az miktarda alkole dönüştürür. Gaz kabarcıkları hamuru kabartır. Pişirme sırasında alkol buharlaşır.
+
+Anadolu mutfağı fermente yiyecekler bakımından çok zengindir. Yoğurt, ayran, tarhana, şalgam, boza ve çeşit çeşit turşu bu mirasın parçalarıdır.
+
+### 39 | Akıllı Telefonla Çekilen Fotoğraflar Sergiye Dönüştü
+sub: culture | tags: fotoğraf, sergi, telefon, mahalle
+---
+Kumbaşı Mahallesi'nde yaşayan altmış yaş üstü kişilerin akıllı telefonla çektiği fotoğraflar, mahalle kültür evinde sergilendi. "Gözümüzden Mahallemiz" adlı sergide yetmiş fotoğraf yer alıyor.
+
+Sergi, kültür evinde düzenlenen bir fotoğraf kursunun sonucu. Kursa katılan yirmi iki kişi, önce telefonlarının kamerasını nasıl kullanacaklarını öğrendi. Sonra ışık, açı ve kompozisyon üzerine dersler aldılar. Kursun son haftasında her katılımcıdan mahallede onlar için önemli olan bir şeyi fotoğraflaması istendi.
+
+Fotoğraflarda mahallenin eski çeşmesi, bir fırının sabah ışığındaki vitrini, bir çocuğun okul yolunda bıraktığı ayak izleri ve bir balkondaki sardunyalar var. Yetmiş dört yaşındaki Kâmil Bey'in çektiği bir fotoğraf ise en çok beğenilen oldu: Mahallenin kedisinin, bir bankın üstünde güneşlendiği an.
+
+Kursun öğretmeni fotoğrafçı Pınar Yalçın, katılımcıların çoğunun telefonu sadece arama yapmak için kullandığını söyledi. "Şimdi her şeyi fotoğraflıyorlar. Torunlarına fotoğraf gönderiyorlar. Gözleri değişti, mahalleye başka türlü bakıyorlar."
+
+Sergi bir ay boyunca açık kalacak. Daha sonra fotoğraflar mahallenin sokaklarına, büyük baskılar hâlinde asılacak.
+
+### 40 | Volkanlar Nasıl Oluşur?
+sub: science | kind: feature | tags: volkan, magma, levha, yer bilimi
+---
+Volkanlar, yerin derinliklerindeki erimiş kayaların yüzeye çıktığı yerlerdir. Bazen sakin bir şekilde lav akıtır, bazen de büyük bir patlamayla kül ve gaz püskürtürler.
+
+Dünya'nın dış kabuğu, levha adı verilen büyük parçalardan oluşur. Bu levhalar çok yavaş hareket eder; yılda birkaç santimetre kadar. Volkanların çoğu bu levhaların sınırlarında bulunur.
+
+Bazı yerlerde iki levha birbirinden uzaklaşır. Aradaki boşluktan yerin derinliklerinden magma yükselir. Okyanusların ortasındaki sıradağlar bu şekilde oluşur. Bazı yerlerde ise bir levha diğerinin altına dalar. Dalan levha derinlerde ısınır ve çevresindeki kayaların erimesine katkıda bulunur. Oluşan magma yükselerek volkanları besler.
+
+Bazı volkanlar ise levha sınırlarından uzakta, sıcak nokta adı verilen yerlerde oluşur. Burada yerin derinliklerinden yükselen sıcak malzeme, kabuğu delip geçer.
+
+Magma yüzeye çıktığında lav adını alır. Lavın akışkanlığı, içindeki maddelere bağlıdır. Akışkan lavlar uzun mesafeler boyunca akabilir. Koyu ve yapışkan lavlar ise gazları hapseder ve bu durum daha şiddetli patlamalara yol açabilir.
+
+Anadolu'da da sönmüş ya da uzun süredir uykuda olan volkanlar bulunur. Kapadokya'nın peri bacaları, bölgedeki eski volkanlardan çıkan küllerin zamanla aşınmasıyla oluşmuştur.

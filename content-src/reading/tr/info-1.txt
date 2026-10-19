@@ -1,0 +1,328 @@
+### 1 | Fotosentez Nedir?
+sub: science | tags: bitki, fotosentez, güneş, oksijen
+---
+Fotosentez, yeşil bitkilerin ve bazı başka canlıların güneş ışığını kullanarak kendi besinlerini üretmesidir. Bu süreç, Dünya'daki yaşamın temel taşlarından biridir.
+
+Bitkiler fotosentez için üç şeye ihtiyaç duyar: Işık, su ve karbondioksit. Su kökler aracılığıyla topraktan alınır. Karbondioksit ise yapraklardaki küçük gözeneklerden, yani stomalardan havadan alınır. Işık enerjisi, yapraklardaki kloroplast adı verilen yapılarda bulunan klorofil tarafından yakalanır.
+
+Bitki bu malzemeleri kullanarak glikoz adı verilen bir şeker üretir. Glikoz, bitkinin enerji kaynağıdır ve büyümesi için gereken diğer maddelerin yapımında kullanılır. Bu süreçte bir de yan ürün ortaya çıkar: Oksijen. Bitkiler bu oksijenin önemli bir kısmını havaya bırakır.
+
+Soluduğumuz oksijenin büyük bölümü, milyonlarca yıl boyunca bitkilerin, alglerin ve bazı bakterilerin yaptığı fotosentezin sonucudur. Denizlerdeki küçük algler ve fitoplanktonlar da bu sürece çok büyük katkı sağlar.
+
+Fotosentez aynı zamanda besin zincirinin başlangıcıdır. Otçul hayvanlar bitkileri yer, etçil hayvanlar otçulları. Bu yüzden yediğimiz her şeyin enerjisi, en sonunda bir yaprağın yakaladığı güneş ışığına dayanır.
+
+### 2 | Kalp Nasıl Çalışır?
+sub: body | tags: kalp, dolaşım, kan, damar
+---
+Kalp, göğüs kafesinin içinde, iki akciğerin arasında bulunan kaslı bir organdır. Büyüklüğü aşağı yukarı bir yumruk kadardır. Görevi, kanı vücudun her yerine pompalamaktır.
+
+Kalbin dört odacığı vardır: Üstte iki kulakçık, altta iki karıncık. Kalbin sağ tarafı ile sol tarafı farklı işler yapar. Sağ taraf, vücuttan dönen ve oksijeni azalmış kanı toplar ve akciğerlere gönderir. Akciğerlerde kan karbondioksiti bırakır ve oksijen alır. Oksijenlenmiş kan kalbin sol tarafına döner. Sol karıncık, bu kanı güçlü bir kasılmayla bütün vücuda pompalar.
+
+Kalbin içindeki kapakçıklar, kanın tek yönde akmasını sağlar. Kalp atışı sırasında duyduğumuz "güp güp" sesi, bu kapakçıkların kapanmasından kaynaklanır.
+
+Kalp, kendi elektrik sistemine sahiptir. Kalbin sağ kulakçığındaki özel bir hücre grubu düzenli elektrik sinyalleri üretir. Bu sinyaller kalp kasının uyumlu bir şekilde kasılmasını sağlar. Bu yüzden kalp, bizim düşünmemize gerek kalmadan çalışır.
+
+Dinlenme hâlindeki bir yetişkinin kalbi genellikle dakikada altmış ile yüz arasında atar. Düzenli hareket, dengeli beslenme ve sigaradan uzak durmak, kalp sağlığı için genel olarak önerilen alışkanlıklardır.
+
+### 3 | Bütçe Yapmanın Temelleri
+sub: economy | tags: bütçe, para, gelir, gider
+---
+Bütçe, belirli bir dönemde ne kadar para kazanacağımızı ve bu parayı nasıl harcayacağımızı gösteren bir plandır. Bütçe yapmak, paranın nereye gittiğini görmeyi ve geleceğe hazırlanmayı kolaylaştırır.
+
+Bütçe yapmanın ilk adımı geliri belirlemektir. Maaş, harçlık ya da başka düzenli gelirler yazılır. İkinci adım giderleri listelemektir. Giderler genellikle iki gruba ayrılır. Sabit giderler her ay aşağı yukarı aynıdır: Kira, faturalar, ulaşım kartı. Değişken giderler ise aydan aya farklılık gösterir: Market alışverişi, dışarıda yemek, eğlence.
+
+Birkaç hafta boyunca bütün harcamaları not etmek, çoğu insanın şaşırdığı bir deneyimdir. Küçük harcamaların, örneğin her gün alınan bir kahvenin, ay sonunda büyük bir toplama ulaştığı fark edilir.
+
+Bütçede birikim için de bir pay ayırmak önerilir. Pek çok kişi, gelir hesabına geçer geçmez belirli bir miktarı ayrı bir hesaba aktarır. Buna "önce kendine öde" yaklaşımı denir. Beklenmedik masraflar için bir acil durum fonu oluşturmak da bütçenin önemli bir parçasıdır.
+
+Bütçe katı bir kural listesi değildir. Hayat değiştikçe bütçe de güncellenebilir. Önemli olan, paranın kontrolünün bizde olmasıdır. Kişisel durumunuza özel kararlar için bir uzmana danışmak her zaman iyi bir fikirdir.
+
+### 4 | Yapay Zekâ Nedir?
+sub: ai | tags: yapay zekâ, makine öğrenmesi, bilgisayar, veri
+---
+Yapay zekâ, bilgisayarların normalde insan zekâsı gerektiren işleri yapabilmesini sağlayan teknolojilerin genel adıdır. Bir fotoğraftaki nesneleri tanımak, bir dilden diğerine çeviri yapmak, soruları yanıtlamak ya da bir oyunda hamle seçmek bu işlere örnektir.
+
+Günümüzdeki yapay zekâ sistemlerinin çoğu makine öğrenmesi adı verilen bir yaklaşıma dayanır. Bu yaklaşımda bilgisayara her adımı tek tek anlatmak yerine, çok sayıda örnek verilir. Sistem bu örneklerdeki kalıpları bulmayı öğrenir. Örneğin binlerce kedi ve köpek fotoğrafı gösterilen bir sistem, yeni bir fotoğrafta kedi mi köpek mi olduğunu tahmin etmeyi öğrenebilir.
+
+Büyük dil modelleri, son yıllarda çok konuşulan bir yapay zekâ türüdür. Bu modeller çok büyük miktarda metin üzerinde eğitilir ve dildeki kalıpları öğrenir. Böylece soruları yanıtlayabilir, metin yazabilir, özet çıkarabilir.
+
+Yapay zekânın sınırlarını bilmek de önemlidir. Bu sistemler hata yapabilir, eksik ya da yanlış bilgi verebilir ve bunu çok kendinden emin bir dille yapabilir. Eğitildikleri verilerdeki önyargıları da yansıtabilirler. Bu yüzden önemli konularda yapay zekânın verdiği bilgileri güvenilir kaynaklarla kontrol etmek gerekir.
+
+### 5 | Dünya'nın Katmanları
+sub: geography | tags: yer kabuğu, manto, çekirdek, jeoloji
+---
+Ayaklarımızın altındaki Dünya, bir soğan gibi katmanlardan oluşur. Bilim insanları bu katmanları doğrudan göremez; ama depremlerin oluşturduğu dalgaların Dünya'nın içinden nasıl geçtiğini inceleyerek onlar hakkında bilgi edinir.
+
+En dıştaki katman yer kabuğudur. Üzerinde yaşadığımız bu katman, Dünya'nın büyüklüğüne göre çok incedir. Okyanusların altında daha ince, kıtaların altında daha kalındır.
+
+Kabuğun altında manto bulunur. Manto, Dünya'nın hacminin büyük bölümünü oluşturur. Mantonun kayaları çok sıcaktır ve çok uzun zaman ölçeklerinde, çok yavaş bir şekilde akabilir. Bu yavaş hareketler, yer kabuğunu oluşturan levhaların hareket etmesinde rol oynar.
+
+Mantonun altında dış çekirdek vardır. Dış çekirdek, büyük ölçüde demir ve nikelden oluşan sıvı bir katmandır. Bu sıvı metalin hareketi, Dünya'nın manyetik alanını oluşturur. Pusulaların kuzeyi göstermesi bu manyetik alan sayesindedir.
+
+En içte ise iç çekirdek bulunur. İç çekirdek çok sıcak olmasına rağmen, üzerindeki muazzam basınç nedeniyle katıdır. Dünya'nın merkezinin sıcaklığının, Güneş'in yüzey sıcaklığıyla karşılaştırılabilecek düzeyde olduğu tahmin edilir.
+
+### 6 | Etkili Not Alma Yöntemleri
+sub: learning | tags: not alma, ders, öğrenme, hafıza
+---
+Bir derste ya da toplantıda not almak, bilgiyi hatırlamamıza ve düzenlememize yardım eder. Ama her şeyi kelimesi kelimesine yazmak, iyi not almak anlamına gelmez.
+
+İyi not almanın ilk kuralı dinlemek ve seçmektir. Anlatılan her şeyi değil, ana fikirleri, önemli kavramları ve örnekleri yazmak gerekir. Kendi cümlelerimizle yazmak, bilgiyi işlememizi sağlar ve hatırlamayı kolaylaştırır.
+
+Yaygın kullanılan yöntemlerden biri Cornell yöntemidir. Bu yöntemde sayfa üç bölüme ayrılır. Geniş sağ bölüme ders sırasında notlar alınır. Dar sol bölüme dersten sonra anahtar kelimeler ve sorular yazılır. Sayfanın altına ise kısa bir özet eklenir. Tekrar yaparken sağ tarafı kapatıp sol taraftaki sorulara cevap vermeye çalışmak etkili bir çalışma yoludur.
+
+Bir başka yöntem zihin haritasıdır. Ana konu sayfanın ortasına yazılır ve alt konular dallar hâlinde çevresine yerleştirilir. Bu yöntem, konular arasındaki bağlantıları görmeyi kolaylaştırır.
+
+Hangi yöntem kullanılırsa kullanılsın, notları dersten sonraki kısa bir süre içinde gözden geçirmek çok önemlidir. Eksik yerleri tamamlamak ve kısa bir özet yazmak, öğrenilenlerin kalıcı olmasına yardım eder.
+
+### 7 | Bağışıklık Sistemi: Vücudun Savunma Ekibi
+sub: body | tags: bağışıklık, mikrop, savunma, sağlık
+---
+Her gün bakteriler, virüsler ve mantarlar gibi sayısız mikroorganizmayla karşılaşırız. Bunların çoğu zararsızdır, ama bazıları hastalık yapabilir. Vücudumuzu bu tehditlere karşı koruyan karmaşık yapıya bağışıklık sistemi denir.
+
+Bağışıklık sisteminin ilk savunma hattı fiziksel engellerdir. Deri, mikropların vücuda girmesini engeller. Burun ve boğazdaki mukus mikropları yakalar. Gözyaşı ve tükürük, bazı mikropları zayıflatan maddeler içerir.
+
+Bir mikrop bu engelleri aşarsa doğuştan gelen bağışıklık devreye girer. Bazı beyaz kan hücreleri yabancı maddeleri hızla tanır ve yok etmeye çalışır. Enfeksiyon bölgesinde görülen kızarıklık, ısınma ve şişlik, bu savunmanın işaretleri olabilir.
+
+Daha sonra kazanılmış bağışıklık devreye girer. Bu sistem, belirli bir mikrobu tanımayı öğrenir ve ona özel savunmalar üretir. Antikorlar bunlardan biridir. En ilginç özelliği ise hafızasıdır. Vücut bir mikropla karşılaştıktan sonra onu hatırlar ve bir dahaki karşılaşmada çok daha hızlı tepki verir.
+
+Aşılar da bu hafıza ilkesinden yararlanır. Aşı, vücudu gerçek hastalığa yakalanmadan bir mikrobu tanımaya hazırlar. Bağışıklık sistemiyle ilgili kişisel sorular için bir sağlık profesyoneline danışmak gerekir.
+
+### 8 | Atasözleri ve Deyimler Arasındaki Fark
+sub: communication | tags: atasözü, deyim, dil, Türkçe
+---
+Türkçede atasözleri ve deyimler, konuşmayı renklendiren ve anlamı güçlendiren kalıplaşmış sözlerdir. İkisi sık sık karıştırılır, ama aralarında önemli farklar vardır.
+
+Atasözü, uzun deneyimlerden çıkarılmış bir öğüt ya da genel bir yargı bildirir. Kalıplaşmıştır ve genellikle tam bir cümledir. Örneğin "Damlaya damlaya göl olur" atasözü, küçük birikimlerin zamanla büyük sonuçlar doğurduğunu anlatır. "Sakla samanı, gelir zamanı" ise gereksiz görünen bir şeyin bir gün işe yarayabileceğini söyler.
+
+Deyim ise bir durumu, bir kavramı ya da bir davranışı çarpıcı bir şekilde anlatan kalıplaşmış bir söz grubudur. Deyimler genellikle bir öğüt vermez. Çoğu zaman mecaz anlam taşır. "Ağzı kulaklarına varmak" çok sevinmek, "etekleri zil çalmak" çok heyecanlanmak, "kulak asmamak" ise önemsememek anlamına gelir.
+
+Bir ayrım yöntemi şudur: Atasözü kendi başına bir yargı bildirir ve "Atalarımız ne demiş?" sorusunun cevabı olabilir. Deyim ise cümle içinde bir kelime gibi kullanılır ve çekimlenebilir: "Haberi duyunca ağzı kulaklarına vardı."
+
+Atasözleri ve deyimler, bir dilin kültürünü ve düşünme biçimini yansıtır. Onları doğru yerde kullanmak, anlatımı hem zengin hem de etkili kılar.
+
+### 9 | Parola Güvenliği İçin Temel Kurallar
+sub: technology | tags: parola, güvenlik, internet, hesap
+---
+E-posta, sosyal medya, banka uygulamaları... Hepimizin onlarca çevrim içi hesabı var. Bu hesapları korumanın ilk adımı güçlü ve güvenli parolalar kullanmaktır.
+
+Güçlü bir parola uzun olmalıdır. Uzunluk, parolanın tahmin edilmesini ve denenerek bulunmasını zorlaştırır. Birbiriyle ilgisiz birkaç kelimeden oluşan uzun bir parola, hem akılda kalıcı hem de güçlü olabilir. Doğum tarihi, isim, "123456" gibi kolay tahmin edilebilir parolalardan kaçınmak gerekir.
+
+En önemli kurallardan biri, aynı parolayı birden fazla hesapta kullanmamaktır. Bir sitedeki parolanız ele geçirilirse, aynı parolayı kullandığınız diğer hesaplarınız da tehlikeye girer.
+
+Bu kadar çok parolayı hatırlamak zor olduğu için parola yöneticisi kullanmak iyi bir çözümdür. Parola yöneticileri, her hesap için güçlü ve farklı parolalar oluşturur ve bunları şifreli olarak saklar.
+
+İki adımlı doğrulama da önemli bir güvenlik katmanıdır. Bu özellik açık olduğunda, parolanız ele geçirilse bile hesabınıza girmek için ikinci bir doğrulama gerekir; örneğin telefonunuza gelen bir kod.
+
+Son olarak, parolanızı soran e-postalara ve mesajlara karşı dikkatli olun. Güvenilir kurumlar parolanızı e-postayla ya da telefonla istemez.
+
+### 10 | Mevsimler Neden Oluşur?
+sub: geography | tags: mevsim, eksen eğikliği, güneş, yörünge
+---
+Pek çok kişi yazın sıcak olmasının nedeninin Dünya'nın Güneş'e daha yakın olması olduğunu düşünür. Oysa durum böyle değildir. Mevsimlerin asıl nedeni, Dünya'nın ekseninin eğik olmasıdır.
+
+Dünya, kendi ekseni etrafında dönerken bu eksen dik değil, yaklaşık yirmi üç buçuk derece eğiktir. Dünya bir yıl boyunca Güneş'in etrafında dolanırken bu eğiklik hep aynı yöne dönük kalır.
+
+Yılın bir bölümünde Kuzey Yarımküre Güneş'e doğru eğiktir. Bu dönemde güneş ışınları Kuzey Yarımküre'ye daha dik açıyla düşer ve günler daha uzun olur. Dik açıyla gelen ışınlar enerjilerini daha küçük bir alana yoğunlaştırır. Sonuç: Yaz. Aynı dönemde Güney Yarımküre Güneş'ten uzağa eğiktir ve orada kış yaşanır.
+
+Altı ay sonra durum tersine döner. Kuzey Yarımküre Güneş'ten uzağa eğilir, ışınlar daha eğik gelir, günler kısalır ve kış başlar.
+
+İlginç bir bilgi: Dünya, Güneş'e en yakın noktasından ocak ayının başlarında geçer. Yani Kuzey Yarımküre'de kış yaşanırken Dünya Güneş'e en yakındır. Bu da mevsimlerin mesafeyle değil, eğiklikle ilgili olduğunu açıkça gösterir.
+
+### 11 | Duygularımızı Tanımak
+sub: psychology | tags: duygu, farkındalık, iletişim, ruh hâli
+---
+Gün içinde pek çok duygu yaşarız: Sevinç, öfke, üzüntü, korku, şaşkınlık, utanç, merak. Duygular, yaşadığımız olaylara verdiğimiz doğal tepkilerdir ve bize önemli bilgiler verir.
+
+Duyguların bir işlevi vardır. Korku, bizi tehlikelere karşı uyarır. Öfke, bir sınırımızın aşıldığını gösterebilir. Üzüntü, değer verdiğimiz bir şeyi kaybettiğimizi anlatır ve başkalarından destek istememize yol açabilir. Sevinç ise bize iyi gelen şeyleri tekrar etmemizi sağlar.
+
+Duygularımızı tanımak ve adlandırmak, onları yönetmenin ilk adımıdır. Bazen sadece "kötü hissediyorum" deriz. Oysa bu kötü hissin hayal kırıklığı mı, yalnızlık mı, yorgunluk mu, kaygı mı olduğunu anlamak, ne yapmamız gerektiğini bulmamıza yardım eder. Araştırmacılar, duyguları daha ayrıntılı adlandırabilen kişilerin onlarla daha kolay baş edebildiğini öne sürer.
+
+Duygularımızı fark etmek için bedenimizi dinlemek de işe yarar. Kaygı mide bulantısı, öfke yüzde sıcaklık, üzüntü göğüste ağırlık olarak hissedilebilir.
+
+Her duyguyu hissetmek normaldir. Önemli olan, duygularımızın bizi kontrol etmesine izin vermeden onları anlamaya çalışmaktır. Uzun süren ve günlük hayatı zorlaştıran duygusal sıkıntılarda bir uzmandan destek almak iyi bir adımdır.
+
+### 12 | Basit Makineler: Kaldıraç
+sub: tools | tags: kaldıraç, fizik, kuvvet, makine
+---
+Bir kapıyı açarken, bir tahterevalliye binerken ya da bir şişe kapağını açarken farkında olmadan bir basit makine kullanırız: Kaldıraç.
+
+Kaldıraç, bir destek noktası etrafında dönebilen sert bir çubuktur. Bu destek noktasına dayanak denir. Kaldıraçta iki kuvvet vardır: Bizim uyguladığımız kuvvet ve kaldırmak ya da hareket ettirmek istediğimiz yük.
+
+Kaldıracın sırrı, uzaklıklardadır. Kuvveti dayanaktan ne kadar uzağa uygularsak, aynı yükü kaldırmak için o kadar az kuvvet gerekir. Bu yüzden ağır bir taşı uzun bir sopayla kaldırmak kolaydır. Eski Yunan bilgini Arşimet'e atfedilen ünlü bir söz vardır: "Bana bir dayanak noktası verin, Dünya'yı yerinden oynatayım."
+
+Kaldıraçlar, dayanağın, kuvvetin ve yükün konumuna göre üç sınıfa ayrılır. Tahterevallide dayanak ortadadır. El arabasında yük ortadadır. Cımbızda ise kuvvet ortadadır.
+
+Kaldıraç kuvvetten kazanç sağlarken yoldan kaybettirir. Yani yükü kaldırmak için daha az kuvvet uygularız ama kolumuzu daha uzun bir mesafe boyunca hareket ettirmemiz gerekir. Bu, fizikteki enerjinin korunumu ilkesinin bir sonucudur.
+
+### 13 | Arkeologlar Nasıl Çalışır?
+sub: history | tags: arkeoloji, kazı, tarih, buluntu
+---
+Arkeoloji, insanların geçmişte bıraktığı maddi kalıntıları inceleyerek geçmişi anlamaya çalışan bilim dalıdır. Arkeologlar yazılı belgelerin olmadığı ya da yetersiz kaldığı dönemlerde bile insanların nasıl yaşadığını ortaya çıkarabilir.
+
+Bir arkeolojik çalışma genellikle yüzey araştırmasıyla başlar. Araştırmacılar bir bölgeyi yürüyerek tarar, yüzeydeki çanak çömlek parçalarını ve diğer izleri kaydeder. Hava fotoğrafları, uydu görüntüleri ve toprağın altını görüntüleyen cihazlar da kazı yapılacak yerlerin belirlenmesine yardım eder.
+
+Kazı sırasında toprak, katman katman ve çok dikkatli bir şekilde kaldırılır. Her katman farklı bir dönemi temsil edebilir. Genel olarak daha derindeki katmanlar daha eskidir. Bulunan her nesnenin konumu ölçülür, fotoğraflanır ve kaydedilir. Çünkü bir nesnenin nerede ve neyin yanında bulunduğu, nesnenin kendisi kadar önemli bilgi taşır.
+
+Buluntular daha sonra laboratuvarda incelenir. Bazı yöntemler buluntuların yaşını belirlemeye yardım eder. Örneğin organik kalıntıların yaşı radyokarbon yöntemiyle tahmin edilebilir.
+
+Kazı, bir yeri kalıcı olarak değiştirir; kaldırılan toprak geri konamaz. Bu yüzden arkeologlar çok titiz çalışır ve her şeyi belgeler. Türkiye, Göbeklitepe ve Çatalhöyük gibi dünyaca önemli arkeolojik alanlara ev sahipliği yapar.
+
+### 14 | Su İçmek Neden Önemlidir?
+sub: body | tags: su, beslenme, vücut, sağlık
+---
+İnsan vücudunun büyük bir kısmı sudan oluşur. Su, vücudun neredeyse her işlevinde rol oynar ve sağlıklı kalmak için düzenli olarak yerine konması gerekir.
+
+Su, vücut sıcaklığının düzenlenmesine yardım eder. Sıcak havalarda ya da egzersiz sırasında terleriz; ter buharlaşırken vücudu serinletir. Su ayrıca besinlerin taşınmasında, sindirimde, eklemlerin kayganlığının korunmasında ve atık maddelerin böbrekler yoluyla atılmasında görev alır.
+
+Vücut gün boyunca nefes, ter ve idrar yoluyla su kaybeder. Bu kaybın yerine konmaması susuzluğa yol açar. Hafif susuzluk bile yorgunluk, baş ağrısı ve dikkat dağınıklığına neden olabilir.
+
+Ne kadar su içilmesi gerektiği; yaşa, vücut büyüklüğüne, hareket düzeyine, havanın sıcaklığına ve sağlık durumuna göre değişir. Tek bir sayı herkes için doğru değildir. Ayrıca aldığımız sıvının bir kısmı yiyeceklerden, özellikle meyve ve sebzelerden gelir.
+
+Pratik bir ipucu: Susamayı beklemeden gün boyunca düzenli aralıklarla su içmek ve yanınızda bir su şişesi taşımak. Sıcak havalarda, egzersiz sırasında ve hastalık durumlarında sıvı ihtiyacının arttığını unutmamak gerekir. Özel bir sağlık durumu olanlar için doğru miktarı bir hekim belirlemelidir.
+
+### 15 | Enflasyon Nedir?
+sub: economy | tags: enflasyon, fiyat, para, ekonomi
+---
+Bir yıl önce belirli bir miktar parayla alabildiğiniz şeyleri bugün aynı parayla alamıyorsanız, enflasyonla karşı karşıyasınız demektir. Enflasyon, mal ve hizmetlerin genel fiyat düzeyindeki sürekli artıştır.
+
+Enflasyonun önemli bir sonucu, paranın satın alma gücünün azalmasıdır. Fiyatlar yükseldikçe aynı miktardaki para daha az şey satın alır. Bu durum, özellikle sabit gelirli kişileri ve birikimlerini nakit olarak tutanları etkiler.
+
+Enflasyonun birçok nedeni olabilir. Toplumda mal ve hizmetlere olan talep, üretimden daha hızlı artarsa fiyatlar yükselebilir. Üretim maliyetlerinin, örneğin enerji ya da hammadde fiyatlarının artması da fiyatları yukarı itebilir. Para arzındaki hızlı artışlar ve beklentiler de enflasyonu etkileyen faktörler arasında sayılır.
+
+Enflasyon genellikle bir fiyat endeksiyle ölçülür. İstatistik kurumları, tipik bir hanenin satın aldığı mal ve hizmetlerden oluşan bir sepetin fiyatını düzenli olarak takip eder. Bu sepetin fiyatındaki yıllık değişim, enflasyon oranı olarak açıklanır.
+
+Merkez bankaları, fiyat istikrarını korumak için çeşitli araçlar kullanır. Bunlardan en bilineni faiz oranlarıdır. Ekonomistler, enflasyonun çok yüksek olmasının da, fiyatların sürekli düşmesinin de ekonomi için sorunlar yaratabileceği konusunda genel olarak hemfikirdir.
+
+### 16 | Etkin Dinleme
+sub: communication | tags: dinleme, iletişim, empati, sohbet
+---
+İletişim denince çoğumuz konuşmayı düşünürüz. Oysa iyi bir iletişimin en az yarısı dinlemektir. Etkin dinleme, karşımızdakini gerçekten anlamaya odaklanan bir dinleme biçimidir.
+
+Etkin dinlemenin ilk adımı dikkati karşıdaki kişiye vermektir. Telefonu bırakmak, göz teması kurmak ve başka işlerle uğraşmamak, karşımızdakine onu önemsediğimizi gösterir.
+
+İkinci adım, sözü kesmemektir. Pek çok insan, karşısındaki konuşurken kendi cevabını düşünür. Bu, söylenenin önemli bir kısmını kaçırmamıza neden olur. Kişinin cümlesini bitirmesini beklemek ve ardından kısa bir sessizlik bırakmak, hem dinlediğimizi gösterir hem de onun söylemek istediklerini tamamlamasına fırsat verir.
+
+Üçüncü adım, anladığımızı kontrol etmektir. "Yani şunu mu demek istiyorsun?" ya da "Anladığım kadarıyla bu durum seni üzmüş" gibi cümleler, karşımızdakine onu doğru anladığımızı gösterir ya da yanlış anlamaları düzeltme fırsatı verir.
+
+Etkin dinlemede hemen öğüt vermek ya da çözüm önermek yerine önce anlamaya çalışmak önemlidir. Bazen insanlar sadece duyulmak ister. "Ne yapmalıyım?" diye sorulmadıkça, dinlemek çoğu zaman en değerli destektir.
+
+### 17 | Bilimsel Yöntem
+sub: science | tags: bilim, deney, hipotez, gözlem
+---
+Bilim insanları dünyayı anlamak için belirli bir yol izler. Bu yola bilimsel yöntem denir. Bilimsel yöntem, gözlem, soru, tahmin, deney ve sonuç adımlarından oluşan bir düşünme biçimidir.
+
+Her şey bir gözlemle başlar. Örneğin bir öğrenci, pencere kenarındaki bitkinin, odanın içindeki bitkiden daha hızlı büyüdüğünü fark eder. Bu gözlem bir soruya yol açar: Işık bitkilerin büyümesini etkiler mi?
+
+Sonraki adım bir hipotez, yani test edilebilir bir tahmin oluşturmaktır: "Daha fazla ışık alan bitkiler daha hızlı büyür."
+
+Hipotezi test etmek için bir deney tasarlanır. İyi bir deneyde sadece bir şey değiştirilir, diğer her şey aynı tutulur. Öğrenci aynı türden iki bitkiyi aynı toprağa diker ve aynı miktarda sular. Birini ışıklı, diğerini daha karanlık bir yere koyar. Değiştirilen tek şey ışıktır.
+
+Belirli bir süre boyunca bitkilerin boyu ölçülür ve kaydedilir. Sonuçlar hipotezi destekleyebilir ya da desteklemeyebilir. Her iki durum da değerlidir; çünkü bilim, yanlış çıkan tahminlerden de öğrenir.
+
+Bilimsel yöntemin önemli bir parçası da tekrarlanabilirliktir. Başka biri aynı deneyi yaptığında benzer sonuçlar almalıdır. Bilim, tek bir deneyle değil, birbirini doğrulayan pek çok çalışmayla ilerler.
+
+### 18 | Kişisel Verilerimizi Korumak
+sub: technology | tags: gizlilik, kişisel veri, internet, güvenlik
+---
+Adımız, telefon numaramız, adresimiz, fotoğraflarımız, konumumuz ve çevrim içi alışkanlıklarımız kişisel verilerdir. Bu veriler değerlidir ve dikkatli korunmaları gerekir.
+
+İnternette paylaştığımız her bilgi bir iz bırakır. Sosyal medyada paylaşılan bir fotoğraf, nerede yaşadığımız, hangi okula gittiğimiz ya da ne zaman tatilde olduğumuz hakkında bilgi verebilir. Bu yüzden paylaşım yapmadan önce kimlerin görebileceğini düşünmek ve gizlilik ayarlarını kontrol etmek önemlidir.
+
+Uygulamalar yüklerken istedikleri izinlere dikkat etmek gerekir. Bir el feneri uygulamasının rehberinize ya da konumunuza neden ihtiyaç duyduğunu sorgulamak yerinde bir sorudur. Gereksiz izinleri vermemek ya da sonradan kapatmak mümkündür.
+
+Ücretsiz kablosuz ağlar kullanırken de dikkatli olmak gerekir. Herkese açık ağlarda bankacılık gibi hassas işlemler yapmaktan kaçınmak daha güvenlidir.
+
+Pek çok ülkede kişisel verilerin korunmasına ilişkin yasalar vardır. Türkiye'de de bu konuda bir kanun bulunur. Bu yasalar, kurumların kişisel verileri nasıl toplayabileceğini, saklayabileceğini ve kullanabileceğini düzenler. Kişilerin, hakkındaki veriler konusunda bilgi talep etme gibi hakları vardır.
+
+### 19 | Yanardağlardan Okyanuslara: Dünya'nın Suyu Nereden Geldi?
+sub: geography | tags: su, Dünya, okyanus, gezegen
+---
+Dünya'nın yüzeyinin büyük kısmı okyanuslarla kaplıdır. Ama gezegenimiz ilk oluştuğunda bugünkü gibi mavi değildi. Peki bu kadar su nereden geldi?
+
+Bu soru, bilim insanlarının hâlâ araştırdığı konulardan biridir. Kesin bir cevap olmasa da birkaç güçlü açıklama vardır.
+
+Bir açıklamaya göre suyun önemli bir kısmı Dünya'nın kendi içinden geldi. Dünya'yı oluşturan kayalar ve mineraller, yapılarında su içeriyordu. Genç Dünya'daki yoğun volkanik etkinlik, bu suyu buhar olarak atmosfere saldı. Gezegen soğudukça buhar yoğunlaştı ve uzun süren yağmurlarla okyanuslar oluştu.
+
+Diğer bir açıklama, suyun bir kısmının uzaydan geldiğidir. Dünya'nın ilk dönemlerinde gezegene çok sayıda göktaşı ve bazı kuyruklu yıldızlar çarptı. Bu cisimlerin bir kısmı su içeriyordu. Bilim insanları, göktaşlarındaki ve kuyruklu yıldızlardaki suyun kimyasal özelliklerini Dünya'daki suyla karşılaştırarak bu katkının ne kadar olabileceğini tahmin etmeye çalışıyor.
+
+Muhtemelen her iki süreç de rol oynadı. Kesin olan şu ki bugün içtiğimiz su, milyarlarca yıllık bir hikâyenin parçasıdır.
+
+### 20 | Zaman Yönetiminde Önceliklendirme
+sub: learning | tags: zaman yönetimi, öncelik, planlama, verimlilik
+---
+Yapılacak işlerin listesi uzadıkça nereden başlayacağımızı bilmek zorlaşır. Zaman yönetiminin önemli bir parçası, işleri önceliklerine göre sıralamaktır.
+
+Sık kullanılan araçlardan biri, işleri iki soruya göre dört gruba ayıran bir tablodur. Birinci soru: Bu iş acil mi? İkinci soru: Bu iş önemli mi?
+
+Hem acil hem önemli işler hemen yapılmalıdır. Yarın teslim edilecek bir ödev ya da bozulan bir musluk bu gruba girer. Önemli ama acil olmayan işler planlanmalıdır. Düzenli spor yapmak, bir beceri öğrenmek ya da uzun vadeli bir projeye çalışmak bu gruptadır. Bu işler genellikle ertelenir, ama uzun vadede en büyük farkı onlar yaratır.
+
+Acil ama önemli olmayan işler mümkünse başkasına devredilebilir ya da kısa tutulabilir. Pek çok telefon görüşmesi ve bazı e-postalar bu gruba girer. Ne acil ne önemli olan işler ise azaltılabilir ya da tamamen bırakılabilir.
+
+Bir başka basit yöntem, günün en önemli üç işini sabahtan belirlemektir. Gün sonunda bu üç iş yapılmışsa, gün verimli geçmiş sayılabilir.
+
+Önceliklendirme, her şeyi yapmak değil, doğru şeyleri yapmakla ilgilidir. Dinlenmek ve sevdiklerimize zaman ayırmak da önemli işler listesinde yer almalıdır.
+
+### 21 | İnsan Gözü Nasıl Görür?
+sub: body | tags: göz, görme, ışık, beyin
+---
+Görmek, ışığın gözümüze girmesiyle başlayan ve beynimizde tamamlanan karmaşık bir süreçtir.
+
+Işık gözün ön tarafındaki saydam tabaka olan korneadan geçer. Kornea ışığı kırarak odaklamaya başlar. Sonra ışık, gözün renkli kısmı olan irisin ortasındaki açıklıktan, yani gözbebeğinden geçer. İris, ortamın aydınlığına göre gözbebeğini büyütüp küçülterek göze giren ışık miktarını ayarlar.
+
+Gözbebeğinin arkasında mercek bulunur. Mercek, şeklini değiştirerek yakındaki ya da uzaktaki nesnelere odaklanmamızı sağlar. Işık daha sonra gözün arka duvarındaki retinaya ulaşır.
+
+Retinada ışığa duyarlı milyonlarca hücre vardır. Çubuk hücreleri az ışıkta görmemizi sağlar ama renkleri ayırt edemez. Koni hücreleri ise renkleri ve ayrıntıları algılar. Retinada oluşan görüntü aslında ters ve küçüktür.
+
+Bu hücreler ışığı elektrik sinyallerine dönüştürür. Sinyaller görme siniri aracılığıyla beyne iletilir. Beyin, iki gözden gelen bilgiyi birleştirir, görüntüyü düzeltir ve yorumlar. Yani aslında beynimizle görürüz.
+
+Göz sağlığı için düzenli göz muayenesi, uzun ekran kullanımında ara vermek ve güneşli günlerde gözleri korumak genel olarak önerilir.
+
+### 22 | Algoritma Nedir?
+sub: technology | tags: algoritma, programlama, adım, problem çözme
+---
+Algoritma, bir problemi çözmek ya da bir işi yapmak için izlenen, açık ve sıralı adımlar dizisidir. Bu kelime bilgisayarlarla birlikte anılsa da algoritmalar günlük hayatımızın her yerindedir.
+
+Bir yemek tarifi bir algoritmadır. Malzemeler hazırlanır, belirli bir sırayla karıştırılır, belirli bir süre pişirilir. Sabah hazırlanma rutini, bir yerin yol tarifi ya da bir oyunun kuralları da birer algoritma olarak düşünülebilir.
+
+İyi bir algoritmanın bazı özellikleri vardır. Adımları açık ve belirsizlikten uzak olmalıdır. "Biraz tuz ekle" bir insan için anlaşılır olabilir ama bir bilgisayar için "biraz" yeterince açık değildir. Algoritmanın bir başlangıcı ve bir sonu olmalıdır. Ve sonunda beklenen sonucu üretmelidir.
+
+Bilgisayarlar algoritmaları çok hızlı uygular. İnternette arama yaptığımızda, bir haritada en kısa yolu bulduğumuzda ya da bir listeyi alfabetik sıraya dizdiğimizde arka planda algoritmalar çalışır.
+
+Kelimenin kökeni ilginçtir. "Algoritma" kelimesi, 9. yüzyılda Bağdat'ta çalışmış matematikçi Harezmî'nin adının Latince biçiminden türemiştir. Harezmî'nin hesaplama yöntemleri üzerine yazdığı eserler, Avrupa'da matematiğin gelişiminde önemli bir rol oynamıştır.
+
+### 23 | Stres ve Bedenimiz
+sub: psychology | tags: stres, beden, rahatlama, sağlık
+---
+Bir sınava girmeden önce kalbimizin hızlandığını, ellerimizin terlediğini hissederiz. Bu, vücudumuzun strese verdiği doğal bir tepkidir.
+
+Stres tepkisi, tehlike anında hayatta kalmamıza yardım etmek için gelişmiştir. Beyin bir tehdit algıladığında vücut adrenalin ve kortizol gibi hormonlar salgılar. Kalp atışı hızlanır, nefes sıklaşır, kaslar gerilir. Vücut ya savaşmaya ya da kaçmaya hazırlanır. Buna "savaş ya da kaç" tepkisi denir.
+
+Kısa süreli stres bazen faydalı olabilir. Dikkatimizi toplamamıza ve performansımızı artırmamıza yardım edebilir. Ancak stres uzun süre devam ettiğinde, vücut sürekli alarm durumunda kalır. Bu durum uyku sorunlarına, yorgunluğa, baş ağrılarına ve odaklanma güçlüğüne yol açabilir.
+
+Stresle baş etmenin pek çok yolu vardır. Derin ve yavaş nefes almak, vücudun sakinleşmesine yardım edebilir. Düzenli fiziksel hareket, stresi azaltmanın bilinen yollarından biridir. Yeterli uyku, dengeli beslenme ve sevdiğimiz insanlarla vakit geçirmek de önemlidir.
+
+Bazen stresin kaynağını değiştirmek mümkün olmayabilir. O zaman duruma bakış açımızı değiştirmek ya da destek istemek işe yarayabilir. Stres günlük hayatı ciddi biçimde etkiliyorsa, bir uzmandan yardım almak doğru bir adımdır.
+
+### 24 | Makaralar Nasıl Kolaylık Sağlar?
+sub: tools | tags: makara, basit makine, kuvvet, inşaat
+---
+İnşaat alanlarında ağır yükleri kaldıran vinçlerde, bayrak direklerinde ve kuyu başlarında makaralar kullanılır. Makara, etrafında bir ip ya da halat geçen, kendi ekseni etrafında dönebilen bir tekerlektir.
+
+En basit makara türü sabit makaradır. Sabit makara bir yere tutturulmuştur ve sadece döner. Bir kuyudan su çekerken kullanılan makara buna örnektir. Sabit makara kuvvetten kazanç sağlamaz; yükü kaldırmak için yine yükün ağırlığı kadar kuvvet gerekir. Ama kuvvetin yönünü değiştirir. Yükü yukarı kaldırmak için ipi aşağı çekeriz. Bu, vücut ağırlığımızı kullanabildiğimiz için işi kolaylaştırır.
+
+Hareketli makara ise yükle birlikte hareket eder. İp makaranın altından geçer ve bir ucu sabit bir noktaya bağlıdır. Bu düzende yükün ağırlığı ipin iki parçası arasında paylaşılır. Böylece yükü kaldırmak için yaklaşık yarı kuvvet yeterli olur; ancak ipi iki kat daha uzun çekmek gerekir.
+
+Sabit ve hareketli makaraların birlikte kullanıldığı sistemlere palanga denir. Palangalarda makara sayısı arttıkça gereken kuvvet azalır. Bu sayede insanlar çok ağır yükleri bile kaldırabilir. Antik çağlardan beri gemilerde ve inşaatlarda makara sistemleri kullanılmıştır.
+
+### 25 | Okuma Hızı mı, Anlama mı?
+sub: learning | tags: okuma, anlama, hız, alışkanlık
+---
+Hızlı okumak pek çok kişinin hedefidir. Ama okumanın asıl amacı sayfaları çevirmek değil, okuduğunu anlamaktır. Araştırmalar, okuma hızı ile anlama arasında genellikle bir denge olduğunu gösterir.
+
+Okuma hızı metnin türüne ve okuma amacına göre değişmelidir. Bir romanı keyifle okurken akıcı bir hız uygundur. Ders kitabındaki yeni bir konuyu ya da bir sözleşmeyi okurken ise yavaşlamak ve gerektiğinde geri dönmek gerekir. Bir gazeteye göz gezdirirken ise hızlıca tarayıp ilgilendiğimiz yerde durabiliriz.
+
+Anlamayı artırmanın birkaç yolu vardır. Okumaya başlamadan önce başlıklara, alt başlıklara ve özetlere bakmak, metnin genel yapısını görmemizi sağlar. Okurken kendimize sorular sormak, dikkatimizi canlı tutar. Bir bölümü bitirdikten sonra kendi cümlelerimizle kısa bir özet çıkarmak, gerçekten anlayıp anlamadığımızı gösterir.
+
+Düzenli okumak, hem hızı hem de anlamayı zamanla doğal olarak geliştirir. Kelime dağarcığı genişledikçe ve farklı metin türlerine alıştıkça okumak kolaylaşır.
+
+Son olarak, okurken dikkati dağıtan şeyleri azaltmak çok önemlidir. Telefon bildirimleri kapalıyken yapılan yirmi dakikalık odaklı bir okuma, bölünmüş bir saatten daha verimli olabilir.

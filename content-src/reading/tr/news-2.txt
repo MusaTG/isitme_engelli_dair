@@ -1,0 +1,133 @@
+### 11 | Belediye Otobüslerine Bisiklet Askısı Takıldı
+sub: city | tags: bisiklet, ulaşım, otobüs, belediye
+---
+Kayalıbağ Belediyesi, şehir içi otobüs hatlarının üçünde araçların önüne bisiklet askısı taktı. Uygulama sayesinde yolcular bisikletlerini otobüsün önüne asıp yolculuklarının bir kısmını otobüsle, bir kısmını bisikletle yapabilecek.
+
+Her askıda iki bisiklet taşınabiliyor. Bisikletini takmak isteyen yolcu, otobüs durduğunda şoföre işaret veriyor, askıyı açıp bisikletini yerleştiriyor. İşlem ortalama bir dakika sürüyor. Bisiklet için ek ücret alınmıyor.
+
+Belediyenin ulaşım müdürü Tarık Sezer, uygulamanın özellikle yokuşlu mahallelerde yaşayanlar için tasarlandığını söyledi. "Pek çok kişi şehir merkezine bisikletle inmek istiyor ama dönüşte yokuşu çıkmak zor geliyor. Artık inişi bisikletle, çıkışı otobüsle yapabilirler."
+
+İlk ay askılar yaklaşık bin iki yüz kez kullanıldı. En yoğun kullanım sabah işe gidiş saatlerinde görüldü. Bazı yolcular askıların sayısının artırılmasını talep etti.
+
+Bisiklet kullanıcıları derneği uygulamayı memnuniyetle karşıladı ancak şehirde bisiklet yollarının da artırılması gerektiğini vurguladı. Belediye, gelecek yıl iki yeni bisiklet yolu açmayı planladığını açıkladı.
+
+### 12 | Ormanda Kaybolan Köpek Dört Gün Sonra Bulundu
+sub: community | tags: köpek, arama, köy, dayanışma
+---
+Yaylaönü köyünde dört gün önce kaybolan çoban köpeği Karabaş, köylülerin ortak çabasıyla ormanda bulundu. Köpeğin bir ayağı bir kayanın arasına sıkışmıştı.
+
+Karabaş'ın sahibi çoban Ali Er, köpeğinin sürüyle birlikte otlaktan dönmediğini fark edince endişelendi. "On yıldır benimle. Hiç sürüden ayrılmazdı," dedi. İlk gün tek başına aradı, bulamadı. İkinci gün köyün muhtarına haber verdi.
+
+Muhtar köy camisinden anons yaptı. Ertesi sabah yirmiden fazla köylü arama için toplandı. Gruplara ayrılarak ormanın farklı bölgelerini taradılar. Köyün gençleri drone ile havadan arama yaptı ama ağaçların arasında bir şey göremedi.
+
+Dördüncü gün, odun toplamaya giden iki çocuk, derenin yanından gelen zayıf bir havlama duydu. Çocuklar hemen köye koşup haber verdi. Karabaş, derenin kenarındaki kayalık bir alanda bulundu. Ayağı iki kayanın arasına sıkışmıştı. Köylüler kayaları dikkatle oynatarak köpeği kurtardı.
+
+Köpek zayıf düşmüştü ama ağır bir yarası yoktu. Köyün en yakınındaki veteriner Karabaş'ı muayene etti. Ali Er, köpeğini bulan çocuklara teşekkür etmek için onları evine yemeğe davet etti.
+
+### 13 | Kırk Yıllık Terzi Mesleğini Gençlere Öğretiyor
+sub: culture | tags: terzi, meslek, zanaat, gençler
+---
+Eski Çarşı'daki dükkânında kırk yıldır terzilik yapan Hamdi Usta, mesleğini kaybolmaktan kurtarmak için gençlere ücretsiz dersler vermeye başladı. Dersler her cumartesi öğleden sonra dükkânın arka odasında yapılıyor.
+
+Hamdi Usta, çarşıda bir zamanlar on iki terzi olduğunu, şimdi ise sadece iki tane kaldığını anlatıyor. "Hazır giyim çıktı, insanlar artık elbise diktirmiyor. Ama bir şeyi onarmak, ölçüye göre daraltmak, bir pantolonun paçasını kısaltmak hep lazım. Bunu bilen kalmıyor."
+
+Derslere şu anda sekiz öğrenci katılıyor. Öğrencilerin çoğu yirmili yaşlarda. Aralarında moda tasarımı okuyan bir üniversite öğrencisi, emekli bir öğretmen ve kendi kıyafetlerini onarmayı öğrenmek isteyen bir mühendis de var.
+
+İlk derslerde öğrenciler iğne tutmayı, düz dikiş atmayı ve düğme dikmeyi öğrendi. Şimdi ise ölçü almayı ve kalıp çıkarmayı öğreniyorlar. Hamdi Usta, her öğrencisinin kurs sonunda kendine bir gömlek dikmesini hedefliyor.
+
+Öğrencilerden İrem, derslerin ona sabrı öğrettiğini söylüyor: "İlk dikişimi beş kez söktüm. Hamdi Usta hiç kızmadı. Sadece 'Bir daha' dedi. Şimdi dikişlerim düz."
+
+### 14 | Neden Gökyüzü Mavidir?
+sub: science | kind: feature | tags: gökyüzü, ışık, renk, atmosfer
+---
+Açık bir günde başımızı kaldırdığımızda gökyüzünü mavi görürüz. Ama uzayda gökyüzü siyahtır. Peki atmosferimiz gökyüzünü neden maviye boyar?
+
+Güneş'ten gelen ışık beyaz görünür ama aslında gökkuşağının bütün renklerini içerir. Her rengin dalga boyu farklıdır. Kırmızı ışığın dalga boyu uzun, mavi ve mor ışığınki ise kısadır.
+
+Güneş ışığı atmosfere girdiğinde hava moleküllerine çarpar. Bu moleküller ışığı her yöne saçar. Ancak bu saçılma bütün renkler için eşit değildir. Kısa dalga boylu ışık, uzun dalga boylu ışıktan çok daha fazla saçılır. Yani mavi ışık, kırmızı ışığa göre çok daha fazla etrafa dağılır. Bu olaya Rayleigh saçılması denir.
+
+Gökyüzünün herhangi bir yerine baktığımızda, oradan gözümüze gelen ışık büyük ölçüde saçılmış ışıktır. Saçılmış ışığın içinde mavi baskın olduğu için gökyüzünü mavi görürüz.
+
+Mor ışık maviden bile fazla saçılır. O hâlde gökyüzü neden mor değil? Bunun birkaç nedeni var. Güneş ışığında mor daha azdır, atmosferin üst katmanları morun bir kısmını emer ve gözlerimiz maviye mordan daha duyarlıdır.
+
+Gün batımında ise durum değişir. Güneş ufka yakınken ışık atmosferde çok daha uzun bir yol kat eder. Mavi ışık yolda saçılıp kaybolur. Bize ulaşan ışıkta turuncu ve kırmızı ağır basar. Gün batımının kızıl renkleri bu yüzdendir.
+
+### 15 | Lise Öğrencileri Kasabanın Sözlü Tarihini Kayda Geçirdi
+sub: history | tags: sözlü tarih, yaşlılar, anılar, öğrenciler
+---
+Göldere Lisesi'nin tarih kulübü öğrencileri, kasabanın yaşlılarıyla röportajlar yaparak bir sözlü tarih arşivi oluşturdu. Proje kapsamında kırk iki kişiyle görüşüldü.
+
+Kulübün danışman öğretmeni Aysel Bozkurt, projenin amacının kitaplarda yazmayan yerel tarihi korumak olduğunu söyledi. "Kasabamızın göl kenarındaki eski hâlini, eski düğünleri, eski meslekleri anlatabilecek insanlar her geçen yıl azalıyor. Onların hatıraları kaybolmadan kayda almak istedik."
+
+Öğrenciler önce röportaj tekniklerini öğrendi: Açık uçlu soru sormak, dinlemek, söz kesmemek. Sonra ikili gruplar hâlinde yaşlıların evlerini ziyaret ettiler. Her görüşme yazıya döküldü ve görüşülen kişinin onayı alındı.
+
+Anlatılanlar arasında kasabanın ilk elektriğinin geldiği gün, gölde düzenlenen kayık yarışları, eski pazar yerinin hikâyeleri ve kış aylarında donan göl üzerinde yapılan yolculuklar vardı. Doksan iki yaşındaki Fatma Nine, gençliğinde gölün donduğu bir kış, karşı kıyıdaki köye yürüyerek gittiğini anlattı.
+
+Toplanan anlatılar bir kitapçık hâline getirildi ve kasaba kütüphanesine bağışlandı. Öğrenciler projeyi gelecek yıl da sürdürmeyi planlıyor.
+
+### 16 | Arılar Neden Önemlidir?
+sub: agriculture | kind: feature | tags: arı, tozlaşma, tarım, doğa
+---
+Arıları çoğumuz bal ile tanırız. Ama arıların en önemli görevi bal yapmak değil, bitkilerin tozlaşmasına yardım etmektir.
+
+Pek çok çiçekli bitkinin meyve ve tohum verebilmesi için çiçek tozunun bir çiçekten diğerine taşınması gerekir. Bu sürece tozlaşma denir. Bazı bitkiler rüzgârla tozlaşır. Ama birçok bitki, çiçek tozunu taşıyacak bir hayvana ihtiyaç duyar. Arılar bu işi yapan en önemli canlılar arasındadır.
+
+Bir arı çiçeğe nektar toplamak için konduğunda tüylü gövdesine çiçek tozu yapışır. Arı bir sonraki çiçeğe gittiğinde bu tozun bir kısmını orada bırakır. Böylece tozlaşma gerçekleşir. Bir bal arısı bir günde yüzlerce çiçeği ziyaret edebilir.
+
+Elma, kiraz, badem, çilek, kavun ve pek çok başka meyve ve sebze, tozlaşma için büyük ölçüde böceklere bağlıdır. Arılar olmasaydı bu ürünlerin verimi ciddi biçimde düşerdi.
+
+Bal arılarının yanında binlerce yabani arı türü de vardır. Bunların çoğu kovan yapmaz, yalnız yaşar. Yabani arılar da tozlaşmada önemli bir rol oynar.
+
+Arılar bugün çeşitli tehditlerle karşı karşıyadır: Yaşam alanlarının kaybı, bazı tarım ilaçları, hastalıklar ve iklim değişikliği. Bahçelere çiçekli bitkiler ekmek, ilaç kullanımını azaltmak ve yabani alanları korumak arılara yardım etmenin yollarındandır.
+
+### 17 | Mahalle Fırını Ekmek İsrafına Karşı Askıda Ekmek Başlattı
+sub: community | tags: ekmek, askıda, israf, paylaşım
+---
+Yenidoğan Mahallesi'ndeki Öz Fırın, hem ekmek israfını azaltmak hem de ihtiyaç sahiplerine destek olmak için bir uygulama başlattı. Fırının girişine asılan panoya müşteriler "askıda ekmek" bırakabiliyor.
+
+Uygulamaya göre bir müşteri ekmek alırken bir ekmek daha parasını ödeyip askıya bırakıyor. İhtiyacı olan biri fırına gelip askıdan ücretsiz ekmek alabiliyor. Fırın sahibi Nazım Özdemir, her akşam askıdaki ekmek sayısını panoya yazıyor.
+
+Fırın aynı zamanda gün sonunda satılmayan ekmekleri de değerlendiriyor. Akşam saat yedide kalan ekmekler yarı fiyatına satılıyor. Ertesi güne kalan ekmekler ise kuru ekmek olarak mahalledeki bir hayvan barınağına veriliyor.
+
+Özdemir, uygulamanın mahallede beklemediği kadar ilgi gördüğünü söylüyor. "İlk hafta askıya yüz yirmi ekmek bırakıldı. İnsanlar paylaşmayı seviyor. Sadece bir yol arıyorlardı."
+
+Mahalle sakinleri de uygulamadan memnun. Emekli öğretmen Kadriye Hanım her sabah iki ekmek alıp birini askıya bırakıyor: "Benim için küçük bir şey ama belki biri için o günün tek sıcak ekmeği."
+
+### 18 | Gece Gökyüzünde Yıldız Kaymasını İzlemek
+sub: space | kind: feature | tags: meteor, gökyüzü, gözlem, yıldız kayması
+---
+"Yıldız kayması" dediğimiz şey aslında bir yıldız değildir. Gökyüzünde bir an parlayıp kaybolan bu ışık çizgileri, uzaydan gelen küçük taş ve toz parçacıklarının atmosferde yanmasıyla oluşur. Bilimsel adı meteordur.
+
+Bu parçacıkların çoğu bir kum tanesinden bile küçüktür. Ama Dünya'nın atmosferine saniyede onlarca kilometre hızla girerler. Hava ile sürtünme ve sıkışma, parçacığı ve çevresindeki havayı o kadar ısıtır ki parlak bir ışık çizgisi oluşur. Parçacık genellikle yere ulaşmadan tamamen yanar.
+
+Yılın belirli zamanlarında meteorlar çok daha sık görülür. Bunlara meteor yağmuru denir. Meteor yağmurları, Dünya'nın bir kuyruklu yıldızın arkasında bıraktığı toz bulutunun içinden geçtiği zamanlarda olur. Örneğin ağustos ortasında gözlenen Perseid meteor yağmuru, en bilinen meteor yağmurlarından biridir.
+
+Meteor izlemek için özel bir alet gerekmez. Dürbün ya da teleskop ise işi zorlaştırabilir, çünkü görüş alanını daraltır. En önemli şey karanlık bir yer bulmaktır. Şehir ışıklarından uzak, açık bir alan idealdir.
+
+Gözlerin karanlığa alışması yaklaşık yirmi dakika sürer. Bu sürede telefon ekranına bakmamak gerekir. Bir battaniyeye uzanıp gökyüzünün geniş bir bölümüne bakmak en iyi yöntemdir. Sabırlı olmak da önemli. Bazen dakikalarca hiçbir şey olmaz, sonra arka arkaya birkaç meteor geçer.
+
+### 19 | Engelli Bireyler İçin Dokunsal Harita Hazırlandı
+sub: city | tags: erişilebilirlik, harita, görme engelli, şehir
+---
+Taşlıyaka Belediyesi, görme engelli vatandaşların şehir merkezinde daha rahat dolaşabilmesi için dokunsal haritalar hazırladı. Haritalar, meydan, otogar ve belediye binası gibi önemli noktalara yerleştirildi.
+
+Haritalar kabartmalı bir yüzeye sahip. Sokaklar çizgilerle, binalar küçük bloklarla, önemli yerler ise farklı şekillerle gösteriliyor. Her önemli yerin yanında Braille alfabesiyle yazılmış bir etiket var. Haritanın köşesindeki bir düğmeye basıldığında sesli bir açıklama da dinlenebiliyor.
+
+Proje, şehirdeki görme engelliler derneğiyle birlikte hazırlandı. Dernek üyeleri haritaların her aşamasını test etti. Dernek başkanı Ayhan Toprak, ilk taslakların çok karmaşık olduğunu anlatıyor: "Her şeyi göstermeye çalışmışlardı. Biz dedik ki sadece ihtiyacımız olanı gösterin. Basit olsun ki parmakla takip edebilelim."
+
+Haritaların yanı sıra şehir merkezindeki kaldırımlara hissedilebilir yönlendirme yolları da eklendi. Bu yollar, haritadaki noktaları birbirine bağlıyor.
+
+Toprak, uygulamanın görme engelliler için önemli bir adım olduğunu söyledi ama bir de uyarıda bulundu: "Kaldırımlara park edilen araçlar ve dükkânların önüne konan eşyalar bu yolları kapatıyor. Herkesin buna dikkat etmesi lazım."
+
+### 20 | Küçük Kasabada Büyük Satranç Turnuvası
+sub: community | tags: satranç, turnuva, çocuklar, kasaba
+---
+Bozdere kasabasında ilk kez düzenlenen satranç turnuvasına kırk sekiz kişi katıldı. Turnuvanın en genç oyuncusu yedi, en yaşlı oyuncusu seksen üç yaşındaydı.
+
+Turnuva, kasabanın satranç sevdalısı emekli öğretmeni Celal Hoca'nın fikriydi. Celal Hoca on yıldır kahvehanenin bir köşesinde çocuklara satranç öğretiyor. "Çocukların ne kadar ilerlediğini görmek istedim. Bir de kasabanın büyükleriyle oynasınlar istedim," dedi.
+
+Turnuva kasaba okulunun spor salonunda yapıldı. Masalar sıra sıra dizildi, her masaya bir satranç takımı ve bir saat kondu. Oyuncular yaşa göre değil, eşleştirme sistemiyle karşılaştı. Böylece yedi yaşındaki bir çocuk yetmiş yaşındaki biriyle oynayabiliyordu.
+
+Turnuvanın en çok konuşulan maçı, on bir yaşındaki Zeynep ile seksen üç yaşındaki Rasim Amca arasında oldu. Maç iki saat sürdü ve berabere bitti. Maçtan sonra Rasim Amca, Zeynep'in elini sıktı ve "Benim yaşıma gelince beni yeneceksin," dedi. Salondakiler gülerek alkışladı.
+
+Turnuvayı on dört yaşındaki Emir kazandı. Emir, ödül olarak aldığı satranç kitabını Celal Hoca'ya imzalattı. Turnuvanın her yıl tekrarlanması planlanıyor.

@@ -1,0 +1,74 @@
+# Her "main" dalına gönderimde:
+#   1) content-src/reading/inbox/ içine konmuş okuma metinlerini aktarır (numaralar, denetler) ve sonucu depoya geri yazar,
+#   2) okuma kütüphanesini derler, içerikleri ve birim testlerini doğrular,
+#   3) geçerse uygulamayı GitHub Pages'e yayınlar.
+# Ücretsizdir: herkese açık depolarda GitHub Actions ve GitHub Pages ücret almaz.
+# Not: İş akışının depoya yazabilmesi için Ayarlar → Actions → General → "Workflow permissions" = "Read and write" olmalı.
+name: Test ve yayınla
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Gelen okuma metinlerini aktar (inbox)
+        run: node tools/import-reading.mjs --no-build
+      - name: Okuma kütüphanesini derle ve eksik listesini güncelle
+        run: |
+          node tools/build-reading.mjs --quiet
+          node tools/reading-status.mjs
+          node tools/sw-assets.mjs
+      - name: Aktarılan metinleri ve derlenmiş dosyaları depoya geri yaz
+        if: github.event_name == 'push'
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add -A content-src content docs sw.js
+            git commit -m "Okuma metinleri aktarıldı ve kütüphane derlendi [otomatik]"
+            git push
+          fi
+      - name: İçerik paketlerini doğrula
+        run: node tools/validate-content.mjs
+      - name: Birim testleri
+        run: npm test
+      - name: Yayın klasörünü hazırla (yalnızca uygulama dosyaları)
+        run: |
+          mkdir site
+          cp -r index.html manifest.webmanifest sw.js css js locales icons content site/
+          touch site/.nojekyll
+      - uses: actions/configure-pages@v5
+        if: github.event_name != 'pull_request'
+      - uses: actions/upload-pages-artifact@v3
+        if: github.event_name != 'pull_request'
+        with:
+          path: site
+
+  deploy:
+    if: github.event_name != 'pull_request'
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

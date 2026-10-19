@@ -1,0 +1,137 @@
+### 41 | Belediye Bahçe Sahibi Olmayanlara Hobi Bahçesi Ayırdı
+sub: city | tags: hobi bahçesi, şehir tarımı, belediye, sebze
+---
+Orta Mahalle Belediyesi, şehirde bahçesi olmayan aileler için yüz parsellik bir hobi bahçesi açtı. Her parsel yirmi metrekare büyüklüğünde ve bir yıllığına kura ile dağıtıldı.
+
+Hobi bahçesi, belediyenin uzun süredir boş duran bir arazisine kuruldu. Arazinin toprağı iyileştirildi, sulama sistemi döşendi ve her parselin yanına küçük bir alet dolabı yerleştirildi. Ortak alanda bir de çay ocağı ve gölgelik var.
+
+Parsellere başvuru sayısı beklenenin çok üzerinde oldu. Yüz parsel için sekiz yüzden fazla başvuru yapıldı. Belediye, gelecek yıl bahçeyi genişletmeyi planlıyor.
+
+Parsel sahiplerine ilk ay ücretsiz eğitimler verildi. Ziraat mühendisleri toprak hazırlığı, fide dikimi ve doğal yollarla zararlılarla mücadele konularında bilgi verdi. Bahçede kimyasal ilaç kullanımı yasak.
+
+Parsel sahiplerinden emekli banka memuru Şükrü Bey, hayatında ilk kez bir şey ektiğini anlattı. "Domates fidesini diktiğim gün torunlarımı getirdim. Her hafta birlikte geliyoruz. Domatesler kızardığında bütün aile toplanıp ilk domatesi beraber yiyeceğiz."
+
+### 42 | Rüzgâr Enerjisi Nasıl Elektriğe Dönüşür?
+sub: environment | kind: feature | tags: rüzgâr, enerji, türbin, elektrik
+---
+Tepelerde ağır ağır dönen beyaz rüzgâr türbinleri artık pek çok yerde görülüyor. Bu türbinler, rüzgârın hareket enerjisini elektriğe dönüştürür.
+
+Bir rüzgâr türbininin en görünür parçası kanatlarıdır. Kanatlar, uçak kanatlarına benzer bir şekle sahiptir. Rüzgâr kanatların üzerinden geçerken bir kaldırma kuvveti oluşturur ve kanatları döndürür.
+
+Kanatlar, kule tepesindeki gövdeye bağlı bir mile takılıdır. Kanatlar yavaş döner ama gövdenin içindeki dişli kutusu bu dönüşü hızlandırır. Bazı türbinlerde dişli kutusu yerine doğrudan çalışan özel jeneratörler kullanılır. Jeneratör, dönme hareketini elektrik enerjisine çevirir. Üretilen elektrik kablolarla şebekeye aktarılır.
+
+Türbinler rüzgârın yönünü algılayan sensörlerle donatılmıştır. Gövde, kanatlar her zaman rüzgâra dönük olacak şekilde döner. Rüzgâr çok sert estiğinde türbin, hasar görmemek için kendini durdurur.
+
+Rüzgâr enerjisinin önemli avantajları vardır. Yakıt gerektirmez ve çalışırken sera gazı salmaz. Ancak rüzgâr her zaman esmez. Bu yüzden rüzgâr enerjisi genellikle güneş, su ve diğer kaynaklarla birlikte kullanılır.
+
+Türkiye'nin özellikle Ege ve Marmara kıyıları rüzgâr bakımından elverişli bölgeler arasında yer alır ve bu bölgelerde çok sayıda rüzgâr santrali bulunur.
+
+### 43 | Çocuklar Mahallelerinin Haritasını Çizdi
+sub: education | tags: harita, çocuklar, mahalle, proje
+---
+Fidanlık İlkokulu'nun üçüncü sınıf öğrencileri, yaşadıkları mahallenin dev bir haritasını çizdi. Dört metre uzunluğundaki harita okulun koridorunda sergileniyor.
+
+Proje, sosyal bilgiler dersindeki "Yaşadığımız Yer" ünitesinin bir parçası olarak başladı. Sınıf öğretmeni Oktay Er, öğrencilerden okul ile evleri arasındaki yolu çizmelerini istedi. Çocukların çizimleri o kadar ilginçti ki bunları birleştirip büyük bir harita yapmaya karar verdiler.
+
+Öğrenciler gruplara ayrılıp mahallenin farklı sokaklarını yürüyerek inceledi. Her grup kendi sokağındaki dükkânları, parkları, ağaçları ve önemli yerleri not aldı. Sonra bunları büyük bir kâğıda çizdiler.
+
+Haritada çocukların gözünden önemli olan şeyler var. Bir köşede "en güzel dondurmacı", bir başka köşede "havlayan ama ısırmayan köpek", parkın yanında ise "en yüksek salıncak" yazıyor. Bir öğrenci, mahallenin kedilerinin yerlerini bile işaretlemiş.
+
+Öğretmen Er, projenin çocuklara yön bulmayı, ölçek kavramını ve birlikte çalışmayı öğrettiğini söyledi. Veliler de haritayı görmek için okula gelmeye başladı. Bir veli, "Kendi mahallemi ilk kez çocuğumun gözünden gördüm," dedi.
+
+### 44 | Göçmen Kuşlar Nasıl Yön Bulur?
+sub: science | kind: feature | tags: kuş, göç, yön bulma, doğa
+---
+Her yıl milyarlarca kuş, binlerce kilometrelik yolculuklara çıkar. Kimi kuzeyden güneye, kimi güneyden kuzeye göç eder. Üstelik pek çoğu her yıl aynı yerlere döner. Bu kuşlar yollarını nasıl bulur?
+
+Bilim insanları kuşların birden fazla yöntemi bir arada kullandığını düşünüyor. Bunlardan biri güneştir. Gündüz göç eden kuşlar güneşin gökyüzündeki konumuna bakarak yön bulabilir. Güneş gün içinde hareket ettiği için kuşların bir tür iç saate de ihtiyacı vardır.
+
+Gece göç eden kuşlar ise yıldızları kullanabilir. Deneyler, bazı kuşların gökyüzünün dönme merkezini, yani kuzey göğünde Kutup Yıldızı'nın bulunduğu bölgeyi tanıyabildiğini göstermiştir.
+
+Kuşların bir başka yeteneği de Dünya'nın manyetik alanını algılamaktır. Bu sayede bulutlu havalarda bile yön bulabilirler. Bu duyunun tam olarak nasıl çalıştığı hâlâ araştırılmaktadır.
+
+Kuşlar ayrıca yer şekillerinden de yararlanır. Kıyı şeritleri, nehirler ve dağ sıraları onlara yol gösterir. Bazı türlerin koku duyusunu da kullandığına dair bulgular vardır.
+
+Türkiye, göçmen kuşların önemli yollarından biri üzerindedir. Sonbaharda leylekler ve yırtıcı kuşlar büyük sürüler hâlinde İstanbul Boğazı ve Doğu Karadeniz üzerinden güneye geçer. Bu geçişleri izlemek için pek çok kuş gözlemcisi bu bölgelere gider.
+
+### 45 | Mahallenin Tamirci Kafesi: Atmak Yerine Onar
+sub: community | tags: tamir, onarım, gönüllü, israf
+---
+Karşıyaka Mahallesi'nde her ayın son cumartesi bir "tamir kafesi" kuruluyor. Mahalle sakinleri bozuk eşyalarını getiriyor, gönüllü ustalar da onları ücretsiz onarıyor.
+
+Tamir kafesinin fikri, elektrik teknisyeni olarak emekli olan Fevzi Akın'dan çıktı. Akın, insanların küçük bir arıza yüzünden eşyalarını attığını görmekten yorulduğunu söylüyor. "Bir tost makinesinin kablosu kopmuş, atıyorlar. Bir lambanın düğmesi bozulmuş, atıyorlar. Oysa beş dakikalık iş."
+
+Kafede şu anda on iki gönüllü usta var. Aralarında elektrikçi, terzi, marangoz, ayakkabı tamircisi ve bisiklet ustası bulunuyor. Getirilen eşyalar sırayla onarılıyor. Eşya sahipleri onarım sırasında ustanın yanında oturuyor ve nasıl yapıldığını öğreniyor.
+
+Kafenin kuralı, ustaların işi tek başına yapmaması. Akın bunun bilinçli bir tercih olduğunu açıklıyor: "Amacımız sadece onarmak değil, öğretmek. Bir dahaki sefere belki kendi lambasını kendisi onarır."
+
+İlk altı ayda kafede dört yüzden fazla eşya onarıldı. Bunların arasında radyolar, saç kurutma makineleri, sandalyeler, oyuncaklar ve bisikletler var. Onarılamayan eşyalar ise geri dönüşüm için ayrılıyor.
+
+### 46 | Kasabada Yeni Açılan Yüzme Havuzu Okullara Ücretsiz
+sub: education | tags: yüzme, havuz, çocuklar, spor
+---
+Ilıcaköy kasabasında açılan kapalı yüzme havuzu, hafta içi sabah saatlerinde kasabadaki okullara ücretsiz olarak açıldı. Böylece kasabanın bütün ilkokul öğrencileri yüzme öğrenme fırsatı buldu.
+
+Kasaba belediye başkanı Ercan Arslan, havuzun yapımında önceliğin çocuklara verildiğini söyledi. "Kasabamız bir göl kenarında. Ama çocuklarımızın çoğu yüzme bilmiyor. Bu hem bir eksiklik hem de bir güvenlik sorunu."
+
+Program kapsamında her sınıf haftada bir gün havuza geliyor. Dersleri lisanslı yüzme antrenörleri veriyor. Çocuklar önce suya alışmayı, sonra suyun üstünde durmayı ve en sonunda temel yüzme hareketlerini öğreniyor.
+
+Havuzun ilk döneminde dört yüz öğrenci yüzme dersi aldı. Dönem sonunda öğrencilerin büyük çoğunluğu en az yirmi beş metre yüzebilir hâle geldi.
+
+Sekiz yaşındaki Berra, ilk derste suya girmekten korktuğunu anlattı: "Ayağım yere değmeyecek diye korktum. Ama hoca bana yüzme simidi verdi. Şimdi simitsiz yüzüyorum." Berra'nın annesi, kızının yazın göle girmek için sabırsızlandığını söyledi.
+
+### 47 | Kahvenin Kısa Tarihi
+sub: history | kind: feature | tags: kahve, tarih, kahvehane, gelenek
+---
+Bugün dünyanın pek çok yerinde günlük hayatın bir parçası olan kahvenin uzun ve ilginç bir hikâyesi vardır.
+
+Kahve bitkisinin anavatanının Etiyopya çevresi olduğu kabul edilir. Kahvenin bir içecek olarak yaygın biçimde tüketildiğine dair güvenilir kayıtlar ise 15. yüzyılda Yemen'e uzanır. Orada kahve, özellikle geceleri uyanık kalmak isteyenler arasında popüler oldu.
+
+Kahve, 16. yüzyılda Osmanlı topraklarına ulaştı. İstanbul'da ilk kahvehanelerin bu yüzyılın ortalarında açıldığı bilinir. Kahvehaneler kısa sürede insanların buluşup sohbet ettiği, haber paylaştığı, oyun oynadığı önemli mekânlar hâline geldi.
+
+Türk kahvesi, çok ince öğütülmüş kahvenin cezvede suyla birlikte pişirilmesiyle hazırlanır. Kahve fincana telvesiyle birlikte dökülür. Bu hazırlama ve ikram kültürü, 2013 yılında UNESCO tarafından İnsanlığın Somut Olmayan Kültürel Mirası listesine alındı.
+
+Kahve, 17. yüzyılda Avrupa'ya yayıldı. Londra, Paris ve Viyana'da kahvehaneler açıldı. Bu mekânlar zamanla yazarların, tüccarların ve düşünürlerin buluşma yeri oldu.
+
+Bugün kahve, dünyanın en çok ticareti yapılan ürünlerinden biridir. Brezilya, Vietnam ve Kolombiya en büyük üreticiler arasında yer alır. Ama her fincanın arkasında, Etiyopya'nın dağlarından başlayan yüzyıllık bir yolculuk vardır.
+
+### 48 | Tarlada Robot Değil, Eşek: Organik Çiftlikte Eski Yöntemler
+sub: agriculture | tags: organik tarım, çiftlik, eşek, gelenek
+---
+Kocadağ eteklerindeki küçük bir organik çiftlik, traktör yerine eşek kullanarak tarım yapıyor. Çiftliğin sahibi genç çift Bora ve Melis Yılmaz, bu tercihin hem toprağa hem de bütçelerine iyi geldiğini söylüyor.
+
+Çift, beş yıl önce şehirdeki işlerini bırakıp Bora'nın dedesinden kalan araziye taşındı. Arazi küçük ve eğimliydi. Traktörün girmesi zordu. Bora'nın dedesi de bu araziyi yıllarca eşeklerle işlemişti.
+
+Şu anda çiftlikte üç eşek var: Pamuk, Fıstık ve Bulut. Eşekler toprağı sürüyor, hasat edilen ürünleri taşıyor ve çiftliğin otlarını yiyerek temizlik yapıyor. Gübreleri de bahçe için kompost oluyor.
+
+Melis Yılmaz, eşeklerin toprağı traktör kadar sıkıştırmadığını anlatıyor. "Ağır makineler toprağı ezer. Toprağın içindeki solucanlar ve mikroorganizmalar zarar görür. Eşek hafiftir, toprağa daha az yük bindirir."
+
+Çiftlik, ürettiği sebzeleri haftada bir şehirdeki üretici pazarında satıyor. Hafta sonları ise ziyaretçilere açılıyor. Çocuklar eşekleri seviyor, onlara havuç veriyor. Bora Yılmaz gülerek, "En çok satan ürünümüz eşeklerle fotoğraf," diyor.
+
+### 49 | Mahalle Meclisi Parkın Yeni Tasarımına Karar Verdi
+sub: city | tags: katılım, park, tasarım, mahalle
+---
+Bahçelievler Mahallesi'ndeki eski parkın yeniden tasarımı, mahalle sakinlerinin oylarıyla belirlendi. Belediye, parkın yenilenmesi için üç farklı tasarım hazırladı ve bunları mahalleliye sundu.
+
+Tasarımlar iki hafta boyunca mahalle muhtarlığında ve internette sergilendi. Mahalle sakinleri her tasarım hakkında yorum yazdı ve sonunda oy kullandı. Oylamaya bin altı yüz kişi katıldı.
+
+Birinci tasarım geniş çim alanlar ve yürüyüş yolları öneriyordu. İkinci tasarım büyük bir oyun alanı ve spor sahası içeriyordu. Üçüncü tasarım ise parkın bir kısmını topluluk bahçesine, bir kısmını oyun alanına, bir kısmını da gölgeli oturma alanlarına ayırıyordu. Üçüncü tasarım oyların yüzde elli ikisini alarak kazandı.
+
+Mahalle sakinlerinin yorumları tasarıma da yansıtıldı. Pek çok kişi parkta daha fazla gölge ve oturacak yer istemişti. Yaşlılar, bankların sırt dayanaklı olmasını talep etti. Çocuklu aileler ise oyun alanının çevresinin çitle çevrilmesini önerdi. Bu öneriler son tasarıma eklendi.
+
+Parkın yenileme çalışmaları önümüzdeki ay başlayacak ve dört ay sürecek. Belediye, benzer bir katılım sürecini diğer parklar için de uygulamayı planlıyor.
+
+### 50 | Gökkuşağı Nasıl Oluşur?
+sub: science | kind: feature | tags: gökkuşağı, ışık, yağmur, renk
+---
+Yağmurdan sonra güneş açtığında gökyüzünde bazen bir gökkuşağı belirir. Kırmızıdan mora uzanan bu renkli yay, ışığın ve su damlalarının bir oyunudur.
+
+Güneş ışığı beyaz görünür ama aslında farklı renklerin karışımıdır. Bir yağmur damlasına giren ışık, damlanın içinde kırılır, yani yönü değişir. Farklı renkler farklı açılarla kırıldığı için ışık renklerine ayrılır. Işık damlanın arka yüzünden yansır ve damladan çıkarken bir kez daha kırılır.
+
+Bu yüzden her damla, belirli bir açıyla bakan birine belirli bir rengi gönderir. Milyonlarca damladan gelen renkler bir araya gelince gökkuşağını görürüz. Gökkuşağının dış kenarı kırmızı, iç kenarı mordur.
+
+Gökkuşağını görebilmek için güneşin arkanızda, yağmurun ise önünüzde olması gerekir. Güneş gökyüzünde ne kadar alçaksa, gökkuşağı o kadar yüksek görünür. Bu yüzden gökkuşakları en çok sabah erken ya da akşamüstü görülür.
+
+Bazen ana gökkuşağının dışında, daha soluk ikinci bir gökkuşağı daha görülür. Bu ikinci yayda ışık damlanın içinde iki kez yansır ve renklerin sırası tersine döner: Kırmızı içte, mor dışta olur.
+
+Bir bahçe hortumuyla da gökkuşağı yapabilirsiniz. Güneşe sırtınızı dönüp suyu ince damlalar hâlinde püskürttüğünüzde, küçük bir gökkuşağı belirecektir.

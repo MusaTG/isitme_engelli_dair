@@ -1,0 +1,199 @@
+{
+ "id": "en-core",
+ "lang": "en",
+ "version": "2.0.0",
+ "license": "MIT",
+ "source": "Original content written for the Duyum project",
+ "review": "draft",
+ "notes": "Awaiting review by a speech and language therapist / audiologist.",
+ "categories": {
+  "people": {
+   "tr": "İnsanlar ve aile",
+   "en": "People and family"
+  },
+  "body": {
+   "tr": "Vücut ve kişisel bakım",
+   "en": "Body and personal care"
+  },
+  "home": {
+   "tr": "Ev ve odalar",
+   "en": "Home and rooms"
+  },
+  "kitchen": {
+   "tr": "Mutfak ve ev eşyaları",
+   "en": "Kitchen and household items"
+  },
+  "food": {
+   "tr": "Yiyecek ve içecek",
+   "en": "Food and drink"
+  },
+  "animals": {
+   "tr": "Hayvanlar",
+   "en": "Animals"
+  },
+  "nature": {
+   "tr": "Doğa ve çevre",
+   "en": "Nature and environment"
+  },
+  "plants": {
+   "tr": "Tarım ve bitkiler",
+   "en": "Farming and plants"
+  },
+  "colors": {
+   "tr": "Renkler ve şekiller",
+   "en": "Colours and shapes"
+  },
+  "clothes": {
+   "tr": "Giysiler",
+   "en": "Clothes"
+  },
+  "school": {
+   "tr": "Okul ve eğitim",
+   "en": "School and education"
+  },
+  "jobs": {
+   "tr": "İş ve meslekler",
+   "en": "Jobs and occupations"
+  },
+  "office": {
+   "tr": "Ofis ve toplantılar",
+   "en": "Office and meetings"
+  },
+  "tech": {
+   "tr": "Teknoloji",
+   "en": "Technology"
+  },
+  "transport": {
+   "tr": "Ulaşım ve araçlar",
+   "en": "Transport and vehicles"
+  },
+  "city": {
+   "tr": "Şehir ve yönler",
+   "en": "City and directions"
+  },
+  "shopping": {
+   "tr": "Market ve alışveriş",
+   "en": "Shopping"
+  },
+  "restaurant": {
+   "tr": "Restoran ve sipariş",
+   "en": "Restaurant and ordering"
+  },
+  "health": {
+   "tr": "Günlük sağlık iletişimi",
+   "en": "Everyday health communication"
+  },
+  "numbers": {
+   "tr": "Sayılar ve matematik",
+   "en": "Numbers and maths"
+  },
+  "time": {
+   "tr": "Saat, tarih ve takvim",
+   "en": "Time, date and calendar"
+  },
+  "weather": {
+   "tr": "Hava durumu",
+   "en": "Weather"
+  },
+  "emotions": {
+   "tr": "Duygular ve sosyal ifadeler",
+   "en": "Feelings and social phrases"
+  },
+  "verbs": {
+   "tr": "Fiiller ve eylemler",
+   "en": "Verbs and actions"
+  },
+  "adjectives": {
+   "tr": "Sıfatlar ve karşıtlar",
+   "en": "Adjectives and opposites"
+  },
+  "questions": {
+   "tr": "Soru kelimeleri",
+   "en": "Question words"
+  },
+  "function": {
+   "tr": "Zamirler, bağlaçlar, edatlar",
+   "en": "Pronouns, conjunctions, prepositions"
+  },
+  "phrases": {
+   "tr": "Günlük konuşma ifadeleri",
+   "en": "Everyday expressions"
+  },
+  "phone": {
+   "tr": "Telefon ve görüntülü görüşme",
+   "en": "Phone and video calls"
+  },
+  "emergency": {
+   "tr": "Acil durum ifadeleri (eğitim amaçlı)",
+   "en": "Emergency phrases (for practice only)"
+  }
+ },
+ "frames": {
+  "food": [
+   "I put the {w} on the table."
+  ],
+  "animals": [
+   "Look at the {w} in this picture."
+  ],
+  "kitchen": [
+   "Please pass me the {w}."
+  ],
+  "clothes": [
+   "I can't find my {w}."
+  ],
+  "home": [
+   "We have a new {w} at home."
+  ],
+  "school": [
+   "I put the {w} in my bag."
+  ],
+  "tech": [
+   "I left the {w} on the desk."
+  ],
+  "transport": [
+   "We went there by {w}."
+  ],
+  "nature": [
+   "There is a picture of the {w} on the wall."
+  ],
+  "plants": [
+   "We saw the {w} in the garden."
+  ],
+  "jobs": [
+   "My neighbour works as {w.a}."
+  ]
+ },
+ "phonetics": {
+  "source": "CMU Pronouncing Dictionary (BSD-2-Clause) via the pronouncing package; converted to IPA (General American)."
+ },
+ "infoFrames": {
+  "time": [
+   "The bus leaves at {x}.",
+   "Your appointment is at {x}.",
+   "The film starts at {x}."
+  ],
+  "date": [
+   "The exam is on {x}.",
+   "The meeting is on {x}.",
+   "The course ends on {x}."
+  ],
+  "money": [
+   "The total is {x}.",
+   "This jacket costs {x}.",
+   "The electricity bill was {x}."
+  ],
+  "number": [
+   "There are {x} people in the hall.",
+   "This book has {x} pages.",
+   "Our school has {x} students."
+  ],
+  "address": [
+   "Our new address is {x}.",
+   "The parcel will go to {x}."
+  ],
+  "phone": [
+   "My number is {x}.",
+   "You can reach us on {x}."
+  ]
+ }
+}

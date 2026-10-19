@@ -1,0 +1,759 @@
+{
+ "templates": [
+  {
+   "id": "en.s.two-word",
+   "lvl": 1,
+   "aud": "both",
+   "struct": "short",
+   "slots": {
+    "p": "names",
+    "x": "acts_now"
+   },
+   "text": [
+    "{p} {x}."
+   ],
+   "q": [
+    {
+     "type": "what",
+     "q": "What is {p} doing?",
+     "ask": "x",
+     "form": "short"
+    },
+    {
+     "type": "who",
+     "q": "Who {x}?",
+     "ask": "p"
+    }
+   ]
+  },
+  {
+   "id": "en.s.animal-short",
+   "lvl": 1,
+   "aud": "both",
+   "struct": "short",
+   "slots": {
+    "an": "animals"
+   },
+   "text": [
+    "The {an} is sleeping.",
+    "The {an} is running.",
+    "The {an} is drinking water."
+   ],
+   "q": [
+    {
+     "type": "what",
+     "q": "Which animal was mentioned?",
+     "ask": "an"
+    }
+   ]
+  },
+  {
+   "id": "en.s.color-thing",
+   "lvl": 1,
+   "aud": "both",
+   "struct": "short",
+   "slots": {
+    "c": "colors",
+    "th": "things"
+   },
+   "text": [
+    "I bought {c.a} {th}.",
+    "I need {c.a} {th}."
+   ],
+   "q": [
+    {
+     "type": "what",
+     "q": "Which colour was mentioned?",
+     "ask": "c"
+    },
+    {
+     "type": "what",
+     "q": "Which object was mentioned?",
+     "ask": "th"
+    }
+   ]
+  },
+  {
+   "id": "en.s.count",
+   "lvl": 1,
+   "aud": "both",
+   "struct": "quantity",
+   "slots": {
+    "n": "numbers",
+    "ct": "countables"
+   },
+   "text": [
+    "There are {n} {ct} on the table.",
+    "There are {n} {ct} in the basket."
+   ],
+   "q": [
+    {
+     "type": "howmany",
+     "q": "How many are there?",
+     "ask": "n",
+     "show": "show"
+    },
+    {
+     "type": "what",
+     "q": "What is there?",
+     "ask": "ct"
+    }
+   ]
+  },
+  {
+   "id": "en.s.where-thing",
+   "lvl": 1,
+   "aud": "both",
+   "struct": "place",
+   "slots": {
+    "th": "things",
+    "r": "relations"
+   },
+   "text": [
+    "The {th} is {r}.",
+    "I think the {th} is {r}."
+   ],
+   "q": [
+    {
+     "type": "where",
+     "q": "Where is it?",
+     "ask": "r"
+    },
+    {
+     "type": "what",
+     "q": "What is {r}?",
+     "ask": "th"
+    }
+   ]
+  },
+  {
+   "id": "en.s.likes",
+   "lvl": 1,
+   "aud": "child",
+   "struct": "short",
+   "slots": {
+    "p": "names",
+    "fd": "kidfoods"
+   },
+   "text": [
+    "{p} likes {fd}.",
+    "{p} really likes {fd}."
+   ],
+   "neg": [
+    "{p} doesn't like {fd}.",
+    "{p} doesn't like {fd} at all."
+   ],
+   "yn": "Does {p} like {fd}?",
+   "q": [
+    {
+     "type": "what",
+     "q": "What does {p} like?",
+     "ask": "fd"
+    },
+    {
+     "type": "who",
+     "q": "Who likes {fd}?",
+     "ask": "p"
+    }
+   ]
+  },
+  {
+   "id": "en.s.command",
+   "lvl": 1,
+   "aud": "both",
+   "struct": "imperative",
+   "slots": {
+    "cmd": "commands"
+   },
+   "text": [
+    "{cmd}"
+   ],
+   "q": [
+    {
+     "type": "purpose",
+     "q": "What were you asked to do?",
+     "ask": "cmd",
+     "form": "short"
+    }
+   ]
+  },
+  {
+   "id": "en.s.went",
+   "lvl": 2,
+   "aud": "both",
+   "struct": "past",
+   "slots": {
+    "p": "names",
+    "t": "past_times",
+    "pl": "places"
+   },
+   "text": [
+    "{p} went {pl.to} {t}.",
+    "{t}, {p} went {pl.to}."
+   ],
+   "neg": [
+    "{p} didn't go {pl.to} {t}.",
+    "{t}, {p} didn't go {pl.to}."
+   ],
+   "yn": "Did {p} go {pl.to}?",
+   "q": [
+    {
+     "type": "who",
+     "q": "Who went?",
+     "ask": "p"
+    },
+    {
+     "type": "where",
+     "q": "Where did {p} go?",
+     "ask": "pl"
+    },
+    {
+     "type": "when",
+     "q": "When did {p} go?",
+     "ask": "t"
+    }
+   ]
+  },
+  {
+   "id": "en.s.vehicle",
+   "lvl": 2,
+   "aud": "both",
+   "struct": "present",
+   "slots": {
+    "p": "names",
+    "v": "vehicles"
+   },
+   "text": [
+    "{p} goes to work by {v} every day.",
+    "{p} usually goes to work by {v}."
+   ],
+   "q": [
+    {
+     "type": "how",
+     "q": "How does {p} get to work?",
+     "ask": "v",
+     "form": "by"
+    },
+    {
+     "type": "who",
+     "q": "Who goes to work by {v}?",
+     "ask": "p"
+    }
+   ]
+  },
+  {
+   "id": "en.s.event-time",
+   "lvl": 2,
+   "aud": "both",
+   "struct": "time",
+   "slots": {
+    "ev": "events",
+    "tm": "@time"
+   },
+   "text": [
+    "{ev} starts at {tm}.",
+    "Today {ev} will start at {tm}."
+   ],
+   "q": [
+    {
+     "type": "when",
+     "q": "What time does it start?",
+     "ask": "tm",
+     "show": "show"
+    },
+    {
+     "type": "what",
+     "q": "What starts?",
+     "ask": "ev"
+    }
+   ]
+  },
+  {
+   "id": "en.s.day-plan",
+   "lvl": 2,
+   "aud": "both",
+   "struct": "future",
+   "slots": {
+    "p": "names",
+    "wd": "weekdays",
+    "pl": "places"
+   },
+   "text": [
+    "{p} is going {pl.to} {wd}.",
+    "{wd}, {p} is going {pl.to}."
+   ],
+   "neg": [
+    "{p} isn't going {pl.to} {wd}.",
+    "{wd}, {p} isn't going {pl.to}."
+   ],
+   "yn": "Is {p} going {pl.to}?",
+   "q": [
+    {
+     "type": "when",
+     "q": "Which day is {p} going?",
+     "ask": "wd"
+    },
+    {
+     "type": "where",
+     "q": "Where is {p} going?",
+     "ask": "pl"
+    }
+   ]
+  },
+  {
+   "id": "en.s.give",
+   "lvl": 2,
+   "aud": "both",
+   "struct": "relation",
+   "slots": {
+    "a": "names",
+    "b": "names",
+    "th": "things"
+   },
+   "text": [
+    "{a} gave {b} {th.a}.",
+    "{a} gave {th.a} to {b} as a present."
+   ],
+   "q": [
+    {
+     "type": "who",
+     "q": "Who gave the present?",
+     "ask": "a"
+    },
+    {
+     "type": "who",
+     "q": "Who received the present?",
+     "ask": "b"
+    },
+    {
+     "type": "what",
+     "q": "What was the present?",
+     "ask": "th"
+    }
+   ]
+  },
+  {
+   "id": "en.s.found",
+   "lvl": 2,
+   "aud": "both",
+   "struct": "past",
+   "slots": {
+    "p": "names",
+    "th": "things",
+    "pl": "places"
+   },
+   "text": [
+    "{p} found {th.a} {pl.at}.",
+    "{pl.at}, {p} found {th.a}."
+   ],
+   "q": [
+    {
+     "type": "what",
+     "q": "What did {p} find?",
+     "ask": "th"
+    },
+    {
+     "type": "where",
+     "q": "Where did {p} find it?",
+     "ask": "pl",
+     "form": "at"
+    },
+    {
+     "type": "who",
+     "q": "Who found it?",
+     "ask": "p"
+    }
+   ]
+  },
+  {
+   "id": "en.s.weather",
+   "lvl": 2,
+   "aud": "both",
+   "struct": "future",
+   "slots": {
+    "city": "cities",
+    "wx": "weather"
+   },
+   "text": [
+    "Tomorrow it will be {wx} in {city}.",
+    "According to the forecast, it will be {wx} in {city} tomorrow."
+   ],
+   "q": [
+    {
+     "type": "how",
+     "q": "What will the weather be like?",
+     "ask": "wx"
+    },
+    {
+     "type": "where",
+     "q": "Which city was mentioned?",
+     "ask": "city"
+    }
+   ]
+  },
+  {
+   "id": "en.s.price",
+   "lvl": 2,
+   "aud": "both",
+   "struct": "quantity",
+   "slots": {
+    "pr": "produce",
+    "m": "@money"
+   },
+   "text": [
+    "{pr} are {m} a kilo today.",
+    "At the market, {pr} are {m} a kilo."
+   ],
+   "q": [
+    {
+     "type": "howmany",
+     "q": "How much is a kilo?",
+     "ask": "m",
+     "show": "show"
+    },
+    {
+     "type": "what",
+     "q": "Which item was priced?",
+     "ask": "pr"
+    }
+   ]
+  },
+  {
+   "id": "en.s.phone-call",
+   "lvl": 2,
+   "aud": "both",
+   "struct": "past",
+   "slots": {
+    "a": "names",
+    "b": "names",
+    "tm": "@time"
+   },
+   "text": [
+    "{a} called {b} at {tm}.",
+    "At {tm}, {a} called {b}."
+   ],
+   "q": [
+    {
+     "type": "who",
+     "q": "Who made the call?",
+     "ask": "a"
+    },
+    {
+     "type": "who",
+     "q": "Who was called?",
+     "ask": "b"
+    },
+    {
+     "type": "when",
+     "q": "What time was the call?",
+     "ask": "tm",
+     "show": "show"
+    }
+   ]
+  },
+  {
+   "id": "en.s.neg-like",
+   "lvl": 2,
+   "aud": "both",
+   "struct": "negative",
+   "slots": {
+    "p": "names",
+    "f1": "foods_meal",
+    "f2": "foods_meal"
+   },
+   "text": [
+    "{p} doesn't like {f1}, but loves {f2}.",
+    "{p} loves {f2}, but doesn't like {f1} at all."
+   ],
+   "q": [
+    {
+     "type": "detail",
+     "q": "What doesn't {p} like?",
+     "ask": "f1"
+    },
+    {
+     "type": "detail",
+     "q": "What does {p} love?",
+     "ask": "f2"
+    }
+   ]
+  },
+  {
+   "id": "en.s.party-count",
+   "lvl": 2,
+   "aud": "both",
+   "struct": "quantity",
+   "slots": {
+    "p": "names",
+    "n": "@number:3:30"
+   },
+   "text": [
+    "{p} invited {n} people to the birthday party.",
+    "{p} asked {n} friends to come to the birthday party."
+   ],
+   "q": [
+    {
+     "type": "howmany",
+     "q": "How many people were invited?",
+     "ask": "n",
+     "show": "show"
+    }
+   ]
+  },
+  {
+   "id": "en.s.came-home",
+   "lvl": 3,
+   "aud": "both",
+   "struct": "subordinate",
+   "slots": {
+    "p": "names",
+    "k": "kin_np",
+    "act": "activities"
+   },
+   "text": [
+    "When {p} got home, {k} was {act}.",
+    "{k} was {act} when {p} came home."
+   ],
+   "q": [
+    {
+     "type": "what",
+     "q": "What was {k} doing?",
+     "ask": "act",
+     "form": "short"
+    },
+    {
+     "type": "who",
+     "q": "Who was {act}?",
+     "ask": "k"
+    }
+   ]
+  },
+  {
+   "id": "en.s.before-leave",
+   "lvl": 3,
+   "aud": "both",
+   "struct": "subordinate",
+   "slots": {
+    "p": "names",
+    "pl": "places",
+    "th": "things"
+   },
+   "text": [
+    "Before going {pl.to}, {p} remembered to take {th.a}.",
+    "{p} took {th.a} before leaving for {pl}."
+   ],
+   "q": [
+    {
+     "type": "what",
+     "q": "What did {p} take?",
+     "ask": "th"
+    },
+    {
+     "type": "where",
+     "q": "Where was {p} going?",
+     "ask": "pl"
+    }
+   ]
+  },
+  {
+   "id": "en.s.address",
+   "lvl": 3,
+   "aud": "both",
+   "struct": "place",
+   "slots": {
+    "p": "names",
+    "ad": "@address"
+   },
+   "text": [
+    "{p} lives at {ad}.",
+    "{p} has moved to {ad}."
+   ],
+   "q": [
+    {
+     "type": "where",
+     "q": "What is the address?",
+     "ask": "ad",
+     "show": "show"
+    }
+   ]
+  },
+  {
+   "id": "en.s.work-deadline",
+   "lvl": 3,
+   "aud": "adult",
+   "struct": "work",
+   "slots": {
+    "p": "names",
+    "wd": "weekdays",
+    "doc": "workdocs"
+   },
+   "text": [
+    "{p} asked us to send {doc} before noon {wd}.",
+    "{p} needs {doc} by noon {wd} at the latest."
+   ],
+   "q": [
+    {
+     "type": "when",
+     "q": "Which day is the deadline?",
+     "ask": "wd"
+    },
+    {
+     "type": "what",
+     "q": "What needs to be sent?",
+     "ask": "doc"
+    },
+    {
+     "type": "who",
+     "q": "Who asked for it?",
+     "ask": "p"
+    }
+   ]
+  },
+  {
+   "id": "en.s.meeting-room",
+   "lvl": 2,
+   "aud": "adult",
+   "struct": "work",
+   "slots": {
+    "ev": "workevents",
+    "rm": "workrooms",
+    "tm": "@time"
+   },
+   "text": [
+    "{ev} will be {rm.at} at {tm}.",
+    "Today {ev} is at {tm}, {rm.at}."
+   ],
+   "q": [
+    {
+     "type": "where",
+     "q": "Where will it take place?",
+     "ask": "rm",
+     "form": "at"
+    },
+    {
+     "type": "when",
+     "q": "What time is it?",
+     "ask": "tm",
+     "show": "show"
+    }
+   ]
+  },
+  {
+   "id": "en.s.walk-reason",
+   "lvl": 3,
+   "aud": "both",
+   "struct": "subordinate",
+   "slots": {
+    "p": "names",
+    "r": "reasons_walk"
+   },
+   "text": [
+    "Today {p} walked to work because {r}.",
+    "{p} walked to work today, because {r}."
+   ],
+   "q": [
+    {
+     "type": "why",
+     "q": "Why did {p} walk?",
+     "ask": "r",
+     "form": "short"
+    }
+   ]
+  }
+ ],
+ "qa": [
+  {
+   "q": "How old are you?",
+   "a": "I'm eight.",
+   "t": "age"
+  },
+  {
+   "q": "What's the weather like today?",
+   "a": "Sunny and warm.",
+   "t": "weather"
+  },
+  {
+   "q": "What time is it?",
+   "a": "It's half past three.",
+   "t": "time"
+  },
+  {
+   "q": "Where do you live?",
+   "a": "I live in Leeds.",
+   "t": "place"
+  },
+  {
+   "q": "What did you have for breakfast?",
+   "a": "Toast and jam.",
+   "t": "food"
+  },
+  {
+   "q": "How do you get to school?",
+   "a": "I take the school bus.",
+   "t": "transport"
+  },
+  {
+   "q": "Do you have any brothers or sisters?",
+   "a": "Yes, I have an older sister.",
+   "t": "family"
+  },
+  {
+   "q": "What are you doing this weekend?",
+   "a": "I'm visiting my grandpa.",
+   "t": "plan"
+  },
+  {
+   "q": "What's your favourite colour?",
+   "a": "Blue.",
+   "t": "color"
+  },
+  {
+   "q": "Who did you come with?",
+   "a": "I came with my mum.",
+   "t": "person"
+  },
+  {
+   "q": "Whose book is this?",
+   "a": "It's Emma's.",
+   "t": "owner"
+  },
+  {
+   "q": "Why are you late?",
+   "a": "The bus was delayed.",
+   "t": "reason"
+  },
+  {
+   "q": "When will the meeting finish?",
+   "a": "In half an hour.",
+   "t": "duration",
+   "aud": "adult"
+  },
+  {
+   "q": "Who's paying the bill?",
+   "a": "I'll pay.",
+   "t": "payer",
+   "aud": "adult"
+  },
+  {
+   "q": "A table for how many?",
+   "a": "For four, please.",
+   "t": "count",
+   "aud": "adult"
+  },
+  {
+   "q": "What would you like to drink?",
+   "a": "A glass of water, please.",
+   "t": "drink"
+  },
+  {
+   "q": "Could you give me your phone number?",
+   "a": "Sure, let me write it down.",
+   "t": "request"
+  },
+  {
+   "q": "Where are you going?",
+   "a": "I'm going to the library.",
+   "t": "destination"
+  }
+ ]
+}

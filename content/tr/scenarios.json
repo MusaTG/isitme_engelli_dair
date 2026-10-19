@@ -1,0 +1,2682 @@
+{
+ "scenarios": [
+  {
+   "id": "tr.sc.call-room",
+   "group": "home",
+   "lvl": 1,
+   "aud": "both",
+   "title": "Başka odadan seslenme",
+   "roles": {
+    "A": "Annesi",
+    "B": "{p}"
+   },
+   "slots": {
+    "p": "names",
+    "r": "rooms"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "{p}, neredesin? Yemek hazır!"
+      },
+      {
+       "sp": "B",
+       "t": "Ben {r.loc}, hemen geliyorum!"
+      },
+      {
+       "sp": "A",
+       "t": "Gelmeden önce ellerini yıkamayı unutma.",
+       "tag": "wash"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "{p}! Sofraya gel, yemek soğuyor."
+      },
+      {
+       "sp": "B",
+       "t": "{r.loc} kitabımı arıyorum, iki dakika!"
+      },
+      {
+       "sp": "A",
+       "t": "Tamam ama önce ellerini yıka.",
+       "tag": "wash"
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "where",
+     "q": "{p} hangi odadaydı?",
+     "ask": "r",
+     "form": "loc"
+    },
+    {
+     "type": "purpose",
+     "q": "{p} neden çağrıldı?",
+     "opts": [
+      "Yemek hazır olduğu için",
+      "Telefonu çaldığı için",
+      "Misafir geldiği için",
+      "Okula gideceği için"
+     ]
+    },
+    {
+     "type": "detail",
+     "q": "Gelmeden önce ne yapması istendi?",
+     "opts": [
+      "Ellerini yıkaması",
+      "Odasını toplaması",
+      "Ödevini bitirmesi",
+      "Ayakkabılarını giymesi"
+     ]
+    },
+    {
+     "type": "speaker",
+     "q": "Ellerini yıkamasını kim söyledi?",
+     "tag": "wash"
+    }
+   ]
+  },
+  {
+   "id": "tr.sc.delivery",
+   "group": "home",
+   "lvl": 1,
+   "aud": "both",
+   "title": "Kapıda kargo",
+   "roles": {
+    "A": "Kargo görevlisi",
+    "B": "Ev sahibi"
+   },
+   "slots": {
+    "p": "names",
+    "wd": "weekdays"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sfx": "doorbell"
+      },
+      {
+       "sp": "A",
+       "t": "Merhaba, {p} için bir paket var."
+      },
+      {
+       "sp": "B",
+       "t": "O benim, teşekkürler."
+      },
+      {
+       "sp": "A",
+       "t": "Şuraya imza atar mısınız?",
+       "tag": "sign"
+      },
+      {
+       "sp": "B",
+       "t": "Tabii."
+      },
+      {
+       "sp": "A",
+       "t": "Bir paketiniz daha var, o da {wd} gelecek."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sfx": "doorbell"
+      },
+      {
+       "sp": "A",
+       "t": "İyi günler, kargo! {p} adına bir koli getirdim."
+      },
+      {
+       "sp": "B",
+       "t": "Evet, {p} benim."
+      },
+      {
+       "sp": "A",
+       "t": "Teslim için imzanız gerekiyor.",
+       "tag": "sign"
+      },
+      {
+       "sp": "A",
+       "t": "Diğer paketiniz de {wd} elinize ulaşacak."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "who",
+     "q": "Paket kimin adına geldi?",
+     "ask": "p"
+    },
+    {
+     "type": "when",
+     "q": "Diğer paket ne zaman gelecek?",
+     "ask": "wd"
+    },
+    {
+     "type": "detail",
+     "q": "Görevli ne istedi?",
+     "opts": [
+      "İmza",
+      "Para",
+      "Kimlik fotokopisi",
+      "Telefon numarası"
+     ]
+    },
+    {
+     "type": "speaker",
+     "q": "İmza isteyen kimdi?",
+     "tag": "sign"
+    }
+   ]
+  },
+  {
+   "id": "tr.sc.chores",
+   "group": "home",
+   "lvl": 2,
+   "aud": "both",
+   "title": "Evde görev listesi",
+   "roles": {
+    "A": "Babası",
+    "B": "{p}"
+   },
+   "slots": {
+    "p": "names",
+    "c1": "chores",
+    "c2": "chores"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "{p}, ben markete gidiyorum."
+      },
+      {
+       "sp": "A",
+       "t": "Ben yokken önce {c1}, sonra {c2}, tamam mı?",
+       "tag": "tasks"
+      },
+      {
+       "sp": "B",
+       "t": "Tamam baba, hallederim."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "{p}, ben biraz markete uğrayacağım."
+      },
+      {
+       "sp": "B",
+       "t": "Bir şey yapmamı ister misin?"
+      },
+      {
+       "sp": "A",
+       "t": "Evet. İlk olarak {c1}, ardından {c2}.",
+       "tag": "tasks"
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "order",
+     "q": "{p} hangi işi önce yapacak?",
+     "ask": "c1",
+     "form": "short"
+    },
+    {
+     "type": "detail",
+     "q": "İkinci iş hangisi?",
+     "ask": "c2",
+     "form": "short"
+    },
+    {
+     "type": "where",
+     "q": "Babası nereye gidiyor?",
+     "opts": [
+      "Markete",
+      "İşe",
+      "Bankaya",
+      "Spor salonuna"
+     ]
+    },
+    {
+     "type": "speaker",
+     "q": "Görevleri kim verdi?",
+     "tag": "tasks"
+    }
+   ]
+  },
+  {
+   "id": "tr.sc.kitchen",
+   "group": "home",
+   "lvl": 2,
+   "aud": "both",
+   "title": "Mutfakta birden fazla kişi",
+   "roles": {
+    "A": "{a}",
+    "B": "{b}",
+    "C": "{c}"
+   },
+   "slots": {
+    "a": "names",
+    "b": "names",
+    "c": "names",
+    "d": "drinks"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "Çay hazır, kim ister?"
+      },
+      {
+       "sp": "B",
+       "t": "Ben isterim ama şekersiz olsun.",
+       "tag": "nosugar"
+      },
+      {
+       "sp": "C",
+       "t": "Ben çay içmeyeceğim, bana {d} verir misin?",
+       "tag": "other"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "Demlik hazır, çay içecek olan var mı?"
+      },
+      {
+       "sp": "C",
+       "t": "Ben almayayım, {d} içeceğim.",
+       "tag": "other"
+      },
+      {
+       "sp": "B",
+       "t": "Bana bir bardak, şekersiz lütfen.",
+       "tag": "nosugar"
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "who",
+     "q": "Kim şekersiz çay istedi?",
+     "ask": "b"
+    },
+    {
+     "type": "detail",
+     "q": "{c} ne içmek istedi?",
+     "ask": "d"
+    },
+    {
+     "type": "who",
+     "q": "Çayı kim hazırladı?",
+     "ask": "a"
+    }
+   ],
+   "noise": 1
+  },
+  {
+   "id": "tr.sc.tv",
+   "group": "home",
+   "lvl": 2,
+   "aud": "both",
+   "title": "Televizyon duyurusu",
+   "roles": {
+    "A": "Sunucu"
+   },
+   "slots": {
+    "sh": "tvshows",
+    "tm": "@time:18:23",
+    "wd": "weekdays"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "Sevgili izleyiciler, {sh} birazdan başlıyor."
+      },
+      {
+       "sp": "A",
+       "t": "Bu akşamki programdan sonra {sh} {wd} {tm.at} yeniden yayında olacak."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "Birkaç dakika içinde {sh} sizlerle."
+      },
+      {
+       "sp": "A",
+       "t": "Kaçıranlar için tekrar yayını {wd}, {tm.at}."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "what",
+     "q": "Hangi program başlıyor?",
+     "ask": "sh"
+    },
+    {
+     "type": "when",
+     "q": "Tekrar yayını hangi gün?",
+     "ask": "wd"
+    },
+    {
+     "type": "when",
+     "q": "Tekrar saat kaçta?",
+     "ask": "tm",
+     "show": "show"
+    }
+   ]
+  },
+  {
+   "id": "tr.sc.plan",
+   "group": "social",
+   "lvl": 2,
+   "aud": "both",
+   "title": "Arkadaşlarla plan",
+   "roles": {
+    "A": "{a}",
+    "B": "{b}"
+   },
+   "slots": {
+    "a": "names",
+    "b": "names",
+    "w1": "weekdays",
+    "w2": "weekdays",
+    "tm": "@time:10:21"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "{b}, {w1} sinemaya gidelim mi?"
+      },
+      {
+       "sp": "B",
+       "t": "{w1} olmaz, işim var. {w2} olur mu?"
+      },
+      {
+       "sp": "A",
+       "t": "Olur. {tm.at} sinemanın önünde buluşalım."
+      },
+      {
+       "sp": "B",
+       "t": "Anlaştık!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "{w1} boş musun? Film izlemeye gidebiliriz."
+      },
+      {
+       "sp": "B",
+       "t": "Maalesef {w1} müsait değilim. {w2} nasıl?"
+      },
+      {
+       "sp": "A",
+       "t": "Tamam, {w2} olsun. Sinemanın önünde, {tm.at}."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "when",
+     "q": "Hangi gün buluşmaya karar verdiler?",
+     "ask": "w2"
+    },
+    {
+     "type": "when",
+     "q": "Saat kaçta buluşacaklar?",
+     "ask": "tm",
+     "show": "show"
+    },
+    {
+     "type": "where",
+     "q": "Nerede buluşacaklar?",
+     "opts": [
+      "Sinemanın önünde",
+      "Kafede",
+      "Okulun önünde",
+      "Durakta"
+     ]
+    },
+    {
+     "type": "detail",
+     "q": "İlk önerilen gün neden olmadı?",
+     "opts": [
+      "{b} müsait değildi",
+      "Sinema kapalıydı",
+      "Hava kötüydü",
+      "Bilet kalmamıştı"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tr.sc.restaurant",
+   "group": "social",
+   "lvl": 2,
+   "aud": "both",
+   "title": "Restoranda sipariş",
+   "roles": {
+    "A": "Garson",
+    "B": "Müşteri"
+   },
+   "slots": {
+    "f1": "dishes",
+    "f2": "dishes",
+    "dr": "drinks"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "Hoş geldiniz, ne alırsınız?"
+      },
+      {
+       "sp": "B",
+       "t": "Ben {f1} alayım, yanında da {dr} lütfen."
+      },
+      {
+       "sp": "A",
+       "t": "Kusura bakmayın, {f1} kalmadı. {f2} önerebilirim.",
+       "tag": "rec"
+      },
+      {
+       "sp": "B",
+       "t": "Peki, {f2} olsun."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "B",
+       "t": "Merhaba, bir {f1} istiyorum."
+      },
+      {
+       "sp": "A",
+       "t": "Maalesef {f1} bitti. Size {f2} getireyim mi?",
+       "tag": "rec"
+      },
+      {
+       "sp": "B",
+       "t": "Olur. Bir de {dr} alabilir miyim?"
+      },
+      {
+       "sp": "A",
+       "t": "Tabii, hemen getiriyorum."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "what",
+     "q": "Müşteri sonunda hangi yemeği aldı?",
+     "ask": "f2"
+    },
+    {
+     "type": "detail",
+     "q": "Müşteri ne içecek?",
+     "ask": "dr"
+    },
+    {
+     "type": "why",
+     "q": "Müşteri neden başka yemek seçti?",
+     "opts": [
+      "İlk istediği yemek kalmamıştı",
+      "Yemek çok pahalıydı",
+      "Yemek acıydı",
+      "Garson yanlış anlamıştı"
+     ]
+    },
+    {
+     "type": "speaker",
+     "q": "Başka bir yemek öneren kimdi?",
+     "tag": "rec"
+    }
+   ]
+  },
+  {
+   "id": "tr.sc.cafe",
+   "group": "social",
+   "lvl": 1,
+   "aud": "both",
+   "title": "Kafede ödeme",
+   "roles": {
+    "A": "Kasiyer",
+    "B": "Müşteri"
+   },
+   "slots": {
+    "sz": "sizes",
+    "dr": "drinks",
+    "m": "@money:20:90"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "B",
+       "t": "Bir {sz} {dr} alabilir miyim?"
+      },
+      {
+       "sp": "A",
+       "t": "Tabii. Toplam {m}."
+      },
+      {
+       "sp": "B",
+       "t": "Kartla ödeyebilir miyim?"
+      },
+      {
+       "sp": "A",
+       "t": "Elbette, kartınızı okutabilirsiniz."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "Siparişiniz?"
+      },
+      {
+       "sp": "B",
+       "t": "{sz} boy bir {dr}, lütfen."
+      },
+      {
+       "sp": "A",
+       "t": "{m} tutuyor. Nakit mi, kart mı?"
+      },
+      {
+       "sp": "B",
+       "t": "Kartla ödeyeceğim."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "howmany",
+     "q": "Ne kadar ödedi?",
+     "ask": "m",
+     "show": "show"
+    },
+    {
+     "type": "what",
+     "q": "Hangi boyu istedi?",
+     "ask": "sz"
+    },
+    {
+     "type": "detail",
+     "q": "Ne sipariş etti?",
+     "ask": "dr"
+    },
+    {
+     "type": "how",
+     "q": "Nasıl ödedi?",
+     "opts": [
+      "Kartla",
+      "Nakit",
+      "Telefonla",
+      "Ödemedi"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tr.sc.market-ask",
+   "group": "social",
+   "lvl": 2,
+   "aud": "both",
+   "title": "Markette ürün sorma",
+   "roles": {
+    "A": "Görevli",
+    "B": "Müşteri"
+   },
+   "slots": {
+    "pr": "buy",
+    "ai": "aisles"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "B",
+       "t": "Pardon, {pr} nerede acaba?"
+      },
+      {
+       "sp": "A",
+       "t": "{pr} {ai}, en üst rafta."
+      },
+      {
+       "sp": "B",
+       "t": "Teşekkür ederim."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "B",
+       "t": "Affedersiniz, {pr} hangi reyonda?"
+      },
+      {
+       "sp": "A",
+       "t": "{ai}. En üst rafa bakın."
+      },
+      {
+       "sp": "B",
+       "t": "Çok sağ olun."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "where",
+     "q": "Ürün kaçıncı reyonda?",
+     "ask": "ai",
+     "show": "show"
+    },
+    {
+     "type": "what",
+     "q": "Müşteri ne arıyordu?",
+     "ask": "pr"
+    },
+    {
+     "type": "where",
+     "q": "Hangi rafta?",
+     "opts": [
+      "En üst rafta",
+      "En alt rafta",
+      "Orta rafta",
+      "Kasanın yanında"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tr.sc.directions",
+   "group": "social",
+   "lvl": 2,
+   "aud": "both",
+   "title": "Yol tarifi",
+   "roles": {
+    "A": "Yerel kişi",
+    "B": "Yolcu"
+   },
+   "slots": {
+    "ds": "dest",
+    "dr": "dirs",
+    "lm": "landmarks"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "B",
+       "t": "Afedersiniz, {ds} nerede?"
+      },
+      {
+       "sp": "A",
+       "t": "Düz gidin, ikinci sokaktan {dr.dat} dönün."
+      },
+      {
+       "sp": "A",
+       "t": "{ds}, {lm.gen} tam karşısında."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "B",
+       "t": "Pardon, {ds} buraya yakın mı?"
+      },
+      {
+       "sp": "A",
+       "t": "Çok yakın. İkinci sokaktan {dr.dat} sapın; {lm.gen} karşısında göreceksiniz."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "what",
+     "q": "Yolcu neresini arıyordu?",
+     "ask": "ds"
+    },
+    {
+     "type": "how",
+     "q": "Hangi yöne dönmeli?",
+     "ask": "dr",
+     "form": "dat"
+    },
+    {
+     "type": "where",
+     "q": "Aranan yer neyin karşısında?",
+     "ask": "lm"
+    },
+    {
+     "type": "detail",
+     "q": "Kaçıncı sokaktan dönmeli?",
+     "opts": [
+      "İkinci",
+      "Birinci",
+      "Üçüncü",
+      "Dördüncü"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tr.sc.meet",
+   "group": "social",
+   "lvl": 1,
+   "aud": "both",
+   "title": "Yeni komşuyla tanışma",
+   "roles": {
+    "A": "{a}",
+    "B": "{b}"
+   },
+   "slots": {
+    "a": "names",
+    "b": "names",
+    "fl": "ordinals",
+    "j": "jobs"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "Merhaba, ben {a}. Bu binaya yeni taşındım."
+      },
+      {
+       "sp": "B",
+       "t": "Hoş geldin! Ben {b}, {fl} katta oturuyorum."
+      },
+      {
+       "sp": "A",
+       "t": "Memnun oldum. Ne iş yapıyorsun?"
+      },
+      {
+       "sp": "B",
+       "t": "{j} olarak çalışıyorum."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "B",
+       "t": "Merhaba! Sen yeni komşu olmalısın."
+      },
+      {
+       "sp": "A",
+       "t": "Evet, adım {a}. Geçen hafta taşındım."
+      },
+      {
+       "sp": "B",
+       "t": "Ben de {b}. {fl} kattayım, {j} olarak çalışıyorum."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "who",
+     "q": "Binaya yeni taşınan kim?",
+     "ask": "a"
+    },
+    {
+     "type": "where",
+     "q": "{b} kaçıncı katta oturuyor?",
+     "ask": "fl",
+     "show": "show"
+    },
+    {
+     "type": "what",
+     "q": "{b} ne iş yapıyor?",
+     "ask": "j"
+    }
+   ]
+  },
+  {
+   "id": "tr.sc.invite",
+   "group": "social",
+   "lvl": 2,
+   "aud": "both",
+   "title": "Etkinliğe davet",
+   "roles": {
+    "A": "{a}",
+    "B": "{b}"
+   },
+   "slots": {
+    "a": "names",
+    "b": "names",
+    "e": "socials",
+    "wd": "weekdays",
+    "tm": "@time:10:20",
+    "fd": "kidfoods"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "{wd} bizde {e} var, gelir misin?"
+      },
+      {
+       "sp": "B",
+       "t": "Çok isterim! Saat kaçta?"
+      },
+      {
+       "sp": "A",
+       "t": "{tm.at} başlıyoruz. Gelirken biraz {fd} getirebilir misin?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "{b}, {wd} küçük bir {e} düzenliyoruz."
+      },
+      {
+       "sp": "B",
+       "t": "Harika! Ne zaman?"
+      },
+      {
+       "sp": "A",
+       "t": "{tm} gibi. Bir de {fd} getirirsen çok seviniriz."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "what",
+     "q": "Hangi etkinliğe davet edildi?",
+     "ask": "e"
+    },
+    {
+     "type": "when",
+     "q": "Etkinlik hangi gün?",
+     "ask": "wd"
+    },
+    {
+     "type": "when",
+     "q": "Saat kaçta başlıyor?",
+     "ask": "tm",
+     "show": "show"
+    },
+    {
+     "type": "detail",
+     "q": "Ne getirmesi istendi?",
+     "ask": "fd"
+    }
+   ]
+  },
+  {
+   "id": "tr.sc.clarify",
+   "group": "social",
+   "lvl": 2,
+   "aud": "both",
+   "title": "Tekrar isteme ve netleştirme",
+   "roles": {
+    "A": "{a}",
+    "B": "{b}"
+   },
+   "slots": {
+    "a": "names",
+    "b": "names",
+    "tm": "@time",
+    "rm": "workrooms"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "Toplantı {tm.at} başlıyor."
+      },
+      {
+       "sp": "B",
+       "t": "Pardon, tam anlayamadım. Tekrar eder misin?",
+       "tag": "repeat"
+      },
+      {
+       "sp": "A",
+       "t": "Tabii. Toplantı {tm.at}, {rm.loc}."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "Bu arada toplantı {rm.loc} olacak."
+      },
+      {
+       "sp": "B",
+       "t": "Kusura bakma, biraz daha yavaş söyleyebilir misin?",
+       "tag": "repeat"
+      },
+      {
+       "sp": "A",
+       "t": "Toplantı {rm.loc}, {tm}."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "when",
+     "q": "Toplantı saat kaçta?",
+     "ask": "tm",
+     "show": "show"
+    },
+    {
+     "type": "where",
+     "q": "Toplantı nerede?",
+     "ask": "rm",
+     "form": "loc"
+    },
+    {
+     "type": "strategy",
+     "q": "{b} anlamadığını nasıl belirtti?",
+     "opts": [
+      "Tekrar etmesini ya da yavaş söylemesini istedi",
+      "Konuyu değiştirdi",
+      "Başını salladı",
+      "Hiçbir şey söylemedi"
+     ]
+    },
+    {
+     "type": "speaker",
+     "q": "Tekrar edilmesini isteyen kimdi?",
+     "tag": "repeat"
+    }
+   ]
+  },
+  {
+   "id": "tr.sc.metro",
+   "group": "transport",
+   "lvl": 2,
+   "aud": "both",
+   "title": "Metro anonsu",
+   "roles": {
+    "A": "Anons"
+   },
+   "slots": {
+    "st": "stations",
+    "sd": "sides",
+    "nx": "stations"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sfx": "chime"
+      },
+      {
+       "sp": "A",
+       "t": "Sayın yolcularımız, bir sonraki durak {st}."
+      },
+      {
+       "sp": "A",
+       "t": "Kapılar {sd} taraftan açılacaktır."
+      },
+      {
+       "sp": "A",
+       "t": "{nx} istasyonuna gidecek yolcularımız burada aktarma yapabilir."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sfx": "chime"
+      },
+      {
+       "sp": "A",
+       "t": "{st} istasyonuna yaklaşıyoruz."
+      },
+      {
+       "sp": "A",
+       "t": "İnecek yolcularımız {sd} taraftaki kapıları kullanabilir."
+      },
+      {
+       "sp": "A",
+       "t": "{nx} hattına aktarma için bu istasyonda inebilirsiniz."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "where",
+     "q": "Bir sonraki durak hangisi?",
+     "ask": "st"
+    },
+    {
+     "type": "where",
+     "q": "Kapılar hangi taraftan açılacak?",
+     "ask": "sd",
+     "show": "show"
+    },
+    {
+     "type": "detail",
+     "q": "Aktarma yapılabilecek hat/istasyon hangisi?",
+     "ask": "nx"
+    }
+   ]
+  },
+  {
+   "id": "tr.sc.bus-time",
+   "group": "transport",
+   "lvl": 2,
+   "aud": "both",
+   "title": "Otobüs saati",
+   "roles": {
+    "A": "Durak görevlisi",
+    "B": "Yolcu"
+   },
+   "slots": {
+    "ln": "lines",
+    "mn": "mins",
+    "tm": "@time"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "B",
+       "t": "{ln} numaralı otobüs ne zaman gelir?"
+      },
+      {
+       "sp": "A",
+       "t": "{mn} dakika sonra gelecek."
+      },
+      {
+       "sp": "A",
+       "t": "Onu kaçırırsanız bir sonraki {tm.at}."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "B",
+       "t": "Pardon, {ln} numara buradan geçiyor mu?"
+      },
+      {
+       "sp": "A",
+       "t": "Evet, {mn} dakikaya burada olur."
+      },
+      {
+       "sp": "A",
+       "t": "Sonraki sefer {tm.at}."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "what",
+     "q": "Hangi numaralı otobüs soruldu?",
+     "ask": "ln",
+     "show": "show"
+    },
+    {
+     "type": "howmany",
+     "q": "Otobüs kaç dakika sonra gelecek?",
+     "ask": "mn",
+     "show": "show"
+    },
+    {
+     "type": "when",
+     "q": "Bir sonraki sefer saat kaçta?",
+     "ask": "tm",
+     "show": "show"
+    }
+   ]
+  },
+  {
+   "id": "tr.sc.phone-appt",
+   "group": "phone",
+   "lvl": 2,
+   "aud": "adult",
+   "title": "Telefonla randevu",
+   "roles": {
+    "A": "Sekreter",
+    "B": "Hasta yakını"
+   },
+   "slots": {
+    "cl": "clinics",
+    "wd": "weekdays",
+    "t1": "@time:9:12",
+    "t2": "@time:13:17"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sfx": "phone"
+      },
+      {
+       "sp": "A",
+       "t": "{cl}, buyurun."
+      },
+      {
+       "sp": "B",
+       "t": "Merhaba, randevu almak istiyorum."
+      },
+      {
+       "sp": "A",
+       "t": "{wd} {t1.at} uygun mu?"
+      },
+      {
+       "sp": "B",
+       "t": "O saatte işim var, daha geç bir saat olabilir mi?"
+      },
+      {
+       "sp": "A",
+       "t": "O zaman {t2.at} yazıyorum."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sfx": "phone"
+      },
+      {
+       "sp": "A",
+       "t": "İyi günler, {cl}."
+      },
+      {
+       "sp": "B",
+       "t": "Bir randevu ayarlamak istiyordum."
+      },
+      {
+       "sp": "A",
+       "t": "{wd} için {t1.at} boşluk var."
+      },
+      {
+       "sp": "B",
+       "t": "Sabah gelemiyorum, öğleden sonra olur mu?"
+      },
+      {
+       "sp": "A",
+       "t": "Tabii, {t2.at} uygundur."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "when",
+     "q": "Randevu sonunda saat kaça verildi?",
+     "ask": "t2",
+     "show": "show"
+    },
+    {
+     "type": "when",
+     "q": "Hangi gün?",
+     "ask": "wd"
+    },
+    {
+     "type": "why",
+     "q": "İlk önerilen saat neden olmadı?",
+     "opts": [
+      "Arayan kişi o saatte müsait değildi",
+      "Doktor izindeydi",
+      "Klinik kapalıydı",
+      "Yanlış gün söylenmişti"
+     ]
+    },
+    {
+     "type": "where",
+     "q": "Nereyi aradı?",
+     "ask": "cl"
+    }
+   ]
+  },
+  {
+   "id": "tr.sc.video-call",
+   "group": "phone",
+   "lvl": 2,
+   "aud": "both",
+   "title": "Görüntülü görüşme",
+   "roles": {
+    "A": "{a}",
+    "B": "{b}"
+   },
+   "slots": {
+    "a": "names",
+    "b": "names"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "{b}, sesin gelmiyor. Mikrofonun kapalı olabilir.",
+       "tag": "mic"
+      },
+      {
+       "sp": "B",
+       "t": "Şimdi duyuyor musun?"
+      },
+      {
+       "sp": "A",
+       "t": "Evet, şimdi iyi. Ekranını paylaşabilir misin?",
+       "tag": "share"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "Seni göremiyorum ama duyuyorum. Kameran kapalı galiba.",
+       "tag": "mic"
+      },
+      {
+       "sp": "B",
+       "t": "Haklısın, açtım. Şimdi nasıl?"
+      },
+      {
+       "sp": "A",
+       "t": "Mükemmel. Sunumu ekranda gösterebilir misin?",
+       "tag": "share"
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "detail",
+     "q": "İlk sorun neydi?",
+     "opts": [
+      "Ses ya da görüntü gelmiyordu",
+      "İnternet tamamen kesildi",
+      "Bilgisayar kapandı",
+      "Telefonun şarjı bitti"
+     ]
+    },
+    {
+     "type": "purpose",
+     "q": "Sorun çözülünce ne istendi?",
+     "opts": [
+      "Ekranı paylaşması",
+      "Görüşmeyi bitirmesi",
+      "Tekrar araması",
+      "E-posta göndermesi"
+     ]
+    },
+    {
+     "type": "speaker",
+     "q": "Ekran paylaşımını isteyen kimdi?",
+     "tag": "share"
+    }
+   ]
+  },
+  {
+   "id": "tr.sc.teacher",
+   "group": "work",
+   "lvl": 1,
+   "aud": "both",
+   "title": "Öğretmenin yönergesi",
+   "roles": {
+    "A": "Öğretmen"
+   },
+   "slots": {
+    "pg": "pages",
+    "ex": "exnums"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "Çocuklar, kitaplarınızın {pg} sayfasını açın."
+      },
+      {
+       "sp": "A",
+       "t": "{ex} alıştırmayı yapın."
+      },
+      {
+       "sp": "A",
+       "t": "Bitirenler defterlerini masama bıraksın."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "Herkes kitabının {pg} sayfasına baksın."
+      },
+      {
+       "sp": "A",
+       "t": "Bugün {ex} alıştırmayı yapıyoruz."
+      },
+      {
+       "sp": "A",
+       "t": "İşi biten defterini benim masama koysun."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "howmany",
+     "q": "Hangi sayfa açılacak?",
+     "ask": "pg",
+     "show": "show"
+    },
+    {
+     "type": "howmany",
+     "q": "Kaçıncı alıştırma yapılacak?",
+     "ask": "ex",
+     "show": "show"
+    },
+    {
+     "type": "detail",
+     "q": "Bitirenler ne yapacak?",
+     "opts": [
+      "Defterlerini öğretmenin masasına bırakacak",
+      "Teneffüse çıkacak",
+      "Kitabı kapatacak",
+      "Sınıfı toplayacak"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tr.sc.tasks",
+   "group": "work",
+   "lvl": 3,
+   "aud": "adult",
+   "title": "Görev dağılımı",
+   "roles": {
+    "A": "Ekip lideri"
+   },
+   "slots": {
+    "a": "names",
+    "b": "names",
+    "c": "names",
+    "wd": "weekdays"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "Arkadaşlar, görevleri paylaşalım."
+      },
+      {
+       "sp": "A",
+       "t": "{a} müşteri sunumunu hazırlayacak."
+      },
+      {
+       "sp": "A",
+       "t": "{b} rakamları kontrol edecek, {c} de toplantı odasını ayarlayacak."
+      },
+      {
+       "sp": "A",
+       "t": "Her şey {wd} hazır olmalı."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "Kısaca iş bölümü şöyle:"
+      },
+      {
+       "sp": "A",
+       "t": "Rakam kontrolü {b}, oda ayarlaması {c}, sunum hazırlığı ise {a}."
+      },
+      {
+       "sp": "A",
+       "t": "Son gün {wd}."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "who",
+     "q": "Sunumu kim hazırlayacak?",
+     "ask": "a"
+    },
+    {
+     "type": "who",
+     "q": "Rakamları kim kontrol edecek?",
+     "ask": "b"
+    },
+    {
+     "type": "who",
+     "q": "Toplantı odasını kim ayarlayacak?",
+     "ask": "c"
+    },
+    {
+     "type": "when",
+     "q": "Son gün ne zaman?",
+     "ask": "wd"
+    }
+   ]
+  },
+  {
+   "id": "tr.sc.numbers",
+   "group": "work",
+   "lvl": 3,
+   "aud": "adult",
+   "title": "Sayısal bilgi aktarımı",
+   "roles": {
+    "A": "Satış müdürü"
+   },
+   "slots": {
+    "n2": "@number:120:400",
+    "n1": "@number:420:900"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "Bu ayın satış rakamlarını paylaşmak istiyorum."
+      },
+      {
+       "sp": "A",
+       "t": "Bu ay {n1} adet satış yaptık."
+      },
+      {
+       "sp": "A",
+       "t": "Geçen ay bu sayı {n2} adetti."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "Kısa bir özet:"
+      },
+      {
+       "sp": "A",
+       "t": "Geçen ay {n2} adet satmıştık, bu ay ise {n1} adete ulaştık."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "howmany",
+     "q": "Bu ay kaç adet satıldı?",
+     "ask": "n1",
+     "show": "show"
+    },
+    {
+     "type": "howmany",
+     "q": "Geçen ay kaç adet satılmıştı?",
+     "ask": "n2",
+     "show": "show"
+    },
+    {
+     "type": "relation",
+     "q": "Satışlar geçen aya göre nasıl değişti?",
+     "opts": [
+      "Arttı",
+      "Azaldı",
+      "Aynı kaldı",
+      "Söylenmedi"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tr.sc.correction",
+   "group": "work",
+   "lvl": 2,
+   "aud": "adult",
+   "title": "Yanlış anlaşılan bilgiyi düzeltme",
+   "roles": {
+    "A": "{a}",
+    "B": "{b}"
+   },
+   "slots": {
+    "a": "names",
+    "b": "names",
+    "w1": "weekdays",
+    "w2": "weekdays",
+    "rm": "workrooms"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "Sunum {w1}, değil mi?"
+      },
+      {
+       "sp": "B",
+       "t": "Hayır, {w1} değil. Tarih değişti, sunum {w2}.",
+       "tag": "fix"
+      },
+      {
+       "sp": "A",
+       "t": "Anladım, yer de aynı mı?"
+      },
+      {
+       "sp": "B",
+       "t": "Evet, yine {rm.loc}."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "Yanlış hatırlamıyorsam sunum {w1}."
+      },
+      {
+       "sp": "B",
+       "t": "Aslında sunum {w2} yapılacak, {w1} değil.",
+       "tag": "fix"
+      },
+      {
+       "sp": "B",
+       "t": "Yer değişmedi, {rm.loc}."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "when",
+     "q": "Sunum hangi gün?",
+     "ask": "w2"
+    },
+    {
+     "type": "when",
+     "q": "Yanlış hatırlanan gün hangisiydi?",
+     "ask": "w1"
+    },
+    {
+     "type": "where",
+     "q": "Sunum nerede?",
+     "ask": "rm",
+     "form": "loc"
+    },
+    {
+     "type": "speaker",
+     "q": "Bilgiyi düzelten kimdi?",
+     "tag": "fix"
+    }
+   ]
+  },
+  {
+   "id": "tr.sc.reception",
+   "group": "health",
+   "lvl": 2,
+   "aud": "both",
+   "title": "Hastane danışması",
+   "roles": {
+    "A": "Danışma görevlisi",
+    "B": "Ziyaretçi"
+   },
+   "slots": {
+    "dp": "depts",
+    "fl": "ordinals",
+    "n": "@number:10:60"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "B",
+       "t": "Merhaba, {dp} bölümüne gitmem gerekiyor."
+      },
+      {
+       "sp": "A",
+       "t": "{dp} bölümü {fl} katta."
+      },
+      {
+       "sp": "A",
+       "t": "Asansörden çıkınca sola dönün; sıra numaranız {n}."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "B",
+       "t": "Pardon, {dp} polikliniği nerede?"
+      },
+      {
+       "sp": "A",
+       "t": "Bölüm {fl} katta; asansörle çıkın ve sola dönün."
+      },
+      {
+       "sp": "A",
+       "t": "Sıra numaranız {n}, ekranda takip edebilirsiniz."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "what",
+     "q": "Hangi bölüm soruldu?",
+     "ask": "dp",
+     "show": "show"
+    },
+    {
+     "type": "where",
+     "q": "Bölüm kaçıncı katta?",
+     "ask": "fl",
+     "show": "show"
+    },
+    {
+     "type": "howmany",
+     "q": "Sıra numarası kaç?",
+     "ask": "n",
+     "show": "show"
+    },
+    {
+     "type": "how",
+     "q": "Asansörden çıkınca hangi yöne dönmeli?",
+     "opts": [
+      "Sola",
+      "Sağa",
+      "Düz gitmeli",
+      "Geri dönmeli"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tr.sc.pharmacy",
+   "group": "health",
+   "lvl": 2,
+   "aud": "adult",
+   "title": "Eczanede iletişim",
+   "roles": {
+    "A": "Eczacı",
+    "B": "Müşteri"
+   },
+   "slots": {
+    "mn": "mins",
+    "m": "@money:30:250"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "B",
+       "t": "Merhaba, bu reçeteyi getirdim."
+      },
+      {
+       "sp": "A",
+       "t": "Teşekkürler. İlacınızı hazırlamam {mn} dakika sürer."
+      },
+      {
+       "sp": "A",
+       "t": "Ücret {m}. Kullanım bilgisini doktorunuzun talimatına göre kutunun üstüne yazdım."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "B",
+       "t": "İyi günler, reçetem var."
+      },
+      {
+       "sp": "A",
+       "t": "Hemen bakıyorum; yaklaşık {mn} dakika içinde hazır olur."
+      },
+      {
+       "sp": "A",
+       "t": "Toplam {m}. Doktorunuzun söylediği şekilde kullanmayı unutmayın."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "howmany",
+     "q": "İlacın hazırlanması kaç dakika sürecek?",
+     "ask": "mn",
+     "show": "show"
+    },
+    {
+     "type": "howmany",
+     "q": "Ücret ne kadar?",
+     "ask": "m",
+     "show": "show"
+    },
+    {
+     "type": "detail",
+     "q": "Eczacı ilacın nasıl kullanılacağı konusunda neye uyulmasını söyledi?",
+     "opts": [
+      "Doktorun talimatına",
+      "İnternetteki yorumlara",
+      "Arkadaş tavsiyesine",
+      "Kendi tahminine"
+     ]
+    }
+   ],
+   "disclaimer": "health"
+  },
+  {
+   "id": "tr.sc.bank",
+   "group": "public",
+   "lvl": 1,
+   "aud": "both",
+   "title": "Bankada sıra",
+   "roles": {
+    "A": "Anons"
+   },
+   "slots": {
+    "n": "@number:100:350",
+    "d": "@number:1:9"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sfx": "chime"
+      },
+      {
+       "sp": "A",
+       "t": "{n} numaralı müşteri, {d} numaralı gişeye."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sfx": "chime"
+      },
+      {
+       "sp": "A",
+       "t": "Sıra numarası {n} olan müşterimiz, lütfen {d} numaralı gişeye geliniz."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "howmany",
+     "q": "Hangi sıra numarası çağrıldı?",
+     "ask": "n",
+     "show": "show"
+    },
+    {
+     "type": "howmany",
+     "q": "Kaç numaralı gişeye gidilecek?",
+     "ask": "d",
+     "show": "show"
+    }
+   ]
+  },
+  {
+   "id": "tr.sc.emergency",
+   "group": "public",
+   "lvl": 3,
+   "aud": "both",
+   "title": "Acil durum anonsu (eğitim amaçlı)",
+   "roles": {
+    "A": "Anons"
+   },
+   "slots": {
+    "as": "assembly"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sfx": "alarm"
+      },
+      {
+       "sp": "A",
+       "t": "Dikkat, dikkat. Binada yangın alarmı çalmaktadır."
+      },
+      {
+       "sp": "A",
+       "t": "Lütfen asansörleri kullanmayın ve en yakın merdivenden binayı terk edin."
+      },
+      {
+       "sp": "A",
+       "t": "Toplanma yeri {as}."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sfx": "alarm"
+      },
+      {
+       "sp": "A",
+       "t": "Sayın ziyaretçiler, binayı tahliye ediyoruz."
+      },
+      {
+       "sp": "A",
+       "t": "Asansörü kullanmayın; merdivenlerden sakin bir şekilde inin."
+      },
+      {
+       "sp": "A",
+       "t": "Lütfen {as.dat} gidin."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "detail",
+     "q": "Neyi kullanmamaları istendi?",
+     "opts": [
+      "Asansörü",
+      "Merdiveni",
+      "Telefonu",
+      "Arka kapıyı"
+     ]
+    },
+    {
+     "type": "where",
+     "q": "Nerede toplanılacak?",
+     "ask": "as"
+    },
+    {
+     "type": "purpose",
+     "q": "Anonsun amacı ne?",
+     "opts": [
+      "Binanın boşaltılması",
+      "Toplantının başlaması",
+      "Kafeteryanın açılması",
+      "Asansör bakımının duyurulması"
+     ]
+    }
+   ],
+   "disclaimer": "emergency"
+  },
+  {
+   "id": "tr.sc.results",
+   "group": "health",
+   "lvl": 2,
+   "aud": "adult",
+   "title": "Sonuçların bildirilmesi",
+   "roles": {
+    "A": "Hemşire",
+    "B": "Hasta"
+   },
+   "slots": {
+    "wd": "weekdays",
+    "tm": "@time:9:17"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "Tahlil sonuçlarınız {wd} çıkacak."
+      },
+      {
+       "sp": "B",
+       "t": "Sonucu nasıl öğreneceğim?"
+      },
+      {
+       "sp": "A",
+       "t": "Sizi {tm.at} telefonla arayacağız; isterseniz e-devletten de bakabilirsiniz."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "B",
+       "t": "Sonuçlar ne zaman belli olur?"
+      },
+      {
+       "sp": "A",
+       "t": "{wd} hazır olur. {tm.at} sizi telefonla bilgilendireceğiz."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "when",
+     "q": "Sonuçlar hangi gün çıkacak?",
+     "ask": "wd"
+    },
+    {
+     "type": "how",
+     "q": "Hastaya nasıl haber verilecek?",
+     "opts": [
+      "Telefonla",
+      "Mektupla",
+      "Yüz yüze",
+      "Hiç haber verilmeyecek"
+     ]
+    },
+    {
+     "type": "when",
+     "q": "Saat kaçta aranacak?",
+     "ask": "tm",
+     "show": "show"
+    }
+   ]
+  },
+  {
+   "id": "tr.sc.family",
+   "group": "home",
+   "lvl": 1,
+   "aud": "both",
+   "title": "Aile sofrasında",
+   "roles": {
+    "A": "Anne",
+    "B": "{p}",
+    "C": "Baba"
+   },
+   "slots": {
+    "p": "names",
+    "d": "dishes",
+    "dr": "drinks",
+    "ch": "chores"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "{p}, akşam yemeğinde {d} var. Sofrayı kurar mısın?"
+      },
+      {
+       "sp": "B",
+       "t": "Tamam anne. Ne içeceğiz?"
+      },
+      {
+       "sp": "C",
+       "t": "Ben {dr} istiyorum.",
+       "tag": "drink"
+      },
+      {
+       "sp": "A",
+       "t": "Yemekten sonra da sen {ch}.",
+       "tag": "chore"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "Bu akşam {d} yaptım. {p}, tabakları getirir misin?"
+      },
+      {
+       "sp": "C",
+       "t": "Bana bir bardak {dr} verir misin?",
+       "tag": "drink"
+      },
+      {
+       "sp": "A",
+       "t": "Yemekten sonra unutma: {ch}.",
+       "tag": "chore"
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "what",
+     "q": "Akşam yemeğinde ne var?",
+     "ask": "d"
+    },
+    {
+     "type": "what",
+     "q": "Baba ne içmek istiyor?",
+     "ask": "dr"
+    },
+    {
+     "type": "detail",
+     "q": "Yemekten sonra ne yapılacak?",
+     "ask": "ch",
+     "form": "short"
+    },
+    {
+     "type": "speaker",
+     "q": "İçeceği kim istedi?",
+     "tag": "drink"
+    }
+   ]
+  },
+  {
+   "id": "tr.sc.voicemail",
+   "group": "phone",
+   "lvl": 2,
+   "aud": "both",
+   "title": "Sesli mesajdan not alma",
+   "roles": {
+    "A": "{n}"
+   },
+   "slots": {
+    "n": "names",
+    "ms": "meetspots",
+    "wd": "weekdays",
+    "tm": "@time:9:18",
+    "br": "bringables"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sfx": "phone"
+      },
+      {
+       "sp": "A",
+       "t": "Merhaba, ben {n}. {wd} {tm.at} {ms.loc} buluşalım mı?"
+      },
+      {
+       "sp": "A",
+       "t": "Yanında {br.acc} getirmeyi unutma."
+      },
+      {
+       "sp": "A",
+       "t": "Uygun değilse beni geri ara. Görüşürüz!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sfx": "phone"
+      },
+      {
+       "sp": "A",
+       "t": "Selam, {n} arıyor. {ms.loc} buluşmayı düşündüm."
+      },
+      {
+       "sp": "A",
+       "t": "Eğer {wd} uygunsan, {tm.at} orada olalım."
+      },
+      {
+       "sp": "A",
+       "t": "Bir de {br.acc} getirirsen çok iyi olur."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "who",
+     "q": "Mesajı kim bıraktı?",
+     "ask": "n"
+    },
+    {
+     "type": "where",
+     "q": "Nerede buluşacaklar?",
+     "ask": "ms"
+    },
+    {
+     "type": "when",
+     "q": "Saat kaçta buluşacaklar?",
+     "ask": "tm",
+     "show": "show"
+    },
+    {
+     "type": "when",
+     "q": "Hangi gün buluşacaklar?",
+     "ask": "wd"
+    },
+    {
+     "type": "detail",
+     "q": "Ne getirmesi isteniyor?",
+     "ask": "br"
+    }
+   ]
+  },
+  {
+   "id": "tr.sc.workphone",
+   "group": "phone",
+   "lvl": 2,
+   "aud": "adult",
+   "title": "İş yerinde telefon görüşmesi",
+   "roles": {
+    "A": "Arayan",
+    "B": "Sekreter"
+   },
+   "slots": {
+    "n": "names",
+    "cm": "companies",
+    "dc": "workdocs",
+    "wd": "weekdays",
+    "ex": "@number:100:899"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "B",
+       "t": "Günaydın, satış birimi, buyurun."
+      },
+      {
+       "sp": "A",
+       "t": "Merhaba, ben {n}, {cm} firması adına arıyorum. Ahmet Bey ile görüşebilir miyim?"
+      },
+      {
+       "sp": "B",
+       "t": "Kendisi şu an toplantıda. Not almamı ister misiniz?"
+      },
+      {
+       "sp": "A",
+       "t": "Evet lütfen. {dc.acc} {wd} göndermesini rica ediyorum. Dahili numaram {ex}.",
+       "tag": "request"
+      },
+      {
+       "sp": "B",
+       "t": "Tamam, not aldım. Size dönüş yapacak.",
+       "tag": "promise"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "B",
+       "t": "Satış birimi, iyi günler."
+      },
+      {
+       "sp": "A",
+       "t": "İyi günler, {cm} firmasından {n} ben."
+      },
+      {
+       "sp": "A",
+       "t": "Ahmet Bey’e bir mesaj bırakmak istiyorum: {dc.acc} en geç {wd} bekliyoruz.",
+       "tag": "request"
+      },
+      {
+       "sp": "B",
+       "t": "Anladım, ileteceğim. Numaranızı alabilir miyim?"
+      },
+      {
+       "sp": "A",
+       "t": "Dahili numaram {ex}."
+      },
+      {
+       "sp": "B",
+       "t": "Teşekkürler, size dönecek.",
+       "tag": "promise"
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "who",
+     "q": "Arayan kişinin adı ne?",
+     "ask": "n"
+    },
+    {
+     "type": "what",
+     "q": "Hangi belge isteniyor?",
+     "ask": "dc"
+    },
+    {
+     "type": "when",
+     "q": "Belge ne zaman isteniyor?",
+     "ask": "wd"
+    },
+    {
+     "type": "howmany",
+     "q": "Dahili numara kaç?",
+     "ask": "ex",
+     "show": "show"
+    },
+    {
+     "type": "speaker",
+     "q": "Geri dönüş sözünü kim verdi?",
+     "tag": "promise"
+    },
+    {
+     "type": "purpose",
+     "q": "Arayan neden aradı?",
+     "opts": [
+      "Bir belge istemek için",
+      "Toplantıyı iptal etmek için",
+      "Şikâyette bulunmak için",
+      "Randevu almak için"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tr.sc.interview",
+   "group": "work",
+   "lvl": 3,
+   "aud": "adult",
+   "title": "İş görüşmesi",
+   "roles": {
+    "A": "Görüşmeci",
+    "B": "{n}"
+   },
+   "slots": {
+    "n": "names",
+    "yr": "numbers",
+    "jb": "jobs",
+    "ct": "cities",
+    "st": "weekdays"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "Hoş geldiniz, lütfen oturun. Kendinizden biraz bahseder misiniz?"
+      },
+      {
+       "sp": "B",
+       "t": "Tabii. Adım {n}. {yr} yıldır {jb} olarak çalışıyorum."
+      },
+      {
+       "sp": "A",
+       "t": "Daha önce hangi şehirde çalıştınız?"
+      },
+      {
+       "sp": "B",
+       "t": "{ct.loc} çalıştım."
+      },
+      {
+       "sp": "A",
+       "t": "Teşekkürler. Bizimle çalışırsanız {st} başlayabilir misiniz?"
+      },
+      {
+       "sp": "B",
+       "t": "Evet, {st} başlayabilirim.",
+       "tag": "start"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "Görüşmeye hoş geldiniz. Önce deneyiminizi dinleyelim."
+      },
+      {
+       "sp": "B",
+       "t": "Toplam {yr} yıllık deneyimim var; {ct.loc} {jb} olarak çalıştım."
+      },
+      {
+       "sp": "A",
+       "t": "Ne zaman başlayabilirsiniz?"
+      },
+      {
+       "sp": "B",
+       "t": "En erken {st} başlayabilirim.",
+       "tag": "start"
+      },
+      {
+       "sp": "A",
+       "t": "Çok güzel, size en kısa sürede haber vereceğiz.",
+       "tag": "callback"
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "howmany",
+     "q": "Adayın kaç yıllık deneyimi var?",
+     "ask": "yr",
+     "show": "show"
+    },
+    {
+     "type": "what",
+     "q": "Aday hangi meslekte çalışıyor?",
+     "ask": "jb"
+    },
+    {
+     "type": "where",
+     "q": "Aday daha önce hangi şehirde çalışmış?",
+     "ask": "ct"
+    },
+    {
+     "type": "when",
+     "q": "Aday ne zaman başlayabilir?",
+     "ask": "st"
+    },
+    {
+     "type": "purpose",
+     "q": "Bu konuşmanın amacı ne?",
+     "opts": [
+      "Bir işe aday seçmek",
+      "Bir ürün satmak",
+      "Bir şikâyeti çözmek",
+      "Bir toplantı planlamak"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tr.sc.meetingqa",
+   "group": "work",
+   "lvl": 3,
+   "aud": "adult",
+   "title": "Toplantıda soru-cevap",
+   "roles": {
+    "A": "Toplantı yöneticisi",
+    "B": "{a}",
+    "C": "{b}"
+   },
+   "slots": {
+    "a": "names",
+    "b": "names",
+    "tp": "topics",
+    "wd": "weekdays",
+    "nm": "numbers"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "Bugün {tp} hakkında konuşacağız. Sorusu olan var mı?"
+      },
+      {
+       "sp": "B",
+       "t": "Benim bir sorum var: ekipte kaç kişi olacak?"
+      },
+      {
+       "sp": "A",
+       "t": "Şimdilik {nm} kişi planladık."
+      },
+      {
+       "sp": "C",
+       "t": "Peki sonuçları ne zaman paylaşacağız?",
+       "tag": "askwhen"
+      },
+      {
+       "sp": "A",
+       "t": "Sonuçları {wd} paylaşacağız."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "Konumuz {tp}. Sorularınızı alayım."
+      },
+      {
+       "sp": "C",
+       "t": "Sonuçları ne zaman paylaşmayı düşünüyoruz?",
+       "tag": "askwhen"
+      },
+      {
+       "sp": "A",
+       "t": "Hedefimiz {wd} paylaşmak."
+      },
+      {
+       "sp": "B",
+       "t": "Ekipte kaç kişi olacak?"
+      },
+      {
+       "sp": "A",
+       "t": "Başlangıçta {nm} kişiyle başlıyoruz."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "what",
+     "q": "Toplantının konusu ne?",
+     "ask": "tp"
+    },
+    {
+     "type": "howmany",
+     "q": "Ekipte kaç kişi olacak?",
+     "ask": "nm",
+     "show": "show"
+    },
+    {
+     "type": "when",
+     "q": "Sonuçlar ne zaman paylaşılacak?",
+     "ask": "wd"
+    },
+    {
+     "type": "speaker",
+     "q": "Sonuçların ne zaman paylaşılacağını kim sordu?",
+     "tag": "askwhen"
+    }
+   ]
+  },
+  {
+   "id": "tr.sc.presentation",
+   "group": "work",
+   "lvl": 3,
+   "aud": "adult",
+   "title": "Kısa sunum",
+   "roles": {
+    "A": "Sunucu"
+   },
+   "slots": {
+    "tp": "topics",
+    "nm": "numbers",
+    "mn": "mins"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "Herkese merhaba. Bugün size kısaca {tp} hakkında bilgi vereceğim."
+      },
+      {
+       "sp": "A",
+       "t": "Önce mevcut durumu, sonra planımızı, en son da bütçeyi anlatacağım."
+      },
+      {
+       "sp": "A",
+       "t": "Çalışmanın {nm} ay sürmesini bekliyoruz."
+      },
+      {
+       "sp": "A",
+       "t": "Sunumdan sonra {mn} dakikalık bir soru-cevap bölümü olacak."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "Hoş geldiniz. Konumuz {tp}."
+      },
+      {
+       "sp": "A",
+       "t": "Sunum üç bölümden oluşuyor: mevcut durum, plan ve bütçe."
+      },
+      {
+       "sp": "A",
+       "t": "Tahmini süremiz {nm} ay."
+      },
+      {
+       "sp": "A",
+       "t": "En sonda {mn} dakika soru-cevap yapacağız."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "what",
+     "q": "Sunumun konusu ne?",
+     "ask": "tp"
+    },
+    {
+     "type": "order",
+     "q": "Sunumun bölümleri hangi sırayla?",
+     "events": [
+      "Mevcut durum",
+      "Plan",
+      "Bütçe"
+     ]
+    },
+    {
+     "type": "howmany",
+     "q": "Çalışma kaç ay sürecek?",
+     "ask": "nm",
+     "show": "show"
+    },
+    {
+     "type": "howmany",
+     "q": "Soru-cevap kaç dakika sürecek?",
+     "ask": "mn",
+     "show": "show"
+    },
+    {
+     "type": "main",
+     "q": "Sunumun amacı ne?",
+     "opts": [
+      "Bir proje hakkında bilgi vermek",
+      "Yeni çalışanları tanıştırmak",
+      "Bir ürünü satmak",
+      "Bir kutlama yapmak"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tr.sc.friends",
+   "group": "social",
+   "lvl": 2,
+   "aud": "both",
+   "title": "Arkadaş grubunda sohbet",
+   "roles": {
+    "A": "{a}",
+    "B": "{b}",
+    "C": "{c}"
+   },
+   "slots": {
+    "a": "names",
+    "b": "names",
+    "c": "names",
+    "so": "socials",
+    "wd": "weekdays"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "Bu hafta sonu ne yapalım?"
+      },
+      {
+       "sp": "B",
+       "t": "Bence bir {so} düzenleyelim.",
+       "tag": "idea"
+      },
+      {
+       "sp": "C",
+       "t": "Olur, ama {wd} benim işim var.",
+       "tag": "busy"
+      },
+      {
+       "sp": "A",
+       "t": "O zaman başka bir gün buluşalım. Ben yiyecekleri getiririm.",
+       "tag": "food"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "B",
+       "t": "Arkadaşlar, bir {so} düzenlesek mi?",
+       "tag": "idea"
+      },
+      {
+       "sp": "A",
+       "t": "Harika fikir! Ben yiyecekleri hallederim.",
+       "tag": "food"
+      },
+      {
+       "sp": "C",
+       "t": "Ben {wd} yokum, başka bir güne alalım.",
+       "tag": "busy"
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "what",
+     "q": "Ne düzenlemeyi öneriyorlar?",
+     "ask": "so"
+    },
+    {
+     "type": "when",
+     "q": "Hangi gün birinin işi var?",
+     "ask": "wd"
+    },
+    {
+     "type": "speaker",
+     "q": "Fikri kim önerdi?",
+     "tag": "idea"
+    },
+    {
+     "type": "speaker",
+     "q": "Yiyecekleri kim getirecek?",
+     "tag": "food"
+    },
+    {
+     "type": "speaker",
+     "q": "O gün kim müsait değil?",
+     "tag": "busy"
+    }
+   ]
+  }
+ ]
+}

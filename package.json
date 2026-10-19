@@ -1,0 +1,24 @@
+{
+  "name": "duyum",
+  "version": "4.1.0",
+  "private": true,
+  "description": "Türkçe ve İngilizce destekli, ücretsiz işitsel dinleme pratiği uygulaması (PWA).",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "test": "node --test \"tests/*.test.js\"",
+    "start": "python3 -m http.server 8080",
+    "validate": "node tools/validate-content.mjs",
+    "sw": "node tools/sw-assets.mjs",
+    "reading": "node tools/build-reading.mjs",
+    "reading:check": "node tools/build-reading.mjs --check --strict",
+    "e2e": "python3 tests/e2e/run.py e2e-shots",
+    "e2e:v3": "python3 tests/e2e/run_v3.py e2e-shots-v3",
+    "reading:import": "node tools/import-reading.mjs",
+    "reading:status": "node tools/reading-status.mjs",
+    "e2e:reading": "python3 tests/e2e/run_reading.py e2e-shots-reading"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

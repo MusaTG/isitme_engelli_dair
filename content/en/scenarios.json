@@ -1,0 +1,2687 @@
+{
+ "scenarios": [
+  {
+   "id": "en.sc.call-room",
+   "group": "home",
+   "lvl": 1,
+   "aud": "both",
+   "title": "Calling from another room",
+   "roles": {
+    "A": "Parent",
+    "B": "{p}"
+   },
+   "slots": {
+    "p": "names",
+    "r": "rooms"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "{p}, where are you? Dinner's ready!"
+      },
+      {
+       "sp": "B",
+       "t": "I'm {r.at}, coming!"
+      },
+      {
+       "sp": "A",
+       "t": "Don't forget to wash your hands first.",
+       "tag": "wash"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "{p}! Come to the table, the food is getting cold."
+      },
+      {
+       "sp": "B",
+       "t": "I'm looking for my book {r.at}, two minutes!"
+      },
+      {
+       "sp": "A",
+       "t": "OK, but wash your hands before you come.",
+       "tag": "wash"
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "where",
+     "q": "Where was {p}?",
+     "ask": "r",
+     "form": "at"
+    },
+    {
+     "type": "purpose",
+     "q": "Why was {p} called?",
+     "opts": [
+      "Dinner was ready",
+      "The phone was ringing",
+      "A guest had arrived",
+      "It was time for school"
+     ]
+    },
+    {
+     "type": "detail",
+     "q": "What did {p} have to do first?",
+     "opts": [
+      "Wash their hands",
+      "Tidy their room",
+      "Finish homework",
+      "Put on shoes"
+     ]
+    },
+    {
+     "type": "speaker",
+     "q": "Who said to wash hands?",
+     "tag": "wash"
+    }
+   ]
+  },
+  {
+   "id": "en.sc.delivery",
+   "group": "home",
+   "lvl": 1,
+   "aud": "both",
+   "title": "A delivery at the door",
+   "roles": {
+    "A": "Courier",
+    "B": "Resident"
+   },
+   "slots": {
+    "p": "names",
+    "wd": "weekdays"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sfx": "doorbell"
+      },
+      {
+       "sp": "A",
+       "t": "Hello, I have a parcel for {p}."
+      },
+      {
+       "sp": "B",
+       "t": "That's me, thanks."
+      },
+      {
+       "sp": "A",
+       "t": "Could you sign here, please?",
+       "tag": "sign"
+      },
+      {
+       "sp": "B",
+       "t": "Sure."
+      },
+      {
+       "sp": "A",
+       "t": "There's another parcel for you, arriving {wd}."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sfx": "doorbell"
+      },
+      {
+       "sp": "A",
+       "t": "Good afternoon, delivery for {p}!"
+      },
+      {
+       "sp": "B",
+       "t": "Yes, I'm {p}."
+      },
+      {
+       "sp": "A",
+       "t": "I just need your signature.",
+       "tag": "sign"
+      },
+      {
+       "sp": "A",
+       "t": "Your other parcel should arrive {wd}."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "who",
+     "q": "Who was the parcel for?",
+     "ask": "p"
+    },
+    {
+     "type": "when",
+     "q": "When will the other parcel arrive?",
+     "ask": "wd"
+    },
+    {
+     "type": "detail",
+     "q": "What did the courier ask for?",
+     "opts": [
+      "A signature",
+      "Money",
+      "A copy of ID",
+      "A phone number"
+     ]
+    },
+    {
+     "type": "speaker",
+     "q": "Who asked for a signature?",
+     "tag": "sign"
+    }
+   ]
+  },
+  {
+   "id": "en.sc.chores",
+   "group": "home",
+   "lvl": 2,
+   "aud": "both",
+   "title": "Jobs around the house",
+   "roles": {
+    "A": "Dad",
+    "B": "{p}"
+   },
+   "slots": {
+    "p": "names",
+    "c1": "chores",
+    "c2": "chores"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "{p}, I'm going to the shops."
+      },
+      {
+       "sp": "A",
+       "t": "While I'm out, first {c1}, then {c2}, OK?",
+       "tag": "tasks"
+      },
+      {
+       "sp": "B",
+       "t": "OK Dad, I'll do it."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "{p}, I'm popping out to the shops."
+      },
+      {
+       "sp": "B",
+       "t": "Do you want me to do anything?"
+      },
+      {
+       "sp": "A",
+       "t": "Yes please. First {c1}, and after that {c2}.",
+       "tag": "tasks"
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "order",
+     "q": "What should {p} do first?",
+     "ask": "c1",
+     "form": "short"
+    },
+    {
+     "type": "detail",
+     "q": "What is the second job?",
+     "ask": "c2",
+     "form": "short"
+    },
+    {
+     "type": "where",
+     "q": "Where is Dad going?",
+     "opts": [
+      "To the shops",
+      "To work",
+      "To the bank",
+      "To the gym"
+     ]
+    },
+    {
+     "type": "speaker",
+     "q": "Who gave the jobs?",
+     "tag": "tasks"
+    }
+   ]
+  },
+  {
+   "id": "en.sc.kitchen",
+   "group": "home",
+   "lvl": 2,
+   "aud": "both",
+   "title": "Several people in the kitchen",
+   "roles": {
+    "A": "{a}",
+    "B": "{b}",
+    "C": "{c}"
+   },
+   "slots": {
+    "a": "names",
+    "b": "names",
+    "c": "names",
+    "d": "drinks"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "The tea's ready, who wants some?"
+      },
+      {
+       "sp": "B",
+       "t": "I'll have one, no sugar please.",
+       "tag": "nosugar"
+      },
+      {
+       "sp": "C",
+       "t": "Not for me, could I have {d} instead?",
+       "tag": "other"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "I made a pot of tea, anyone?"
+      },
+      {
+       "sp": "C",
+       "t": "I'll skip it, I'm having {d}.",
+       "tag": "other"
+      },
+      {
+       "sp": "B",
+       "t": "A cup for me, no sugar.",
+       "tag": "nosugar"
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "who",
+     "q": "Who wanted tea with no sugar?",
+     "ask": "b"
+    },
+    {
+     "type": "detail",
+     "q": "What did {c} want to drink?",
+     "ask": "d"
+    },
+    {
+     "type": "who",
+     "q": "Who made the tea?",
+     "ask": "a"
+    }
+   ],
+   "noise": 1
+  },
+  {
+   "id": "en.sc.tv",
+   "group": "home",
+   "lvl": 2,
+   "aud": "both",
+   "title": "A TV announcement",
+   "roles": {
+    "A": "Presenter"
+   },
+   "slots": {
+    "sh": "tvshows",
+    "tm": "@time:18:23",
+    "wd": "weekdays"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "Coming up next on this channel: {sh}."
+      },
+      {
+       "sp": "A",
+       "t": "If you miss it, it will be shown again {wd} at {tm}."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "In a few minutes, we have {sh}."
+      },
+      {
+       "sp": "A",
+       "t": "There's a repeat {wd}, at {tm}."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "what",
+     "q": "Which programme is coming up?",
+     "ask": "sh"
+    },
+    {
+     "type": "when",
+     "q": "Which day is the repeat?",
+     "ask": "wd"
+    },
+    {
+     "type": "when",
+     "q": "What time is the repeat?",
+     "ask": "tm",
+     "show": "show"
+    }
+   ]
+  },
+  {
+   "id": "en.sc.plan",
+   "group": "social",
+   "lvl": 2,
+   "aud": "both",
+   "title": "Making plans with a friend",
+   "roles": {
+    "A": "{a}",
+    "B": "{b}"
+   },
+   "slots": {
+    "a": "names",
+    "b": "names",
+    "w1": "weekdays",
+    "w2": "weekdays",
+    "tm": "@time:10:21"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "{b}, shall we go to the cinema {w1}?"
+      },
+      {
+       "sp": "B",
+       "t": "{w1.bare} doesn't work for me. How about {w2.bare}?"
+      },
+      {
+       "sp": "A",
+       "t": "Fine. Let's meet outside the cinema at {tm}."
+      },
+      {
+       "sp": "B",
+       "t": "Deal!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "Are you free {w1}? We could see a film."
+      },
+      {
+       "sp": "B",
+       "t": "Sorry, I'm busy {w1}. What about {w2}?"
+      },
+      {
+       "sp": "A",
+       "t": "OK, {w2.bare} it is. Outside the cinema, at {tm}."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "when",
+     "q": "Which day did they agree on?",
+     "ask": "w2"
+    },
+    {
+     "type": "when",
+     "q": "What time will they meet?",
+     "ask": "tm",
+     "show": "show"
+    },
+    {
+     "type": "where",
+     "q": "Where will they meet?",
+     "opts": [
+      "Outside the cinema",
+      "At a café",
+      "Outside the school",
+      "At the bus stop"
+     ]
+    },
+    {
+     "type": "detail",
+     "q": "Why was the first day not possible?",
+     "opts": [
+      "{b} was busy",
+      "The cinema was closed",
+      "The weather was bad",
+      "There were no tickets"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "en.sc.restaurant",
+   "group": "social",
+   "lvl": 2,
+   "aud": "both",
+   "title": "Ordering at a restaurant",
+   "roles": {
+    "A": "Waiter",
+    "B": "Customer"
+   },
+   "slots": {
+    "f1": "dishes",
+    "f2": "dishes",
+    "dr": "drinks"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "Hello, what can I get you?"
+      },
+      {
+       "sp": "B",
+       "t": "I'll have {f1}, and {dr} please."
+      },
+      {
+       "sp": "A",
+       "t": "Sorry, we've run out of {f1}. I can recommend {f2}.",
+       "tag": "rec"
+      },
+      {
+       "sp": "B",
+       "t": "OK, {f2} then."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "B",
+       "t": "Hi, I'd like {f1}, please."
+      },
+      {
+       "sp": "A",
+       "t": "I'm afraid {f1} has run out. Shall I bring you {f2}?",
+       "tag": "rec"
+      },
+      {
+       "sp": "B",
+       "t": "Sure. And could I have {dr}?"
+      },
+      {
+       "sp": "A",
+       "t": "Of course."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "what",
+     "q": "What did the customer finally order?",
+     "ask": "f2"
+    },
+    {
+     "type": "detail",
+     "q": "What will the customer drink?",
+     "ask": "dr"
+    },
+    {
+     "type": "why",
+     "q": "Why did the customer choose another dish?",
+     "opts": [
+      "The first dish had run out",
+      "It was too expensive",
+      "It was too spicy",
+      "The waiter misheard"
+     ]
+    },
+    {
+     "type": "speaker",
+     "q": "Who suggested another dish?",
+     "tag": "rec"
+    }
+   ]
+  },
+  {
+   "id": "en.sc.cafe",
+   "group": "social",
+   "lvl": 1,
+   "aud": "both",
+   "title": "Paying at a café",
+   "roles": {
+    "A": "Cashier",
+    "B": "Customer"
+   },
+   "slots": {
+    "sz": "sizes",
+    "dr": "drinks",
+    "m": "@money:2:9"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "B",
+       "t": "Could I have a {sz} {dr}, please?"
+      },
+      {
+       "sp": "A",
+       "t": "Sure. That's {m}."
+      },
+      {
+       "sp": "B",
+       "t": "Can I pay by card?"
+      },
+      {
+       "sp": "A",
+       "t": "Of course, just tap your card."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "What can I get you?"
+      },
+      {
+       "sp": "B",
+       "t": "A {sz} {dr}, please."
+      },
+      {
+       "sp": "A",
+       "t": "That'll be {m}. Cash or card?"
+      },
+      {
+       "sp": "B",
+       "t": "Card, please."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "howmany",
+     "q": "How much did it cost?",
+     "ask": "m",
+     "show": "show"
+    },
+    {
+     "type": "what",
+     "q": "Which size did the customer ask for?",
+     "ask": "sz"
+    },
+    {
+     "type": "detail",
+     "q": "What did the customer order?",
+     "ask": "dr"
+    },
+    {
+     "type": "how",
+     "q": "How did the customer pay?",
+     "opts": [
+      "By card",
+      "In cash",
+      "By phone",
+      "They did not pay"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "en.sc.market-ask",
+   "group": "social",
+   "lvl": 2,
+   "aud": "both",
+   "title": "Asking in a supermarket",
+   "roles": {
+    "A": "Shop assistant",
+    "B": "Customer"
+   },
+   "slots": {
+    "pr": "buy",
+    "ai": "aisles"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "B",
+       "t": "Excuse me, where can I find the {pr}?"
+      },
+      {
+       "sp": "A",
+       "t": "You'll find the {pr} in {ai}, on the top shelf."
+      },
+      {
+       "sp": "B",
+       "t": "Thank you."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "B",
+       "t": "Sorry, which aisle has the {pr}?"
+      },
+      {
+       "sp": "A",
+       "t": "{ai}. Look on the top shelf."
+      },
+      {
+       "sp": "B",
+       "t": "Thanks a lot."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "where",
+     "q": "Which aisle?",
+     "ask": "ai",
+     "show": "show"
+    },
+    {
+     "type": "what",
+     "q": "What was the customer looking for?",
+     "ask": "pr"
+    },
+    {
+     "type": "where",
+     "q": "Which shelf?",
+     "opts": [
+      "The top shelf",
+      "The bottom shelf",
+      "The middle shelf",
+      "Next to the checkout"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "en.sc.directions",
+   "group": "social",
+   "lvl": 2,
+   "aud": "both",
+   "title": "Asking for directions",
+   "roles": {
+    "A": "Local",
+    "B": "Visitor"
+   },
+   "slots": {
+    "ds": "dest",
+    "dr": "dirs",
+    "lm": "landmarks"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "B",
+       "t": "Excuse me, where is {ds}?"
+      },
+      {
+       "sp": "A",
+       "t": "Go straight on and turn {dr} at the second street."
+      },
+      {
+       "sp": "A",
+       "t": "{ds} is right opposite {lm}."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "B",
+       "t": "Sorry, is {ds} near here?"
+      },
+      {
+       "sp": "A",
+       "t": "Very close. Take the second street on the {dr}; you'll see it opposite {lm}."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "what",
+     "q": "What was the visitor looking for?",
+     "ask": "ds"
+    },
+    {
+     "type": "how",
+     "q": "Which way should they turn?",
+     "ask": "dr",
+     "show": "show"
+    },
+    {
+     "type": "where",
+     "q": "What is it opposite?",
+     "ask": "lm"
+    },
+    {
+     "type": "detail",
+     "q": "Which street should they take?",
+     "opts": [
+      "The second",
+      "The first",
+      "The third",
+      "The fourth"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "en.sc.meet",
+   "group": "social",
+   "lvl": 1,
+   "aud": "both",
+   "title": "Meeting a new neighbour",
+   "roles": {
+    "A": "{a}",
+    "B": "{b}"
+   },
+   "slots": {
+    "a": "names",
+    "b": "names",
+    "fl": "ordinals",
+    "j": "jobs"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "Hi, I'm {a}. I've just moved into the building."
+      },
+      {
+       "sp": "B",
+       "t": "Welcome! I'm {b}, I live on the {fl} floor."
+      },
+      {
+       "sp": "A",
+       "t": "Nice to meet you. What do you do?"
+      },
+      {
+       "sp": "B",
+       "t": "I'm {j.a}."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "B",
+       "t": "Hello! You must be the new neighbour."
+      },
+      {
+       "sp": "A",
+       "t": "Yes, I'm {a}. I moved in last week."
+      },
+      {
+       "sp": "B",
+       "t": "I'm {b}. I'm on the {fl} floor, and I work as {j.a}."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "who",
+     "q": "Who has just moved in?",
+     "ask": "a"
+    },
+    {
+     "type": "where",
+     "q": "Which floor does {b} live on?",
+     "ask": "fl",
+     "show": "show"
+    },
+    {
+     "type": "what",
+     "q": "What is {b}'s job?",
+     "ask": "j"
+    }
+   ]
+  },
+  {
+   "id": "en.sc.invite",
+   "group": "social",
+   "lvl": 2,
+   "aud": "both",
+   "title": "An invitation",
+   "roles": {
+    "A": "{a}",
+    "B": "{b}"
+   },
+   "slots": {
+    "a": "names",
+    "b": "names",
+    "e": "socials",
+    "wd": "weekdays",
+    "tm": "@time:10:20",
+    "fd": "kidfoods"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "We're having a {e} {wd}. Would you like to come?"
+      },
+      {
+       "sp": "B",
+       "t": "I would love to! What time?"
+      },
+      {
+       "sp": "A",
+       "t": "We start at {tm}. Could you bring some {fd}?"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "{b}, we're organising a small {e} {wd}."
+      },
+      {
+       "sp": "B",
+       "t": "Great! When?"
+      },
+      {
+       "sp": "A",
+       "t": "Around {tm}. And if you bring some {fd}, that would be lovely."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "what",
+     "q": "What is the invitation for?",
+     "ask": "e"
+    },
+    {
+     "type": "when",
+     "q": "Which day?",
+     "ask": "wd"
+    },
+    {
+     "type": "when",
+     "q": "What time does it start?",
+     "ask": "tm",
+     "show": "show"
+    },
+    {
+     "type": "detail",
+     "q": "What should {b} bring?",
+     "ask": "fd"
+    }
+   ]
+  },
+  {
+   "id": "en.sc.clarify",
+   "group": "social",
+   "lvl": 2,
+   "aud": "both",
+   "title": "Asking someone to repeat",
+   "roles": {
+    "A": "{a}",
+    "B": "{b}"
+   },
+   "slots": {
+    "a": "names",
+    "b": "names",
+    "tm": "@time",
+    "rm": "workrooms"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "The meeting starts at {tm}."
+      },
+      {
+       "sp": "B",
+       "t": "Sorry, I didn't catch that. Could you say it again?",
+       "tag": "repeat"
+      },
+      {
+       "sp": "A",
+       "t": "Sure. The meeting is at {tm}, {rm.at}."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "By the way, the meeting is {rm.at}."
+      },
+      {
+       "sp": "B",
+       "t": "Sorry, could you say that a bit more slowly?",
+       "tag": "repeat"
+      },
+      {
+       "sp": "A",
+       "t": "The meeting is {rm.at}, at {tm}."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "when",
+     "q": "What time is the meeting?",
+     "ask": "tm",
+     "show": "show"
+    },
+    {
+     "type": "where",
+     "q": "Where is the meeting?",
+     "ask": "rm",
+     "form": "at"
+    },
+    {
+     "type": "strategy",
+     "q": "How did {b} show they hadn't understood?",
+     "opts": [
+      "Asked to repeat or speak slowly",
+      "Changed the subject",
+      "Just nodded",
+      "Said nothing"
+     ]
+    },
+    {
+     "type": "speaker",
+     "q": "Who asked for it to be repeated?",
+     "tag": "repeat"
+    }
+   ]
+  },
+  {
+   "id": "en.sc.metro",
+   "group": "transport",
+   "lvl": 2,
+   "aud": "both",
+   "title": "Underground announcement",
+   "roles": {
+    "A": "Announcement"
+   },
+   "slots": {
+    "st": "stations",
+    "sd": "sides",
+    "nx": "stations"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sfx": "chime"
+      },
+      {
+       "sp": "A",
+       "t": "The next station is {st}."
+      },
+      {
+       "sp": "A",
+       "t": "Doors will open on the {sd}."
+      },
+      {
+       "sp": "A",
+       "t": "Change here for {nx}."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sfx": "chime"
+      },
+      {
+       "sp": "A",
+       "t": "We are now approaching {st}."
+      },
+      {
+       "sp": "A",
+       "t": "Please use the doors on the {sd}-hand side."
+      },
+      {
+       "sp": "A",
+       "t": "Passengers for {nx} should change here."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "where",
+     "q": "What is the next station?",
+     "ask": "st"
+    },
+    {
+     "type": "where",
+     "q": "Which side will the doors open?",
+     "ask": "sd",
+     "show": "show"
+    },
+    {
+     "type": "detail",
+     "q": "Where can passengers change for?",
+     "ask": "nx"
+    }
+   ]
+  },
+  {
+   "id": "en.sc.bus-time",
+   "group": "transport",
+   "lvl": 2,
+   "aud": "both",
+   "title": "Bus times",
+   "roles": {
+    "A": "Bus station staff",
+    "B": "Passenger"
+   },
+   "slots": {
+    "ln": "lines",
+    "mn": "mins",
+    "tm": "@time"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "B",
+       "t": "When is the number {ln} bus coming?"
+      },
+      {
+       "sp": "A",
+       "t": "It'll be here in {mn} minutes."
+      },
+      {
+       "sp": "A",
+       "t": "If you miss it, the next one is at {tm}."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "B",
+       "t": "Excuse me, does the {ln} stop here?"
+      },
+      {
+       "sp": "A",
+       "t": "Yes, it'll be here in {mn} minutes."
+      },
+      {
+       "sp": "A",
+       "t": "After that, the next one is at {tm}."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "what",
+     "q": "Which bus number was asked about?",
+     "ask": "ln",
+     "show": "show"
+    },
+    {
+     "type": "howmany",
+     "q": "In how many minutes will it come?",
+     "ask": "mn",
+     "show": "show"
+    },
+    {
+     "type": "when",
+     "q": "When is the next one after that?",
+     "ask": "tm",
+     "show": "show"
+    }
+   ]
+  },
+  {
+   "id": "en.sc.phone-appt",
+   "group": "phone",
+   "lvl": 2,
+   "aud": "adult",
+   "title": "Booking by phone",
+   "roles": {
+    "A": "Receptionist",
+    "B": "Caller"
+   },
+   "slots": {
+    "cl": "clinics",
+    "wd": "weekdays",
+    "t1": "@time:9:12",
+    "t2": "@time:13:17"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sfx": "phone"
+      },
+      {
+       "sp": "A",
+       "t": "{cl}, how can I help?"
+      },
+      {
+       "sp": "B",
+       "t": "Hello, I'd like to book an appointment."
+      },
+      {
+       "sp": "A",
+       "t": "Would {wd} at {t1} suit you?"
+      },
+      {
+       "sp": "B",
+       "t": "I'm busy then. Is there anything later?"
+      },
+      {
+       "sp": "A",
+       "t": "Then I'll put you down for {t2}."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sfx": "phone"
+      },
+      {
+       "sp": "A",
+       "t": "Good afternoon, {cl}."
+      },
+      {
+       "sp": "B",
+       "t": "Hi, I'm calling to make an appointment."
+      },
+      {
+       "sp": "A",
+       "t": "We have {t1} {wd}."
+      },
+      {
+       "sp": "B",
+       "t": "I can't do mornings. Is the afternoon possible?"
+      },
+      {
+       "sp": "A",
+       "t": "Yes, {t2} is free."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "when",
+     "q": "What time was the appointment finally booked for?",
+     "ask": "t2",
+     "show": "show"
+    },
+    {
+     "type": "when",
+     "q": "Which day?",
+     "ask": "wd"
+    },
+    {
+     "type": "why",
+     "q": "Why was the first time not suitable?",
+     "opts": [
+      "The caller was not available",
+      "The doctor was away",
+      "The clinic was closed",
+      "The wrong day was given"
+     ]
+    },
+    {
+     "type": "where",
+     "q": "Where did the caller phone?",
+     "ask": "cl"
+    }
+   ]
+  },
+  {
+   "id": "en.sc.video-call",
+   "group": "phone",
+   "lvl": 2,
+   "aud": "both",
+   "title": "A video call",
+   "roles": {
+    "A": "{a}",
+    "B": "{b}"
+   },
+   "slots": {
+    "a": "names",
+    "b": "names"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "{b}, I can't hear you. Your microphone might be muted.",
+       "tag": "mic"
+      },
+      {
+       "sp": "B",
+       "t": "Can you hear me now?"
+      },
+      {
+       "sp": "A",
+       "t": "Yes, much better. Could you share your screen?",
+       "tag": "share"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "I can hear you but I can't see you. I think your camera is off.",
+       "tag": "mic"
+      },
+      {
+       "sp": "B",
+       "t": "You're right, it's on now. Better?"
+      },
+      {
+       "sp": "A",
+       "t": "Perfect. Could you show the slides on screen?",
+       "tag": "share"
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "detail",
+     "q": "What was the first problem?",
+     "opts": [
+      "No sound or no picture",
+      "The internet went down completely",
+      "The computer turned off",
+      "The phone battery died"
+     ]
+    },
+    {
+     "type": "purpose",
+     "q": "What was requested once it was fixed?",
+     "opts": [
+      "To share the screen",
+      "To end the call",
+      "To call back later",
+      "To send an email"
+     ]
+    },
+    {
+     "type": "speaker",
+     "q": "Who asked to share the screen?",
+     "tag": "share"
+    }
+   ]
+  },
+  {
+   "id": "en.sc.teacher",
+   "group": "work",
+   "lvl": 1,
+   "aud": "both",
+   "title": "Teacher's instructions",
+   "roles": {
+    "A": "Teacher"
+   },
+   "slots": {
+    "pg": "pages",
+    "ex": "exnums"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "Everyone, open your books at page {pg}."
+      },
+      {
+       "sp": "A",
+       "t": "Do exercise {ex}."
+      },
+      {
+       "sp": "A",
+       "t": "When you finish, leave your notebook on my desk."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "Please turn to page {pg}."
+      },
+      {
+       "sp": "A",
+       "t": "Today we're doing exercise {ex}."
+      },
+      {
+       "sp": "A",
+       "t": "If you finish, put your notebook on my desk."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "howmany",
+     "q": "Which page?",
+     "ask": "pg",
+     "show": "show"
+    },
+    {
+     "type": "howmany",
+     "q": "Which exercise?",
+     "ask": "ex",
+     "show": "show"
+    },
+    {
+     "type": "detail",
+     "q": "What should students do when they finish?",
+     "opts": [
+      "Leave their notebook on the teacher's desk",
+      "Go out to play",
+      "Close their books",
+      "Tidy the classroom"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "en.sc.tasks",
+   "group": "work",
+   "lvl": 3,
+   "aud": "adult",
+   "title": "Dividing up tasks",
+   "roles": {
+    "A": "Team leader"
+   },
+   "slots": {
+    "a": "names",
+    "b": "names",
+    "c": "names",
+    "wd": "weekdays"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "Right, let's divide the work."
+      },
+      {
+       "sp": "A",
+       "t": "{a} will prepare the client presentation."
+      },
+      {
+       "sp": "A",
+       "t": "{b} will check the figures, and {c} will book the meeting room."
+      },
+      {
+       "sp": "A",
+       "t": "Everything needs to be ready {wd}."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "Here's who's doing what:"
+      },
+      {
+       "sp": "A",
+       "t": "Figures, {b}; the meeting room, {c}; and the presentation, {a}."
+      },
+      {
+       "sp": "A",
+       "t": "The deadline is {wd}."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "who",
+     "q": "Who will prepare the presentation?",
+     "ask": "a"
+    },
+    {
+     "type": "who",
+     "q": "Who will check the figures?",
+     "ask": "b"
+    },
+    {
+     "type": "who",
+     "q": "Who will book the room?",
+     "ask": "c"
+    },
+    {
+     "type": "when",
+     "q": "When is the deadline?",
+     "ask": "wd"
+    }
+   ]
+  },
+  {
+   "id": "en.sc.numbers",
+   "group": "work",
+   "lvl": 3,
+   "aud": "adult",
+   "title": "Sharing figures",
+   "roles": {
+    "A": "Sales manager"
+   },
+   "slots": {
+    "n2": "@number:120:400",
+    "n1": "@number:420:900"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "I'd like to share this month's sales figures."
+      },
+      {
+       "sp": "A",
+       "t": "This month we sold {n1} units."
+      },
+      {
+       "sp": "A",
+       "t": "Last month, the number was {n2}."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "A quick summary:"
+      },
+      {
+       "sp": "A",
+       "t": "Last month we sold {n2} units, and this month we reached {n1}."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "howmany",
+     "q": "How many units were sold this month?",
+     "ask": "n1",
+     "show": "show"
+    },
+    {
+     "type": "howmany",
+     "q": "How many were sold last month?",
+     "ask": "n2",
+     "show": "show"
+    },
+    {
+     "type": "relation",
+     "q": "How did sales change?",
+     "opts": [
+      "They went up",
+      "They went down",
+      "They stayed the same",
+      "It was not said"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "en.sc.correction",
+   "group": "work",
+   "lvl": 2,
+   "aud": "adult",
+   "title": "Correcting a misunderstanding",
+   "roles": {
+    "A": "{a}",
+    "B": "{b}"
+   },
+   "slots": {
+    "a": "names",
+    "b": "names",
+    "w1": "weekdays",
+    "w2": "weekdays",
+    "rm": "workrooms"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "The presentation is {w1}, isn't it?"
+      },
+      {
+       "sp": "B",
+       "t": "No, not {w1}. The date changed, it is {w2} now.",
+       "tag": "fix"
+      },
+      {
+       "sp": "A",
+       "t": "I see. Is it in the same place?"
+      },
+      {
+       "sp": "B",
+       "t": "Yes, {rm.at} again."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "If I remember correctly, the presentation is {w1}."
+      },
+      {
+       "sp": "B",
+       "t": "Actually it was moved to {w2}, not {w1}.",
+       "tag": "fix"
+      },
+      {
+       "sp": "B",
+       "t": "The place is the same: {rm.at}."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "when",
+     "q": "Which day is the presentation?",
+     "ask": "w2"
+    },
+    {
+     "type": "when",
+     "q": "Which day was remembered wrongly?",
+     "ask": "w1"
+    },
+    {
+     "type": "where",
+     "q": "Where is it?",
+     "ask": "rm",
+     "form": "at"
+    },
+    {
+     "type": "speaker",
+     "q": "Who corrected the information?",
+     "tag": "fix"
+    }
+   ]
+  },
+  {
+   "id": "en.sc.reception",
+   "group": "health",
+   "lvl": 2,
+   "aud": "both",
+   "title": "Hospital reception",
+   "roles": {
+    "A": "Receptionist",
+    "B": "Visitor"
+   },
+   "slots": {
+    "dp": "depts",
+    "fl": "ordinals",
+    "n": "@number:10:60"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "B",
+       "t": "Hello, I need to go to the {dp}."
+      },
+      {
+       "sp": "A",
+       "t": "The {dp} is on the {fl} floor."
+      },
+      {
+       "sp": "A",
+       "t": "Turn left when you leave the lift. Your queue number is {n}."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "B",
+       "t": "Sorry, where is the {dp}?"
+      },
+      {
+       "sp": "A",
+       "t": "It is on the {fl} floor; take the lift and turn left."
+      },
+      {
+       "sp": "A",
+       "t": "You are number {n}; watch the screen."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "what",
+     "q": "Which department was asked about?",
+     "ask": "dp",
+     "show": "show"
+    },
+    {
+     "type": "where",
+     "q": "Which floor?",
+     "ask": "fl",
+     "show": "show"
+    },
+    {
+     "type": "howmany",
+     "q": "What is the queue number?",
+     "ask": "n",
+     "show": "show"
+    },
+    {
+     "type": "how",
+     "q": "Which way after the lift?",
+     "opts": [
+      "Left",
+      "Right",
+      "Straight on",
+      "Back"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "en.sc.pharmacy",
+   "group": "health",
+   "lvl": 2,
+   "aud": "adult",
+   "title": "At the pharmacy",
+   "roles": {
+    "A": "Pharmacist",
+    "B": "Customer"
+   },
+   "slots": {
+    "mn": "mins",
+    "m": "@money:4:30"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "B",
+       "t": "Hello, I've brought this prescription."
+      },
+      {
+       "sp": "A",
+       "t": "Thank you. It'll take about {mn} minutes to prepare."
+      },
+      {
+       "sp": "A",
+       "t": "That's {m}. I've written your doctor's instructions on the box."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "B",
+       "t": "Hi, I have a prescription."
+      },
+      {
+       "sp": "A",
+       "t": "I'll take a look; it should be ready in about {mn} minutes."
+      },
+      {
+       "sp": "A",
+       "t": "The total is {m}. Please use it as your doctor told you."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "howmany",
+     "q": "How many minutes will it take?",
+     "ask": "mn",
+     "show": "show"
+    },
+    {
+     "type": "howmany",
+     "q": "How much is it?",
+     "ask": "m",
+     "show": "show"
+    },
+    {
+     "type": "detail",
+     "q": "Whose instructions should be followed?",
+     "opts": [
+      "The doctor's",
+      "Online reviews",
+      "A friend's",
+      "Their own guess"
+     ]
+    }
+   ],
+   "disclaimer": "health"
+  },
+  {
+   "id": "en.sc.bank",
+   "group": "public",
+   "lvl": 1,
+   "aud": "both",
+   "title": "Queue at the bank",
+   "roles": {
+    "A": "Announcement"
+   },
+   "slots": {
+    "n": "@number:100:350",
+    "d": "@number:1:9"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sfx": "chime"
+      },
+      {
+       "sp": "A",
+       "t": "Customer number {n}, please go to counter {d}."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sfx": "chime"
+      },
+      {
+       "sp": "A",
+       "t": "Ticket number {n}, counter {d} is now free."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "howmany",
+     "q": "Which ticket number was called?",
+     "ask": "n",
+     "show": "show"
+    },
+    {
+     "type": "howmany",
+     "q": "Which counter?",
+     "ask": "d",
+     "show": "show"
+    }
+   ]
+  },
+  {
+   "id": "en.sc.emergency",
+   "group": "public",
+   "lvl": 3,
+   "aud": "both",
+   "title": "Emergency announcement (practice only)",
+   "roles": {
+    "A": "Announcement"
+   },
+   "slots": {
+    "as": "assembly"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sfx": "alarm"
+      },
+      {
+       "sp": "A",
+       "t": "Attention please. The fire alarm is sounding in the building."
+      },
+      {
+       "sp": "A",
+       "t": "Do not use the lifts. Leave the building by the nearest stairs."
+      },
+      {
+       "sp": "A",
+       "t": "The assembly point is {as}."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sfx": "alarm"
+      },
+      {
+       "sp": "A",
+       "t": "Ladies and gentlemen, we are evacuating the building."
+      },
+      {
+       "sp": "A",
+       "t": "Please do not use the lift; walk calmly down the stairs."
+      },
+      {
+       "sp": "A",
+       "t": "Please go to {as}."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "detail",
+     "q": "What should people NOT use?",
+     "opts": [
+      "The lifts",
+      "The stairs",
+      "Their phones",
+      "The back door"
+     ]
+    },
+    {
+     "type": "where",
+     "q": "Where should people gather?",
+     "ask": "as"
+    },
+    {
+     "type": "purpose",
+     "q": "What is the announcement for?",
+     "opts": [
+      "Evacuating the building",
+      "Starting a meeting",
+      "Opening the canteen",
+      "Lift maintenance"
+     ]
+    }
+   ],
+   "disclaimer": "emergency"
+  },
+  {
+   "id": "en.sc.results",
+   "group": "health",
+   "lvl": 2,
+   "aud": "adult",
+   "title": "Getting test results",
+   "roles": {
+    "A": "Nurse",
+    "B": "Patient"
+   },
+   "slots": {
+    "wd": "weekdays",
+    "tm": "@time:9:17"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "Your test results will be ready {wd}."
+      },
+      {
+       "sp": "B",
+       "t": "How will I find out?"
+      },
+      {
+       "sp": "A",
+       "t": "We'll phone you at {tm}. You can also check online."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "B",
+       "t": "When will the results be ready?"
+      },
+      {
+       "sp": "A",
+       "t": "{wd}. We will call you at {tm} to let you know."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "when",
+     "q": "Which day will the results be ready?",
+     "ask": "wd"
+    },
+    {
+     "type": "how",
+     "q": "How will the patient be told?",
+     "opts": [
+      "By phone",
+      "By letter",
+      "In person",
+      "They will not be told"
+     ]
+    },
+    {
+     "type": "when",
+     "q": "What time will they call?",
+     "ask": "tm",
+     "show": "show"
+    }
+   ]
+  },
+  {
+   "id": "en.sc.family",
+   "group": "home",
+   "lvl": 1,
+   "aud": "both",
+   "title": "Family dinner",
+   "roles": {
+    "A": "Mom",
+    "B": "{p}",
+    "C": "Dad"
+   },
+   "slots": {
+    "p": "names",
+    "d": "dishes",
+    "dr": "drinks",
+    "ch": "chores"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "{p}, we’re having {d} for dinner. Can you set the table?"
+      },
+      {
+       "sp": "B",
+       "t": "Sure, Mom. What are we drinking?"
+      },
+      {
+       "sp": "C",
+       "t": "I’d like some {dr}, please.",
+       "tag": "drink"
+      },
+      {
+       "sp": "A",
+       "t": "And after dinner, please {ch}.",
+       "tag": "chore"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "I’ve made {d} tonight. {p}, could you bring the plates?"
+      },
+      {
+       "sp": "C",
+       "t": "Could someone pour me a glass of {dr}?",
+       "tag": "drink"
+      },
+      {
+       "sp": "A",
+       "t": "Don’t forget to {ch} after dinner.",
+       "tag": "chore"
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "what",
+     "q": "What’s for dinner?",
+     "ask": "d"
+    },
+    {
+     "type": "what",
+     "q": "What does Dad want to drink?",
+     "ask": "dr"
+    },
+    {
+     "type": "detail",
+     "q": "What needs to be done after dinner?",
+     "ask": "ch",
+     "form": "short"
+    },
+    {
+     "type": "speaker",
+     "q": "Who asked for a drink?",
+     "tag": "drink"
+    }
+   ]
+  },
+  {
+   "id": "en.sc.voicemail",
+   "group": "phone",
+   "lvl": 2,
+   "aud": "both",
+   "title": "Taking notes from a voicemail",
+   "roles": {
+    "A": "{n}"
+   },
+   "slots": {
+    "n": "names",
+    "ms": "meetspots",
+    "wd": "weekdays",
+    "tm": "@time:9:18",
+    "br": "bringables"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sfx": "phone"
+      },
+      {
+       "sp": "A",
+       "t": "Hi, it’s {n}. Shall we meet {wd} at {tm} {ms.at}?"
+      },
+      {
+       "sp": "A",
+       "t": "Don’t forget to bring {br}."
+      },
+      {
+       "sp": "A",
+       "t": "If that doesn’t work, call me back. Bye!"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sfx": "phone"
+      },
+      {
+       "sp": "A",
+       "t": "Hello, {n} here. I thought we could meet {ms.at}."
+      },
+      {
+       "sp": "A",
+       "t": "If {wd.bare} works for you, let’s say {tm}."
+      },
+      {
+       "sp": "A",
+       "t": "And it would be great if you could bring {br}."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "who",
+     "q": "Who left the message?",
+     "ask": "n"
+    },
+    {
+     "type": "where",
+     "q": "Where will they meet?",
+     "ask": "ms"
+    },
+    {
+     "type": "when",
+     "q": "What time will they meet?",
+     "ask": "tm",
+     "show": "show"
+    },
+    {
+     "type": "when",
+     "q": "Which day will they meet?",
+     "ask": "wd",
+     "form": "bare"
+    },
+    {
+     "type": "detail",
+     "q": "What should they bring?",
+     "ask": "br"
+    }
+   ]
+  },
+  {
+   "id": "en.sc.workphone",
+   "group": "phone",
+   "lvl": 2,
+   "aud": "adult",
+   "title": "A phone call at work",
+   "roles": {
+    "A": "Caller",
+    "B": "Receptionist"
+   },
+   "slots": {
+    "n": "names",
+    "cm": "companies",
+    "dc": "workdocs",
+    "wd": "weekdays",
+    "ex": "@number:100:899"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "B",
+       "t": "Good morning, sales department."
+      },
+      {
+       "sp": "A",
+       "t": "Hello, this is {n} calling from {cm}. Could I speak to Mr Brown?"
+      },
+      {
+       "sp": "B",
+       "t": "I’m afraid he’s in a meeting. Can I take a message?"
+      },
+      {
+       "sp": "A",
+       "t": "Yes, please. Could he send {dc} by {wd.bare}? My extension is {ex}.",
+       "tag": "request"
+      },
+      {
+       "sp": "B",
+       "t": "Of course, I’ve noted that. He’ll get back to you.",
+       "tag": "promise"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "B",
+       "t": "Sales, good afternoon."
+      },
+      {
+       "sp": "A",
+       "t": "Hi, it’s {n} from {cm}."
+      },
+      {
+       "sp": "A",
+       "t": "I’d like to leave a message for Mr Brown: we need {dc} by {wd.bare} at the latest.",
+       "tag": "request"
+      },
+      {
+       "sp": "B",
+       "t": "Understood. Could I have your number?"
+      },
+      {
+       "sp": "A",
+       "t": "My extension is {ex}."
+      },
+      {
+       "sp": "B",
+       "t": "Thank you, he’ll call you back.",
+       "tag": "promise"
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "who",
+     "q": "What is the caller’s name?",
+     "ask": "n"
+    },
+    {
+     "type": "what",
+     "q": "Which document is needed?",
+     "ask": "dc"
+    },
+    {
+     "type": "when",
+     "q": "By which day is it needed?",
+     "ask": "wd",
+     "form": "bare"
+    },
+    {
+     "type": "howmany",
+     "q": "What is the extension number?",
+     "ask": "ex",
+     "show": "show"
+    },
+    {
+     "type": "speaker",
+     "q": "Who promised a call back?",
+     "tag": "promise"
+    },
+    {
+     "type": "purpose",
+     "q": "Why did the caller phone?",
+     "opts": [
+      "To ask for a document",
+      "To cancel a meeting",
+      "To make a complaint",
+      "To book an appointment"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "en.sc.interview",
+   "group": "work",
+   "lvl": 3,
+   "aud": "adult",
+   "title": "A job interview",
+   "roles": {
+    "A": "Interviewer",
+    "B": "{n}"
+   },
+   "slots": {
+    "n": "names",
+    "yr": "numbers",
+    "jb": "jobs",
+    "ct": "cities",
+    "st": "weekdays"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "Welcome, please take a seat. Could you tell us a little about yourself?"
+      },
+      {
+       "sp": "B",
+       "t": "Of course. My name is {n}, and I’ve worked as {jb.a} for {yr} years."
+      },
+      {
+       "sp": "A",
+       "t": "Where did you work before?"
+      },
+      {
+       "sp": "B",
+       "t": "I worked in {ct}."
+      },
+      {
+       "sp": "A",
+       "t": "Thank you. If you join us, could you start {st}?"
+      },
+      {
+       "sp": "B",
+       "t": "Yes, I could start {st}.",
+       "tag": "start"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "Thanks for coming in. Let’s start with your experience."
+      },
+      {
+       "sp": "B",
+       "t": "I have {yr} years of experience; I worked as {jb.a} in {ct}."
+      },
+      {
+       "sp": "A",
+       "t": "When could you start?"
+      },
+      {
+       "sp": "B",
+       "t": "The earliest I could start is {st}.",
+       "tag": "start"
+      },
+      {
+       "sp": "A",
+       "t": "Great, we’ll be in touch soon.",
+       "tag": "callback"
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "howmany",
+     "q": "How many years of experience does the candidate have?",
+     "ask": "yr",
+     "show": "show"
+    },
+    {
+     "type": "what",
+     "q": "What job does the candidate do?",
+     "ask": "jb"
+    },
+    {
+     "type": "where",
+     "q": "Which city did the candidate work in?",
+     "ask": "ct"
+    },
+    {
+     "type": "when",
+     "q": "When could the candidate start?",
+     "ask": "st",
+     "form": "bare"
+    },
+    {
+     "type": "purpose",
+     "q": "What is the purpose of this conversation?",
+     "opts": [
+      "To choose a candidate for a job",
+      "To sell a product",
+      "To solve a complaint",
+      "To plan a meeting"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "en.sc.meetingqa",
+   "group": "work",
+   "lvl": 3,
+   "aud": "adult",
+   "title": "Questions in a meeting",
+   "roles": {
+    "A": "Chair",
+    "B": "{a}",
+    "C": "{b}"
+   },
+   "slots": {
+    "a": "names",
+    "b": "names",
+    "tp": "topics",
+    "wd": "weekdays",
+    "nm": "numbers"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "Today we’re discussing {tp}. Any questions?"
+      },
+      {
+       "sp": "B",
+       "t": "Yes, how many people will be on the team?"
+      },
+      {
+       "sp": "A",
+       "t": "For now we’ve planned {nm} people."
+      },
+      {
+       "sp": "C",
+       "t": "And when will we share the results?",
+       "tag": "askwhen"
+      },
+      {
+       "sp": "A",
+       "t": "We’ll share them {wd}."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "Our topic is {tp}. Let me take your questions."
+      },
+      {
+       "sp": "C",
+       "t": "When are we planning to share the results?",
+       "tag": "askwhen"
+      },
+      {
+       "sp": "A",
+       "t": "We’re aiming for {wd.bare}."
+      },
+      {
+       "sp": "B",
+       "t": "How big will the team be?"
+      },
+      {
+       "sp": "A",
+       "t": "We’re starting with {nm} people."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "what",
+     "q": "What is the meeting about?",
+     "ask": "tp"
+    },
+    {
+     "type": "howmany",
+     "q": "How many people will be on the team?",
+     "ask": "nm",
+     "show": "show"
+    },
+    {
+     "type": "when",
+     "q": "When will the results be shared?",
+     "ask": "wd",
+     "form": "bare"
+    },
+    {
+     "type": "speaker",
+     "q": "Who asked when the results would be shared?",
+     "tag": "askwhen"
+    }
+   ]
+  },
+  {
+   "id": "en.sc.presentation",
+   "group": "work",
+   "lvl": 3,
+   "aud": "adult",
+   "title": "A short presentation",
+   "roles": {
+    "A": "Presenter"
+   },
+   "slots": {
+    "tp": "topics",
+    "nm": "numbers",
+    "mn": "mins"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "Hello everyone. Today I’ll tell you briefly about {tp}."
+      },
+      {
+       "sp": "A",
+       "t": "First the current situation, then our plan, and finally the budget."
+      },
+      {
+       "sp": "A",
+       "t": "We expect the work to take {nm} months."
+      },
+      {
+       "sp": "A",
+       "t": "After the talk there will be {mn} minutes for questions."
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "Welcome. Our topic is {tp}."
+      },
+      {
+       "sp": "A",
+       "t": "It has three parts: where we are now, the plan and the budget."
+      },
+      {
+       "sp": "A",
+       "t": "The estimated time is {nm} months."
+      },
+      {
+       "sp": "A",
+       "t": "At the end we’ll have {mn} minutes of questions."
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "what",
+     "q": "What is the presentation about?",
+     "ask": "tp"
+    },
+    {
+     "type": "order",
+     "q": "In what order are the parts presented?",
+     "events": [
+      "Current situation",
+      "Plan",
+      "Budget"
+     ]
+    },
+    {
+     "type": "howmany",
+     "q": "How many months will the work take?",
+     "ask": "nm",
+     "show": "show"
+    },
+    {
+     "type": "howmany",
+     "q": "How many minutes are there for questions?",
+     "ask": "mn",
+     "show": "show"
+    },
+    {
+     "type": "main",
+     "q": "What is the aim of the presentation?",
+     "opts": [
+      "To inform people about a project",
+      "To introduce new staff",
+      "To sell a product",
+      "To celebrate an event"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "en.sc.friends",
+   "group": "social",
+   "lvl": 2,
+   "aud": "both",
+   "title": "Chatting with a group of friends",
+   "roles": {
+    "A": "{a}",
+    "B": "{b}",
+    "C": "{c}"
+   },
+   "slots": {
+    "a": "names",
+    "b": "names",
+    "c": "names",
+    "so": "socials",
+    "wd": "weekdays"
+   },
+   "variants": [
+    {
+     "lines": [
+      {
+       "sp": "A",
+       "t": "What shall we do this weekend?"
+      },
+      {
+       "sp": "B",
+       "t": "Why don’t we have {so.a}?",
+       "tag": "idea"
+      },
+      {
+       "sp": "C",
+       "t": "Sounds good, but I’m busy {wd}.",
+       "tag": "busy"
+      },
+      {
+       "sp": "A",
+       "t": "Then let’s pick another day. I’ll bring the food.",
+       "tag": "food"
+      }
+     ]
+    },
+    {
+     "lines": [
+      {
+       "sp": "B",
+       "t": "Shall we organise {so.a}?",
+       "tag": "idea"
+      },
+      {
+       "sp": "A",
+       "t": "Great idea! I’ll sort out the food.",
+       "tag": "food"
+      },
+      {
+       "sp": "C",
+       "t": "I can’t make it {wd}, let’s choose another day.",
+       "tag": "busy"
+      }
+     ]
+    }
+   ],
+   "questions": [
+    {
+     "type": "what",
+     "q": "What do they suggest organising?",
+     "ask": "so"
+    },
+    {
+     "type": "when",
+     "q": "On which day is someone busy?",
+     "ask": "wd",
+     "form": "bare"
+    },
+    {
+     "type": "speaker",
+     "q": "Who suggested the idea?",
+     "tag": "idea"
+    },
+    {
+     "type": "speaker",
+     "q": "Who will bring the food?",
+     "tag": "food"
+    },
+    {
+     "type": "speaker",
+     "q": "Who is not free that day?",
+     "tag": "busy"
+    }
+   ]
+  }
+ ]
+}

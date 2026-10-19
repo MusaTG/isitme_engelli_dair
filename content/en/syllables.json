@@ -1,0 +1,599 @@
+{
+ "nonword": true,
+ "note": "Nonsense syllables. Shown as \"pa\", spoken text uses \"pah\" so that engines do not spell out letters. Requires listening verification.",
+ "sets": [
+  {
+   "id": "en.syl.voicing-bilabial",
+   "label": "Voicing (p/b)",
+   "items": [
+    {
+     "s": "pa",
+     "say": "pah",
+     "ipa": "pɑ"
+    },
+    {
+     "s": "ba",
+     "say": "bah",
+     "ipa": "bɑ"
+    }
+   ],
+   "lvl": 1
+  },
+  {
+   "id": "en.syl.voicing-alveolar",
+   "label": "Voicing (t/d)",
+   "items": [
+    {
+     "s": "ta",
+     "say": "tah",
+     "ipa": "tɑ"
+    },
+    {
+     "s": "da",
+     "say": "dah",
+     "ipa": "dɑ"
+    }
+   ],
+   "lvl": 1
+  },
+  {
+   "id": "en.syl.voicing-velar",
+   "label": "Voicing (k/g)",
+   "items": [
+    {
+     "s": "ka",
+     "say": "kah",
+     "ipa": "kɑ"
+    },
+    {
+     "s": "ga",
+     "say": "gah",
+     "ipa": "gɑ"
+    }
+   ],
+   "lvl": 1
+  },
+  {
+   "id": "en.syl.voicing-fricative",
+   "label": "Voicing (f/v)",
+   "items": [
+    {
+     "s": "fa",
+     "say": "fah",
+     "ipa": "fɑ"
+    },
+    {
+     "s": "va",
+     "say": "vah",
+     "ipa": "vɑ"
+    }
+   ],
+   "lvl": 2
+  },
+  {
+   "id": "en.syl.voicing-sibilant",
+   "label": "Voicing (s/z)",
+   "items": [
+    {
+     "s": "sa",
+     "say": "sah",
+     "ipa": "sɑ"
+    },
+    {
+     "s": "za",
+     "say": "zah",
+     "ipa": "zɑ"
+    }
+   ],
+   "lvl": 2
+  },
+  {
+   "id": "en.syl.place-voiceless",
+   "label": "Place (p/t/k)",
+   "items": [
+    {
+     "s": "pa",
+     "say": "pah",
+     "ipa": "pɑ"
+    },
+    {
+     "s": "ta",
+     "say": "tah",
+     "ipa": "tɑ"
+    },
+    {
+     "s": "ka",
+     "say": "kah",
+     "ipa": "kɑ"
+    }
+   ],
+   "lvl": 2
+  },
+  {
+   "id": "en.syl.place-voiced",
+   "label": "Place (b/d/g)",
+   "items": [
+    {
+     "s": "ba",
+     "say": "bah",
+     "ipa": "bɑ"
+    },
+    {
+     "s": "da",
+     "say": "dah",
+     "ipa": "dɑ"
+    },
+    {
+     "s": "ga",
+     "say": "gah",
+     "ipa": "gɑ"
+    }
+   ],
+   "lvl": 2
+  },
+  {
+   "id": "en.syl.place-nasal",
+   "label": "Nasals (m/n)",
+   "items": [
+    {
+     "s": "ma",
+     "say": "mah",
+     "ipa": "mɑ"
+    },
+    {
+     "s": "na",
+     "say": "nah",
+     "ipa": "nɑ"
+    }
+   ],
+   "lvl": 2
+  },
+  {
+   "id": "en.syl.sibilant",
+   "label": "Sibilants (s/sh)",
+   "items": [
+    {
+     "s": "sa",
+     "say": "sah",
+     "ipa": "sɑ"
+    },
+    {
+     "s": "sha",
+     "say": "shah",
+     "ipa": "ʃɑ"
+    }
+   ],
+   "lvl": 2
+  },
+  {
+   "id": "en.syl.liquid",
+   "label": "Liquids (l/r)",
+   "items": [
+    {
+     "s": "la",
+     "say": "lah",
+     "ipa": "lɑ"
+    },
+    {
+     "s": "ra",
+     "say": "rah",
+     "ipa": "rɑ"
+    }
+   ],
+   "lvl": 2
+  },
+  {
+   "id": "en.syl.glide",
+   "label": "Glides (w/y)",
+   "items": [
+    {
+     "s": "wa",
+     "say": "wah",
+     "ipa": "wɑ"
+    },
+    {
+     "s": "ya",
+     "say": "yah",
+     "ipa": "jɑ"
+    }
+   ],
+   "lvl": 3
+  },
+  {
+   "id": "en.syl.affricate",
+   "label": "Affricates (ch/j)",
+   "items": [
+    {
+     "s": "cha",
+     "say": "chah",
+     "ipa": "ʧɑ"
+    },
+    {
+     "s": "ja",
+     "say": "jah",
+     "ipa": "ʤɑ"
+    }
+   ],
+   "lvl": 3
+  },
+  {
+   "id": "en.syl.mixed-6",
+   "label": "Mixed consonants",
+   "items": [
+    {
+     "s": "pa",
+     "say": "pah",
+     "ipa": "pɑ"
+    },
+    {
+     "s": "ba",
+     "say": "bah",
+     "ipa": "bɑ"
+    },
+    {
+     "s": "ta",
+     "say": "tah",
+     "ipa": "tɑ"
+    },
+    {
+     "s": "da",
+     "say": "dah",
+     "ipa": "dɑ"
+    },
+    {
+     "s": "ka",
+     "say": "kah",
+     "ipa": "kɑ"
+    },
+    {
+     "s": "ga",
+     "say": "gah",
+     "ipa": "gɑ"
+    }
+   ],
+   "lvl": 3
+  },
+  {
+   "id": "en.syl.mixed-10",
+   "label": "Mixed 10 syllables",
+   "items": [
+    {
+     "s": "pa",
+     "say": "pah",
+     "ipa": "pɑ"
+    },
+    {
+     "s": "ba",
+     "say": "bah",
+     "ipa": "bɑ"
+    },
+    {
+     "s": "ta",
+     "say": "tah",
+     "ipa": "tɑ"
+    },
+    {
+     "s": "da",
+     "say": "dah",
+     "ipa": "dɑ"
+    },
+    {
+     "s": "ka",
+     "say": "kah",
+     "ipa": "kɑ"
+    },
+    {
+     "s": "ga",
+     "say": "gah",
+     "ipa": "gɑ"
+    },
+    {
+     "s": "ma",
+     "say": "mah",
+     "ipa": "mɑ"
+    },
+    {
+     "s": "na",
+     "say": "nah",
+     "ipa": "nɑ"
+    },
+    {
+     "s": "sa",
+     "say": "sah",
+     "ipa": "sɑ"
+    },
+    {
+     "s": "sha",
+     "say": "shah",
+     "ipa": "ʃɑ"
+    }
+   ],
+   "lvl": 3
+  },
+  {
+   "id": "en.log.vcv-voicing",
+   "label": "VCV consonants: voicing (aba/apa, ada/ata, aga/aka)",
+   "kind": "vcv",
+   "lvl": 2,
+   "items": [
+    {
+     "s": "aba",
+     "say": "ahbah",
+     "ipa": "ɑbɑ"
+    },
+    {
+     "s": "apa",
+     "say": "ahpah",
+     "ipa": "ɑpɑ"
+    },
+    {
+     "s": "ada",
+     "say": "ahdah",
+     "ipa": "ɑdɑ"
+    },
+    {
+     "s": "ata",
+     "say": "ahtah",
+     "ipa": "ɑtɑ"
+    },
+    {
+     "s": "aga",
+     "say": "ahgah",
+     "ipa": "ɑgɑ"
+    },
+    {
+     "s": "aka",
+     "say": "ahkah",
+     "ipa": "ɑkɑ"
+    }
+   ]
+  },
+  {
+   "id": "en.log.vcv-nasal",
+   "label": "VCV consonants: nasals (ama/ana)",
+   "kind": "vcv",
+   "lvl": 1,
+   "items": [
+    {
+     "s": "ama",
+     "say": "ahmah",
+     "ipa": "ɑmɑ"
+    },
+    {
+     "s": "ana",
+     "say": "ahnah",
+     "ipa": "ɑnɑ"
+    }
+   ]
+  },
+  {
+   "id": "en.log.vcv-fric",
+   "label": "VCV consonants: fricatives (afa/ava/asa/aza/asha/atha)",
+   "kind": "vcv",
+   "lvl": 3,
+   "items": [
+    {
+     "s": "afa",
+     "say": "ahfah",
+     "ipa": "ɑfɑ"
+    },
+    {
+     "s": "ava",
+     "say": "ahvah",
+     "ipa": "ɑvɑ"
+    },
+    {
+     "s": "asa",
+     "say": "ahsah",
+     "ipa": "ɑsɑ"
+    },
+    {
+     "s": "aza",
+     "say": "ahzah",
+     "ipa": "ɑzɑ"
+    },
+    {
+     "s": "asha",
+     "say": "ahshah",
+     "ipa": "ɑʃɑ"
+    },
+    {
+     "s": "atha",
+     "say": "ahthah",
+     "ipa": "ɑθɑ"
+    }
+   ]
+  },
+  {
+   "id": "en.log.vcv-mixed",
+   "label": "VCV consonants: mixed 10",
+   "kind": "vcv",
+   "lvl": 3,
+   "items": [
+    {
+     "s": "aba",
+     "say": "ahbah",
+     "ipa": "ɑbɑ"
+    },
+    {
+     "s": "apa",
+     "say": "ahpah",
+     "ipa": "ɑpɑ"
+    },
+    {
+     "s": "ada",
+     "say": "ahdah",
+     "ipa": "ɑdɑ"
+    },
+    {
+     "s": "ata",
+     "say": "ahtah",
+     "ipa": "ɑtɑ"
+    },
+    {
+     "s": "aka",
+     "say": "ahkah",
+     "ipa": "ɑkɑ"
+    },
+    {
+     "s": "ama",
+     "say": "ahmah",
+     "ipa": "ɑmɑ"
+    },
+    {
+     "s": "ana",
+     "say": "ahnah",
+     "ipa": "ɑnɑ"
+    },
+    {
+     "s": "asa",
+     "say": "ahsah",
+     "ipa": "ɑsɑ"
+    },
+    {
+     "s": "aza",
+     "say": "ahzah",
+     "ipa": "ɑzɑ"
+    },
+    {
+     "s": "asha",
+     "say": "ahshah",
+     "ipa": "ɑʃɑ"
+    }
+   ]
+  },
+  {
+   "id": "en.log.hvd-4",
+   "label": "hVd vowels: heed/hid/head/had",
+   "kind": "cvc",
+   "lvl": 1,
+   "items": [
+    {
+     "s": "heed",
+     "say": "heed",
+     "ipa": "hiːd"
+    },
+    {
+     "s": "hid",
+     "say": "hid",
+     "ipa": "hɪd"
+    },
+    {
+     "s": "head",
+     "say": "head",
+     "ipa": "hɛd"
+    },
+    {
+     "s": "had",
+     "say": "had",
+     "ipa": "hæd"
+    }
+   ]
+  },
+  {
+   "id": "en.log.hvd-back",
+   "label": "hVd vowels: hud/hod/hood/who'd",
+   "kind": "cvc",
+   "lvl": 2,
+   "items": [
+    {
+     "s": "hud",
+     "say": "hud",
+     "ipa": "hʌd"
+    },
+    {
+     "s": "hod",
+     "say": "hod",
+     "ipa": "hɑd"
+    },
+    {
+     "s": "hood",
+     "say": "hood",
+     "ipa": "hʊd"
+    },
+    {
+     "s": "who'd",
+     "say": "who'd",
+     "ipa": "huːd"
+    }
+   ]
+  },
+  {
+   "id": "en.log.hvd-8",
+   "label": "hVd vowels: 8 vowels",
+   "kind": "cvc",
+   "lvl": 3,
+   "items": [
+    {
+     "s": "heed",
+     "say": "heed",
+     "ipa": "hiːd"
+    },
+    {
+     "s": "hid",
+     "say": "hid",
+     "ipa": "hɪd"
+    },
+    {
+     "s": "head",
+     "say": "head",
+     "ipa": "hɛd"
+    },
+    {
+     "s": "had",
+     "say": "had",
+     "ipa": "hæd"
+    },
+    {
+     "s": "hud",
+     "say": "hud",
+     "ipa": "hʌd"
+    },
+    {
+     "s": "hod",
+     "say": "hod",
+     "ipa": "hɑd"
+    },
+    {
+     "s": "hood",
+     "say": "hood",
+     "ipa": "hʊd"
+    },
+    {
+     "s": "who'd",
+     "say": "who'd",
+     "ipa": "huːd"
+    }
+   ]
+  },
+  {
+   "id": "en.log.vcv-manner",
+   "label": "VCV consonants: manner (aba/ama/asa/ala) — largest contrast",
+   "kind": "vcv",
+   "lvl": 1,
+   "items": [
+    {
+     "s": "aba",
+     "say": "ahbah",
+     "ipa": "ɑbɑ"
+    },
+    {
+     "s": "ama",
+     "say": "ahmah",
+     "ipa": "ɑmɑ"
+    },
+    {
+     "s": "asa",
+     "say": "ahsah",
+     "ipa": "ɑsɑ"
+    },
+    {
+     "s": "ala",
+     "say": "ahlah",
+     "ipa": "ɑlɑ"
+    }
+   ]
+  }
+ ],
+ "logatomNote": "VCV/CVC logatoms (nonsense, for consonant and vowel discrimination). hVd items follow the classic phonetic vowel frame; some are real words."
+}

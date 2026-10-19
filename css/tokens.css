@@ -1,0 +1,127 @@
+/* Tasarım tokenları. Tüm temalar ücretsizdir ve aynı işlevlere sahiptir.
+   Renk çiftleri WCAG 2.2 AA (metin için ≥ 4.5:1) hedefiyle seçildi; bkz. docs/design/design-system.md */
+
+:root {
+  --font: system-ui, -apple-system, "Segoe UI", Roboto, "Noto Sans", "Helvetica Neue", Arial, sans-serif;
+  --text-scale: 1;
+  --fs-0: calc(0.875rem * var(--text-scale));
+  --fs-1: calc(1rem * var(--text-scale));
+  --fs-2: calc(1.125rem * var(--text-scale));
+  --fs-3: calc(1.375rem * var(--text-scale));
+  --fs-4: calc(1.75rem * var(--text-scale));
+  --fs-5: calc(2.25rem * var(--text-scale));
+
+  --space-1: 4px; --space-2: 8px; --space-3: 12px; --space-4: 16px;
+  --space-5: 24px; --space-6: 32px; --space-7: 48px;
+
+  --radius-s: 8px;
+  --radius-m: 14px;
+  --radius-l: 22px;
+  --border-w: 1px;
+  --target: 48px;
+  --dur: 180ms;
+}
+
+:root, [data-theme="light"] {
+  --bg: #f3f6fa;
+  --surface: #ffffff;
+  --surface-2: #e8eef5;
+  --ink: #1b2a41;
+  --muted: #4f5d73;
+  --border: #cfd9e5;
+  --primary: #00796f;
+  --primary-ink: #ffffff;
+  --primary-soft: #dcf0ec;
+  --accent: #9a5800;
+  --accent-soft: #fbecd6;
+  --success: #1e7b3e;
+  --success-soft: #e1f3e6;
+  --danger: #b3261e;
+  --danger-soft: #fbe5e3;
+  --warn-soft: #fff4d6;
+  --warn-ink: #6b4a00;
+  --focus: #1f5fd6;
+  --shadow: 0 1px 2px rgba(27, 42, 65, .06), 0 8px 24px -12px rgba(27, 42, 65, .18);
+  color-scheme: light;
+}
+
+[data-theme="dark"] {
+  --bg: #0e1622;
+  --surface: #162131;
+  --surface-2: #1e2b3e;
+  --ink: #e6edf6;
+  --muted: #a7b5c9;
+  --border: #2d3c52;
+  --primary: #4fd1c1;
+  --primary-ink: #052421;
+  --primary-soft: #133a3d;
+  --accent: #f0b35a;
+  --accent-soft: #3a2a12;
+  --success: #74d99a;
+  --success-soft: #143222;
+  --danger: #ff8a80;
+  --danger-soft: #3d1c1a;
+  --warn-soft: #382c0f;
+  --warn-ink: #ffd98a;
+  --focus: #8ab4ff;
+  --shadow: 0 1px 2px rgba(0, 0, 0, .3), 0 10px 28px -14px rgba(0, 0, 0, .6);
+  color-scheme: dark;
+}
+
+[data-theme="pastel"] {
+  --bg: #f6f2fa;
+  --surface: #fffefe;
+  --surface-2: #eee7f6;
+  --ink: #2a2440;
+  --muted: #5d5674;
+  --border: #ddd3ea;
+  --primary: #6a4dae;
+  --primary-ink: #ffffff;
+  --primary-soft: #ebe3fa;
+  --accent: #a3416f;
+  --accent-soft: #f8e3ee;
+  --success: #2b7553;
+  --success-soft: #e2f3ea;
+  --danger: #b1343f;
+  --danger-soft: #fae4e6;
+  --warn-soft: #fbf1d8;
+  --warn-ink: #6a4a05;
+  --focus: #3b5bdb;
+  --shadow: 0 1px 2px rgba(42, 36, 64, .05), 0 10px 26px -14px rgba(42, 36, 64, .22);
+  color-scheme: light;
+}
+
+[data-theme="contrast"] {
+  --bg: #000000;
+  --surface: #000000;
+  --surface-2: #121212;
+  --ink: #ffffff;
+  --muted: #f0f0f0;
+  --border: #ffffff;
+  --primary: #ffe14d;
+  --primary-ink: #000000;
+  --primary-soft: #2a2400;
+  --accent: #ffe14d;
+  --accent-soft: #2a2400;
+  --success: #7dff8a;
+  --success-soft: #002a08;
+  --danger: #ff8a8a;
+  --danger-soft: #2e0000;
+  --warn-soft: #2a2400;
+  --warn-ink: #ffe14d;
+  --focus: #00e5ff;
+  --border-w: 2px;
+  --shadow: none;
+  color-scheme: dark;
+}
+
+/* Çocuk profili: daha yuvarlak formlar, daha büyük dokunma alanı, sıcak vurgu. */
+[data-audience="child"] {
+  --radius-m: 18px;
+  --radius-l: 28px;
+  --target: 56px;
+  --listen: var(--accent);
+  --listen-soft: var(--accent-soft);
+}
+:root { --listen: var(--primary); --listen-soft: var(--primary-soft); }
+[data-audience="child"][data-theme] { --listen: var(--accent); --listen-soft: var(--accent-soft); }

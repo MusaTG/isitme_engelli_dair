@@ -1,0 +1,1098 @@
+{
+ "paragraphs": [
+  {
+   "id": "tr.para.parcel",
+   "lvl": 1,
+   "aud": "adult",
+   "size": 2,
+   "title": "Kargo bildirimi",
+   "slots": {
+    "p": "names",
+    "wd": "weekdays",
+    "tm": "@time:9:19",
+    "pl": "places"
+   },
+   "sentences": [
+    [
+     "Sayın {p}, kargonuz {wd} {tm.at} teslim edilecek.",
+     "Merhaba {p}, paketiniz {wd} {tm.at} adresinize getirilecek."
+    ],
+    [
+     "Evde olmazsanız paket {pl.loc} bırakılacak.",
+     "Adreste kimse olmazsa paketinizi {pl.loc} teslim alabilirsiniz."
+    ]
+   ],
+   "questions": [
+    {
+     "type": "when",
+     "q": "Kargo hangi gün gelecek?",
+     "ask": "wd"
+    },
+    {
+     "type": "when",
+     "q": "Saat kaçta gelecek?",
+     "ask": "tm",
+     "show": "show"
+    },
+    {
+     "type": "where",
+     "q": "Evde olmazsa paket nerede bırakılacak?",
+     "ask": "pl",
+     "form": "loc"
+    }
+   ]
+  },
+  {
+   "id": "tr.para.bus-delay",
+   "lvl": 1,
+   "aud": "adult",
+   "size": 3,
+   "title": "Otobüs gecikmesi",
+   "slots": {
+    "ln": "lines",
+    "mn": "mins"
+   },
+   "sentences": [
+    [
+     "Bugün {ln} numaralı otobüs hattında yol çalışması var.",
+     "{ln} numaralı hatta bugün yol çalışması yapılıyor."
+    ],
+    [
+     "Otobüsler yaklaşık {mn} dakika gecikmeli geliyor.",
+     "Seferlerde yaklaşık {mn} dakikalık gecikme bekleniyor."
+    ],
+    [
+     "Yolculardan anlayış bekleniyor.",
+     "Anlayışınız için teşekkür ederiz."
+    ]
+   ],
+   "questions": [
+    {
+     "type": "what",
+     "q": "Hangi hatta gecikme var?",
+     "ask": "ln",
+     "show": "show"
+    },
+    {
+     "type": "howmany",
+     "q": "Otobüsler kaç dakika gecikiyor?",
+     "ask": "mn",
+     "show": "show"
+    },
+    {
+     "type": "why",
+     "q": "Gecikmenin nedeni ne?",
+     "opts": [
+      "Yol çalışması",
+      "Kötü hava",
+      "Grev",
+      "Arıza"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tr.para.pet",
+   "lvl": 1,
+   "aud": "child",
+   "size": 2,
+   "title": "Küçük dostumuz",
+   "slots": {
+    "c": "petnames",
+    "an": "pets",
+    "fd": "kidfoods"
+   },
+   "sentences": [
+    [
+     "{c} adında küçük bir {an} vardı.",
+     "Bir zamanlar {c} isimli küçük bir {an} vardı."
+    ],
+    [
+     "{c} en çok {fd} yemeyi severdi.",
+     "{c} her sabah {fd} yemek isterdi."
+    ]
+   ],
+   "questions": [
+    {
+     "type": "what",
+     "q": "Hikâyedeki hayvan hangisi?",
+     "ask": "an"
+    },
+    {
+     "type": "who",
+     "q": "Hayvanın adı neydi?",
+     "ask": "c"
+    },
+    {
+     "type": "detail",
+     "q": "{c} ne yemeyi severdi?",
+     "ask": "fd"
+    }
+   ]
+  },
+  {
+   "id": "tr.para.park",
+   "lvl": 1,
+   "aud": "child",
+   "size": 3,
+   "title": "Parkta bir gün",
+   "slots": {
+    "p": "names",
+    "k": "kin3",
+    "toy": "toys"
+   },
+   "sentences": [
+    [
+     "{p} cumartesi günü {k.ins} parka gitti.",
+     "Cumartesi günü {p}, {k.ins} birlikte parka gitti."
+    ],
+    [
+     "Parkta {toy.ins} oynadı.",
+     "{p} parkta uzun süre {toy.ins} oynadı."
+    ],
+    [
+     "Akşam olunca yorgun ama mutlu bir şekilde eve döndü.",
+     "Hava kararınca yorgun ama mutlu bir şekilde eve döndüler."
+    ]
+   ],
+   "questions": [
+    {
+     "type": "who",
+     "q": "{p} parka kiminle gitti?",
+     "ask": "k",
+     "form": "ins"
+    },
+    {
+     "type": "what",
+     "q": "{p} parkta neyle oynadı?",
+     "ask": "toy",
+     "form": "ins"
+    },
+    {
+     "type": "when",
+     "q": "Parka hangi gün gittiler?",
+     "opts": [
+      "Cumartesi",
+      "Pazartesi",
+      "Çarşamba",
+      "Cuma"
+     ]
+    },
+    {
+     "type": "feeling",
+     "q": "Eve dönerken {p} nasıldı?",
+     "opts": [
+      "Yorgun ama mutlu",
+      "Çok üzgün",
+      "Kızgın",
+      "Korkmuş"
+     ]
+    },
+    {
+     "type": "order",
+     "q": "Olaylar hangi sırayla oldu?",
+     "events": [
+      "Parka gitti",
+      "Parkta oynadı",
+      "Eve döndü"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tr.para.lost-toy",
+   "lvl": 2,
+   "aud": "child",
+   "size": 5,
+   "title": "Kayıp oyuncak",
+   "slots": {
+    "p": "names",
+    "toy": "toys",
+    "k": "kin3",
+    "r": "relations"
+   },
+   "sentences": [
+    [
+     "{p} en sevdiği {toy.acc} bulamıyordu.",
+     "{p}, en sevdiği {toy.acc} hiçbir yerde bulamıyordu."
+    ],
+    [
+     "Bütün odayı aradı ama oyuncak yoktu.",
+     "Odasının her yerine baktı ama oyuncağı göremedi."
+    ],
+    [
+     "Sonra {k} ona yardım etti.",
+     "O sırada {k} gelip yardım etti."
+    ],
+    [
+     "Oyuncak {r.abl} çıktı.",
+     "Sonunda oyuncağı {r} buldular."
+    ],
+    [
+     "{p} çok sevindi ve {k.dat} teşekkür etti.",
+     "{p} çok mutlu oldu ve {k.dat} sarıldı."
+    ]
+   ],
+   "questions": [
+    {
+     "type": "what",
+     "q": "{p} neyi bulamıyordu?",
+     "ask": "toy"
+    },
+    {
+     "type": "who",
+     "q": "Kim yardım etti?",
+     "ask": "k"
+    },
+    {
+     "type": "where",
+     "q": "Oyuncak nerede bulundu?",
+     "ask": "r"
+    },
+    {
+     "type": "feeling",
+     "q": "Oyuncak bulununca {p} nasıl hissetti?",
+     "opts": [
+      "Çok sevindi",
+      "Çok kızdı",
+      "Korktu",
+      "Uykusu geldi"
+     ]
+    },
+    {
+     "type": "order",
+     "q": "Olaylar hangi sırayla oldu?",
+     "events": [
+      "Oyuncağı bulamadı",
+      "Yardım geldi",
+      "Oyuncak bulundu",
+      "Teşekkür etti"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tr.para.zoo",
+   "lvl": 2,
+   "aud": "child",
+   "size": 4,
+   "title": "Hayvanat bahçesi gezisi",
+   "slots": {
+    "p": "names",
+    "wd": "weekdays",
+    "a1": "zoo_animals",
+    "a2": "zoo_animals",
+    "n": "numbers",
+    "fd": "kidfoods"
+   },
+   "sentences": [
+    [
+     "{p} ve sınıf arkadaşları {wd} hayvanat bahçesine gitti.",
+     "{wd} {p} ve sınıfı hayvanat bahçesine bir gezi yaptı."
+    ],
+    [
+     "Önce {a1.acc} gördüler.",
+     "İlk olarak {a1.acc} izlediler."
+    ],
+    [
+     "Sonra {a2.gen} {n} yavrusunu izlediler.",
+     "Daha sonra {a2.gen} {n} yavrusunu gördüler."
+    ],
+    [
+     "Gezinin sonunda öğretmenleri herkese {fd} ikram etti.",
+     "Dönüşte öğretmenleri çocuklara {fd} dağıttı."
+    ]
+   ],
+   "questions": [
+    {
+     "type": "what",
+     "q": "İlk olarak hangi hayvanı gördüler?",
+     "ask": "a1"
+    },
+    {
+     "type": "howmany",
+     "q": "{a2.gen} kaç yavrusu vardı?",
+     "ask": "n",
+     "show": "show"
+    },
+    {
+     "type": "when",
+     "q": "Gezi hangi gün yapıldı?",
+     "ask": "wd"
+    },
+    {
+     "type": "detail",
+     "q": "Öğretmen ne ikram etti?",
+     "ask": "fd"
+    },
+    {
+     "type": "notsaid",
+     "q": "Hangisi hikâyede söylenmedi?",
+     "said": [
+      "a1",
+      "a2"
+     ],
+     "pool": "zoo_animals"
+    }
+   ]
+  },
+  {
+   "id": "tr.para.rainy",
+   "lvl": 2,
+   "aud": "child",
+   "size": 4,
+   "title": "Yağmurlu gün",
+   "slots": {
+    "p": "names",
+    "x": "indoor"
+   },
+   "sentences": [
+    [
+     "Dışarıda şiddetli yağmur yağıyordu.",
+     "Sabahtan beri dışarıda yağmur yağıyordu."
+    ],
+    [
+     "Bu yüzden {p} parka gidemedi.",
+     "Bu nedenle {p} dışarı çıkıp oynayamadı."
+    ],
+    [
+     "Biraz üzüldü ama evde {x}.",
+     "Önce biraz üzüldü, sonra evde {x}."
+    ],
+    [
+     "Akşam yağmur dindiğinde gökyüzünde bir gökkuşağı gördü.",
+     "Akşamüstü yağmur durunca pencereden bir gökkuşağı gördü."
+    ]
+   ],
+   "questions": [
+    {
+     "type": "why",
+     "q": "{p} neden parka gidemedi?",
+     "opts": [
+      "Yağmur yağıyordu",
+      "Hasta olduğu için",
+      "Park kapalı olduğu için",
+      "Ödevi olduğu için"
+     ]
+    },
+    {
+     "type": "what",
+     "q": "{p} evde ne yaptı?",
+     "ask": "x",
+     "form": "short"
+    },
+    {
+     "type": "what",
+     "q": "Akşam gökyüzünde ne gördü?",
+     "opts": [
+      "Gökkuşağı",
+      "Uçak",
+      "Dolunay",
+      "Uçurtma"
+     ]
+    },
+    {
+     "type": "order",
+     "q": "Olaylar hangi sırayla oldu?",
+     "events": [
+      "Yağmur yağdı",
+      "Evde oyun oynadı",
+      "Gökkuşağı gördü"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tr.para.cake",
+   "lvl": 3,
+   "aud": "child",
+   "size": 6,
+   "title": "Nineye pasta",
+   "slots": {
+    "p": "names",
+    "k": "kin3_helpers",
+    "fr": "fruits",
+    "n": "numbers",
+    "tm": "@time"
+   },
+   "sentences": [
+    [
+     "Ninesinin doğum günü yaklaşıyordu.",
+     "Yarın ninesinin doğum günüydü."
+    ],
+    [
+     "{p} ve {k} ona bir pasta yapmaya karar verdi.",
+     "{p}, {k.ins} birlikte ona pasta yapmak istedi."
+    ],
+    [
+     "Pasta için un, şeker ve {n} yumurta kullandılar.",
+     "Hamura un, şeker ve {n} yumurta kattılar."
+    ],
+    [
+     "Üstünü {fr} ile süslediler.",
+     "Pastanın üstüne bolca {fr} koydular."
+    ],
+    [
+     "Pastayı {tm.at} fırından çıkardılar.",
+     "Pasta {tm.at} hazır oldu."
+    ],
+    [
+     "Nine pastayı görünce gözleri doldu ve ikisine de sarıldı.",
+     "Nine pastayı görünce çok duygulandı ve onlara sarıldı."
+    ]
+   ],
+   "questions": [
+    {
+     "type": "why",
+     "q": "Pastayı neden yaptılar?",
+     "opts": [
+      "Ninenin doğum günü için",
+      "Okulda yarışma olduğu için",
+      "Misafir geleceği için",
+      "Bayram olduğu için"
+     ]
+    },
+    {
+     "type": "howmany",
+     "q": "Kaç yumurta kullandılar?",
+     "ask": "n",
+     "show": "show"
+    },
+    {
+     "type": "what",
+     "q": "Pastanın üstünde ne vardı?",
+     "ask": "fr"
+    },
+    {
+     "type": "when",
+     "q": "Pasta saat kaçta hazır oldu?",
+     "ask": "tm",
+     "show": "show"
+    },
+    {
+     "type": "who",
+     "q": "{p} pastayı kiminle yaptı?",
+     "ask": "k",
+     "form": "ins"
+    },
+    {
+     "type": "inference",
+     "q": "Nine pastayı görünce ne hissetti?",
+     "opts": [
+      "Çok duygulandı ve sevindi",
+      "Pastayı beğenmedi",
+      "Kızdı",
+      "Hiçbir şey hissetmedi"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tr.para.market",
+   "lvl": 2,
+   "aud": "adult",
+   "size": 4,
+   "title": "Market alışverişi",
+   "slots": {
+    "p": "names",
+    "b1": "buy",
+    "b2": "buy",
+    "b3": "buy",
+    "b4": "buy",
+    "m": "@money"
+   },
+   "sentences": [
+    [
+     "{p} akşam yemeği için markete gitti.",
+     "{p} akşam yemeğinden önce markete uğradı."
+    ],
+    [
+     "Listesinde {b1}, {b2} ve {b3} vardı.",
+     "Alışveriş listesinde {b1}, {b2} ve {b3} yazıyordu."
+    ],
+    [
+     "Kasada toplam {m} ödedi.",
+     "Kasada {m} tuttu."
+    ],
+    [
+     "Eve dönerken {b4} almayı unuttuğunu fark etti.",
+     "Eve yaklaşırken {b4} almayı unuttuğunu hatırladı."
+    ]
+   ],
+   "questions": [
+    {
+     "type": "notsaid",
+     "q": "Hangisi listede yoktu?",
+     "said": [
+      "b1",
+      "b2",
+      "b3"
+     ],
+     "pool": "buy"
+    },
+    {
+     "type": "detail",
+     "q": "{p} neyi almayı unuttu?",
+     "ask": "b4"
+    },
+    {
+     "type": "howmany",
+     "q": "Kasada ne kadar ödedi?",
+     "ask": "m",
+     "show": "show"
+    },
+    {
+     "type": "why",
+     "q": "{p} neden markete gitti?",
+     "opts": [
+      "Akşam yemeği için",
+      "Arkadaşına hediye almak için",
+      "İşe gitmek için",
+      "Fatura ödemek için"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tr.para.appointment",
+   "lvl": 2,
+   "aud": "adult",
+   "size": 4,
+   "title": "Randevu bilgisi",
+   "slots": {
+    "p": "names",
+    "wd": "weekdays",
+    "tm": "@time",
+    "dr": "doctors",
+    "cl": "clinics",
+    "fl": "ordinals"
+   },
+   "sentences": [
+    [
+     "{p}, {wd} {tm.at} {dr.abl} randevu aldı.",
+     "{p} için {wd} {tm.at} {dr} randevusu oluşturuldu."
+    ],
+    [
+     "Randevu {cl.loc}, {fl} kattaki muayene odasında.",
+     "Muayene {cl.loc} yapılacak; oda {fl} katta."
+    ],
+    [
+     "Görevli, kimliğini yanında getirmesini ve on beş dakika önce gelmesini söyledi.",
+     "Telefondaki görevli, kimlik kartını unutmamasını ve on beş dakika erken gelmesini istedi."
+    ],
+    [
+     "Randevuya gelemeyecekse bir gün önceden haber vermesi gerekiyor.",
+     "Gelemeyecek olursa en az bir gün önce iptal etmesi gerekiyor."
+    ]
+   ],
+   "questions": [
+    {
+     "type": "when",
+     "q": "Randevu hangi gün?",
+     "ask": "wd"
+    },
+    {
+     "type": "when",
+     "q": "Randevu saat kaçta?",
+     "ask": "tm",
+     "show": "show"
+    },
+    {
+     "type": "what",
+     "q": "Randevu hangi uzmandan alındı?",
+     "ask": "dr"
+    },
+    {
+     "type": "where",
+     "q": "Muayene odası kaçıncı katta?",
+     "ask": "fl",
+     "show": "show"
+    },
+    {
+     "type": "detail",
+     "q": "Yanında ne getirmesi istendi?",
+     "opts": [
+      "Kimliğini",
+      "Fotoğrafını",
+      "Pasaportunu",
+      "Eski reçetelerini"
+     ]
+    },
+    {
+     "type": "detail",
+     "q": "Ne kadar erken gelmesi istendi?",
+     "opts": [
+      "On beş dakika",
+      "Bir saat",
+      "Yarım saat",
+      "Beş dakika"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tr.para.meeting",
+   "lvl": 3,
+   "aud": "adult",
+   "size": 5,
+   "title": "Toplantı notları",
+   "slots": {
+    "t": "topics",
+    "a": "names",
+    "b": "names",
+    "c": "names",
+    "wd": "weekdays"
+   },
+   "sentences": [
+    [
+     "Bugünkü toplantıda {t} konuşuldu.",
+     "Sabahki toplantının ana konusu {t} idi."
+    ],
+    [
+     "{a} tasarımdan, {b} bütçeden sorumlu olacak.",
+     "Görev dağılımına göre tasarımı {a}, bütçeyi {b} hazırlayacak."
+    ],
+    [
+     "İlk taslağın {wd} hazır olması gerekiyor.",
+     "İlk taslak en geç {wd} teslim edilecek."
+    ],
+    [
+     "{c} bugün izinli olduğu için toplantıya katılamadı.",
+     "{c} izinde olduğu için toplantıda yoktu."
+    ],
+    [
+     "Toplantı notlarını {c.dat} {a} gönderecek.",
+     "{a}, toplantı notlarını {c.dat} e-postayla iletecek."
+    ]
+   ],
+   "questions": [
+    {
+     "type": "main",
+     "q": "Toplantının ana konusu neydi?",
+     "ask": "t"
+    },
+    {
+     "type": "who",
+     "q": "Bütçeden kim sorumlu?",
+     "ask": "b"
+    },
+    {
+     "type": "who",
+     "q": "Tasarımdan kim sorumlu?",
+     "ask": "a"
+    },
+    {
+     "type": "when",
+     "q": "İlk taslak ne zaman hazır olmalı?",
+     "ask": "wd"
+    },
+    {
+     "type": "why",
+     "q": "{c} neden toplantıda yoktu?",
+     "opts": [
+      "İzinli olduğu için",
+      "Hasta olduğu için",
+      "Başka bir toplantıda olduğu için",
+      "Trafikte kaldığı için"
+     ]
+    },
+    {
+     "type": "relation",
+     "q": "Notları kim kime gönderecek?",
+     "opts": [
+      "{a}, {c.dat}",
+      "{c}, {a.dat}",
+      "{b}, {c.dat}",
+      "{a}, {b.dat}"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tr.para.train",
+   "lvl": 2,
+   "aud": "adult",
+   "size": 4,
+   "title": "Tren yolculuğu",
+   "slots": {
+    "p": "names",
+    "c1": "cities",
+    "c2": "cities",
+    "tm": "@time",
+    "h": "hours",
+    "m": "@money"
+   },
+   "sentences": [
+    [
+     "{p} hafta sonu {c1.abl} {c2.dat} trenle gidecek.",
+     "{p}, cumartesi günü {c1.abl} {c2.dat} trenle yolculuk yapacak."
+    ],
+    [
+     "Tren {tm.at} kalkıyor.",
+     "Trenin kalkış saati {tm}."
+    ],
+    [
+     "Yolculuk yaklaşık {h} saat sürüyor.",
+     "Yol yaklaşık {h} saat sürecek."
+    ],
+    [
+     "Bileti internetten {m} karşılığında aldı.",
+     "Bilet için {m} ödedi."
+    ]
+   ],
+   "questions": [
+    {
+     "type": "where",
+     "q": "{p} nereye gidecek?",
+     "ask": "c2",
+     "form": "dat"
+    },
+    {
+     "type": "where",
+     "q": "{p} nereden yola çıkacak?",
+     "ask": "c1",
+     "form": "abl"
+    },
+    {
+     "type": "when",
+     "q": "Tren saat kaçta kalkıyor?",
+     "ask": "tm",
+     "show": "show"
+    },
+    {
+     "type": "howmany",
+     "q": "Yolculuk kaç saat sürüyor?",
+     "ask": "h",
+     "show": "show"
+    },
+    {
+     "type": "howmany",
+     "q": "Bilet ne kadar?",
+     "ask": "m",
+     "show": "show"
+    }
+   ]
+  },
+  {
+   "id": "tr.para.event",
+   "lvl": 3,
+   "aud": "both",
+   "size": 5,
+   "title": "Mahalle etkinliği",
+   "slots": {
+    "wd": "weekdays",
+    "tm": "@time",
+    "pk": "parks",
+    "p": "names"
+   },
+   "sentences": [
+    [
+     "Mahallemizde {wd} bir ağaç dikme etkinliği yapılacak.",
+     "{wd} mahallemizde ağaç dikme günü düzenleniyor."
+    ],
+    [
+     "Etkinlik {tm.at} {pk.loc} başlayacak.",
+     "Buluşma yeri {pk}; başlangıç {tm}."
+    ],
+    [
+     "Katılan herkese fidan ve eldiven verilecek.",
+     "Gönüllülere eldiven ve fidan dağıtılacak."
+    ],
+    [
+     "Etkinliği düzenleyen {p}, rahat ayakkabı giymeyi öneriyor.",
+     "Düzenleyici {p}, herkesin rahat ayakkabı giymesini rica ediyor."
+    ],
+    [
+     "Yağmur yağarsa etkinlik bir hafta ertelenecek.",
+     "Hava yağmurlu olursa etkinlik bir sonraki haftaya kalacak."
+    ]
+   ],
+   "questions": [
+    {
+     "type": "purpose",
+     "q": "Etkinliğin amacı ne?",
+     "opts": [
+      "Ağaç dikmek",
+      "Çöp toplamak",
+      "Konser düzenlemek",
+      "Bisiklet yarışı yapmak"
+     ]
+    },
+    {
+     "type": "when",
+     "q": "Etkinlik hangi gün?",
+     "ask": "wd"
+    },
+    {
+     "type": "where",
+     "q": "Etkinlik nerede başlayacak?",
+     "ask": "pk",
+     "form": "loc"
+    },
+    {
+     "type": "detail",
+     "q": "Katılanlara ne verilecek?",
+     "opts": [
+      "Fidan ve eldiven",
+      "Şapka ve su",
+      "Tişört ve çanta",
+      "Kitap ve kalem"
+     ]
+    },
+    {
+     "type": "inference",
+     "q": "Yağmur yağarsa ne olur?",
+     "opts": [
+      "Etkinlik bir hafta ertelenir",
+      "Etkinlik iptal edilir ve yapılmaz",
+      "Etkinlik kapalı salonda yapılır",
+      "Etkinlik bir saat erken başlar"
+     ]
+    },
+    {
+     "type": "who",
+     "q": "Etkinliği kim düzenliyor?",
+     "ask": "p"
+    }
+   ]
+  },
+  {
+   "id": "tr.para.forecast",
+   "lvl": 2,
+   "aud": "adult",
+   "size": 4,
+   "title": "Hava durumu bülteni",
+   "slots": {
+    "city": "cities",
+    "wx": "weather",
+    "tp": "temps"
+   },
+   "sentences": [
+    [
+     "Yarın {city.loc} hava {wx} olacak.",
+     "Meteorolojiye göre yarın {city.loc} hava {wx}."
+    ],
+    [
+     "Gündüz sıcaklığı {tp} derece civarında.",
+     "En yüksek sıcaklık {tp} derece olarak bekleniyor."
+    ],
+    [
+     "Akşam saatlerinde rüzgâr kuvvetlenecek.",
+     "Akşama doğru rüzgârın hızlanması bekleniyor."
+    ],
+    [
+     "Sürücülerin dikkatli olması öneriliyor.",
+     "Yetkililer sürücülerin dikkatli olmasını istiyor."
+    ]
+   ],
+   "questions": [
+    {
+     "type": "where",
+     "q": "Hangi şehrin hava durumu verildi?",
+     "ask": "city"
+    },
+    {
+     "type": "how",
+     "q": "Hava nasıl olacak?",
+     "ask": "wx"
+    },
+    {
+     "type": "howmany",
+     "q": "Sıcaklık kaç derece?",
+     "ask": "tp",
+     "show": "show"
+    },
+    {
+     "type": "when",
+     "q": "Rüzgâr ne zaman kuvvetlenecek?",
+     "opts": [
+      "Akşam saatlerinde",
+      "Sabah erkenden",
+      "Öğle saatlerinde",
+      "Gece yarısından sonra"
+     ]
+    },
+    {
+     "type": "purpose",
+     "q": "Kimlerin dikkatli olması öneriliyor?",
+     "opts": [
+      "Sürücülerin",
+      "Öğrencilerin",
+      "Balıkçıların",
+      "Çiftçilerin"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tr.para.wallet",
+   "lvl": 3,
+   "aud": "adult",
+   "size": 7,
+   "title": "Kayıp cüzdan",
+   "slots": {
+    "p": "names",
+    "lp": "lostplaces",
+    "q": "names",
+    "tm": "@time",
+    "wd": "weekdays"
+   },
+   "sentences": [
+    [
+     "{p} {wd} bir arkadaşıyla buluşmak için şehir merkezine gitti.",
+     "{wd} {p}, bir arkadaşıyla görüşmek için şehir merkezine indi."
+    ],
+    [
+     "Bir süre {lp.loc} oturup sohbet ettiler.",
+     "Önce bir süre {lp.loc} vakit geçirdiler."
+    ],
+    [
+     "Eve döndüğünde cüzdanının yanında olmadığını fark etti.",
+     "Eve geldiğinde cüzdanını bulamadı."
+    ],
+    [
+     "Önce çok endişelendi, çünkü cüzdanda kimliği ve banka kartı vardı.",
+     "Kimliği ve banka kartı cüzdanda olduğu için çok telaşlandı."
+    ],
+    [
+     "Akşam {tm.at} telefonu çaldı.",
+     "Saat {tm} olduğunda telefonu çaldı."
+    ],
+    [
+     "Arayan kişi {q} adında bir görevliydi ve cüzdanı bulduğunu söyledi.",
+     "Telefondaki kişi kendini {q} olarak tanıttı ve cüzdanın kendilerinde olduğunu söyledi."
+    ],
+    [
+     "{p} ertesi sabah gidip cüzdanını teslim aldı.",
+     "Ertesi sabah {p} cüzdanını almaya gitti."
+    ]
+   ],
+   "questions": [
+    {
+     "type": "where",
+     "q": "Cüzdan büyük olasılıkla nerede unutuldu?",
+     "ask": "lp"
+    },
+    {
+     "type": "who",
+     "q": "Telefonla arayan görevlinin adı neydi?",
+     "ask": "q"
+    },
+    {
+     "type": "when",
+     "q": "Telefon saat kaçta çaldı?",
+     "ask": "tm",
+     "show": "show"
+    },
+    {
+     "type": "why",
+     "q": "{p} neden çok endişelendi?",
+     "opts": [
+      "Cüzdanda kimliği ve kartı vardı",
+      "Cüzdan çok pahalıydı",
+      "Arkadaşı kızmıştı",
+      "Otobüsü kaçırmıştı"
+     ]
+    },
+    {
+     "type": "order",
+     "q": "Olaylar hangi sırayla oldu?",
+     "events": [
+      "Şehir merkezine gitti",
+      "Cüzdanın kaybolduğunu fark etti",
+      "Telefon geldi",
+      "Cüzdanı teslim aldı"
+     ]
+    },
+    {
+     "type": "main",
+     "q": "Hikâyenin ana fikri hangisi?",
+     "opts": [
+      "Kaybolan bir cüzdan bulunup sahibine ulaştı",
+      "Bir arkadaş buluşması iptal edildi",
+      "Yeni bir banka kartı alındı",
+      "Şehir merkezinde trafik vardı"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tr.para.library",
+   "lvl": 3,
+   "aud": "adult",
+   "size": 6,
+   "title": "Kütüphane duyurusu",
+   "slots": {
+    "h1": "@time:8:10",
+    "h2": "@time:17:21",
+    "wd": "weekdays",
+    "n": "@number:2:6"
+   },
+   "sentences": [
+    [
+     "Değerli ziyaretçiler, kütüphanemizin çalışma saatleri değişti.",
+     "Kütüphanemizin yeni çalışma saatlerini duyurmak istiyoruz."
+    ],
+    [
+     "Kütüphane artık hafta içi {h1.at} açılıyor.",
+     "Hafta içi açılış saatimiz artık {h1}."
+    ],
+    [
+     "Kapanış saati ise {h2}.",
+     "Akşam kapanış saatimiz {h2}."
+    ],
+    [
+     "Ayrıca her hafta {wd} çocuklar için masal saati düzenleniyor.",
+     "Her hafta {wd} çocuklara yönelik masal saatimiz var."
+    ],
+    [
+     "Üyeler aynı anda en fazla {n} kitap ödünç alabilir.",
+     "Her üye bir seferde {n} kitaba kadar ödünç alabilir."
+    ],
+    [
+     "Kartını yenilemek isteyenler giriş katındaki danışma masasına başvurabilir.",
+     "Üyelik kartı yenileme işlemleri giriş kattaki danışmada yapılıyor."
+    ]
+   ],
+   "questions": [
+    {
+     "type": "purpose",
+     "q": "Duyurunun amacı ne?",
+     "opts": [
+      "Yeni çalışma saatlerini bildirmek",
+      "Kütüphanenin kapandığını bildirmek",
+      "Yeni kitap satışı yapmak",
+      "Personel aramak"
+     ]
+    },
+    {
+     "type": "when",
+     "q": "Kütüphane hafta içi saat kaçta açılıyor?",
+     "ask": "h1",
+     "show": "show"
+    },
+    {
+     "type": "when",
+     "q": "Masal saati hangi gün?",
+     "ask": "wd"
+    },
+    {
+     "type": "howmany",
+     "q": "Bir üye en fazla kaç kitap ödünç alabilir?",
+     "ask": "n",
+     "show": "show"
+    },
+    {
+     "type": "where",
+     "q": "Kart yenileme nerede yapılıyor?",
+     "opts": [
+      "Giriş katındaki danışmada",
+      "İkinci kattaki okuma salonunda",
+      "Kütüphanenin web sitesinde",
+      "Belediye binasında"
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1092 @@
+{
+ "paragraphs": [
+  {
+   "id": "en.para.parcel",
+   "lvl": 1,
+   "aud": "adult",
+   "size": 2,
+   "title": "Delivery notice",
+   "slots": {
+    "p": "names",
+    "wd": "weekdays",
+    "tm": "@time:9:19",
+    "pl": "places"
+   },
+   "sentences": [
+    [
+     "Dear {p}, your parcel will be delivered {wd} at {tm}.",
+     "Hello {p}, your package is due to arrive {wd} at {tm}."
+    ],
+    [
+     "If you are not at home, the parcel will be left {pl.at}.",
+     "If nobody is in, you can collect your parcel {pl.at}."
+    ]
+   ],
+   "questions": [
+    {
+     "type": "when",
+     "q": "Which day will the parcel arrive?",
+     "ask": "wd"
+    },
+    {
+     "type": "when",
+     "q": "What time?",
+     "ask": "tm",
+     "show": "show"
+    },
+    {
+     "type": "where",
+     "q": "Where will it be left if nobody is home?",
+     "ask": "pl",
+     "form": "at"
+    }
+   ]
+  },
+  {
+   "id": "en.para.bus-delay",
+   "lvl": 1,
+   "aud": "adult",
+   "size": 3,
+   "title": "Bus delays",
+   "slots": {
+    "ln": "lines",
+    "mn": "mins"
+   },
+   "sentences": [
+    [
+     "There are roadworks on the number {ln} bus route today.",
+     "Roadworks are affecting bus route {ln} today."
+    ],
+    [
+     "Buses are running about {mn} minutes late.",
+     "Expect delays of around {mn} minutes."
+    ],
+    [
+     "We apologise for any inconvenience.",
+     "Thank you for your patience."
+    ]
+   ],
+   "questions": [
+    {
+     "type": "what",
+     "q": "Which route is affected?",
+     "ask": "ln",
+     "show": "show"
+    },
+    {
+     "type": "howmany",
+     "q": "How many minutes late are the buses?",
+     "ask": "mn",
+     "show": "show"
+    },
+    {
+     "type": "why",
+     "q": "Why are there delays?",
+     "opts": [
+      "Roadworks",
+      "Bad weather",
+      "A strike",
+      "A breakdown"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "en.para.pet",
+   "lvl": 1,
+   "aud": "child",
+   "size": 2,
+   "title": "Our little friend",
+   "slots": {
+    "c": "petnames",
+    "an": "pets",
+    "fd": "kidfoods"
+   },
+   "sentences": [
+    [
+     "There was once a little {an} called {c}.",
+     "{c} was a little {an}."
+    ],
+    [
+     "{c} loved eating {fd} more than anything.",
+     "Every morning, {c} wanted to eat {fd}."
+    ]
+   ],
+   "questions": [
+    {
+     "type": "what",
+     "q": "What kind of animal was it?",
+     "ask": "an"
+    },
+    {
+     "type": "who",
+     "q": "What was its name?",
+     "ask": "c"
+    },
+    {
+     "type": "detail",
+     "q": "What did {c} love eating?",
+     "ask": "fd"
+    }
+   ]
+  },
+  {
+   "id": "en.para.park",
+   "lvl": 1,
+   "aud": "child",
+   "size": 3,
+   "title": "A day at the park",
+   "slots": {
+    "p": "names",
+    "k": "kin_np",
+    "toy": "toys"
+   },
+   "sentences": [
+    [
+     "On Saturday, {p} went to the park with {k}.",
+     "{p} and {k} went to the park on Saturday."
+    ],
+    [
+     "At the park, {p} played with a {toy}.",
+     "{p} played with a {toy} for a long time."
+    ],
+    [
+     "In the evening, {p} went home tired but happy.",
+     "When it got dark, they went home tired but happy."
+    ]
+   ],
+   "questions": [
+    {
+     "type": "who",
+     "q": "Who did {p} go to the park with?",
+     "ask": "k"
+    },
+    {
+     "type": "what",
+     "q": "What did {p} play with?",
+     "ask": "toy"
+    },
+    {
+     "type": "when",
+     "q": "Which day did they go?",
+     "opts": [
+      "Saturday",
+      "Monday",
+      "Wednesday",
+      "Friday"
+     ]
+    },
+    {
+     "type": "feeling",
+     "q": "How did {p} feel on the way home?",
+     "opts": [
+      "Tired but happy",
+      "Very sad",
+      "Angry",
+      "Scared"
+     ]
+    },
+    {
+     "type": "order",
+     "q": "In what order did things happen?",
+     "events": [
+      "Went to the park",
+      "Played",
+      "Went home"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "en.para.lost-toy",
+   "lvl": 2,
+   "aud": "child",
+   "size": 5,
+   "title": "The lost toy",
+   "slots": {
+    "p": "names",
+    "toy": "toys",
+    "k": "kin_np",
+    "r": "relations"
+   },
+   "sentences": [
+    [
+     "{p} couldn't find their favourite {toy}.",
+     "{p} looked everywhere for their favourite {toy}."
+    ],
+    [
+     "They searched the whole room, but it wasn't there.",
+     "They checked every corner of the room, but there was no sign of it."
+    ],
+    [
+     "Then {k} came to help.",
+     "After a while, {k} offered to help."
+    ],
+    [
+     "In the end, they found the {toy} {r}.",
+     "Finally, the {toy} turned up {r}."
+    ],
+    [
+     "{p} was delighted and said thank you to {k}.",
+     "{p} was so happy and gave {k} a big hug."
+    ]
+   ],
+   "questions": [
+    {
+     "type": "what",
+     "q": "What couldn't {p} find?",
+     "ask": "toy"
+    },
+    {
+     "type": "who",
+     "q": "Who helped?",
+     "ask": "k"
+    },
+    {
+     "type": "where",
+     "q": "Where was it found?",
+     "ask": "r"
+    },
+    {
+     "type": "feeling",
+     "q": "How did {p} feel at the end?",
+     "opts": [
+      "Delighted",
+      "Angry",
+      "Scared",
+      "Sleepy"
+     ]
+    },
+    {
+     "type": "order",
+     "q": "In what order did things happen?",
+     "events": [
+      "Could not find the toy",
+      "Got some help",
+      "Found the toy",
+      "Said thank you"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "en.para.zoo",
+   "lvl": 2,
+   "aud": "child",
+   "size": 4,
+   "title": "A trip to the zoo",
+   "slots": {
+    "p": "names",
+    "wd": "weekdays",
+    "a1": "zoo_animals",
+    "a2": "zoo_animals",
+    "n": "numbers",
+    "fd": "kidfoods"
+   },
+   "sentences": [
+    [
+     "{wd}, {p} and the class went to the zoo.",
+     "{p} and their classmates visited the zoo {wd}."
+    ],
+    [
+     "First, they saw the {a1}.",
+     "The first animal they saw was the {a1}."
+    ],
+    [
+     "Then they watched {a2.a} with {n} babies.",
+     "After that, they watched {a2.a} and its {n} babies."
+    ],
+    [
+     "At the end of the trip, the teacher gave everyone some {fd}.",
+     "On the way back, the teacher handed out {fd}."
+    ]
+   ],
+   "questions": [
+    {
+     "type": "what",
+     "q": "Which animal did they see first?",
+     "ask": "a1"
+    },
+    {
+     "type": "howmany",
+     "q": "How many babies were there?",
+     "ask": "n",
+     "show": "show"
+    },
+    {
+     "type": "when",
+     "q": "Which day was the trip?",
+     "ask": "wd"
+    },
+    {
+     "type": "detail",
+     "q": "What did the teacher give them?",
+     "ask": "fd"
+    },
+    {
+     "type": "notsaid",
+     "q": "Which animal was NOT in the story?",
+     "said": [
+      "a1",
+      "a2"
+     ],
+     "pool": "zoo_animals"
+    }
+   ]
+  },
+  {
+   "id": "en.para.rainy",
+   "lvl": 2,
+   "aud": "child",
+   "size": 4,
+   "title": "A rainy day",
+   "slots": {
+    "p": "names",
+    "x": "indoor"
+   },
+   "sentences": [
+    [
+     "It was raining heavily outside.",
+     "It had been raining since the morning."
+    ],
+    [
+     "So {p} couldn't go to the park.",
+     "That meant {p} couldn't go out to play."
+    ],
+    [
+     "{p} felt a bit sad, but then {x}.",
+     "At first {p} was a little sad, then {x}."
+    ],
+    [
+     "In the evening, when the rain stopped, {p} saw a rainbow.",
+     "Later, when the rain stopped, {p} spotted a rainbow from the window."
+    ]
+   ],
+   "questions": [
+    {
+     "type": "why",
+     "q": "Why couldn't {p} go to the park?",
+     "opts": [
+      "It was raining",
+      "{p} was ill",
+      "The park was closed",
+      "{p} had homework"
+     ]
+    },
+    {
+     "type": "what",
+     "q": "What did {p} do at home?",
+     "ask": "x",
+     "form": "short"
+    },
+    {
+     "type": "what",
+     "q": "What did {p} see in the evening?",
+     "opts": [
+      "A rainbow",
+      "A plane",
+      "A full moon",
+      "A kite"
+     ]
+    },
+    {
+     "type": "order",
+     "q": "In what order did things happen?",
+     "events": [
+      "It rained",
+      "Played at home",
+      "Saw a rainbow"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "en.para.cake",
+   "lvl": 3,
+   "aud": "child",
+   "size": 6,
+   "title": "A cake for Grandma",
+   "slots": {
+    "p": "names",
+    "k": "kin_helpers",
+    "fr": "fruits",
+    "n": "numbers",
+    "tm": "@time"
+   },
+   "sentences": [
+    [
+     "It was nearly Grandma's birthday.",
+     "Grandma's birthday was the next day."
+    ],
+    [
+     "{p} and {k} decided to bake her a cake.",
+     "{p} wanted to make her a cake with {k}."
+    ],
+    [
+     "They used flour, sugar and {n} eggs.",
+     "They mixed flour, sugar and {n} eggs."
+    ],
+    [
+     "They decorated the top with {fr}.",
+     "They put lots of {fr} on top of the cake."
+    ],
+    [
+     "The cake came out of the oven at {tm}.",
+     "The cake was ready at {tm}."
+    ],
+    [
+     "When Grandma saw the cake, she was very moved and hugged them both.",
+     "Grandma was so touched when she saw it that she hugged them."
+    ]
+   ],
+   "questions": [
+    {
+     "type": "why",
+     "q": "Why did they bake the cake?",
+     "opts": [
+      "For Grandma's birthday",
+      "For a school contest",
+      "Because guests were coming",
+      "For a holiday"
+     ]
+    },
+    {
+     "type": "howmany",
+     "q": "How many eggs did they use?",
+     "ask": "n",
+     "show": "show"
+    },
+    {
+     "type": "what",
+     "q": "What was on top of the cake?",
+     "ask": "fr"
+    },
+    {
+     "type": "when",
+     "q": "What time was the cake ready?",
+     "ask": "tm",
+     "show": "show"
+    },
+    {
+     "type": "who",
+     "q": "Who did {p} bake with?",
+     "ask": "k"
+    },
+    {
+     "type": "inference",
+     "q": "How did Grandma feel?",
+     "opts": [
+      "Touched and happy",
+      "She did not like the cake",
+      "Angry",
+      "She felt nothing"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "en.para.market",
+   "lvl": 2,
+   "aud": "adult",
+   "size": 4,
+   "title": "Shopping trip",
+   "slots": {
+    "p": "names",
+    "b1": "buy",
+    "b2": "buy",
+    "b3": "buy",
+    "b4": "buy",
+    "m": "@money"
+   },
+   "sentences": [
+    [
+     "{p} went to the supermarket to buy things for dinner.",
+     "Before dinner, {p} popped into the supermarket."
+    ],
+    [
+     "The list said {b1}, {b2} and {b3}.",
+     "On the shopping list were {b1}, {b2} and {b3}."
+    ],
+    [
+     "At the checkout, it came to {m}.",
+     "{p} paid {m} at the till."
+    ],
+    [
+     "On the way home, {p} realised they had forgotten the {b4}.",
+     "Walking home, {p} remembered that they had not bought any {b4}."
+    ]
+   ],
+   "questions": [
+    {
+     "type": "notsaid",
+     "q": "Which item was NOT on the list?",
+     "said": [
+      "b1",
+      "b2",
+      "b3"
+     ],
+     "pool": "buy"
+    },
+    {
+     "type": "detail",
+     "q": "What did {p} forget?",
+     "ask": "b4"
+    },
+    {
+     "type": "howmany",
+     "q": "How much did {p} pay?",
+     "ask": "m",
+     "show": "show"
+    },
+    {
+     "type": "why",
+     "q": "Why did {p} go shopping?",
+     "opts": [
+      "To buy things for dinner",
+      "To buy a present",
+      "To pay a bill",
+      "To meet a friend"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "en.para.appointment",
+   "lvl": 2,
+   "aud": "adult",
+   "size": 4,
+   "title": "Appointment details",
+   "slots": {
+    "p": "names",
+    "wd": "weekdays",
+    "tm": "@time",
+    "dr": "doctors",
+    "cl": "clinics",
+    "fl": "ordinals"
+   },
+   "sentences": [
+    [
+     "{p} has an appointment with {dr.a} {wd} at {tm}.",
+     "{wd} at {tm}, {p} will see {dr.a}."
+    ],
+    [
+     "The appointment is {cl.at}, in a room on the {fl} floor.",
+     "The clinic is {cl.at}; the room is on the {fl} floor."
+    ],
+    [
+     "The receptionist asked {p} to bring photo ID and to arrive fifteen minutes early.",
+     "{p} was told to bring photo ID and to come fifteen minutes early."
+    ],
+    [
+     "If {p} cannot come, they need to cancel at least one day before.",
+     "To cancel, {p} must call at least one day in advance."
+    ]
+   ],
+   "questions": [
+    {
+     "type": "when",
+     "q": "Which day is the appointment?",
+     "ask": "wd"
+    },
+    {
+     "type": "when",
+     "q": "What time is the appointment?",
+     "ask": "tm",
+     "show": "show"
+    },
+    {
+     "type": "what",
+     "q": "Who is the appointment with?",
+     "ask": "dr"
+    },
+    {
+     "type": "where",
+     "q": "Which floor is the room on?",
+     "ask": "fl",
+     "show": "show"
+    },
+    {
+     "type": "detail",
+     "q": "What should {p} bring?",
+     "opts": [
+      "Photo ID",
+      "A photo",
+      "A passport photo",
+      "Old prescriptions"
+     ]
+    },
+    {
+     "type": "detail",
+     "q": "How early should {p} arrive?",
+     "opts": [
+      "Fifteen minutes",
+      "One hour",
+      "Half an hour",
+      "Five minutes"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "en.para.meeting",
+   "lvl": 3,
+   "aud": "adult",
+   "size": 5,
+   "title": "Meeting notes",
+   "slots": {
+    "t": "topics",
+    "a": "names",
+    "b": "names",
+    "c": "names",
+    "wd": "weekdays"
+   },
+   "sentences": [
+    [
+     "Today's meeting was about {t}.",
+     "The main topic of this morning's meeting was {t}."
+    ],
+    [
+     "{a} will be in charge of design, and {b} will handle the budget.",
+     "The design work goes to {a}, while {b} takes care of the budget."
+    ],
+    [
+     "The first draft needs to be ready {wd}.",
+     "The first draft is due {wd} at the latest."
+    ],
+    [
+     "{c} couldn't attend because they were on leave today.",
+     "{c} was on leave, so they missed the meeting."
+    ],
+    [
+     "{a} will send the meeting notes to {c}.",
+     "{a} is going to email the notes to {c}."
+    ]
+   ],
+   "questions": [
+    {
+     "type": "main",
+     "q": "What was the meeting mainly about?",
+     "ask": "t"
+    },
+    {
+     "type": "who",
+     "q": "Who is handling the budget?",
+     "ask": "b"
+    },
+    {
+     "type": "who",
+     "q": "Who is in charge of design?",
+     "ask": "a"
+    },
+    {
+     "type": "when",
+     "q": "When is the first draft due?",
+     "ask": "wd"
+    },
+    {
+     "type": "why",
+     "q": "Why was {c} not at the meeting?",
+     "opts": [
+      "They were on leave",
+      "They were ill",
+      "They were in another meeting",
+      "They were stuck in traffic"
+     ]
+    },
+    {
+     "type": "relation",
+     "q": "Who will send the notes to whom?",
+     "opts": [
+      "{a} to {c}",
+      "{c} to {a}",
+      "{b} to {c}",
+      "{a} to {b}"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "en.para.train",
+   "lvl": 2,
+   "aud": "adult",
+   "size": 4,
+   "title": "A train journey",
+   "slots": {
+    "p": "names",
+    "c1": "cities",
+    "c2": "cities",
+    "tm": "@time",
+    "h": "hours",
+    "m": "@money"
+   },
+   "sentences": [
+    [
+     "At the weekend, {p} is taking the train from {c1} to {c2}.",
+     "On Saturday, {p} will travel by train from {c1} to {c2}."
+    ],
+    [
+     "The train leaves at {tm}.",
+     "The departure time is {tm}."
+    ],
+    [
+     "The journey takes about {h} hours.",
+     "It is roughly a {h}-hour journey."
+    ],
+    [
+     "{p} bought the ticket online for {m}.",
+     "The ticket cost {m}."
+    ]
+   ],
+   "questions": [
+    {
+     "type": "where",
+     "q": "Where is {p} going?",
+     "ask": "c2"
+    },
+    {
+     "type": "where",
+     "q": "Where is {p} travelling from?",
+     "ask": "c1"
+    },
+    {
+     "type": "when",
+     "q": "What time does the train leave?",
+     "ask": "tm",
+     "show": "show"
+    },
+    {
+     "type": "howmany",
+     "q": "How many hours does the journey take?",
+     "ask": "h",
+     "show": "show"
+    },
+    {
+     "type": "howmany",
+     "q": "How much was the ticket?",
+     "ask": "m",
+     "show": "show"
+    }
+   ]
+  },
+  {
+   "id": "en.para.event",
+   "lvl": 3,
+   "aud": "both",
+   "size": 5,
+   "title": "Community event",
+   "slots": {
+    "wd": "weekdays",
+    "tm": "@time",
+    "pk": "parks",
+    "p": "names"
+   },
+   "sentences": [
+    [
+     "There will be a tree-planting event in our neighbourhood {wd}.",
+     "{wd}, our neighbourhood is holding a tree-planting day."
+    ],
+    [
+     "It starts at {tm} {pk.at}.",
+     "We meet {pk.at}; it starts at {tm}."
+    ],
+    [
+     "Everyone who comes will get a young tree and a pair of gloves.",
+     "Volunteers will be given gloves and a young tree."
+    ],
+    [
+     "The organiser, {p}, suggests wearing comfortable shoes.",
+     "{p}, who is organising it, asks everyone to wear comfortable shoes."
+    ],
+    [
+     "If it rains, the event will be moved to the following week.",
+     "In case of rain, it will be postponed by one week."
+    ]
+   ],
+   "questions": [
+    {
+     "type": "purpose",
+     "q": "What is the event for?",
+     "opts": [
+      "Planting trees",
+      "Collecting rubbish",
+      "A concert",
+      "A bike race"
+     ]
+    },
+    {
+     "type": "when",
+     "q": "Which day is the event?",
+     "ask": "wd"
+    },
+    {
+     "type": "where",
+     "q": "Where does it start?",
+     "ask": "pk"
+    },
+    {
+     "type": "detail",
+     "q": "What will people get?",
+     "opts": [
+      "A young tree and gloves",
+      "A hat and water",
+      "A T-shirt and a bag",
+      "A book and a pen"
+     ]
+    },
+    {
+     "type": "inference",
+     "q": "What happens if it rains?",
+     "opts": [
+      "It is moved to the next week",
+      "It is cancelled for good",
+      "It moves indoors",
+      "It starts an hour earlier"
+     ]
+    },
+    {
+     "type": "who",
+     "q": "Who is organising it?",
+     "ask": "p"
+    }
+   ]
+  },
+  {
+   "id": "en.para.forecast",
+   "lvl": 2,
+   "aud": "adult",
+   "size": 4,
+   "title": "Weather bulletin",
+   "slots": {
+    "city": "cities",
+    "wx": "weather",
+    "tp": "temps"
+   },
+   "sentences": [
+    [
+     "Tomorrow it will be {wx} in {city}.",
+     "The forecast for {city} tomorrow is {wx}."
+    ],
+    [
+     "Daytime temperatures will be around {tp} degrees.",
+     "Highs of about {tp} degrees are expected."
+    ],
+    [
+     "The wind will pick up in the evening.",
+     "Winds are expected to strengthen towards the evening."
+    ],
+    [
+     "Drivers are advised to take care.",
+     "Drivers are asked to be careful on the roads."
+    ]
+   ],
+   "questions": [
+    {
+     "type": "where",
+     "q": "Which city is the forecast for?",
+     "ask": "city"
+    },
+    {
+     "type": "how",
+     "q": "What will the weather be like?",
+     "ask": "wx"
+    },
+    {
+     "type": "howmany",
+     "q": "What will the temperature be?",
+     "ask": "tp",
+     "show": "show"
+    },
+    {
+     "type": "when",
+     "q": "When will the wind pick up?",
+     "opts": [
+      "In the evening",
+      "Early in the morning",
+      "Around midday",
+      "After midnight"
+     ]
+    },
+    {
+     "type": "purpose",
+     "q": "Who is advised to take care?",
+     "opts": [
+      "Drivers",
+      "Students",
+      "Fishermen",
+      "Farmers"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "en.para.wallet",
+   "lvl": 3,
+   "aud": "adult",
+   "size": 7,
+   "title": "The lost wallet",
+   "slots": {
+    "p": "names",
+    "lp": "lostplaces",
+    "q": "names",
+    "tm": "@time",
+    "wd": "weekdays"
+   },
+   "sentences": [
+    [
+     "{wd}, {p} went into town to meet a friend.",
+     "{p} headed into town {wd} to see a friend."
+    ],
+    [
+     "They spent some time chatting {lp.at}.",
+     "First, they sat and talked {lp.at} for a while."
+    ],
+    [
+     "When {p} got home, the wallet was missing.",
+     "Back at home, {p} could not find their wallet."
+    ],
+    [
+     "{p} was very worried, because their ID and bank card were inside.",
+     "{p} panicked, as the wallet held their ID and bank card."
+    ],
+    [
+     "At {tm}, the phone rang.",
+     "The phone rang at {tm}."
+    ],
+    [
+     "The caller, a member of staff called {q}, said they had found the wallet.",
+     "It was someone called {q}, who said the wallet had been handed in."
+    ],
+    [
+     "The next morning, {p} went to collect it.",
+     "{p} picked up the wallet the following morning."
+    ]
+   ],
+   "questions": [
+    {
+     "type": "where",
+     "q": "Where was the wallet probably left?",
+     "ask": "lp"
+    },
+    {
+     "type": "who",
+     "q": "What was the caller's name?",
+     "ask": "q"
+    },
+    {
+     "type": "when",
+     "q": "What time did the phone ring?",
+     "ask": "tm",
+     "show": "show"
+    },
+    {
+     "type": "why",
+     "q": "Why was {p} so worried?",
+     "opts": [
+      "Their ID and card were in it",
+      "The wallet was very expensive",
+      "Their friend was upset",
+      "They had missed the bus"
+     ]
+    },
+    {
+     "type": "order",
+     "q": "In what order did things happen?",
+     "events": [
+      "Went into town",
+      "Noticed the wallet was missing",
+      "Got a phone call",
+      "Collected the wallet"
+     ]
+    },
+    {
+     "type": "main",
+     "q": "What is the story mainly about?",
+     "opts": [
+      "A lost wallet that was returned",
+      "A cancelled meeting with a friend",
+      "Getting a new bank card",
+      "Traffic in town"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "en.para.library",
+   "lvl": 3,
+   "aud": "adult",
+   "size": 6,
+   "title": "Library announcement",
+   "slots": {
+    "h1": "@time:8:10",
+    "h2": "@time:17:21",
+    "wd": "weekdays",
+    "n": "@number:2:6"
+   },
+   "sentences": [
+    [
+     "Dear visitors, our library opening hours have changed.",
+     "We would like to announce our new opening hours."
+    ],
+    [
+     "On weekdays, the library now opens at {h1}.",
+     "Our new weekday opening time is {h1}."
+    ],
+    [
+     "It closes at {h2}.",
+     "In the evening, we close at {h2}."
+    ],
+    [
+     "There is also a story time for children every week {wd}.",
+     "Every week {wd}, we hold a story time for children."
+    ],
+    [
+     "Members can borrow up to {n} books at a time.",
+     "Each member may borrow {n} books at once."
+    ],
+    [
+     "To renew your card, please go to the help desk on the ground floor.",
+     "Library cards can be renewed at the ground-floor help desk."
+    ]
+   ],
+   "questions": [
+    {
+     "type": "purpose",
+     "q": "What is the announcement for?",
+     "opts": [
+      "To share the new opening hours",
+      "To say the library is closing",
+      "To sell new books",
+      "To advertise a job"
+     ]
+    },
+    {
+     "type": "when",
+     "q": "What time does the library open on weekdays?",
+     "ask": "h1",
+     "show": "show"
+    },
+    {
+     "type": "when",
+     "q": "Which day is story time?",
+     "ask": "wd"
+    },
+    {
+     "type": "howmany",
+     "q": "How many books can a member borrow?",
+     "ask": "n",
+     "show": "show"
+    },
+    {
+     "type": "where",
+     "q": "Where can you renew your card?",
+     "opts": [
+      "At the ground-floor help desk",
+      "In the second-floor reading room",
+      "On the library website",
+      "At the town hall"
+     ]
+    }
+   ]
+  }
+ ]
+}

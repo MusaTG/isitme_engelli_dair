@@ -1,0 +1,6 @@
+node_modules/
+site/
+.DS_Store
+*.log
+e2e-shots/
+e2e-shots-reading/

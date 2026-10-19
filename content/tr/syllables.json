@@ -1,0 +1,761 @@
+{
+ "nonword": true,
+ "note": "Anlamsız heceler; anlamlı kelimelerle aynı kategoride değerlendirilmez. Bazı heceler tek başına bir sözcük olabilir (ör. \"da\").",
+ "sets": [
+  {
+   "id": "tr.syl.voicing-bilabial",
+   "label": "Ötümlülük (p/b)",
+   "items": [
+    {
+     "s": "pa",
+     "say": "pa",
+     "ipa": "pa"
+    },
+    {
+     "s": "ba",
+     "say": "ba",
+     "ipa": "ba"
+    }
+   ],
+   "lvl": 1
+  },
+  {
+   "id": "tr.syl.voicing-alveolar",
+   "label": "Ötümlülük (t/d)",
+   "items": [
+    {
+     "s": "ta",
+     "say": "ta",
+     "ipa": "ta"
+    },
+    {
+     "s": "da",
+     "say": "da",
+     "ipa": "da"
+    }
+   ],
+   "lvl": 1
+  },
+  {
+   "id": "tr.syl.voicing-velar",
+   "label": "Ötümlülük (k/g)",
+   "items": [
+    {
+     "s": "ka",
+     "say": "ka",
+     "ipa": "ka"
+    },
+    {
+     "s": "ga",
+     "say": "ga",
+     "ipa": "ga"
+    }
+   ],
+   "lvl": 1
+  },
+  {
+   "id": "tr.syl.voicing-fricative",
+   "label": "Ötümlülük (f/v)",
+   "items": [
+    {
+     "s": "fa",
+     "say": "fa",
+     "ipa": "fa"
+    },
+    {
+     "s": "va",
+     "say": "va",
+     "ipa": "va"
+    }
+   ],
+   "lvl": 2
+  },
+  {
+   "id": "tr.syl.voicing-sibilant",
+   "label": "Ötümlülük (s/z)",
+   "items": [
+    {
+     "s": "sa",
+     "say": "sa",
+     "ipa": "sa"
+    },
+    {
+     "s": "za",
+     "say": "za",
+     "ipa": "za"
+    }
+   ],
+   "lvl": 2
+  },
+  {
+   "id": "tr.syl.voicing-postalveolar",
+   "label": "Ötümlülük (ş/j)",
+   "items": [
+    {
+     "s": "şa",
+     "say": "şa",
+     "ipa": "ʃa"
+    },
+    {
+     "s": "ja",
+     "say": "ja",
+     "ipa": "ʒa"
+    }
+   ],
+   "lvl": 3
+  },
+  {
+   "id": "tr.syl.voicing-affricate",
+   "label": "Ötümlülük (ç/c)",
+   "items": [
+    {
+     "s": "ça",
+     "say": "ça",
+     "ipa": "ʧa"
+    },
+    {
+     "s": "ca",
+     "say": "ca",
+     "ipa": "ʤa"
+    }
+   ],
+   "lvl": 2
+  },
+  {
+   "id": "tr.syl.place-voiceless",
+   "label": "Boğumlanma yeri (p/t/k)",
+   "items": [
+    {
+     "s": "pa",
+     "say": "pa",
+     "ipa": "pa"
+    },
+    {
+     "s": "ta",
+     "say": "ta",
+     "ipa": "ta"
+    },
+    {
+     "s": "ka",
+     "say": "ka",
+     "ipa": "ka"
+    }
+   ],
+   "lvl": 2
+  },
+  {
+   "id": "tr.syl.place-voiced",
+   "label": "Boğumlanma yeri (b/d/g)",
+   "items": [
+    {
+     "s": "ba",
+     "say": "ba",
+     "ipa": "ba"
+    },
+    {
+     "s": "da",
+     "say": "da",
+     "ipa": "da"
+    },
+    {
+     "s": "ga",
+     "say": "ga",
+     "ipa": "ga"
+    }
+   ],
+   "lvl": 2
+  },
+  {
+   "id": "tr.syl.place-nasal",
+   "label": "Genizsil (m/n)",
+   "items": [
+    {
+     "s": "ma",
+     "say": "ma",
+     "ipa": "ma"
+    },
+    {
+     "s": "na",
+     "say": "na",
+     "ipa": "na"
+    }
+   ],
+   "lvl": 2
+  },
+  {
+   "id": "tr.syl.manner-bm",
+   "label": "Boğumlanma biçimi (b/m)",
+   "items": [
+    {
+     "s": "ba",
+     "say": "ba",
+     "ipa": "ba"
+    },
+    {
+     "s": "ma",
+     "say": "ma",
+     "ipa": "ma"
+    }
+   ],
+   "lvl": 2
+  },
+  {
+   "id": "tr.syl.manner-dn",
+   "label": "Boğumlanma biçimi (d/n)",
+   "items": [
+    {
+     "s": "da",
+     "say": "da",
+     "ipa": "da"
+    },
+    {
+     "s": "na",
+     "say": "na",
+     "ipa": "na"
+    }
+   ],
+   "lvl": 2
+  },
+  {
+   "id": "tr.syl.sibilant",
+   "label": "Islıklı sesler (s/ş)",
+   "items": [
+    {
+     "s": "sa",
+     "say": "sa",
+     "ipa": "sa"
+    },
+    {
+     "s": "şa",
+     "say": "şa",
+     "ipa": "ʃa"
+    }
+   ],
+   "lvl": 2
+  },
+  {
+   "id": "tr.syl.sibilant-voiced",
+   "label": "Islıklı sesler (z/j)",
+   "items": [
+    {
+     "s": "za",
+     "say": "za",
+     "ipa": "za"
+    },
+    {
+     "s": "ja",
+     "say": "ja",
+     "ipa": "ʒa"
+    }
+   ],
+   "lvl": 3
+  },
+  {
+   "id": "tr.syl.affricate-fricative",
+   "label": "Ç/Ş",
+   "items": [
+    {
+     "s": "ça",
+     "say": "ça",
+     "ipa": "ʧa"
+    },
+    {
+     "s": "şa",
+     "say": "şa",
+     "ipa": "ʃa"
+    }
+   ],
+   "lvl": 3
+  },
+  {
+   "id": "tr.syl.liquid",
+   "label": "Akıcı sesler (l/r)",
+   "items": [
+    {
+     "s": "la",
+     "say": "la",
+     "ipa": "la"
+    },
+    {
+     "s": "ra",
+     "say": "ra",
+     "ipa": "ɾa"
+    }
+   ],
+   "lvl": 2
+  },
+  {
+   "id": "tr.syl.vowels-front-back",
+   "label": "Ünlüler (a/e/ı/i)",
+   "items": [
+    {
+     "s": "ba",
+     "say": "ba",
+     "ipa": "ba"
+    },
+    {
+     "s": "be",
+     "say": "be",
+     "ipa": "be"
+    },
+    {
+     "s": "bı",
+     "say": "bı",
+     "ipa": "bɯ"
+    },
+    {
+     "s": "bi",
+     "say": "bi",
+     "ipa": "bi"
+    }
+   ],
+   "lvl": 2
+  },
+  {
+   "id": "tr.syl.vowels-round",
+   "label": "Yuvarlak ünlüler (o/ö/u/ü)",
+   "items": [
+    {
+     "s": "bo",
+     "say": "bo",
+     "ipa": "bo"
+    },
+    {
+     "s": "bö",
+     "say": "bö",
+     "ipa": "bœ"
+    },
+    {
+     "s": "bu",
+     "say": "bu",
+     "ipa": "bu"
+    },
+    {
+     "s": "bü",
+     "say": "bü",
+     "ipa": "by"
+    }
+   ],
+   "lvl": 3
+  },
+  {
+   "id": "tr.syl.final-stop",
+   "label": "Hece sonu ünsüz (ap/at/ak)",
+   "items": [
+    {
+     "s": "ap",
+     "say": "ap",
+     "ipa": "ap"
+    },
+    {
+     "s": "at",
+     "say": "at",
+     "ipa": "at"
+    },
+    {
+     "s": "ak",
+     "say": "ak",
+     "ipa": "ak"
+    }
+   ],
+   "lvl": 3
+  },
+  {
+   "id": "tr.syl.mixed-6",
+   "label": "Karışık ünsüzler",
+   "items": [
+    {
+     "s": "pa",
+     "say": "pa",
+     "ipa": "pa"
+    },
+    {
+     "s": "ba",
+     "say": "ba",
+     "ipa": "ba"
+    },
+    {
+     "s": "ta",
+     "say": "ta",
+     "ipa": "ta"
+    },
+    {
+     "s": "da",
+     "say": "da",
+     "ipa": "da"
+    },
+    {
+     "s": "ka",
+     "say": "ka",
+     "ipa": "ka"
+    },
+    {
+     "s": "ga",
+     "say": "ga",
+     "ipa": "ga"
+    }
+   ],
+   "lvl": 3
+  },
+  {
+   "id": "tr.syl.mixed-10",
+   "label": "Karışık 10 hece",
+   "items": [
+    {
+     "s": "pa",
+     "say": "pa",
+     "ipa": "pa"
+    },
+    {
+     "s": "ba",
+     "say": "ba",
+     "ipa": "ba"
+    },
+    {
+     "s": "ta",
+     "say": "ta",
+     "ipa": "ta"
+    },
+    {
+     "s": "da",
+     "say": "da",
+     "ipa": "da"
+    },
+    {
+     "s": "ka",
+     "say": "ka",
+     "ipa": "ka"
+    },
+    {
+     "s": "ga",
+     "say": "ga",
+     "ipa": "ga"
+    },
+    {
+     "s": "ma",
+     "say": "ma",
+     "ipa": "ma"
+    },
+    {
+     "s": "na",
+     "say": "na",
+     "ipa": "na"
+    },
+    {
+     "s": "sa",
+     "say": "sa",
+     "ipa": "sa"
+    },
+    {
+     "s": "şa",
+     "say": "şa",
+     "ipa": "ʃa"
+    }
+   ],
+   "lvl": 3
+  },
+  {
+   "id": "tr.log.vcv-voicing",
+   "label": "VCV ünsüz: ötümlülük (aba/apa, ada/ata, aga/aka)",
+   "kind": "vcv",
+   "lvl": 2,
+   "items": [
+    {
+     "s": "aba",
+     "say": "aba",
+     "ipa": "aba"
+    },
+    {
+     "s": "apa",
+     "say": "apa",
+     "ipa": "apa"
+    },
+    {
+     "s": "ada",
+     "say": "ada",
+     "ipa": "ada"
+    },
+    {
+     "s": "ata",
+     "say": "ata",
+     "ipa": "ata"
+    },
+    {
+     "s": "aga",
+     "say": "aga",
+     "ipa": "aɡa"
+    },
+    {
+     "s": "aka",
+     "say": "aka",
+     "ipa": "aka"
+    }
+   ]
+  },
+  {
+   "id": "tr.log.vcv-nasal",
+   "label": "VCV ünsüz: genizsil (ama/ana)",
+   "kind": "vcv",
+   "lvl": 1,
+   "items": [
+    {
+     "s": "ama",
+     "say": "ama",
+     "ipa": "ama"
+    },
+    {
+     "s": "ana",
+     "say": "ana",
+     "ipa": "ana"
+    }
+   ]
+  },
+  {
+   "id": "tr.log.vcv-fric",
+   "label": "VCV ünsüz: sızıcı (afa/ava, asa/aza, aşa)",
+   "kind": "vcv",
+   "lvl": 2,
+   "items": [
+    {
+     "s": "afa",
+     "say": "afa",
+     "ipa": "afa"
+    },
+    {
+     "s": "ava",
+     "say": "ava",
+     "ipa": "ava"
+    },
+    {
+     "s": "asa",
+     "say": "asa",
+     "ipa": "asa"
+    },
+    {
+     "s": "aza",
+     "say": "aza",
+     "ipa": "aza"
+    },
+    {
+     "s": "aşa",
+     "say": "aşa",
+     "ipa": "aʃa"
+    }
+   ]
+  },
+  {
+   "id": "tr.log.vcv-affr",
+   "label": "VCV ünsüz: çaça (aça/aca/aşa)",
+   "kind": "vcv",
+   "lvl": 3,
+   "items": [
+    {
+     "s": "aça",
+     "say": "aça",
+     "ipa": "atʃa"
+    },
+    {
+     "s": "aca",
+     "say": "aca",
+     "ipa": "adʒa"
+    },
+    {
+     "s": "aşa",
+     "say": "aşa",
+     "ipa": "aʃa"
+    }
+   ]
+  },
+  {
+   "id": "tr.log.vcv-mixed",
+   "label": "VCV ünsüz: karışık 10",
+   "kind": "vcv",
+   "lvl": 3,
+   "items": [
+    {
+     "s": "aba",
+     "say": "aba",
+     "ipa": "aba"
+    },
+    {
+     "s": "apa",
+     "say": "apa",
+     "ipa": "apa"
+    },
+    {
+     "s": "ada",
+     "say": "ada",
+     "ipa": "ada"
+    },
+    {
+     "s": "ata",
+     "say": "ata",
+     "ipa": "ata"
+    },
+    {
+     "s": "aka",
+     "say": "aka",
+     "ipa": "aka"
+    },
+    {
+     "s": "ama",
+     "say": "ama",
+     "ipa": "ama"
+    },
+    {
+     "s": "ana",
+     "say": "ana",
+     "ipa": "ana"
+    },
+    {
+     "s": "asa",
+     "say": "asa",
+     "ipa": "asa"
+    },
+    {
+     "s": "aza",
+     "say": "aza",
+     "ipa": "aza"
+    },
+    {
+     "s": "aşa",
+     "say": "aşa",
+     "ipa": "aʃa"
+    }
+   ]
+  },
+  {
+   "id": "tr.log.cvc-4",
+   "label": "CVC ünlü: mam/mem/mim/mum",
+   "kind": "cvc",
+   "lvl": 1,
+   "items": [
+    {
+     "s": "mam",
+     "say": "mam",
+     "ipa": "mam"
+    },
+    {
+     "s": "mem",
+     "say": "mem",
+     "ipa": "mem"
+    },
+    {
+     "s": "mim",
+     "say": "mim",
+     "ipa": "mim"
+    },
+    {
+     "s": "mum",
+     "say": "mum",
+     "ipa": "mum"
+    }
+   ]
+  },
+  {
+   "id": "tr.log.cvc-8",
+   "label": "CVC ünlü: 8 Türkçe ünlü (m_m)",
+   "kind": "cvc",
+   "lvl": 3,
+   "items": [
+    {
+     "s": "mam",
+     "say": "mam",
+     "ipa": "mam"
+    },
+    {
+     "s": "mem",
+     "say": "mem",
+     "ipa": "mem"
+    },
+    {
+     "s": "mım",
+     "say": "mım",
+     "ipa": "mɯm"
+    },
+    {
+     "s": "mim",
+     "say": "mim",
+     "ipa": "mim"
+    },
+    {
+     "s": "mom",
+     "say": "mom",
+     "ipa": "mom"
+    },
+    {
+     "s": "möm",
+     "say": "möm",
+     "ipa": "møm"
+    },
+    {
+     "s": "mum",
+     "say": "mum",
+     "ipa": "mum"
+    },
+    {
+     "s": "müm",
+     "say": "müm",
+     "ipa": "mym"
+    }
+   ]
+  },
+  {
+   "id": "tr.log.cvc-round",
+   "label": "CVC ünlü: yuvarlak (bol/böl/bul/bül)",
+   "kind": "cvc",
+   "lvl": 2,
+   "items": [
+    {
+     "s": "bol",
+     "say": "bol",
+     "ipa": "bol"
+    },
+    {
+     "s": "böl",
+     "say": "böl",
+     "ipa": "bøl"
+    },
+    {
+     "s": "bul",
+     "say": "bul",
+     "ipa": "bul"
+    },
+    {
+     "s": "bül",
+     "say": "bül",
+     "ipa": "byl"
+    }
+   ]
+  },
+  {
+   "id": "tr.log.vcv-manner",
+   "label": "VCV ünsüz: çıkış biçimi (aba/ama/asa/ala) — en belirgin fark",
+   "kind": "vcv",
+   "lvl": 1,
+   "items": [
+    {
+     "s": "aba",
+     "say": "aba",
+     "ipa": "aba"
+    },
+    {
+     "s": "ama",
+     "say": "ama",
+     "ipa": "ama"
+    },
+    {
+     "s": "asa",
+     "say": "asa",
+     "ipa": "asa"
+    },
+    {
+     "s": "ala",
+     "say": "ala",
+     "ipa": "ala"
+    }
+   ]
+  }
+ ],
+ "logatomNote": "VCV/CVC logatomları (anlamsız, ünsüz ve ünlü ayrımı için). Erlangen pilot çalışmasındaki yaklaşımdan esinlenilmiştir; kelimeler özgündür."
+}

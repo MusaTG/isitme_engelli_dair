@@ -1,0 +1,1218 @@
+{
+ "pools": {
+  "names": {
+   "proper": true,
+   "items": [
+    "Sam",
+    "Emma",
+    "Leo",
+    "Mia",
+    "Noah",
+    "Lily",
+    "Jack",
+    "Grace",
+    "Ben",
+    "Ella",
+    "Tom",
+    "Ruby",
+    "Max",
+    "Zoe",
+    "Dan",
+    "Amy",
+    "Owen",
+    "Kate",
+    "Ryan",
+    "Nora",
+    "Adam",
+    "Lucy",
+    "Sara",
+    "Josh"
+   ]
+  },
+  "petnames": {
+   "proper": true,
+   "items": [
+    "Fluffy",
+    "Biscuit",
+    "Ginger",
+    "Peanut",
+    "Coco",
+    "Pepper",
+    "Muffin",
+    "Shadow",
+    "Snowy",
+    "Toffee"
+   ]
+  },
+  "pets": {
+   "items": [
+    "cat",
+    "dog",
+    "rabbit",
+    "tortoise",
+    "duck",
+    "squirrel",
+    "lamb",
+    "hamster"
+   ]
+  },
+  "kidfoods": {
+   "items": [
+    "carrots",
+    "apples",
+    "bananas",
+    "grapes",
+    "cheese",
+    "strawberries",
+    "pears",
+    "watermelon",
+    "cherries",
+    "toast"
+   ]
+  },
+  "places": {
+   "items": [
+    "the park",
+    {
+     "v": "school",
+     "to": "to school",
+     "at": "at school"
+    },
+    "the library",
+    "the cinema",
+    "the pharmacy",
+    "the hospital",
+    "the bank",
+    "the post office",
+    "the café",
+    "the beach",
+    "the museum",
+    "the market",
+    "the bakery",
+    "the supermarket",
+    "the gym",
+    "the station"
+   ]
+  },
+  "buy": {
+   "items": [
+    "bread",
+    "milk",
+    "eggs",
+    "cheese",
+    "tomatoes",
+    "apples",
+    "tea",
+    "sugar",
+    "rice",
+    "pasta",
+    "olives",
+    "yogurt",
+    "water",
+    "bananas",
+    "oranges",
+    "bagels"
+   ]
+  },
+  "things": {
+   "items": [
+    "umbrella",
+    "key",
+    "hat",
+    "book",
+    "phone",
+    "notebook",
+    "pen",
+    "bag",
+    "wallet",
+    "torch",
+    "watch",
+    "scarf"
+   ]
+  },
+  "colors": {
+   "items": [
+    "red",
+    "blue",
+    "yellow",
+    "green",
+    "purple",
+    "orange",
+    "white",
+    "black",
+    "pink",
+    "gray"
+   ]
+  },
+  "animals": {
+   "items": [
+    "cat",
+    "dog",
+    "bird",
+    "rabbit",
+    "turtle",
+    "duck",
+    "horse",
+    "cow",
+    "goat",
+    "frog",
+    "lion",
+    "elephant"
+   ]
+  },
+  "countables": {
+   "items": [
+    "apples",
+    "tomatoes",
+    "eggs",
+    "bananas",
+    "oranges",
+    "bagels",
+    "cookies",
+    "pens",
+    "books",
+    "cups"
+   ]
+  },
+  "numbers": {
+   "items": [
+    {
+     "v": "two",
+     "show": "2"
+    },
+    {
+     "v": "three",
+     "show": "3"
+    },
+    {
+     "v": "four",
+     "show": "4"
+    },
+    {
+     "v": "five",
+     "show": "5"
+    },
+    {
+     "v": "six",
+     "show": "6"
+    },
+    {
+     "v": "seven",
+     "show": "7"
+    },
+    {
+     "v": "eight",
+     "show": "8"
+    },
+    {
+     "v": "nine",
+     "show": "9"
+    }
+   ]
+  },
+  "vehicles": {
+   "items": [
+    "bus",
+    "train",
+    "subway",
+    "taxi",
+    "ferry",
+    "tram",
+    "bike",
+    "car",
+    "minibus"
+   ]
+  },
+  "past_times": {
+   "items": [
+    "yesterday",
+    "last night",
+    "last week",
+    "this morning",
+    "two days ago",
+    "last Saturday"
+   ]
+  },
+  "weekdays": {
+   "items": [
+    {
+     "v": "on Monday",
+     "bare": "Monday"
+    },
+    {
+     "v": "on Tuesday",
+     "bare": "Tuesday"
+    },
+    {
+     "v": "on Wednesday",
+     "bare": "Wednesday"
+    },
+    {
+     "v": "on Thursday",
+     "bare": "Thursday"
+    },
+    {
+     "v": "on Friday",
+     "bare": "Friday"
+    },
+    {
+     "v": "on Saturday",
+     "bare": "Saturday"
+    },
+    {
+     "v": "on Sunday",
+     "bare": "Sunday"
+    }
+   ]
+  },
+  "relations": {
+   "items": [
+    "on the table",
+    "under the table",
+    "behind the door",
+    "next to the sofa",
+    "in the bag",
+    "in front of the window",
+    "in the cupboard",
+    "under the bed"
+   ]
+  },
+  "jobs": {
+   "items": [
+    "doctor",
+    "teacher",
+    "cook",
+    "driver",
+    "police officer",
+    "nurse",
+    "waiter",
+    "barber",
+    "mail carrier",
+    "engineer"
+   ]
+  },
+  "kin_np": {
+   "proper": true,
+   "items": [
+    "Grandma",
+    "Grandpa",
+    "Mom",
+    "Dad",
+    "Aunt Rose",
+    "Uncle Joe",
+    "the neighbour",
+    "the babysitter"
+   ]
+  },
+  "activities": {
+   "items": [
+    {
+     "v": "cooking dinner",
+     "short": "Cooking dinner"
+    },
+    {
+     "v": "reading a book",
+     "short": "Reading a book"
+    },
+    {
+     "v": "watching TV",
+     "short": "Watching TV"
+    },
+    {
+     "v": "talking on the phone",
+     "short": "Talking on the phone"
+    },
+    {
+     "v": "watering the garden",
+     "short": "Watering the garden"
+    },
+    {
+     "v": "washing the dishes",
+     "short": "Washing the dishes"
+    },
+    {
+     "v": "sleeping",
+     "short": "Sleeping"
+    },
+    {
+     "v": "listening to music",
+     "short": "Listening to music"
+    }
+   ]
+  },
+  "acts_now": {
+   "items": [
+    {
+     "v": "is sleeping",
+     "short": "Sleeping"
+    },
+    {
+     "v": "is running",
+     "short": "Running"
+    },
+    {
+     "v": "is swimming",
+     "short": "Swimming"
+    },
+    {
+     "v": "is laughing",
+     "short": "Laughing"
+    },
+    {
+     "v": "is reading",
+     "short": "Reading"
+    },
+    {
+     "v": "is writing",
+     "short": "Writing"
+    },
+    {
+     "v": "is singing",
+     "short": "Singing"
+    },
+    {
+     "v": "is dancing",
+     "short": "Dancing"
+    },
+    {
+     "v": "is eating",
+     "short": "Eating"
+    },
+    {
+     "v": "is painting",
+     "short": "Painting"
+    }
+   ]
+  },
+  "events": {
+   "items": [
+    "the meeting",
+    "the lesson",
+    "the film",
+    "the match",
+    "the concert",
+    "the exam",
+    "the course",
+    "the ceremony"
+   ]
+  },
+  "cities": {
+   "proper": true,
+   "items": [
+    "London",
+    "Manchester",
+    "Leeds",
+    "Bristol",
+    "Glasgow",
+    "Cardiff",
+    "Edinburgh",
+    "Liverpool",
+    "Oxford",
+    "York"
+   ]
+  },
+  "weather": {
+   "items": [
+    "sunny",
+    "rainy",
+    "snowy",
+    "cloudy",
+    "windy",
+    "foggy",
+    "cool",
+    "hot"
+   ]
+  },
+  "produce": {
+   "items": [
+    "tomatoes",
+    "apples",
+    "potatoes",
+    "onions",
+    "bananas",
+    "grapes",
+    "oranges",
+    "cherries",
+    "pears",
+    "peppers"
+   ]
+  },
+  "foods_meal": {
+   "items": [
+    "soup",
+    "rice",
+    "pasta",
+    "salad",
+    "meatballs",
+    "fish",
+    "pie",
+    "pizza",
+    "noodles",
+    "curry"
+   ]
+  },
+  "workdocs": {
+   "items": [
+    "the report",
+    "the presentation",
+    "the budget sheet",
+    "the proposal",
+    "the contract",
+    "the meeting notes",
+    "the invoice"
+   ]
+  },
+  "workevents": {
+   "items": [
+    "the meeting",
+    "the training session",
+    "the presentation",
+    "the interview",
+    "the review"
+   ]
+  },
+  "workrooms": {
+   "items": [
+    {
+     "v": "the main hall",
+     "at": "in the main hall"
+    },
+    {
+     "v": "the room on the third floor",
+     "at": "in the room on the third floor"
+    },
+    {
+     "v": "the manager's office",
+     "at": "in the manager's office"
+    },
+    {
+     "v": "the meeting room downstairs",
+     "at": "in the meeting room downstairs"
+    },
+    {
+     "v": "the canteen",
+     "at": "in the canteen"
+    },
+    {
+     "v": "online",
+     "at": "online"
+    }
+   ]
+  },
+  "commands": {
+   "items": [
+    {
+     "v": "Please open the window.",
+     "short": "Open the window"
+    },
+    {
+     "v": "Could you turn off the light?",
+     "short": "Turn off the light"
+    },
+    {
+     "v": "Leave your shoes by the door.",
+     "short": "Leave the shoes by the door"
+    },
+    {
+     "v": "Can you help me set the table?",
+     "short": "Help set the table"
+    },
+    {
+     "v": "Please turn the TV down a little.",
+     "short": "Turn the TV down"
+    },
+    {
+     "v": "Could you take the rubbish out?",
+     "short": "Take the rubbish out"
+    },
+    {
+     "v": "Don't forget to water the plants.",
+     "short": "Water the plants"
+    },
+    {
+     "v": "Lock the door when you leave.",
+     "short": "Lock the door"
+    },
+    {
+     "v": "Wash your hands and come to the table.",
+     "short": "Wash hands and come to the table"
+    },
+    {
+     "v": "Hang your coat on the hook.",
+     "short": "Hang up the coat"
+    }
+   ]
+  },
+  "streets": {
+   "items": [
+    "Maple Street",
+    "Oak Road",
+    "Station Road",
+    "Park Lane",
+    "High Street",
+    "Church Street",
+    "Mill Lane",
+    "King Street"
+   ]
+  },
+  "reasons_walk": {
+   "items": [
+    {
+     "v": "the weather was lovely",
+     "short": "Because the weather was lovely"
+    },
+    {
+     "v": "the buses were on strike",
+     "short": "Because the buses were on strike"
+    },
+    {
+     "v": "they wanted some exercise",
+     "short": "Because they wanted some exercise"
+    },
+    {
+     "v": "the roads were very busy",
+     "short": "Because the roads were busy"
+    },
+    {
+     "v": "their bike was broken",
+     "short": "Because their bike was broken"
+    }
+   ]
+  },
+  "toys": {
+   "items": [
+    "ball",
+    "teddy bear",
+    "toy car",
+    "doll",
+    "jigsaw puzzle",
+    "kite",
+    "bucket"
+   ]
+  },
+  "zoo_animals": {
+   "items": [
+    "giraffe",
+    "elephant",
+    "lion",
+    "monkey",
+    "zebra",
+    "penguin",
+    "kangaroo",
+    "bear"
+   ]
+  },
+  "fruits": {
+   "items": [
+    "strawberries",
+    "bananas",
+    "cherries",
+    "peaches",
+    "raspberries",
+    "blueberries"
+   ]
+  },
+  "indoor": {
+   "items": [
+    {
+     "v": "drew a picture",
+     "short": "Drew a picture"
+    },
+    {
+     "v": "did a jigsaw puzzle",
+     "short": "Did a jigsaw"
+    },
+    {
+     "v": "read a book",
+     "short": "Read a book"
+    },
+    {
+     "v": "built a tower with blocks",
+     "short": "Built a tower"
+    },
+    {
+     "v": "played hide and seek",
+     "short": "Played hide and seek"
+    },
+    {
+     "v": "baked cookies with Dad",
+     "short": "Baked cookies"
+    }
+   ]
+  },
+  "doctors": {
+   "items": [
+    {
+     "v": "eye doctor",
+     "a": "an eye doctor"
+    },
+    {
+     "v": "dentist",
+     "a": "a dentist"
+    },
+    {
+     "v": "ear, nose and throat specialist",
+     "a": "an ear, nose and throat specialist"
+    },
+    {
+     "v": "audiologist",
+     "a": "an audiologist"
+    },
+    {
+     "v": "family doctor",
+     "a": "a family doctor"
+    }
+   ]
+  },
+  "ordinals": {
+   "items": [
+    {
+     "v": "first",
+     "show": "1"
+    },
+    {
+     "v": "second",
+     "show": "2"
+    },
+    {
+     "v": "third",
+     "show": "3"
+    },
+    {
+     "v": "fourth",
+     "show": "4"
+    },
+    {
+     "v": "fifth",
+     "show": "5"
+    },
+    {
+     "v": "sixth",
+     "show": "6"
+    }
+   ]
+  },
+  "clinics": {
+   "proper": true,
+   "items": [
+    {
+     "v": "Central Health Campus",
+     "at": "at Central Health Campus"
+    },
+    {
+     "v": "City Hospital",
+     "at": "at City Hospital"
+    },
+    {
+     "v": "Oak Tree Clinic",
+     "at": "at Oak Tree Clinic"
+    },
+    {
+     "v": "Northside Health Centre",
+     "at": "at Northside Health Centre"
+    }
+   ]
+  },
+  "hours": {
+   "items": [
+    {
+     "v": "two",
+     "show": "2"
+    },
+    {
+     "v": "three",
+     "show": "3"
+    },
+    {
+     "v": "four",
+     "show": "4"
+    },
+    {
+     "v": "five",
+     "show": "5"
+    },
+    {
+     "v": "six",
+     "show": "6"
+    },
+    {
+     "v": "seven",
+     "show": "7"
+    }
+   ]
+  },
+  "parks": {
+   "proper": true,
+   "items": [
+    {
+     "v": "Victoria Park",
+     "at": "in Victoria Park"
+    },
+    {
+     "v": "Riverside Park",
+     "at": "in Riverside Park"
+    },
+    {
+     "v": "the village green",
+     "at": "on the village green"
+    },
+    {
+     "v": "the school field",
+     "at": "on the school field"
+    }
+   ]
+  },
+  "temps": {
+   "items": [
+    {
+     "v": "five",
+     "show": "5"
+    },
+    {
+     "v": "ten",
+     "show": "10"
+    },
+    {
+     "v": "twelve",
+     "show": "12"
+    },
+    {
+     "v": "fifteen",
+     "show": "15"
+    },
+    {
+     "v": "eighteen",
+     "show": "18"
+    },
+    {
+     "v": "twenty",
+     "show": "20"
+    },
+    {
+     "v": "twenty-five",
+     "show": "25"
+    },
+    {
+     "v": "thirty",
+     "show": "30"
+    }
+   ]
+  },
+  "lostplaces": {
+   "items": [
+    {
+     "v": "the café",
+     "at": "at the café"
+    },
+    {
+     "v": "the bus",
+     "at": "on the bus"
+    },
+    {
+     "v": "the cinema",
+     "at": "at the cinema"
+    },
+    {
+     "v": "the library",
+     "at": "at the library"
+    },
+    {
+     "v": "the pharmacy",
+     "at": "at the pharmacy"
+    },
+    {
+     "v": "the gym",
+     "at": "at the gym"
+    }
+   ]
+  },
+  "topics": {
+   "items": [
+    "the new project",
+    "the customer survey",
+    "the website redesign",
+    "the annual budget",
+    "the training programme"
+   ]
+  },
+  "chores": {
+   "items": [
+    {
+     "v": "water the plants",
+     "short": "Water the plants"
+    },
+    {
+     "v": "take the rubbish out",
+     "short": "Take the rubbish out"
+    },
+    {
+     "v": "load the dishwasher",
+     "short": "Load the dishwasher"
+    },
+    {
+     "v": "tidy your room",
+     "short": "Tidy the room"
+    },
+    {
+     "v": "feed the cat",
+     "short": "Feed the cat"
+    },
+    {
+     "v": "hang up the washing",
+     "short": "Hang up the washing"
+    }
+   ]
+  },
+  "drinks": {
+   "items": [
+    "orange juice",
+    "water",
+    "lemonade",
+    "tea",
+    "sparkling water",
+    "apple juice"
+   ]
+  },
+  "dishes": {
+   "items": [
+    "the tomato soup",
+    "the fish and chips",
+    "the chicken curry",
+    "the vegetable lasagne",
+    "the cheese omelette",
+    "the beef burger",
+    "the Greek salad"
+   ]
+  },
+  "sizes": {
+   "items": [
+    "small",
+    "medium",
+    "large"
+   ]
+  },
+  "aisles": {
+   "items": [
+    {
+     "v": "aisle one",
+     "show": "1"
+    },
+    {
+     "v": "aisle two",
+     "show": "2"
+    },
+    {
+     "v": "aisle three",
+     "show": "3"
+    },
+    {
+     "v": "aisle four",
+     "show": "4"
+    },
+    {
+     "v": "aisle five",
+     "show": "5"
+    },
+    {
+     "v": "aisle six",
+     "show": "6"
+    }
+   ]
+  },
+  "dirs": {
+   "items": [
+    {
+     "v": "right",
+     "show": "Right"
+    },
+    {
+     "v": "left",
+     "show": "Left"
+    }
+   ]
+  },
+  "landmarks": {
+   "items": [
+    "the pharmacy",
+    "the bank",
+    "the park",
+    "the school",
+    "the post office",
+    "the bakery"
+   ]
+  },
+  "dest": {
+   "items": [
+    "the library",
+    "the museum",
+    "the town hall",
+    "the cinema",
+    "the bus stop"
+   ]
+  },
+  "socials": {
+   "items": [
+    "concert",
+    "birthday party",
+    "picnic",
+    "film night",
+    "brunch",
+    "barbecue"
+   ]
+  },
+  "stations": {
+   "proper": true,
+   "items": [
+    "Kings Cross",
+    "Victoria",
+    "Oxford Circus",
+    "Baker Street",
+    "Green Park",
+    "Bank",
+    "Waterloo",
+    "Euston"
+   ]
+  },
+  "sides": {
+   "items": [
+    {
+     "v": "right",
+     "show": "Right"
+    },
+    {
+     "v": "left",
+     "show": "Left"
+    }
+   ]
+  },
+  "lines": {
+   "items": [
+    {
+     "v": "twelve",
+     "show": "12"
+    },
+    {
+     "v": "twenty-three",
+     "show": "23"
+    },
+    {
+     "v": "thirty-five",
+     "show": "35"
+    },
+    {
+     "v": "forty-one",
+     "show": "41"
+    },
+    {
+     "v": "fifty-seven",
+     "show": "57"
+    },
+    {
+     "v": "sixty-four",
+     "show": "64"
+    }
+   ]
+  },
+  "mins": {
+   "items": [
+    {
+     "v": "five",
+     "show": "5"
+    },
+    {
+     "v": "seven",
+     "show": "7"
+    },
+    {
+     "v": "ten",
+     "show": "10"
+    },
+    {
+     "v": "fifteen",
+     "show": "15"
+    },
+    {
+     "v": "twenty",
+     "show": "20"
+    }
+   ]
+  },
+  "pages": {
+   "items": [
+    {
+     "v": "thirty-two",
+     "show": "32"
+    },
+    {
+     "v": "forty-five",
+     "show": "45"
+    },
+    {
+     "v": "fifty-eight",
+     "show": "58"
+    },
+    {
+     "v": "sixty-seven",
+     "show": "67"
+    },
+    {
+     "v": "seventy-four",
+     "show": "74"
+    },
+    {
+     "v": "eighty-one",
+     "show": "81"
+    }
+   ]
+  },
+  "exnums": {
+   "items": [
+    {
+     "v": "one",
+     "show": "1"
+    },
+    {
+     "v": "two",
+     "show": "2"
+    },
+    {
+     "v": "three",
+     "show": "3"
+    },
+    {
+     "v": "four",
+     "show": "4"
+    },
+    {
+     "v": "five",
+     "show": "5"
+    }
+   ]
+  },
+  "depts": {
+   "items": [
+    {
+     "v": "eye clinic",
+     "show": "Eye clinic"
+    },
+    {
+     "v": "ENT clinic",
+     "show": "ENT clinic"
+    },
+    {
+     "v": "dental clinic",
+     "show": "Dental clinic"
+    },
+    {
+     "v": "outpatients department",
+     "show": "Outpatients"
+    },
+    {
+     "v": "audiology department",
+     "show": "Audiology"
+    }
+   ]
+  },
+  "assembly": {
+   "items": [
+    "the car park in front of the building",
+    "the garden behind the building",
+    "the park across the road",
+    "the school sports field"
+   ]
+  },
+  "tvshows": {
+   "items": [
+    "the news",
+    "a nature documentary",
+    "the quiz show",
+    "a cartoon",
+    "the match highlights"
+   ]
+  },
+  "rooms": {
+   "items": [
+    {
+     "v": "kitchen",
+     "at": "in the kitchen"
+    },
+    {
+     "v": "living room",
+     "at": "in the living room"
+    },
+    {
+     "v": "bathroom",
+     "at": "in the bathroom"
+    },
+    {
+     "v": "bedroom",
+     "at": "in the bedroom"
+    },
+    {
+     "v": "garden",
+     "at": "in the garden"
+    },
+    {
+     "v": "hall",
+     "at": "in the hall"
+    }
+   ]
+  },
+  "kin_helpers": {
+   "proper": true,
+   "items": [
+    "Mom",
+    "Dad",
+    "Grandpa",
+    "Aunt Rose",
+    "Uncle Joe",
+    "the neighbour",
+    "the babysitter"
+   ]
+  },
+  "meetspots": {
+   "items": [
+    {
+     "v": "the library entrance",
+     "at": "at the library entrance"
+    },
+    {
+     "v": "the station exit",
+     "at": "at the station exit"
+    },
+    {
+     "v": "the park gate",
+     "at": "at the park gate"
+    },
+    {
+     "v": "the front of the café",
+     "at": "in front of the café"
+    },
+    {
+     "v": "the bus stop",
+     "at": "at the bus stop"
+    }
+   ]
+  },
+  "bringables": {
+   "items": [
+    "an umbrella",
+    "your ID card",
+    "a camera",
+    "a water bottle",
+    "a scarf",
+    "a map"
+   ]
+  },
+  "companies": {
+   "proper": true,
+   "items": [
+    "Star Logistics",
+    "Blue Software",
+    "Ocean Foods",
+    "Hill Construction",
+    "Bay Textiles"
+   ]
+  }
+ }
+}

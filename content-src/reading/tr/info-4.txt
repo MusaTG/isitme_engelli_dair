@@ -1,0 +1,363 @@
+### 76 | Mıknatıslar
+sub: science | tags: mıknatıs, manyetizma, kutup, demir
+---
+Buzdolabına not tutturduğumuz küçük mıknatıslardan, büyük elektrik santrallerindeki jeneratörlere kadar mıknatıslar hayatımızın pek çok yerinde karşımıza çıkar.
+
+Her mıknatısın iki kutbu vardır: Kuzey ve güney. Aynı kutuplar birbirini iter, zıt kutuplar birbirini çeker. Bir mıknatısı ikiye böldüğünüzde, tek kutuplu iki parça elde etmezsiniz; her parça yine kuzey ve güney kutbu olan küçük bir mıknatıs olur.
+
+Mıknatıslar demir, nikel ve kobalt gibi bazı metalleri çeker. Bu metallere ferromanyetik maddeler denir. Alüminyum, bakır, tahta ve plastik ise mıknatıs tarafından belirgin şekilde çekilmez.
+
+Mıknatısın çevresinde, gözle görülmeyen bir manyetik alan bulunur. Bir kâğıdın üzerine demir tozu serpip altına bir mıknatıs koyduğunuzda, tozların kutuplar arasında eğri çizgiler oluşturduğunu görürsünüz. Bu çizgiler manyetik alanın şeklini gösterir.
+
+Elektrik ile manyetizma arasında derin bir bağ vardır. Bir telden elektrik akımı geçtiğinde telin çevresinde manyetik alan oluşur. Bu ilkeyle yapılan mıknatıslara elektromıknatıs denir. Hurdalıklarda ağır metalleri kaldıran vinçler ve kapı zilleri elektromıknatıs kullanır. Tersine, bir mıknatısı bir tel bobinin içinde hareket ettirmek de elektrik akımı üretir. Jeneratörler bu ilkeyle çalışır.
+
+### 77 | Akciğerler ve Solunum
+sub: body | tags: akciğer, solunum, oksijen, nefes
+---
+Hiç düşünmeden günde binlerce kez nefes alırız. Her nefes, vücudumuzun hücrelerine oksijen ulaştırmak ve karbondioksiti dışarı atmak için yapılır.
+
+Nefes aldığımızda hava burun ya da ağız yoluyla girer. Burun, havayı ısıtır, nemlendirir ve içindeki tozun bir kısmını tutar. Hava daha sonra soluk borusundan aşağı iner. Soluk borusu iki ana kola ayrılır ve her biri bir akciğere girer. Bu kollar akciğerin içinde ağaç dalları gibi sürekli bölünerek giderek incelir.
+
+En uç noktalarda hava keseciği adı verilen milyonlarca küçük kese bulunur. Hava keseciklerinin duvarları çok incedir ve etrafları kılcal damarlarla sarılıdır. Oksijen bu ince duvardan kana geçer, karbondioksit ise kandan hava keseciğine geçer. Bütün bu keseciklerin toplam yüzeyi çok geniştir.
+
+Nefes almayı sağlayan en önemli kas diyaframdır. Diyafram, göğüs boşluğunun altında bulunan kubbe şeklinde bir kastır. Kasıldığında aşağı iner, göğüs boşluğu genişler ve hava içeri dolar. Gevşediğinde yukarı çıkar ve hava dışarı verilir.
+
+Sigara dumanı ve hava kirliliği akciğerlere zarar verebilir. Temiz hava, düzenli hareket ve sigaradan uzak durmak akciğer sağlığı için genel olarak önerilen alışkanlıklardır.
+
+### 78 | Haritaları Okumak
+sub: geography | tags: harita, ölçek, lejant, yön
+---
+Haritalar, dünyanın ya da bir bölgenin küçültülmüş ve sadeleştirilmiş çizimleridir. Bir haritayı doğru okuyabilmek için birkaç temel kavramı bilmek gerekir.
+
+Ölçek, haritadaki uzaklıkların gerçekte ne kadar olduğunu gösterir. Örneğin 1:100.000 ölçekli bir haritada bir santimetre, gerçekte yüz bin santimetreye, yani bir kilometreye karşılık gelir. Ölçeğin paydası büyüdükçe harita daha geniş bir alanı daha az ayrıntıyla gösterir.
+
+Lejant ya da açıklama kutusu, haritada kullanılan işaretlerin ve renklerin ne anlama geldiğini gösterir. Mavi çizgiler nehirleri, kırmızı çizgiler yolları, küçük üçgenler dağ zirvelerini gösterebilir. Her harita kendi işaretlerini kullanabileceği için lejanta bakmak önemlidir.
+
+Yön, haritanın bir köşesindeki ok ya da yön gülüyle gösterilir. Çoğu haritada kuzey yukarıdadır, ama bu her zaman böyle değildir.
+
+Fiziki haritalar yeryüzü şekillerini gösterir. Yükseklikler genellikle renklerle anlatılır: Yeşil alçak düzlükleri, kahverengi yüksek dağları, mavinin tonları ise deniz derinliklerini gösterir. Siyasi haritalar ise ülke ve il sınırlarını gösterir.
+
+Telefonlardaki dijital haritalar işimizi kolaylaştırsa da, kâğıt bir haritayı okuyabilmek, özellikle bağlantının olmadığı yerlerde değerli bir beceridir.
+
+### 79 | Kaygı ile Baş Etmek
+sub: psychology | tags: kaygı, endişe, rahatlama, ruh sağlığı
+---
+Kaygı, belirsiz ya da tehdit edici durumlar karşısında hissettiğimiz huzursuzluk ve endişe duygusudur. Bir sınav öncesinde, bir iş görüşmesinde ya da önemli bir haber beklerken kaygı hissetmek tamamen doğaldır.
+
+Belirli bir düzeyde kaygı faydalı bile olabilir. Bizi hazırlanmaya, dikkatli olmaya ve önlem almaya yönlendirir. Ancak kaygı çok yoğunlaştığında ya da gerçek bir tehdit olmadığı hâlde sürekli devam ettiğinde, günlük hayatı zorlaştırabilir.
+
+Kaygıyla baş etmek için kullanılan bazı genel yöntemler vardır. Yavaş ve derin nefes almak, vücudun sakinleşmesine yardım edebilir. Örneğin dört saniye boyunca nefes alıp altı saniye boyunca yavaşça vermek, pek çok kişinin işine yarayan basit bir yöntemdir.
+
+Endişelerimizi yazmak da zihnimizi düzenlemeye yardım edebilir. Bir kâğıda neden endişelendiğimizi, bu konuda neleri kontrol edebileceğimizi ve neleri kontrol edemeyeceğimizi yazmak, durumu daha net görmemizi sağlar.
+
+Düzenli fiziksel hareket, yeterli uyku, kafein tüketimini azaltmak ve güvendiğimiz insanlarla konuşmak da kaygıyı hafifletebilir.
+
+Kaygı uzun süre devam ediyor, uykuyu, işi ya da ilişkileri belirgin şekilde etkiliyorsa, bir ruh sağlığı uzmanından destek almak önemli ve doğru bir adımdır.
+
+### 80 | Tasarruflu Enerji Kullanımı
+sub: living | tags: enerji, tasarruf, ev, fatura
+---
+Evde enerji tasarrufu yapmak hem faturaları azaltır hem de çevreye olan etkimizi küçültür. Üstelik bunun için büyük değişiklikler gerekmez; küçük alışkanlıklar bile fark yaratabilir.
+
+Aydınlatma, kolay tasarruf edilebilecek alanlardan biridir. Eski tip akkor ampuller yerine LED ampuller kullanmak, aynı aydınlığı çok daha az enerjiyle sağlar. Boş odalardaki ışıkları kapatmak da basit ama etkili bir alışkanlıktır.
+
+Isınma ve soğutma, evlerde en çok enerji harcanan alanlar arasındadır. Kışın pencere ve kapılardaki hava kaçaklarını önlemek, ısının dışarı kaçmasını azaltır. Termostatı birkaç derece düşük tutmak ve kalın kıyafetler giymek de tasarruf sağlar. Gece perdeleri kapatmak, camlardan kaçan ısıyı azaltabilir.
+
+Elektrikli aletlerin bekleme modunda bile enerji harcadığını biliyor muydunuz? Kullanılmayan cihazları prizden çekmek ya da anahtarlı uzatma kabloları kullanmak bu kaybı önler.
+
+Mutfakta da tasarruf mümkündür. Çamaşır ve bulaşık makinelerini tam dolu çalıştırmak, suyu ısıtırken sadece ihtiyaç kadarını ısıtmak ve tencereleri kapakla kullanmak enerji harcamasını azaltır.
+
+Yeni bir beyaz eşya alırken enerji etiketine bakmak, uzun vadede önemli bir fark yaratabilir.
+
+### 81 | Kredi Kartını Bilinçli Kullanmak
+sub: economy | tags: kredi kartı, borç, faiz, harcama
+---
+Kredi kartları alışverişi kolaylaştırır, ama dikkatli kullanılmadığında borç yükünün hızla artmasına yol açabilir. Bilinçli kullanım için kartın nasıl çalıştığını anlamak önemlidir.
+
+Kredi kartıyla alışveriş yaptığınızda, banka sizin yerinize ödeme yapar ve siz bu tutarı daha sonra bankaya ödersiniz. Her ay bir hesap kesim tarihi ve bir son ödeme tarihi vardır. Dönem borcunun tamamı son ödeme tarihine kadar ödenirse, genellikle faiz ödenmez.
+
+Sorun, borcun sadece asgari tutarının ödenmesiyle başlar. Asgari ödeme, borcun yalnızca belirli bir yüzdesidir. Kalan tutara faiz işler. Bir sonraki ay bu faiz de borca eklenir. Bu şekilde borç, beklenenden çok daha uzun sürede ve çok daha yüksek bir toplamla ödenebilir.
+
+Kredi kartını bilinçli kullanmak için bazı öneriler vardır. Kartla sadece ay sonunda tamamını ödeyebileceğiniz tutarda harcama yapmak. Harcamaları düzenli olarak takip etmek. Nakit avans çekmekten kaçınmak, çünkü genellikle yüksek maliyetlidir. Kart limitini ihtiyacınızdan fazla yüksek tutmamak.
+
+Taksitli alışverişlerde de toplam tutarı hesaba katmak gerekir. Küçük aylık taksitler bir araya geldiğinde bütçeyi zorlayabilir. Mali durumunuza özel kararlar için bir uzmana danışmak faydalı olabilir.
+
+### 82 | Zor Bir Konuşmayı Yönetmek
+sub: communication | tags: zor konuşma, anlaşmazlık, iletişim, empati
+---
+Bir arkadaşa kırıldığımızı söylemek, bir iş arkadaşıyla anlaşmazlığı konuşmak ya da bir aile üyesine hayır demek. Bu tür zor konuşmalardan çoğumuz kaçınırız. Oysa ertelenen konuşmalar genellikle daha da zorlaşır.
+
+Zor bir konuşmaya hazırlanırken önce amacımızı netleştirmek yararlıdır. Bu konuşmadan ne çıkmasını istiyorum? Karşımdakini suçlamak mı, yoksa bir sorunu çözmek mi?
+
+Konuşmayı uygun bir zamanda ve sakin bir ortamda yapmak önemlidir. İki tarafın da yorgun, aç ya da aceleci olduğu bir anda başlayan konuşma kolayca tartışmaya dönüşebilir.
+
+"Ben" diliyle konuşmak, karşı tarafın savunmaya geçmesini azaltabilir. "Sen hep geç kalıyorsun" yerine "Buluşmalarımızda beklediğimde kendimi önemsenmemiş hissediyorum" demek, aynı konuyu daha yapıcı bir şekilde dile getirir.
+
+Karşı tarafın bakış açısını dinlemek de bir o kadar önemlidir. Belki bilmediğimiz bir durum vardır. Onun anlattıklarını özetleyip doğru anladığımızı kontrol etmek, karşılıklı anlayışı güçlendirir.
+
+Her zor konuşma tek seferde çözülmeyebilir. Bazen ara vermek ve konuya daha sonra dönmek en doğrusudur. Önemli olan, konuşmanın ilişkiyi korurken sorunu ele almasıdır.
+
+### 83 | Teleskoplar Nasıl Çalışır?
+sub: science | tags: teleskop, mercek, ayna, gökyüzü
+---
+Teleskoplar, çıplak gözle göremeyeceğimiz kadar uzak ve sönük cisimleri görmemizi sağlar. Bir teleskobun temel görevi, mümkün olduğunca çok ışık toplamak ve bu ışığı bir noktada odaklamaktır.
+
+İki temel teleskop türü vardır. Mercekli teleskoplar, ışığı toplamak ve odaklamak için büyük bir mercek kullanır. Işık mercekten geçerken kırılır ve teleskobun arka ucunda bir noktada toplanır. Oluşan görüntü, göz merceği adı verilen ikinci bir mercekle büyütülerek izlenir. Galileo'nun 17. yüzyılın başlarında gökyüzünü incelediği teleskop bu türdendi.
+
+Aynalı teleskoplar ise ışığı toplamak için içbükey bir ayna kullanır. Işık aynadan yansıyarak bir noktada toplanır. Isaac Newton, bu tür bir teleskobun ilk başarılı örneklerinden birini yaptı. Bugün dünyanın en büyük teleskoplarının çoğu aynalıdır, çünkü çok büyük aynalar yapmak çok büyük mercekler yapmaktan daha kolaydır.
+
+Bir teleskobun en önemli özelliği büyütme gücü değil, ışık toplayan yüzeyinin, yani açıklığının büyüklüğüdür. Açıklık ne kadar büyükse, teleskop o kadar sönük cisimleri görebilir ve o kadar ince ayrıntıları ayırt edebilir.
+
+Bazı teleskoplar ise uzaya gönderilmiştir. Atmosferin bulanıklaştırıcı etkisinden uzakta olan uzay teleskopları, evrenin çok uzak köşelerinden etkileyici görüntüler elde eder.
+
+### 84 | Mutfakta Gıda Güvenliği
+sub: living | tags: gıda güvenliği, mutfak, hijyen, saklama
+---
+Evde hazırladığımız yemeklerin güvenli olması için bazı temel kurallara dikkat etmek gerekir. Gıda kaynaklı hastalıkların önemli bir kısmı, basit hijyen önlemleriyle önlenebilir.
+
+Birinci kural temizliktir. Yemek hazırlamadan önce, özellikle çiğ et, tavuk ya da yumurtayla temastan sonra elleri sabunla iyice yıkamak gerekir. Tezgâhlar, kesme tahtaları ve bıçaklar da düzenli olarak temizlenmelidir.
+
+İkinci kural, çiğ ve pişmiş yiyecekleri ayırmaktır. Çiğ et ve tavuk için kullanılan kesme tahtasını, yıkamadan salata malzemeleri için kullanmamak gerekir. Buzdolabında da çiğ etleri, sızıntı yapmayacak şekilde kapalı kaplarda ve alt raflarda saklamak önerilir.
+
+Üçüncü kural, yiyecekleri iyice pişirmektir. Özellikle tavuk eti ve kıyma, içleri tamamen pişene kadar pişirilmelidir.
+
+Dördüncü kural, yiyecekleri uygun sıcaklıkta saklamaktır. Bakteriler oda sıcaklığında hızla çoğalabilir. Pişmiş yemekleri uzun süre tezgâhta bekletmeden, soğuduktan sonra buzdolabına koymak gerekir. Donmuş yiyecekleri oda sıcaklığında değil, buzdolabında çözdürmek daha güvenlidir.
+
+Son olarak, son kullanma tarihlerine dikkat etmek ve kokusu, rengi ya da görünüşü değişmiş yiyecekleri tüketmemek önemlidir.
+
+### 85 | Rönesans Nedir?
+sub: history | tags: Rönesans, sanat, Avrupa, tarih
+---
+Rönesans, Fransızcada "yeniden doğuş" anlamına gelir. Bu kelime, yaklaşık 14. yüzyıldan 17. yüzyıla kadar Avrupa'da sanatta, bilimde ve düşüncede yaşanan büyük canlanmayı anlatmak için kullanılır.
+
+Rönesans ilk olarak İtalya'da, özellikle Floransa gibi zengin ticaret şehirlerinde başladı. Bu dönemde düşünürler ve sanatçılar, antik Yunan ve Roma'nın eserlerine yeniden ilgi duydu. Eski metinler incelendi, çevrildi ve yeniden yorumlandı.
+
+Rönesans'ın en belirgin özelliklerinden biri insana verilen önemdi. Bu düşünce akımına hümanizm denir. Hümanistler, insanın yeteneklerine, aklına ve yaratıcılığına güveniyordu.
+
+Sanatta büyük değişiklikler yaşandı. Ressamlar, perspektif kurallarını kullanarak resimlerinde derinlik etkisi yaratmayı geliştirdi. İnsan bedeni daha gerçekçi biçimde resmedilmeye başlandı. Leonardo da Vinci, Michelangelo ve Raffaello bu dönemin en ünlü sanatçılarıdır.
+
+Bilimde de önemli gelişmeler oldu. Gözleme ve deneye dayalı düşünce güç kazandı. Matbaanın yaygınlaşması, yeni fikirlerin Avrupa'ya hızla yayılmasını sağladı.
+
+Rönesans'ın tek bir yerden doğmadığını, farklı kültürlerle olan alışverişlerden de beslendiğini belirtmek gerekir. İslam dünyasında korunan ve geliştirilen bilimsel ve felsefi eserler, bu dönemde Avrupa'daki düşünceyi etkileyen kaynaklar arasındaydı.
+
+### 86 | Uydu Konum Sistemleri Nasıl Çalışır?
+sub: technology | tags: uydu, konum, navigasyon, harita
+---
+Telefonumuzdaki harita uygulaması, bulunduğumuz yeri birkaç metre hassasiyetle gösterebilir. Bu, Dünya'nın çevresinde dönen uydu sistemleri sayesinde mümkündür.
+
+Uydu konum sistemleri, Dünya'nın etrafında belirli yörüngelerde dönen çok sayıda uydudan oluşur. Bu uyduların her biri, çok hassas atom saatleri taşır ve sürekli olarak konumunu ve sinyalin gönderildiği zamanı bildiren sinyaller yayar.
+
+Telefonumuzdaki alıcı bu sinyalleri yakalar. Sinyalin uydudan alıcıya ulaşması çok kısa bir süre alır. Alıcı, sinyalin gönderilme zamanı ile alınma zamanı arasındaki farkı hesaplar. Sinyaller ışık hızında ilerlediği için bu süre farkından uyduya olan uzaklık hesaplanabilir.
+
+Tek bir uydudan gelen bilgi, alıcının o uydudan belirli bir uzaklıktaki herhangi bir noktada olabileceğini söyler. Birden fazla uydudan uzaklık bilgisi alındığında, bu bilgilerin kesiştiği tek bir nokta bulunur. Konumun ve zamanın doğru hesaplanması için genellikle en az dört uydudan sinyal alınması gerekir.
+
+Bu sistemin doğru çalışması için zaman ölçümünün son derece hassas olması gerekir. Saatlerdeki çok küçük bir hata bile konumda büyük sapmalara neden olabilir.
+
+Bugün dünyada birkaç farklı ülke ve bölgenin işlettiği uydu konum sistemleri bulunur. Pek çok telefon, daha doğru sonuç için bunların birkaçını birlikte kullanır.
+
+### 87 | Hayatta Kalan Diller ve Kaybolan Diller
+sub: communication | tags: dil, kaybolan diller, kültür, çeşitlilik
+---
+Dünyada bugün yedi bin civarında dil konuşulduğu tahmin edilir. Ancak bu dillerin önemli bir kısmı yok olma tehlikesiyle karşı karşıyadır.
+
+Dillerin konuşan sayısı arasında büyük farklar vardır. Bir avuç dil yüz milyonlarca kişi tarafından konuşulurken, pek çok dil sadece birkaç bin, hatta birkaç yüz kişi tarafından konuşulur. Bir dil, çocuklar tarafından artık öğrenilmediğinde tehlike altına girer. Son konuşanları da hayatını kaybettiğinde dil ölür.
+
+Dillerin kaybolmasının pek çok nedeni vardır. Göç, şehirleşme, eğitimin ve medyanın büyük dillerde yapılması ve ekonomik baskılar, insanların kendi dillerini bırakıp daha yaygın dillere geçmesine yol açabilir.
+
+Bir dil kaybolduğunda sadece kelimeler kaybolmaz. O dilde biriken hikâyeler, şarkılar, bitki ve hayvan bilgileri, dünyayı algılama biçimleri de kaybolabilir.
+
+Pek çok topluluk ve dil bilimci, tehlike altındaki dilleri belgelemek ve yaşatmak için çalışıyor. Sözlükler hazırlanıyor, konuşanların kayıtları arşivleniyor, çocuklar için dil yuvaları açılıyor. Bazı diller, toplulukların kararlı çabalarıyla yeniden canlanmaya başlamıştır.
+
+UNESCO, dünyanın dil çeşitliliğini korumanın önemine dikkat çeken çalışmalar yürütmektedir.
+
+### 88 | Mağaralar Nasıl Oluşur?
+sub: geography | tags: mağara, kireçtaşı, sarkıt, dikit
+---
+Mağaralar, yerin altında oluşmuş doğal boşluklardır. En yaygın mağara türü, kireçtaşı gibi suda yavaş yavaş çözünebilen kayaların içinde oluşur.
+
+Bu tür mağaraların oluşumu çok uzun zaman alır. Yağmur suyu havadaki ve topraktaki karbondioksiti çözerek hafif asitli hâle gelir. Bu su, kireçtaşındaki çatlaklardan sızarken kayayı çok yavaş bir şekilde çözer. Binlerce, hatta milyonlarca yıl boyunca çatlaklar genişler ve sonunda büyük boşluklar, galeriler ve yeraltı nehirleri oluşur.
+
+Mağaraların en etkileyici süsleri sarkıtlar ve dikitlerdir. Mağaranın tavanından damlayan su, içinde çözünmüş mineraller taşır. Damla tavanda asılı kalırken, içindeki mineralin küçük bir kısmı çöker. Bu birikintiler zamanla tavandan aşağı doğru uzanan sarkıtları oluşturur. Yere düşen damlalardaki mineraller ise yerden yukarı doğru büyüyen dikitleri oluşturur. Bir sarkıt ile bir dikit zamanla birleşerek bir sütun oluşturabilir.
+
+Sarkıtlar ve dikitler çok yavaş büyür. Bu yüzden bir mağaradaki oluşumlara dokunmamak çok önemlidir. Ellerimizdeki yağ ve kir, büyümelerini engelleyebilir.
+
+Türkiye, özellikle Toros Dağları'ndaki kireçtaşı alanlarında çok sayıda mağaraya ev sahipliği yapar. Bunlardan bazıları ziyaretçilere açıktır.
+
+### 89 | Sabır ve Gecikmiş Ödül
+sub: psychology | tags: sabır, öz denetim, karar, gelecek
+---
+Şimdi küçük bir ödül mü, yoksa biraz bekleyip daha büyük bir ödül mü? Bu soru, psikolojide uzun süredir incelenen bir konudur: Gecikmiş ödül.
+
+Bu alandaki en bilinen çalışmalardan biri, 1960'lı ve 70'li yıllarda yapılan bir dizi deneydir. Çocuklara bir şeker verildi ve şekeri hemen yiyebilecekleri, ama bir süre beklerlerse ikinci bir şeker alacakları söylendi. Sonra araştırmacı odadan çıktı. Bazı çocuklar şekeri hemen yedi, bazıları bekledi.
+
+Bu çalışmalar uzun süre, bekleme yeteneğinin ileriki yaşlardaki başarıyla güçlü bir şekilde ilişkili olduğu şeklinde yorumlandı. Ancak daha sonra yapılan ve daha geniş katılımcı gruplarıyla tekrarlanan çalışmalar, bu ilişkinin ilk düşünüldüğünden çok daha zayıf olduğunu ve ailenin ekonomik durumu gibi başka etkenlerin de önemli rol oynadığını gösterdi. Örneğin sözlerin tutulmadığı bir ortamda büyüyen bir çocuğun, beklemek yerine şekeri hemen yemesi oldukça mantıklı bir seçim olabilir.
+
+Bu tartışma, bilimin nasıl ilerlediğine de güzel bir örnektir: Bir bulgu, yeni çalışmalarla sınanır ve gerekirse yeniden yorumlanır.
+
+Günlük hayatta bekleyebilmek için ortamı düzenlemek işe yarayabilir. Cazip şeyi gözden uzak tutmak ya da bekleme süresini başka bir etkinlikle doldurmak, sabretmeyi kolaylaştırır.
+
+### 90 | Yapay Zekâyı Sorumlu Kullanmak
+sub: ai | level: 2 | tags: yapay zekâ, etik, doğrulama, gizlilik
+---
+## Neden Önemli?
+
+Yapay zekâ araçları; yazı yazmak, bilgi aramak, çeviri yapmak, fikir üretmek ve pek çok başka iş için günlük hayatımıza girdi. Bu araçlar zaman kazandırabilir ve yaratıcılığı destekleyebilir. Ancak her güçlü araç gibi, bilinçli ve sorumlu kullanılmaları gerekir. Bu yazıda, yapay zekâ araçlarını kullanırken akılda tutulması yararlı olan bazı ilkeleri ele alıyoruz.
+
+## Doğruluk: Her Cevap Doğru Değildir
+
+Yapay zekâ sohbet araçları, çok akıcı ve kendinden emin bir dille cevap verir. Bu akıcılık, cevapların doğru olduğu izlenimini yaratabilir. Oysa bu araçlar zaman zaman yanlış bilgi verebilir, var olmayan kaynaklar uydurabilir ya da güncel olmayan bilgiler sunabilir. Bu duruma bazen "halüsinasyon" denir.
+
+Bu yüzden özellikle sağlık, hukuk, finans ve güvenlik gibi önemli konularda yapay zekânın verdiği bilgileri güvenilir kaynaklarla kontrol etmek gerekir. Bir aracın bir kaynağa atıf yapması da tek başına yeterli değildir; kaynağın gerçekten var olduğunu ve söyleneni desteklediğini kontrol etmek gerekir.
+
+## Gizlilik: Neyi Paylaşıyoruz?
+
+Yapay zekâ araçlarına yazdığımız metinler, kullanılan hizmete ve ayarlara bağlı olarak saklanabilir ya da işlenebilir. Bu yüzden kimlik numarası, banka bilgileri, parolalar, sağlık kayıtları gibi hassas kişisel bilgileri paylaşmadan önce iki kez düşünmek gerekir. İş yerinde kullanılan araçlarda ise şirketin gizli bilgilerinin paylaşılıp paylaşılamayacağı konusunda kurum kurallarına uymak önemlidir.
+
+Bir aracı kullanmaya başlamadan önce gizlilik politikasını ve ayarlarını incelemek, verilerinizin nasıl kullanıldığını anlamanıza yardım eder.
+
+## Öğrenme: Araç mı, Kestirme mi?
+
+Öğrenciler için yapay zekâ hem büyük bir fırsat hem de bir tuzak olabilir. Bir konuyu anlamadığımızda farklı biçimlerde açıklama istemek, kendimizi sınamak için soru hazırlatmak ya da yazdığımız bir metin hakkında geri bildirim almak, öğrenmeyi destekleyebilir.
+
+Ancak ödevi tamamen bir araca yaptırmak, öğrenme fırsatını kaçırmak demektir. Ayrıca pek çok okul ve üniversite, yapay zekâ kullanımıyla ilgili kurallar belirlemiştir. Bu kurallara uymak ve yapay zekâdan yararlanıldığında bunu açıkça belirtmek, akademik dürüstlüğün bir parçasıdır.
+
+## Adalet: Ön Yargılara Dikkat
+
+Yapay zekâ sistemleri, eğitildikleri verilerdeki kalıpları öğrenir. Bu veriler toplumda var olan ön yargıları içeriyorsa, sistemler de bu ön yargıları yansıtabilir. Örneğin belirli meslekleri belirli cinsiyetlerle ilişkilendiren ya da bazı grupları olumsuz biçimde temsil eden çıktılar üretebilirler.
+
+Bu yüzden yapay zekânın insanlar hakkında kararlar vermede kullanıldığı durumlarda, örneğin işe alımda ya da kredi değerlendirmesinde, insan denetimi ve şeffaflık özellikle önemlidir.
+
+## Yaratıcılık ve Saygı
+
+Yapay zekâ ile metin ya da görsel üretirken, başkalarının emeğine saygı göstermek gerekir. Gerçek kişileri yanıltıcı biçimde taklit eden içerikler üretmek ya da yaymak hem etik hem de hukuki sorunlara yol açabilir. Yapay zekâ ile üretilmiş bir içeriği gerçek bir fotoğraf ya da gerçek bir kişinin sözü gibi sunmak, insanları yanıltır.
+
+## Sonuç: Son Söz İnsanda
+
+Yapay zekâ araçlarını bir yardımcı, bir fikir ortağı ya da bir ilk taslak hazırlayıcısı olarak düşünmek faydalıdır. Ama son karar, son kontrol ve sorumluluk her zaman kullanan kişidedir. Araçların ne yapabildiğini ve ne yapamadığını bilmek, onlardan en iyi şekilde yararlanmanın anahtarıdır.
+
+### 91 | Göz Yanılsamaları
+sub: psychology | tags: göz yanılsaması, algı, beyin, görme
+---
+Bazen gözümüzün gördüğü ile gerçek arasında fark vardır. Aynı uzunluktaki iki çizgi farklı uzunlukta görünebilir, durağan bir resim hareket ediyormuş gibi görünebilir. Bu tür durumlara göz yanılsaması ya da optik illüzyon denir.
+
+Göz yanılsamaları, aslında gözümüzün değil, beynimizin görme bilgisini yorumlama biçiminin bir sonucudur. Beyin, gördüğümüz dünyayı hızlı ve verimli bir şekilde anlamlandırmak için bazı kısayollar kullanır. Bu kısayollar çoğu zaman çok işe yarar, ama bazı özel durumlarda bizi yanıltabilir.
+
+En bilinen yanılsamalardan birinde, aynı uzunluktaki iki çizginin uçlarına farklı yönlere bakan ok başları çizilir. Ok başları dışa açık olan çizgi, ok başları içe dönük olandan daha uzun görünür. Ölçtüğünüzde ise ikisinin aynı uzunlukta olduğunu görürsünüz.
+
+Renk ve parlaklık yanılsamaları da yaygındır. Aynı gri tonu, koyu bir zemin üzerinde daha açık, açık bir zemin üzerinde daha koyu görünür. Çünkü beyin renkleri, çevresindeki renklerle karşılaştırarak algılar.
+
+Bilim insanları göz yanılsamalarını, beynin görme sistemini nasıl işlediğini anlamak için kullanır. Yanılsamalar bize, algımızın dünyanın birebir kopyası değil, beynimizin yaptığı bir yorum olduğunu hatırlatır.
+
+### 92 | Su Arıtma Tesisleri
+sub: living | tags: su, arıtma, musluk, şehir
+---
+Musluğu açtığımızda akan temiz su, uzun bir yolculuğun ve bir dizi arıtma işleminin sonucudur. Şehirlere verilen su genellikle barajlardan, göllerden, nehirlerden ya da yeraltı kaynaklarından alınır ve içme suyu arıtma tesislerinde temizlenir.
+
+Arıtmanın ilk adımlarından biri, sudaki büyük parçaların ızgaralarla tutulmasıdır. Dallar, yapraklar ve çöpler bu aşamada ayrılır.
+
+Ardından suya, içindeki küçük parçacıkların bir araya gelmesini sağlayan maddeler eklenir. Bu parçacıklar birleşerek daha büyük ve ağır topaklar oluşturur. Bu işleme pıhtılaştırma ve yumaklaştırma denir. Oluşan topaklar, büyük havuzlarda bekletilerek dibe çöktürülür.
+
+Çöktürmeden sonra su, kum ve çakıl katmanlarından oluşan filtrelerden geçirilir. Bu filtreler daha küçük parçacıkları tutar.
+
+Son aşamada su dezenfekte edilir. Bu işlem, suda kalabilecek zararlı mikroorganizmaları etkisiz hâle getirmek için yapılır. Klor ya da ultraviyole ışık gibi yöntemler kullanılabilir. Suyun boru hatlarında da temiz kalması için genellikle az miktarda dezenfektan bırakılır.
+
+Arıtılan su, düzenli olarak laboratuvarlarda test edilir. Ancak binaların içindeki depolar ve borular da suyun kalitesini etkileyebilir. Bu yüzden su depolarının düzenli temizlenmesi önemlidir.
+
+### 93 | Dünya'nın Yedi Kıtası
+sub: geography | tags: kıta, Asya, Afrika, coğrafya
+---
+Dünya'nın kara parçaları genellikle yedi kıta olarak sınıflandırılır: Asya, Afrika, Kuzey Amerika, Güney Amerika, Antarktika, Avrupa ve Okyanusya. Ancak kıtaların sayısı ve sınırları, farklı ülkelerde farklı şekilde öğretilebilir. Bazı sınıflandırmalarda Amerika tek bir kıta sayılır, bazılarında Avrupa ve Asya birlikte Avrasya olarak ele alınır.
+
+Asya, hem yüzölçümü hem de nüfus bakımından en büyük kıtadır. Dünyanın en yüksek dağları ve en kalabalık ülkelerinden bazıları bu kıtadadır.
+
+Afrika, yüzölçümü bakımından ikinci büyük kıtadır. Dünyanın en büyük sıcak çölü olan Sahra ve dünyanın en uzun nehirleri arasında sayılan Nil bu kıtadadır.
+
+Kuzey ve Güney Amerika, dar bir kara parçasıyla birbirine bağlanır. Güney Amerika'da, dünyanın en büyük yağmur ormanı olan Amazon bulunur.
+
+Antarktika, Güney Kutbu'nu çevreleyen ve neredeyse tamamı kalın bir buz tabakasıyla kaplı kıtadır. Kalıcı bir yerli nüfusu yoktur; sadece araştırma istasyonlarında çalışan bilim insanları geçici olarak yaşar.
+
+Avrupa, yüzölçümü bakımından küçük kıtalardan biridir. Asya ile arasındaki sınır, genellikle Ural Dağları ve İstanbul Boğazı gibi coğrafi çizgilerle belirtilir. Türkiye, toprakları her iki kıtada bulunan ülkelerden biridir.
+
+Okyanusya ise Avustralya ve Pasifik Okyanusu'ndaki binlerce adadan oluşur.
+
+### 94 | Kendi Kendine Konuşmak
+sub: psychology | tags: iç ses, öz konuşma, motivasyon, düşünce
+---
+Hepimizin zihninde sürekli devam eden bir iç ses vardır. Bazen planlar yapar, bazen kendimizi eleştirir, bazen de bizi cesaretlendirir. Psikolojide bu iç konuşmaya öz konuşma denir.
+
+Öz konuşmanın tonu, duygularımızı ve davranışlarımızı etkileyebilir. "Bunu asla başaramam" diyen bir iç ses, denemeden vazgeçmemize neden olabilir. "Zor ama adım adım deneyebilirim" diyen bir iç ses ise bizi harekete geçirebilir.
+
+Sporcularla yapılan bazı çalışmalar, olumlu ve yönlendirici öz konuşmanın performansı destekleyebileceğini öne sürmüştür. "Dizlerini bük, topu izle" gibi talimat veren ya da "Hazırım, yapabilirim" gibi motive eden cümleler kullanılır.
+
+İlginç bir bulgu, kendimize ikinci ya da üçüncü şahısla hitap etmenin bazı durumlarda işe yarayabileceğidir. "Ben bunu yapabilir miyim?" yerine "Ayşe, sen bunu yapabilirsin" demek, kişinin duruma biraz daha mesafeli ve sakin bakmasına yardım edebilir.
+
+Öz konuşmayı değiştirmek için önce onu fark etmek gerekir. Kendinize sert davrandığınızı fark ettiğinizde, "Bir arkadaşıma bu durumda ne derdim?" diye sormak, daha anlayışlı bir iç ses geliştirmenin basit bir yoludur.
+
+### 95 | Geri Dönüşüm Kutuları Neden Renkli?
+sub: living | tags: geri dönüşüm, atık, ayrıştırma, çevre
+---
+Pek çok şehirde farklı renklerde geri dönüşüm kutuları görürüz. Renkler, atıkların türüne göre ayrılmasını kolaylaştırmak için kullanılır.
+
+Atıkları kaynağında ayırmak, yani daha atarken türlerine göre ayrı kutulara koymak, geri dönüşümün verimliliğini büyük ölçüde artırır. Karışık atıkların sonradan ayrılması hem daha zor hem de daha masraflıdır. Ayrıca kirlenmiş malzemelerin bir kısmı artık geri dönüştürülemez.
+
+Kutuların renkleri ülkeden ülkeye, hatta şehirden şehire farklılık gösterebilir. Bu yüzden her zaman kutunun üzerindeki yazılara ve işaretlere bakmak en doğrusudur. Yaygın kullanımlarda kâğıt, plastik, cam ve metal için ayrı kutular bulunur. Bazı yerlerde organik atıklar ve piller için de ayrı toplama noktaları vardır.
+
+Geri dönüşüme atık bırakırken bazı noktalara dikkat etmek gerekir. Kapların içindeki yiyecek artıklarını boşaltmak ve mümkünse hafifçe çalkalamak, diğer malzemelerin kirlenmesini önler. Kartonları katlamak, kutularda yer açar. Kırık bardaklar ve porselenler genellikle cam geri dönüşümüne uygun değildir, çünkü erime sıcaklıkları farklıdır.
+
+Ama unutmamak gerekir ki geri dönüşüm, atık yönetiminde ilk değil, son seçeneklerden biridir. Önce az tüketmek, sonra yeniden kullanmak, en son geri dönüştürmek önerilir.
+
+### 96 | Grafikleri Doğru Okumak
+sub: learning | tags: grafik, veri, istatistik, eleştirel düşünme
+---
+Haberlerde, raporlarda ve ders kitaplarında sıkça grafiklerle karşılaşırız. Grafikler verileri hızlı anlamamızı sağlar, ama dikkatli okunmadıklarında yanıltıcı da olabilir.
+
+Bir grafiğe bakarken ilk olarak başlığını ve eksenlerini okumak gerekir. Grafik neyi gösteriyor? Yatay eksende ne var, dikey eksende ne var? Birimler nedir? Yüzde mi, adet mi, lira mı?
+
+İkinci olarak dikey eksenin nereden başladığına bakmak önemlidir. Bir sütun grafiğinde dikey eksen sıfırdan değil de örneğin doksandan başlıyorsa, küçük farklar çok büyük görünebilir. Yüzde doksan bir ile yüzde doksan iki arasındaki fark, böyle bir grafikte iki kat fark gibi görünebilir.
+
+Üçüncü olarak zaman aralığına dikkat etmek gerekir. Bir çizgi grafiği sadece seçilmiş kısa bir dönemi gösteriyorsa, genel eğilim hakkında yanlış bir izlenim verebilir.
+
+Dördüncü olarak, iki şeyin aynı anda artması ya da azalması, birinin diğerine neden olduğu anlamına gelmez. Örneğin yaz aylarında hem dondurma satışları hem de güneş yanığı vakaları artar, ama dondurma güneş yanığına neden olmaz. İkisinin ortak nedeni sıcak havadır.
+
+Son olarak verinin kaynağına bakmak gerekir. Veriler kim tarafından, nasıl ve ne zaman toplanmış? Kaynağı belirtilmeyen grafiklere temkinli yaklaşmak akıllıca bir alışkanlıktır.
+
+### 97 | Ateş ve Yanma
+sub: science | tags: ateş, yanma, oksijen, yangın güvenliği
+---
+Ateş, binlerce yıldır insanlığın en önemli araçlarından biridir. Bilimsel açıdan ateş, bir yanma tepkimesinin görünür sonucudur.
+
+Yanmanın gerçekleşmesi için üç şey gerekir: Yakıt, oksijen ve ısı. Bu üçlüye yangın üçgeni denir. Yakıt; tahta, kâğıt, gaz ya da başka yanabilen bir madde olabilir. Oksijen genellikle havadan gelir. Isı ise tepkimeyi başlatmak için gereken enerjiyi sağlar; bir kibrit, bir kıvılcım ya da sıcak bir yüzey olabilir.
+
+Bu üç unsurdan biri ortadan kaldırıldığında ateş söner. Yangın söndürme yöntemleri bu ilkeye dayanır. Su, ısıyı düşürerek söndürür. Bir yangın battaniyesi ya da kum, oksijenin ulaşmasını engeller. Bir gaz vanasını kapatmak ise yakıtı keser.
+
+Her yangın aynı şekilde söndürülmez. Örneğin yanan bir yağ tavasına su dökmek çok tehlikelidir. Su kızgın yağın altına çöker, aniden buharlaşır ve yanan yağı etrafa sıçratabilir. Bu tür durumlarda ocağı kapatmak ve tavanın üstünü bir kapakla ya da nemli bir bezle örtmek önerilir.
+
+Elektrik yangınlarında da su kullanılmamalıdır. Bu tür yangınlara uygun yangın söndürücüler vardır. Evde bir yangın söndürücü bulundurmak ve kullanımını öğrenmek, güvenlik için önemli bir adımdır.
+
+### 98 | Sağlıklı Bir Mola Nasıl Verilir?
+sub: living | tags: mola, dinlenme, verimlilik, ekran
+---
+Uzun saatler boyunca aralıksız çalışmak, verimliliği artırmak yerine çoğu zaman azaltır. Düzenli ve doğru şekilde verilen molalar, zihnin ve bedenin yenilenmesine yardım eder.
+
+Masa başında uzun süre oturanlar için hareket molaları özellikle önemlidir. Belli aralıklarla ayağa kalkmak, birkaç adım yürümek ve vücudu esnetmek, kasların gerginliğini azaltabilir. Kısa bir yürüyüş, dikkatin yeniden toplanmasına da yardım eder.
+
+Ekran karşısında çalışanlar için göz molaları da önerilir. Popüler bir öneri, belirli aralıklarla ekrandan başını kaldırıp bir süre uzaktaki bir noktaya bakmaktır. Bu, gözlerin yakına odaklanmaktan dinlenmesine yardım edebilir.
+
+Molanın niteliği de önemlidir. Bir işten molada sosyal medyada gezinmek, zihni gerçekten dinlendirmeyebilir. Çünkü beyin yeni bilgilerle uğraşmaya devam eder. Pencereden dışarı bakmak, bir bardak su içmek, kısa bir sohbet etmek ya da birkaç derin nefes almak, daha dinlendirici olabilir.
+
+Doğada geçirilen kısa zamanların da zihinsel yorgunluğu azaltabileceğine dair araştırmalar vardır. Bir parkta ya da ağaçlı bir sokakta yapılan kısa bir yürüyüş bile iyi gelebilir.
+
+Molaları önceden planlamak, onları unutmamayı kolaylaştırır. Çalışma süresini bölümlere ayırmak ve her bölümün sonunda kısa bir mola vermek, günün sonunda daha az yorgun hissetmeye yardım edebilir.
+
+### 99 | Tarih Nasıl Yazılır?
+sub: history | tags: tarih yazımı, kaynak, belge, tarihçi
+---
+Tarih kitaplarında okuduğumuz bilgiler, tarihçilerin kaynakları dikkatle incelemesi ve yorumlamasıyla ortaya çıkar. Tarih yazımı, geçmişte olanları kaydetmekten çok daha fazlasıdır.
+
+Tarihçiler kaynakları genellikle iki gruba ayırır. Birincil kaynaklar, incelenen döneme ait doğrudan belgelerdir: Mektuplar, günlükler, resmî kayıtlar, gazeteler, fotoğraflar, haritalar ve nesneler. İkincil kaynaklar ise birincil kaynaklara dayanarak daha sonra yazılmış eserlerdir: Tarih kitapları, makaleler ve incelemeler.
+
+Bir tarihçi bir kaynağı kullanmadan önce onu eleştirel bir gözle değerlendirir. Bu belgeyi kim yazdı? Ne zaman ve ne amaçla yazdı? Yazar olayların tanığı mıydı? Belgenin bir tarafı kayırma ihtimali var mı? Aynı olayı anlatan başka kaynaklar ne diyor?
+
+Farklı kaynaklar aynı olayı farklı şekillerde anlatabilir. Bir savaşı kazanan tarafın kayıtlarıyla kaybeden tarafın kayıtları birbirinden çok farklı olabilir. Tarihçi bu farklı anlatımları karşılaştırarak olabildiğince dengeli bir tablo oluşturmaya çalışır.
+
+Yeni kaynakların bulunması ya da yeni yöntemlerin geliştirilmesi, geçmiş hakkındaki bilgilerimizi değiştirebilir. Bu yüzden tarih, tamamlanmış bir hikâye değil, sürekli yeniden incelenen ve tartışılan bir bilim dalıdır.

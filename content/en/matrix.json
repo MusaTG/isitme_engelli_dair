@@ -1,0 +1,108 @@
+{
+ "note": "Original words; no licensed clinical matrix test lists are used. Every combination is grammatical.",
+ "license": "MIT",
+ "pattern": [
+  "name",
+  "verb",
+  "number",
+  "adj",
+  "object"
+ ],
+ "columns": [
+  {
+   "id": "name",
+   "label": {
+    "tr": "Kim?",
+    "en": "Who?"
+   },
+   "words": [
+    "Anna",
+    "David",
+    "Emma",
+    "John",
+    "Kate",
+    "Lucy",
+    "Mark",
+    "Peter",
+    "Sophie",
+    "Tom"
+   ]
+  },
+  {
+   "id": "verb",
+   "label": {
+    "tr": "Ne yaptı?",
+    "en": "Did what?"
+   },
+   "words": [
+    "bought",
+    "brought",
+    "found",
+    "kept",
+    "moved",
+    "painted",
+    "saw",
+    "sent",
+    "sold",
+    "wanted"
+   ]
+  },
+  {
+   "id": "number",
+   "label": {
+    "tr": "Kaç?",
+    "en": "How many?"
+   },
+   "words": [
+    "two",
+    "three",
+    "four",
+    "five",
+    "six",
+    "seven",
+    "eight",
+    "nine",
+    "ten",
+    "twelve"
+   ]
+  },
+  {
+   "id": "adj",
+   "label": {
+    "tr": "Nasıl?",
+    "en": "What kind?"
+   },
+   "words": [
+    "big",
+    "small",
+    "red",
+    "green",
+    "old",
+    "new",
+    "nice",
+    "cheap",
+    "white",
+    "dark"
+   ]
+  },
+  {
+   "id": "object",
+   "label": {
+    "tr": "Ne?",
+    "en": "What?"
+   },
+   "words": [
+    "pens",
+    "boxes",
+    "cups",
+    "bags",
+    "balls",
+    "books",
+    "chairs",
+    "hats",
+    "plates",
+    "toys"
+   ]
+  }
+ ]
+}

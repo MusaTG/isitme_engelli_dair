@@ -1,0 +1,120 @@
+### 91 | Mahalle Bakkalı Sipariş Defterini Dijitale Taşıdı
+sub: community | tags: bakkal, esnaf, dijital, mahalle
+---
+Erikli Mahallesi'nin kırk yıllık bakkalı Yaşar Amca, torununun yardımıyla sipariş defterini bir mesajlaşma grubuna taşıdı. Mahalle sakinleri artık siparişlerini mesajla gönderiyor, Yaşar Amca da hazırlayıp kapılarına bırakıyor.
+
+Yaşar Amca yıllardır siparişleri telefonla alıp bir deftere yazıyordu. Ancak sipariş sayısı arttıkça defter karıştı. Bazen bir siparişi unutuyor, bazen adresi yanlış yazıyordu. Üniversite öğrencisi torunu Deniz, bir yaz tatilinde dedesine yardım etmeye karar verdi.
+
+Deniz, mahalle için bir mesajlaşma grubu kurdu. Her sabah grupta o günün taze ürünlerini paylaşıyor. Mahalleli de siparişini adres ve saat bilgisiyle yazıyor. Yaşar Amca'ya ise büyük harfli bir tablet aldı ve kullanmayı öğretti.
+
+İlk haftalar Yaşar Amca'nın zorlandığını gülerek anlatıyor. "Mesajları okuyordum ama cevap yazamıyordum. Parmaklarım kocaman, harfler küçücük. Deniz bana sesli mesaj göndermeyi öğretti. Şimdi her şeye sesli cevap veriyorum."
+
+Mahalle sakinleri yeni düzenden memnun. Yaşlılar özellikle ağır alışverişleri taşımak zorunda kalmadıkları için rahatladı. Yaşar Amca ise bir şeyin hiç değişmediğini söylüyor: "Siparişi kapıya bırakırken zili çalıp hâl hatır soruyorum. O kısmı dijital olmaz."
+
+### 92 | Kemiklerimiz Hakkında İlginç Bilgiler
+sub: science | kind: feature | tags: kemik, iskelet, vücut, sağlık
+---
+İskeletimiz bize şekil verir, organlarımızı korur ve hareket etmemizi sağlar. Ama kemikler sanıldığı gibi cansız ve değişmez yapılar değildir.
+
+Kemikler canlı dokulardır. İçlerinde kan damarları, sinirler ve sürekli çalışan hücreler bulunur. Bazı hücreler eski kemik dokusunu yıkarken, diğerleri yeni doku oluşturur. Bu yenilenme hayat boyu devam eder. Bu sayede kırılan bir kemik zamanla kendini onarabilir.
+
+Yeni doğan bir bebeğin vücudunda yetişkinlerden daha fazla kemik parçası bulunur. Büyüme sırasında bu parçaların bir kısmı birleşir. Bir yetişkinin iskeletinde genellikle iki yüz altı kemik bulunur.
+
+Vücudun en büyük kemiği uyluk kemiğidir. En küçük kemikler ise kulağın içindedir. Orta kulaktaki üç küçük kemik, çekiç, örs ve üzengi, ses titreşimlerini iç kulağa iletir. Üzengi kemiği bir pirinç tanesinden bile küçüktür.
+
+Kemiklerin içi de ilginçtir. Pek çok kemiğin içinde kemik iliği bulunur. Kırmızı kemik iliği, kan hücrelerinin üretildiği yerdir.
+
+Kemik sağlığı için dengeli beslenme, yeterli kalsiyum ve D vitamini almak ve düzenli hareket etmek önemlidir. Yürüme, koşma ve dans gibi yük taşıyan hareketler kemiklerin güçlenmesine yardım eder.
+
+### 93 | Köy Kadınları Kendi Pazarlarını Kurdu
+sub: agriculture | tags: üretici pazarı, kadınlar, köy, kooperatif
+---
+Ovacık bölgesindeki altı köyün kadınları, ürünlerini aracısız satabilecekleri bir haftalık pazar kurdu. Pazar her cumartesi, bölgenin merkezindeki eski okul bahçesinde kuruluyor.
+
+Kadınlar daha önce ürünlerini köye gelen tüccarlara düşük fiyatlarla satıyordu. Pazarın kurucularından Hacer Kılınç, durumu şöyle özetledi: "Biz bir kavanoz reçeli emek verip yapıyorduk, tüccar bize çok az ödüyordu. Şehirde o reçel üç katına satılıyordu."
+
+Pazarda yaklaşık kırk kadın tezgâh açıyor. Tezgâhlarda peynir, tereyağı, yumurta, reçel, tarhana, erişte, kurutulmuş sebzeler, el örgüsü çoraplar ve mevsim meyveleri bulunuyor. Fiyatlar, kadınların kendi aralarında yaptığı toplantılarla belirleniyor.
+
+Pazar kısa sürede çevredeki kasabalardan ve şehirden müşteri çekmeye başladı. Bazı müşteriler her hafta aynı tezgâha gelip düzenli alışveriş yapıyor. Kadınlar ayrıca bir mesajlaşma grubu kurarak sipariş de almaya başladı.
+
+Pazar, kadınların hem gelirini artırdı hem de birbirleriyle dayanışmasını güçlendirdi. Kılınç, "Eskiden her köy kendi içindeydi. Şimdi altı köyün kadınları her cumartesi buluşuyoruz. Birbirimizden tarif öğreniyoruz, dertleşiyoruz," dedi.
+
+### 94 | Neden Aynada Sağ ve Sol Yer Değiştirir?
+sub: science | kind: feature | tags: ayna, yansıma, ışık, algı
+---
+Aynanın karşısına geçip sağ elinizi kaldırdığınızda, aynadaki görüntünüz sol elini kaldırıyormuş gibi görünür. Ama ayna yukarı ile aşağıyı değiştirmez. Peki ayna neden sadece sağ ile solu değiştiriyor gibi görünür?
+
+Aslında ayna ne sağ ile solu ne de yukarı ile aşağıyı değiştirir. Ayna, ön ile arkayı değiştirir. Aynaya doğru uzanan burnunuzun görüntüsü, aynanın içinde size doğru uzanır. Yani görüntü, aynaya dik olan eksen boyunca ters çevrilmiştir.
+
+Sağ ile solun değişmiş gibi görünmesi, bizim görüntüyü nasıl yorumladığımızla ilgilidir. Aynadaki görüntüye baktığımızda, onu bize doğru dönmüş başka bir insan gibi düşünürüz. Gerçekten bize dönmüş biri olsaydı, sağ eli bizim solumuzda olurdu. Zihnimiz görüntüyü bu şekilde değerlendirdiği için sağ ve sol değişmiş gibi gelir.
+
+Bunu bir deneyle görebilirsiniz. Bir kâğıda bir kelime yazın ve kâğıdı aynaya tutun. Kelime ters görünür. Ama aslında ayna kelimeyi değiştirmemiştir; siz kâğıdı aynaya çevirirken onu kendi ekseninde döndürmüşsünüzdür.
+
+Ambulansların önünde yazıların ters yazılmasının nedeni de budur. Öndeki aracın sürücüsü dikiz aynasına baktığında yazıyı doğru okuyabilir.
+
+### 95 | Yaşlı Bakım Evinde Kuşaklar Arası Bahçe
+sub: community | tags: kuşaklar arası, bahçe, yaşlılar, çocuklar
+---
+Huzurkent Yaşlı Bakım Evi ile yanındaki anaokulu, ortak bir bahçe projesi başlattı. Bakım evinin sakinleri ve anaokulu çocukları her hafta birlikte bahçede çalışıyor.
+
+Bahçe, iki binanın arasındaki boş alana kuruldu. Tekerlekli sandalye kullanan sakinlerin rahatça çalışabilmesi için yükseltilmiş saksılar yapıldı. Çocuklar için ise küçük kovalar ve kürekler alındı.
+
+Bakım evinin sosyal hizmet uzmanı Meltem Arıkan, projenin her iki taraf için de faydalı olduğunu söylüyor. "Sakinlerimiz çocukların enerjisiyle canlanıyor. Kendilerini yeniden işe yarar hissediyorlar. Çocuklar ise sabrı, dinlemeyi ve yaşlılara saygıyı öğreniyor."
+
+Her bahçe gününde bir sakin ve iki çocuk bir saksının sorumluluğunu alıyor. Birlikte tohum ekiyor, sulama yapıyor, ot ayıklıyorlar. Sakinler çocuklara bitkilerin adlarını, ne zaman ekileceklerini, nasıl bakılacaklarını anlatıyor.
+
+Seksen yedi yaşındaki Mehmet Dede, gençliğinde bahçıvanlık yapmış. Şimdi çocuklara domates fidelerini nasıl bağlayacaklarını gösteriyor. Beş yaşındaki Elif ise her hafta Mehmet Dede'nin yanına koşuyor. "Mehmet Dede bana bir sır söyledi," diyor, "domatesler şarkı dinleyince daha çabuk büyürmüş." Mehmet Dede bunu duyunca gülümsüyor ve göz kırpıyor.
+
+### 96 | Mısırın Uzun Yolculuğu
+sub: agriculture | kind: feature | tags: mısır, tarım tarihi, Amerika, gıda
+---
+Mısır bugün dünyanın en çok yetiştirilen tahıllarından biridir. Ama bu bitki her yerde yetiştirilmeye başlanmadan önce uzun bir yolculuk yaptı.
+
+Mısırın anavatanı bugünkü Meksika'dır. Bilim insanları mısırın, binlerce yıl önce teosinte adı verilen yabani bir otun insanlar tarafından seçilerek yetiştirilmesiyle ortaya çıktığını düşünüyor. Teosinte'nin başakları çok küçüktü ve sadece birkaç sert tane taşıyordu. Yüzyıllar boyunca çiftçiler en büyük ve en lezzetli taneleri veren bitkileri seçip ektiler. Böylece bitki yavaş yavaş bugünkü mısıra dönüştü.
+
+Mısır, Amerika kıtasının yerli halkları için temel bir besin kaynağı oldu. Maya, Aztek ve İnka gibi uygarlıkların yemeklerinde, inançlarında ve takvimlerinde önemli bir yer tuttu.
+
+15. yüzyılın sonlarından itibaren Avrupalıların Amerika'ya ulaşmasıyla mısır Avrupa'ya, Afrika'ya ve Asya'ya taşındı. Farklı iklimlere uyum sağlayabilmesi sayesinde hızla yayıldı.
+
+Mısır Anadolu'ya da bu dönemden sonra ulaştı. Özellikle Karadeniz Bölgesi'nde mısır, mutfağın vazgeçilmez bir parçası oldu. Mısır ekmeği, mısır çorbası ve kuymak gibi yemekler bu bölgenin sofralarında önemli bir yer tutar.
+
+Bugün mısır sadece yiyecek olarak değil, hayvan yemi olarak ve çeşitli sanayi ürünlerinin hammaddesi olarak da kullanılır.
+
+### 97 | Gençlik Merkezinde Ücretsiz Kod Kulübü
+sub: education | tags: kodlama, gençler, teknoloji, kulüp
+---
+Kaleiçi Gençlik Merkezi'nde açılan ücretsiz kodlama kulübü, ilk dönemini tamamladı. Kulübe on iki ile on yedi yaş arasındaki otuz genç katıldı.
+
+Kulübün eğitmeni, şehirdeki bir yazılım şirketinde çalışan gönüllü yazılımcı Burcu Ateş. Ateş, hafta sonları kulüpte ders veriyor. "Ben bilgisayarla üniversitede tanıştım. Bu gençler çok daha erken başlıyor. Ama asıl öğretmek istediğim şey kod değil, problem çözmek," diyor.
+
+Dersler, blok tabanlı görsel programlama araçlarıyla başladı. Gençler önce basit oyunlar ve animasyonlar yaptı. Daha sonra metin tabanlı bir programlama diline geçtiler. Dönemin sonunda her öğrenci kendi küçük projesini hazırladı.
+
+Projeler arasında ilginç fikirler vardı. Bir grup, mahallelerindeki otobüs saatlerini gösteren basit bir web sayfası yaptı. On üç yaşındaki Ayşe, kedisinin mama saatini hatırlatan bir program yazdı. On altı yaşındaki Ozan ise büyükannesi için büyük düğmeli bir hesap makinesi tasarladı.
+
+Kulüp, dönem sonunda bir proje sergisi düzenledi. Gençler projelerini ailelerine ve arkadaşlarına sundu. Ateş, sergide en çok sevindiği anın bir velinin sözü olduğunu anlattı: "Oğlum ilk kez bir şeyi bitirene kadar bırakmadı."
+
+### 98 | Arı Sokması Hakkında Bilinmesi Gerekenler
+sub: community | kind: feature | tags: arı, sokma, ilk yardım, alerji
+---
+Yaz aylarında bahçede, piknikte ya da parkta arı sokması sık rastlanan bir durumdur. Çoğu arı sokması geçici ağrı ve şişlikle sınırlı kalır. Ancak bazı durumlarda acil yardım gerekebilir.
+
+Bal arıları soktuktan sonra iğnelerini deride bırakır. İğnenin ucunda zehir kesesi bulunabilir. İğneyi mümkün olan en kısa sürede çıkarmak, deriye giren zehir miktarını azaltabilir. Bunun için iğne bir tırnak ya da kartın kenarıyla kazınarak çıkarılabilir. Eşek arıları ise genellikle iğnelerini bırakmaz ve birden fazla kez sokabilir.
+
+Sokulan bölge sabun ve suyla yıkanabilir. Şişlik ve ağrıyı azaltmak için bölgeye bir beze sarılmış soğuk kompres uygulanabilir. Bölgeyi kaşımamak, enfeksiyon riskini azaltır.
+
+Bazı kişilerde arı sokmasına karşı ciddi alerjik reaksiyon gelişebilir. Nefes darlığı, yüzde, dudaklarda ya da boğazda şişlik, vücudun geniş bir bölümünde kızarıklık, baş dönmesi ve bayılma bu reaksiyonun belirtileri arasındadır. Bu belirtiler görüldüğünde vakit kaybetmeden acil yardım çağrılmalıdır. Ağız içinden ya da boğazdan sokulma ve çok sayıda arı sokması da acil durum sayılır.
+
+Arı alerjisi olduğunu bilen kişiler, doktorlarının önerdiği önlemleri her zaman yanlarında bulundurmalıdır. Bu yazı genel bilgi içindir; şüpheli durumlarda bir sağlık profesyoneline başvurmak gerekir.
+
+### 99 | Kasabanın Yüz Yaşındaki Çınarına Doğum Günü
+sub: community | tags: çınar, ağaç, kutlama, kasaba
+---
+Ilıksu kasabasının meydanındaki çınar ağacı için doğum günü kutlaması yapıldı. Kasabanın kayıtlarına göre ağaç tam yüz yıl önce, kasabanın kuruluş yıldönümünde dikilmişti.
+
+Kutlama fikri, kasaba ilkokulunun öğrencilerinden geldi. Öğrenciler bir ders projesinde kasabanın tarihini araştırırken çınarın dikim tarihini buldu. "Ağacın yüz yaşına girdiğini öğrenince ona bir doğum günü yapmak istedik," dedi dördüncü sınıf öğrencisi Mert.
+
+Kutlama günü meydana yüzlerce kişi toplandı. Çocuklar ağacın gövdesine, ağaca zarar vermeyecek şekilde, renkli kurdeleler bağladı. Kasabanın yaşlıları, çınarın gölgesinde geçen anılarını anlattı. Bir çift, elli yıl önce bu ağacın altında nişanlandığını söyledi.
+
+Kasabanın ziraat mühendisi ağacın sağlık durumunu kontrol etti ve çınarın çok sağlıklı olduğunu açıkladı. Çınar ağaçlarının yüzlerce yıl yaşayabildiğini hatırlatarak, "Bu ağaç daha çocuk sayılır," dedi gülerek.
+
+Kutlamanın sonunda öğrenciler çınarın yanına yeni bir çınar fidanı dikti. Fidanın dibine, yüz yıl sonra açılmak üzere bir zaman kapsülü gömüldü. Kapsülün içinde çocukların mektupları ve kasabanın bugünkü fotoğrafları bulunuyor.

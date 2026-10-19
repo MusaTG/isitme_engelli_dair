@@ -1,0 +1,131 @@
+### 51 | Liseli Gençler Yaşlılara Teknoloji Desteği Veriyor
+sub: community | tags: gençler, yaşlılar, teknoloji, gönüllülük
+---
+Atatepe Anadolu Lisesi öğrencileri, mahalledeki yaşlılara akıllı telefon ve bilgisayar kullanımı konusunda yardım ediyor. "Dijital Torun" adlı programda her hafta yirmi öğrenci, mahalle kültür evinde yaşlılarla bir araya geliyor.
+
+Program, okulun sosyal sorumluluk kulübünün fikriydi. Kulüp başkanı on altı yaşındaki Selin, fikrin kendi büyükannesinden geldiğini söyledi. "Anneannem her hafta beni arayıp telefonuyla ilgili bir şey soruyordu. Fotoğraf nasıl gönderilir, uygulama nasıl indirilir. Düşündüm ki mahallede onun gibi çok kişi var."
+
+Yaşlılar en çok görüntülü arama yapmayı, mesaj göndermeyi, fotoğraf paylaşmayı ve randevu almayı öğrenmek istiyor. Öğrenciler her konuyu yavaş yavaş, tekrar ederek anlatıyor. Bir de küçük not kartları hazırladılar. Her kartta bir işlemin adımları büyük harflerle yazılı.
+
+Program aynı zamanda dolandırıcılığa karşı da bilgilendirme yapıyor. Öğrenciler yaşlılara şüpheli mesajları ve aramaları nasıl tanıyacaklarını anlatıyor.
+
+Yetmiş dokuz yaşındaki Halil Bey, programa katıldıktan sonra yurt dışında yaşayan kızıyla ilk kez görüntülü konuştuğunu anlattı. "Kızımın yüzünü ekranda görünce ağladım. Bu çocuklar bana büyük iyilik yaptı."
+
+### 52 | Kar Taneleri Neden Altı Köşelidir?
+sub: science | kind: feature | tags: kar, kristal, su, buz
+---
+Bir kar tanesine yakından baktığınızda çoğu zaman altı kollu, simetrik bir yapı görürsünüz. Bu düzenli şekil rastlantı değildir; suyun yapısından kaynaklanır.
+
+Su molekülü, bir oksijen ve iki hidrojen atomundan oluşur. Su donduğunda moleküller belirli bir düzende birbirine bağlanır. Bu bağlanma düzeni altıgen bir örgü oluşturur. Bu yüzden buz kristallerinin temel şekli altıgendir.
+
+Bir kar tanesi, bulutun içinde küçük bir toz ya da polen parçacığının etrafında başlayan bir buz kristali olarak doğar. Kristal düşerken etrafındaki su buharı onun üzerinde donar ve kristal büyür. Altıgenin köşeleri, çevredeki buhara daha fazla uzandığı için daha hızlı büyür. Böylece kollar oluşur.
+
+Peki her kar tanesi neden farklıdır? Çünkü her kar tanesi bulutun içinde farklı bir yol izler. Yol boyunca sıcaklık ve nem sürekli değişir. Bu değişimler kristalin büyüme biçimini etkiler. Bir kar tanesinin altı kolu aynı anda aynı koşulları yaşadığı için birbirine benzer, ama iki ayrı kar tanesinin aynı yolu izlemesi neredeyse imkânsızdır.
+
+Bütün kar taneleri yıldız biçiminde değildir. Sıcaklığa bağlı olarak düz levhalar, iğneler veya küçük sütunlar şeklinde de oluşabilirler. Bilim insanları bu şekilleri sınıflandırmış ve onlarca farklı tür tanımlamıştır.
+
+### 53 | Köy Okulu Kapanmaktan Kurtuldu
+sub: education | tags: köy okulu, öğrenci, aile, dayanışma
+---
+Öğrenci sayısı azaldığı için kapanma tehlikesiyle karşı karşıya kalan Yeşilyayla Köy İlkokulu, köye dönen ailelerle birlikte yeniden canlandı. Okulun öğrenci sayısı iki yılda yediden yirmi üçe çıktı.
+
+Okul, bir zamanlar köyün kalbiydi. Ancak gençlerin şehre göç etmesiyle öğrenci sayısı yıldan yıla azaldı. İki yıl önce okulda sadece yedi öğrenci kalmıştı ve okulun kapatılıp öğrencilerin taşımalı eğitimle komşu kasabaya gönderilmesi gündeme geldi.
+
+Köylüler bu duruma karşı harekete geçti. Köyde doğup büyümüş ama şehirde yaşayan ailelerle iletişime geçtiler. İnternet bağlantısının iyileştirilmesiyle uzaktan çalışma imkânı bulan bazı aileler köye dönmeye karar verdi. Bir yazılımcı, bir grafik tasarımcı ve bir çevirmen aileleriyle birlikte köye yerleşti.
+
+Okulun tek öğretmeni Murat Bey, öğrenci sayısının artmasıyla birlikte okulun yeniden hayat bulduğunu söylüyor. "Teneffüslerde bahçede yeniden çocuk sesleri var. Köylüler okulun önünden geçerken duruyor ve izliyor."
+
+Köy, okulun bahçesini yeniden düzenledi, kütüphanesine kitap bağışladı ve okul için bir bahçe kurdu. Muhtar, gelecek yıl öğrenci sayısının otuzu geçmesini beklediklerini söyledi.
+
+### 54 | İnsanlık Ateşi Nasıl Kullanmaya Başladı?
+sub: history | kind: feature | tags: ateş, tarih öncesi, insan, keşif
+---
+Ateş, insanlık tarihinin en önemli keşiflerinden biridir. Isınmayı, aydınlanmayı, yemek pişirmeyi ve vahşi hayvanlardan korunmayı sağladı. Peki insanlar ateşi ne zaman kullanmaya başladı?
+
+Bu sorunun kesin bir cevabı yok. Arkeologlar, eski yerleşim yerlerinde yanmış kemikler, kül tabakaları ve ısıtılmış taşlar gibi izler arar. Bu izlerin bir kısmı yüz binlerce yıl öncesine uzanır. Bazı araştırmacılar, insan atalarının ateşi bir milyon yıl kadar önce bile kontrollü biçimde kullanmış olabileceğini düşünüyor, ancak bu erken bulgular tartışmalıdır.
+
+İlk insanlar ateşi büyük olasılıkla doğada buldular. Yıldırım düşmesi veya kuru otların tutuşmasıyla çıkan yangınlardan ateş taşıyıp korumayı öğrenmiş olabilirler. Ateşi istedikleri zaman yakmayı ise çok daha sonra öğrendiler. Çakmak taşlarını birbirine vurmak ya da tahta parçalarını hızla sürtmek bu yöntemlerden bazılarıdır.
+
+Ateşle pişirilen yiyecekler daha kolay çiğnenir ve sindirilir. Bazı bilim insanları, pişirilmiş yiyeceklerin insan evriminde önemli bir rol oynadığını ileri sürer.
+
+Ateş aynı zamanda insanları bir araya getirdi. Geceleri ateşin çevresinde toplanmak, hikâye anlatmak ve deneyimleri paylaşmak, toplulukların bağlarını güçlendirdi. Belki de ilk hikâyeler bir ateşin başında anlatıldı.
+
+### 55 | Kasabada Yaşlılar İçin Ücretsiz Servis Başladı
+sub: city | tags: ulaşım, yaşlılar, servis, belediye
+---
+Sarıkavak Belediyesi, kasabanın kenar mahallelerinde yaşayan altmış beş yaş üstü vatandaşlar için ücretsiz bir servis hizmeti başlattı. Servis haftada üç gün, mahallelerden kasaba merkezine ve sağlık ocağına sefer yapıyor.
+
+Hizmetin başlatılmasının nedeni, kenar mahallelerdeki yaşlıların kasaba merkezine ulaşmakta zorlanmasıydı. Bu mahallelerden düzenli otobüs geçmiyordu. Yaşlılar ya komşularından rica ediyor ya da uzun yollar yürümek zorunda kalıyordu.
+
+Servis için bir minibüs ayrıldı. Minibüs, yaşlıların rahatça binebilmesi için alçak basamaklı ve tutunma kollu olarak düzenlendi. Servise binmek isteyen vatandaşlar bir gün önceden belediyeyi arayarak yer ayırtıyor.
+
+Servisin şoförü Cengiz Bey, yolcularının çoğunu artık isimleriyle tanıyor. "Sabah ilk durakta Ayşe Teyze bekliyor. Her seferinde bana bir şey getiriyor. Bir gün poğaça, bir gün elma. Ben de ona sağlık ocağında sırasını bekliyorum."
+
+Belediye, servisin ilk ayında altı yüzden fazla yolculuk yapıldığını açıkladı. Yolcuların talebiyle pazar günleri de bir sefer eklenmesi planlanıyor.
+
+### 56 | Plastik Doğada Neden Bu Kadar Uzun Kalır?
+sub: environment | kind: feature | tags: plastik, atık, mikroplastik, doğa
+---
+Bir elma kabuğu doğada birkaç hafta içinde çürüyüp toprağa karışır. Ama bir plastik şişe yüzlerce yıl boyunca doğada kalabilir. Bu fark nereden geliyor?
+
+Doğada çürüme, bakteriler ve mantarlar gibi mikroorganizmaların işidir. Bu canlılar, bitkilerin ve hayvanların kalıntılarını parçalayarak beslenir. Milyonlarca yıl boyunca doğal maddelerle birlikte evrimleştikleri için onları sindirebilecek araçlara sahiptirler.
+
+Plastikler ise çoğunlukla petrolden üretilen yapay maddelerdir. Uzun ve sağlam molekül zincirlerinden oluşurlar. Mikroorganizmaların büyük çoğunluğu bu zincirleri parçalayamaz. Bu yüzden plastik çürümez.
+
+Bunun yerine plastik, güneş ışığı, ısı ve aşınma etkisiyle yavaş yavaş küçük parçalara ayrılır. Beş milimetreden küçük parçalara mikroplastik denir. Mikroplastikler denizlerde, topraklarda ve hatta havada bulunabilir. Bazı deniz canlıları bu parçaları yiyecek sanarak yer.
+
+Bilim insanları plastiği parçalayabilen bazı bakteri ve enzimler keşfetmiştir. Ancak bu yöntemler henüz büyük ölçekli bir çözüm değildir. Bu yüzden en etkili yol, plastik kullanımını azaltmak, tekrar kullanmak ve doğru şekilde geri dönüştürmektir.
+
+Tek kullanımlık poşet yerine bez çanta taşımak, pet şişe yerine matara kullanmak, küçük ama etkili adımlardır.
+
+### 57 | Yerel Radyo Elli Yaşında
+sub: culture | tags: radyo, yıldönümü, yerel medya, kasaba
+---
+Çayırova kasabasının yerel radyosu Çayırova FM, yayın hayatının ellinci yılını kutladı. Kutlama programı kasaba meydanında canlı olarak yayımlandı.
+
+Radyo, 1970'lerde kasabanın birkaç genç meraklısı tarafından küçük bir vericiyle kuruldu. İlk yayınlar sadece akşamları iki saat sürüyordu. Kurucularından biri olan yetmiş iki yaşındaki Mustafa Bey, ilk yayında mikrofona konuşurken ellerinin titrediğini anlattı. "Kimse dinlemiyordur diye düşünüyordum. Ertesi gün çarşıda herkes 'Seni radyoda duyduk' dedi."
+
+Radyo yıllar içinde büyüdü. Bugün günde on sekiz saat yayın yapıyor. Programlarında yerel haberler, hava durumu, çiftçiler için tarım bilgileri, istek şarkılar ve kasabanın tarihini anlatan belgeseller var.
+
+Radyonun en sevilen programı ise otuz yıldır her pazar sabahı yayımlanan "Kasabadan Sesler". Programda kasabalılar telefonla bağlanıp bir anılarını anlatıyor ya da birine selam gönderiyor.
+
+Kutlamada radyonun eski ve yeni sunucuları sahneye çıktı. Kasabalılar, yıllardır sesini duydukları ama yüzünü görmedikleri sunucularla tanıştı. Mustafa Bey kutlamanın sonunda mikrofonu aldı ve ilk yayında söylediği cümleyi tekrarladı: "Burası Çayırova. Sesimizi duyan herkese iyi akşamlar."
+
+### 58 | Türkiye'nin Gölleri Hakkında
+sub: environment | kind: feature | tags: göl, Van Gölü, Tuz Gölü, coğrafya
+---
+Türkiye, farklı oluşum biçimlerine sahip çok sayıda göle ev sahipliği yapar. Bu göllerin bazıları tatlı, bazıları tuzlu, bazıları ise sodalıdır.
+
+Türkiye'nin en büyük gölü Doğu Anadolu'daki Van Gölü'dür. Göl, volkanik bir set ile su yolunun kapanması sonucu oluşmuştur. Suyu sodalı ve tuzludur; bu yüzden içinde yalnızca bu koşullara uyum sağlamış az sayıda canlı yaşayabilir. Bunlardan en bilineni inci kefalidir. İnci kefali, üremek için göle dökülen tatlı su derelerine göç eder.
+
+İç Anadolu'daki Tuz Gölü, ülkenin en büyük ikinci gölüdür. Çok sığdır ve yaz aylarında suyun büyük kısmı buharlaşır. Geriye kalan beyaz tuz tabakası, kilometrelerce uzanan bir düzlük oluşturur. Türkiye'de üretilen tuzun önemli bir kısmı buradan elde edilir. Göl aynı zamanda flamingoların önemli bir üreme alanıdır.
+
+Göller Bölgesi olarak bilinen Akdeniz'in iç kesimlerinde ise Eğirdir, Beyşehir ve Burdur gibi göller bulunur. Eğirdir ve Beyşehir tatlı su gölleridir ve çevrelerindeki tarım için önemlidir.
+
+Göller, kuraklık ve aşırı su kullanımı karşısında hassastır. Son yıllarda bazı göllerde su seviyesinin düştüğü gözlenmektedir. Gölleri korumak, onları besleyen derelerin ve yeraltı sularının da korunmasını gerektirir.
+
+### 59 | Kampüste Bisiklet Paylaşımı Rekor Kırdı
+sub: city | tags: bisiklet, üniversite, paylaşım, ulaşım
+---
+Yükseltepe Üniversitesi'nin kampüs içi bisiklet paylaşım sistemi, açılışının ikinci yılında rekor kullanım sayısına ulaştı. Geçen dönem öğrenciler ve çalışanlar bisikletleri toplam yetmiş bin kez kullandı.
+
+Sistem, kampüsün farklı noktalarındaki on beş istasyonda bulunan iki yüz bisikletten oluşuyor. Öğrenciler kimlik kartlarını istasyondaki okuyucuya okutarak bisiklet alabiliyor. Bisikletler yarım saate kadar ücretsiz. Sonraki her yarım saat için küçük bir ücret alınıyor.
+
+Kampüs çok geniş ve fakülteler arasındaki mesafeler uzun. Öğrenciler daha önce dersler arasında ya yürüyor ya da kampüs servisini bekliyordu. Bisikletler, bir fakülteden diğerine ulaşma süresini yarıya indirdi.
+
+Sistemin bakımını üniversitenin makine mühendisliği kulübü üstleniyor. Kulüp üyeleri haftada iki gün istasyonları dolaşıp bisikletlerin lastiklerini, frenlerini ve zincirlerini kontrol ediyor. Kulüp başkanı Barış, bunun aynı zamanda iyi bir pratik olduğunu söylüyor.
+
+Üniversite, sisteme gelecek yıl elli elektrikli bisiklet eklemeyi planlıyor. Elektrikli bisikletler özellikle kampüsün yokuşlu kuzey kısmı için düşünülüyor.
+
+### 60 | Neden Esneriz?
+sub: science | kind: feature | tags: esneme, beden, beyin, bulaşıcılık
+---
+Esneme hepimizin her gün yaptığı bir şeydir. Yorgunken, sıkılınca ya da sabah uyanınca esneriz. Ama esnemenin neden olduğu hâlâ tam olarak bilinmiyor.
+
+Uzun süre esnemenin vücudun daha fazla oksijen alma ihtiyacından kaynaklandığı düşünüldü. Ancak yapılan deneyler bu fikri pek desteklemedi. Ortamdaki oksijen artırıldığında ya da azaltıldığında insanların esneme sıklığı belirgin şekilde değişmedi.
+
+Bugün bilim insanlarının üzerinde durduğu fikirlerden biri, esnemenin beyni serinletmeye yardım ettiğidir. Esnerken derin bir nefes alırız ve çene kasları gerilir. Bu hareketin beyne giden kan akışını ve sıcaklığı etkileyebileceği düşünülüyor. Bazı araştırmalar, insanların sıcak havalarda serin havalara göre farklı sıklıkta esnediğini göstermiştir.
+
+Esnemenin bir başka ilginç özelliği de bulaşıcı olmasıdır. Başka birinin esnediğini görmek, hatta esneme hakkında okumak bile çoğu insanı esnetebilir. Belki şu anda siz de esnemek üzeresiniz.
+
+Bulaşıcı esnemenin sosyal bağlarla ilgili olabileceği düşünülüyor. Bazı araştırmalar, insanların tanıdıkları kişilerin esnemesine yabancılarınkinden daha çok karşılık verdiğini öne sürüyor. Ancak bu konu da hâlâ araştırılmaya devam ediyor.

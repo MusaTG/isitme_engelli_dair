@@ -1,0 +1,139 @@
+### 71 | Kasabada Sessiz Saat Uygulaması: Market Işıkları Kısılıyor
+sub: community | tags: otizm, duyusal hassasiyet, market, erişilebilirlik
+---
+Gölbaşı kasabasındaki büyük market, her salı sabahı bir saat boyunca "sessiz saat" uygulaması başlattı. Bu saatte marketin ışıkları kısılıyor, müzik kapatılıyor ve anonslar yapılmıyor.
+
+Uygulama, gürültüye ve parlak ışığa karşı hassas olan bireyler için düşünüldü. Otizm spektrumundaki bireyler, bazı nörolojik farklılıkları olan kişiler ve yaşlılar, kalabalık ve gürültülü ortamlarda alışveriş yapmakta zorlanabiliyor.
+
+Fikir, otizmli bir çocuğun annesi olan Aylin Tekin'den geldi. Tekin, oğluyla markete her girdiğinde oğlunun huzursuzlandığını, kulaklarını kapattığını anlattı. "Market müdürüne gidip durumu anlattım. Beni dinledi ve 'Ne yapabiliriz?' diye sordu. Bu soru benim için çok değerliydi."
+
+Sessiz saatte kasiyerler de daha yavaş ve sakin çalışıyor. Kasa bantlarının bip sesleri kısılıyor. Market girişine, ihtiyaç duyanlar için kulaklıklar bırakılıyor.
+
+Uygulama, beklenmedik bir şekilde başka müşterilerden de ilgi gördü. Pek çok kişi, sessiz saatte alışveriş yapmanın çok daha rahat olduğunu söyledi. Market müdürü, uygulamayı haftada iki güne çıkarmayı düşündüklerini açıkladı.
+
+### 72 | Köprüler Nasıl Ayakta Durur?
+sub: science | kind: feature | tags: köprü, mühendislik, kuvvet, yapı
+---
+Nehirlerin, vadilerin ve boğazların üzerinden geçen köprüler, mühendisliğin en etkileyici örneklerindendir. Tonlarca ağırlığı taşıyan bu yapılar, kuvvetlerin akıllıca dağıtılmasıyla ayakta durur.
+
+Bir köprüye iki temel kuvvet etki eder: Basınç ve çekme. Basınç bir şeyi sıkıştırır, çekme ise onu gerer. İyi bir köprü tasarımı, bu kuvvetleri malzemelerin en iyi taşıyabileceği şekilde dağıtır.
+
+En eski köprü türlerinden biri kemer köprüdür. Kemerin eğri şekli, üzerindeki ağırlığı yanlara ve aşağıya, kemerin ayaklarına doğru iletir. Kemerin taşları birbirini sıkıştırarak bir arada durur. Taş, basınca çok dayanıklı olduğu için kemer köprüler yüzyıllarca ayakta kalabilir. Anadolu'daki pek çok tarihî taş köprü bu şekilde yapılmıştır.
+
+Asma köprülerde ise durum farklıdır. Köprünün yolu, iki yüksek kuleye asılmış kalın çelik kablolara bağlanır. Yolun ağırlığı kabloları gerer, kablolar da bu kuvveti kulelere ve karadaki sağlam bağlantı noktalarına iletir. Çelik, çekmeye çok dayanıklı olduğu için asma köprüler çok uzun açıklıkları geçebilir.
+
+Eğik askılı köprülerde kablolar doğrudan kulelerden yola uzanır. Bu tasarım, orta uzunluktaki açıklıklar için yaygın olarak kullanılır.
+
+Köprü tasarlarken mühendisler sadece ağırlığı değil, rüzgârı, depremleri, sıcaklık değişimlerini ve zamanla oluşan aşınmayı da hesaba katar.
+
+### 73 | Gençler Kasabanın İlk Podcast'ini Başlattı
+sub: culture | tags: podcast, gençler, yerel tarih, ses
+---
+Beşpınar kasabasından dört lise öğrencisi, kasabanın hikâyelerini anlatan bir podcast yayını başlattı. "Beşpınar'dan Sesler" adlı yayının her bölümünde kasabadan bir kişi konuk ediliyor.
+
+Podcast'i başlatan gençler, fikri bir okul ödevinden aldıklarını söylüyor. Grubun üyelerinden Kaan, "Tarih öğretmenimiz yerel tarihle ilgili bir proje istedi. Biz de 'Neden insanları konuşturmuyoruz?' dedik," diye anlattı.
+
+İlk bölümde kasabanın en yaşlı berberi konuk edildi. Berber, altmış yıldır aynı dükkânda çalıştığını, kasabanın neredeyse bütün erkeklerinin saçını kestiğini anlattı. İkinci bölümde kasabanın ebesi, yüzlerce bebeğin doğumuna nasıl yardım ettiğini paylaştı.
+
+Gençler kayıtları okulun müzik odasında, ödünç aldıkları bir mikrofonla yapıyor. Kurgu işlerini ücretsiz bir ses düzenleme programıyla kendileri hallediyor. Her bölüm yaklaşık yirmi dakika sürüyor.
+
+Podcast kasabada beklenmedik bir ilgi gördü. Kasabadan şehirlere göç etmiş pek çok kişi bölümleri dinleyip mesaj gönderiyor. Bir dinleyici, ikinci bölümdeki ebenin kendi doğumuna yardım ettiğini yazdı. Gençler, kasabanın yüz kişisinin hikâyesini kaydetmeyi hedefliyor.
+
+### 74 | Çay Bitkisinin Yolculuğu: Yapraktan Bardağa
+sub: agriculture | kind: feature | tags: çay, Karadeniz, tarım, üretim
+---
+Türkiye'de günün her saatinde çay içilir. İnce belli bardaklarda sunulan bu içecek, Doğu Karadeniz'in yeşil yamaçlarında başlayan bir yolculuğun sonucudur.
+
+Çay bitkisi, sıcak ve yağışlı iklimleri seven, her dem yeşil bir çalıdır. Türkiye'de çay tarımı yirminci yüzyılın ilk yarısında, Rize ve çevresinde yaygınlaşmaya başladı. Bölgenin bol yağışlı iklimi ve asitli toprakları çay için uygundu. Bugün Rize, Trabzon, Artvin ve Giresun'un yamaçları çay bahçeleriyle kaplıdır.
+
+Çay hasadı genellikle ilkbahardan sonbahara kadar birkaç dönem hâlinde yapılır. Toplanan kısım, bitkinin en uç noktasındaki taze sürgünlerdir. Geleneksel olarak bu sürgünler elle ya da özel makaslarla toplanır.
+
+Toplanan yaş çay fabrikaya götürülür. Siyah çay üretiminde yapraklar önce soldurularak suyunun bir kısmı alınır. Sonra kıvrılıp ezilir. Bu işlem yaprak hücrelerini parçalar ve yaprağın içindeki maddeleri hava ile buluşturur. Ardından gelen oksidasyon aşamasında yapraklar koyulaşır ve çaya özgü rengini ve kokusunu kazanır. Son olarak yapraklar kurutulur ve elenir.
+
+Yeşil çayda ise oksidasyon aşaması yapılmaz. Yapraklar toplandıktan kısa süre sonra ısıtılarak oksidasyon durdurulur. Bu yüzden yeşil çay daha açık renkli ve farklı tatlıdır.
+
+Bir bardak çayı demlerken, onun Karadeniz'in yağmuruyla büyüdüğünü hatırlamak güzel.
+
+### 75 | Belediye Sokak Hayvanları İçin Su Kapları Yerleştirdi
+sub: city | tags: sokak hayvanları, su, yaz, belediye
+---
+Aksu Belediyesi, yaz aylarındaki sıcak havalar nedeniyle şehrin yüz elli noktasına sokak hayvanları için su kapları yerleştirdi. Kaplar her gün belediye ekipleri tarafından dolduruluyor.
+
+Su kapları, parkların kenarlarına, otobüs duraklarının yanına ve ağaç gölgelerine konuldu. Kaplar ağır ve devrilmez bir malzemeden yapıldı. Her kabın yanında "Bu su sokak hayvanları için. Lütfen dökmeyin, doldurun" yazan bir levha bulunuyor.
+
+Belediyenin veteriner işleri müdürü Sinan Erdem, sıcak havalarda sokak hayvanlarının su bulmakta çok zorlandığını söyledi. "Özellikle kediler ve küçük köpekler susuzluktan çok etkileniyor. Bazen bir kap su bir hayatı kurtarabilir."
+
+Uygulama vatandaşlardan da destek gördü. Pek çok esnaf, dükkânının önüne kendi su kabını koydu. Bazı apartman yönetimleri de bahçelerine kap yerleştirdi. Belediye, vatandaşların su kaplarının yerini bildirebileceği bir harita oluşturdu.
+
+Belediye ayrıca vatandaşlara bir uyarıda bulundu: Sokak hayvanlarına süt, tuzlu yiyecekler ve kemikli artıklar verilmemeli. Temiz su ve uygun mama, en sağlıklı seçenek.
+
+### 76 | Pusula Nasıl Çalışır?
+sub: science | kind: feature | tags: pusula, mıknatıs, yön, manyetik alan
+---
+Pusula, yüzyıllardır denizcilerin, gezginlerin ve dağcıların en güvendiği araçlardan biridir. Küçük bir iğne, hep aynı yönü göstererek yolunu kaybedenlere yol gösterir. Peki bu iğne neden hep kuzeyi gösterir?
+
+Dünya'nın içi, büyük ölçüde demir ve nikelden oluşan bir çekirdeğe sahiptir. Dış çekirdekteki sıvı metallerin hareketi, Dünya'nın çevresinde bir manyetik alan oluşturur. Bu alan, Dünya'yı dev bir mıknatısa benzetir.
+
+Pusulanın iğnesi de küçük bir mıknatıstır. Serbestçe dönebilecek şekilde yerleştirildiğinde, Dünya'nın manyetik alanıyla aynı hizaya gelir. İğnenin bir ucu manyetik kuzey kutbuna doğru döner.
+
+Ancak burada önemli bir ayrıntı vardır. Manyetik kuzey kutbu, haritalardaki coğrafi kuzey kutbuyla aynı yerde değildir. Aradaki fark, bulunduğunuz yere göre değişir. Bu farka sapma açısı denir. Uzun yolculuklarda doğru yön bulmak için bu açının hesaba katılması gerekir. Üstelik manyetik kutup zamanla yer değiştirir.
+
+Pusulanın kullanımına dair bilinen en eski kayıtlar Çin'e aittir. Pusula daha sonra denizciler aracılığıyla başka bölgelere yayıldı ve açık denizde yön bulmayı büyük ölçüde kolaylaştırdı.
+
+Pusula kullanırken, yakında bulunan metal eşyaların ve elektronik cihazların iğneyi etkileyebileceğini unutmamak gerekir.
+
+### 77 | Mahallede Herkes İçin Ücretsiz Yoga
+sub: community | tags: yoga, park, spor, mahalle
+---
+Gülistan Mahallesi'nin parkında her pazar sabahı ücretsiz yoga dersleri yapılıyor. Dersleri, mahallede yaşayan gönüllü bir yoga eğitmeni olan Esin Akar veriyor.
+
+Akar, dersleri iki yıl önce sadece dört komşusuyla başlattığını anlatıyor. "Parka matımı serip egzersiz yapıyordum. Komşularım merak edip yanıma geldi. 'Bize de öğretir misin?' dediler. O gün dört kişiydik, şimdi elli kişiyiz."
+
+Derslere her yaştan insan katılıyor. Gençler, orta yaşlılar, emekliler. Akar, dersleri herkesin yapabileceği şekilde tasarladığını söylüyor. Zorlanan katılımcılar için hareketlerin daha kolay versiyonlarını gösteriyor. Sandalyede yapılabilen hareketler de var.
+
+Dersler bir saat sürüyor. İlk yarım saat nefes egzersizleri ve esneme hareketleri, son yarım saat ise denge çalışmaları ve gevşeme yapılıyor. Akar, katılımcılara kendi bedenlerini dinlemelerini ve ağrı hissettikleri bir hareketi zorlamamalarını hatırlatıyor.
+
+Yetmiş bir yaşındaki Muzaffer Bey, derslere katılmaya başladıktan sonra sabahları daha zinde uyandığını söylüyor. "Ama asıl güzel olan, her pazar komşularımı görmek. Yogadan sonra hep birlikte çay içiyoruz."
+
+### 78 | İnsanlar Neden Ağlar?
+sub: science | kind: feature | tags: gözyaşı, duygu, göz, beden
+---
+Gözyaşları üzüldüğümüzde, çok sevindiğimizde, soğan doğradığımızda ya da gözümüze toz kaçtığında akar. Ama bütün gözyaşları aynı değildir.
+
+Bilim insanları gözyaşlarını genellikle üç gruba ayırır. Birincisi temel gözyaşlarıdır. Bu gözyaşları gözümüzü sürekli nemli tutar. Her göz kırptığımızda gözün yüzeyine ince bir tabaka hâlinde yayılırlar. Bu tabaka gözü korur, besler ve temiz tutar.
+
+İkincisi refleks gözyaşlarıdır. Gözümüze toz, duman ya da soğanın yaydığı tahriş edici maddeler gelince akarlar. Görevleri, gözü rahatsız eden maddeyi yıkayıp uzaklaştırmaktır.
+
+Üçüncüsü ise duygusal gözyaşlarıdır. Üzüntü, sevinç, öfke veya derin bir etkilenme anında akarlar. Duygusal ağlamanın insanlara özgü olduğu düşünülür. Başka hayvanlar da gözyaşı üretir ama bunun duygularla bağlantılı olduğuna dair güçlü bir kanıt yoktur.
+
+İnsanların neden duygusal olarak ağladığı tam olarak bilinmiyor. Bir görüşe göre ağlamak, çevremizdekilere yardıma ihtiyacımız olduğunu gösteren bir sinyaldir. Gözyaşları, başkalarının bize yaklaşmasını ve bizi teselli etmesini kolaylaştırabilir.
+
+Pek çok insan ağladıktan sonra rahatladığını söyler. Ancak araştırmalar, bu rahatlamanın kişiye, ortama ve ağlamanın nedenine göre değiştiğini gösteriyor.
+
+### 79 | Kasabanın Eski Hamamı Müzeye Dönüştü
+sub: history | tags: hamam, müze, restorasyon, tarih
+---
+Kırkağaçlı kasabasının dört yüz yıllık hamamı, uzun bir restorasyon sürecinin ardından kent müzesi olarak ziyarete açıldı. Müzede kasabanın tarihini anlatan objeler ve fotoğraflar sergileniyor.
+
+Hamam, kasabanın en eski yapılarından biri. Yüzyıllar boyunca kasabalıların yıkandığı, sohbet ettiği ve önemli günleri kutladığı bir mekân oldu. Gelin hamamları, bebek hamamları ve bayram öncesi hamam ziyaretleri kasaba hayatının önemli parçalarıydı. Ancak evlere banyo girmesiyle hamam kullanılmaz hâle geldi ve otuz yıl önce kapandı.
+
+Restorasyon sırasında hamamın kubbelerindeki küçük cam pencereler, yani fil gözleri, tek tek yeniden yapıldı. Mermer kurnalar temizlendi, göbek taşı onarıldı. Hamamın ısıtma sistemini gösteren bir bölüm de açıkta bırakıldı. Ziyaretçiler, suyun ve sıcak havanın hamamın altında nasıl dolaştığını görebiliyor.
+
+Müzenin bölümleri hamamın kendi odalarına göre düzenlendi. Soyunmalıkta kasabanın eski fotoğrafları, ılıklıkta el sanatları, sıcaklıkta ise hamam kültürünü anlatan objeler sergileniyor: Bakır taslar, nalınlar, peştemaller ve gümüş hamam tasları.
+
+Müzenin açılışına kasabanın yaşlıları da katıldı. Seksen yaşındaki Saliha Hanım, gelin hamamının bu kubbenin altında yapıldığını anlatırken gözleri doldu.
+
+### 80 | Neden Hapşırırız?
+sub: science | kind: feature | tags: hapşırma, burun, refleks, sağlık
+---
+Hapşırma, vücudumuzun burnu temizlemek için kullandığı güçlü bir reflekstir. Burnumuza toz, polen, duman ya da başka tahriş edici bir madde girdiğinde, beyin hızlı bir tepki başlatır.
+
+Burnun iç yüzeyinde çok sayıda sinir ucu bulunur. Bu sinir uçları tahriş olduğunda beyne bir sinyal gönderir. Beyin de bir dizi kası aynı anda harekete geçirir. Önce derin bir nefes alınır. Sonra göğüs, karın ve boğaz kasları kasılır. Ardından hava burun ve ağızdan büyük bir hızla dışarı atılır.
+
+Hapşırırken gözlerin kapanması da refleksin bir parçasıdır. Gözleri açık tutarak hapşırmak çoğu insan için neredeyse imkânsızdır.
+
+Bazı insanlar parlak bir ışığa, örneğin güneşe baktıklarında hapşırır. Bu olaya ışık hapşırma refleksi denir. Nüfusun azımsanmayacak bir kısmında görüldüğü düşünülür ve genellikle ailelerde kalıtsal olarak aktarılır. Nedeni tam olarak bilinmemekle birlikte, görme ve burun sinirleri arasındaki bir etkileşimle ilgili olduğu düşünülüyor.
+
+Hapşırma, mikropları da çevreye yayabilir. Bu yüzden hapşırırken ağzı ve burnu bir mendille ya da dirseğin iç kısmıyla kapatmak önemlidir. Kullanılan mendil hemen atılmalı ve eller yıkanmalıdır.
+
+Hapşırmayı tutmak ise önerilmez. Refleks güçlü bir basınç oluşturur ve bu basıncı engellemek bazen kulaklara ve boğaza zarar verebilir.

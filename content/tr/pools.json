@@ -1,0 +1,1369 @@
+{
+ "pools": {
+  "names": {
+   "proper": true,
+   "items": [
+    "Ali",
+    "Ayşe",
+    "Mehmet",
+    "Zeynep",
+    "Can",
+    "Elif",
+    "Emre",
+    "Selin",
+    "Burak",
+    "Deniz",
+    "Murat",
+    "Esra",
+    "Kerem",
+    "Defne",
+    "Ömer",
+    "Hakan",
+    "Seda",
+    "Tolga",
+    "İpek",
+    "Kaan",
+    "Melis",
+    "Berk",
+    "Oğuz",
+    "Nur"
+   ]
+  },
+  "petnames": {
+   "proper": true,
+   "items": [
+    "Pamuk",
+    "Boncuk",
+    "Tarçın",
+    "Fındık",
+    "Minnoş",
+    "Karamel",
+    "Zeytin",
+    "Bulut",
+    "Duman",
+    "Şeker"
+   ]
+  },
+  "pets": {
+   "items": [
+    "kedi",
+    "köpek",
+    "tavşan",
+    "kaplumbağa",
+    "ördek",
+    "sincap",
+    "kuzu",
+    "hamster"
+   ]
+  },
+  "kidfoods": {
+   "items": [
+    "havuç",
+    "elma",
+    "muz",
+    "üzüm",
+    "peynir",
+    "çilek",
+    "armut",
+    "karpuz",
+    "kiraz",
+    "ekmek"
+   ]
+  },
+  "places": {
+   "items": [
+    {
+     "v": "park",
+     "dat": "parka"
+    },
+    "okul",
+    "kütüphane",
+    "sinema",
+    "eczane",
+    "hastane",
+    "banka",
+    "postane",
+    "kafe",
+    "bahçe",
+    "plaj",
+    "müze",
+    "pazar",
+    "fırın",
+    {
+     "v": "market",
+     "dat": "markete"
+    },
+    {
+     "v": "spor salonu",
+     "dat": "spor salonuna",
+     "loc": "spor salonunda",
+     "abl": "spor salonundan"
+    },
+    "istasyon"
+   ]
+  },
+  "buy": {
+   "items": [
+    "ekmek",
+    "süt",
+    "yumurta",
+    "peynir",
+    "domates",
+    "elma",
+    "çay",
+    "şeker",
+    "pirinç",
+    "makarna",
+    "zeytin",
+    "yoğurt",
+    "su",
+    "muz",
+    "portakal",
+    "simit"
+   ]
+  },
+  "things": {
+   "items": [
+    "şemsiye",
+    "anahtar",
+    "gözlük",
+    "kitap",
+    "telefon",
+    "defter",
+    "kalem",
+    "çanta",
+    "cüzdan",
+    "kulaklık",
+    "saat",
+    "atkı"
+   ]
+  },
+  "colors": {
+   "items": [
+    "kırmızı",
+    "mavi",
+    "sarı",
+    "yeşil",
+    "mor",
+    "turuncu",
+    "beyaz",
+    "siyah",
+    "pembe",
+    "gri"
+   ]
+  },
+  "animals": {
+   "items": [
+    "kedi",
+    "köpek",
+    "kuş",
+    "tavşan",
+    "kaplumbağa",
+    "ördek",
+    "at",
+    "inek",
+    "keçi",
+    "kurbağa",
+    "aslan",
+    "fil"
+   ]
+  },
+  "countables": {
+   "items": [
+    "elma",
+    "domates",
+    "yumurta",
+    "muz",
+    "portakal",
+    "simit",
+    "kurabiye",
+    "kalem",
+    "kitap",
+    "bardak"
+   ]
+  },
+  "numbers": {
+   "items": [
+    {
+     "v": "iki",
+     "show": "2"
+    },
+    {
+     "v": "üç",
+     "show": "3"
+    },
+    {
+     "v": "dört",
+     "show": "4"
+    },
+    {
+     "v": "beş",
+     "show": "5"
+    },
+    {
+     "v": "altı",
+     "show": "6"
+    },
+    {
+     "v": "yedi",
+     "show": "7"
+    },
+    {
+     "v": "sekiz",
+     "show": "8"
+    },
+    {
+     "v": "dokuz",
+     "show": "9"
+    }
+   ]
+  },
+  "vehicles": {
+   "items": [
+    "otobüs",
+    "tren",
+    "metro",
+    "taksi",
+    "vapur",
+    "tramvay",
+    "bisiklet",
+    "araba",
+    "minibüs"
+   ]
+  },
+  "past_times": {
+   "items": [
+    "dün",
+    "dün akşam",
+    "geçen hafta",
+    "bu sabah",
+    "iki gün önce",
+    "geçen cumartesi"
+   ]
+  },
+  "weekdays": {
+   "items": [
+    "pazartesi günü",
+    "salı günü",
+    "çarşamba günü",
+    "perşembe günü",
+    "cuma günü",
+    "cumartesi günü",
+    "pazar günü"
+   ]
+  },
+  "relations": {
+   "items": [
+    {
+     "v": "masanın üstünde",
+     "abl": "masanın üstünden"
+    },
+    {
+     "v": "masanın altında",
+     "abl": "masanın altından"
+    },
+    {
+     "v": "kapının arkasında",
+     "abl": "kapının arkasından"
+    },
+    {
+     "v": "koltuğun yanında",
+     "abl": "koltuğun yanından"
+    },
+    {
+     "v": "çantanın içinde",
+     "abl": "çantanın içinden"
+    },
+    {
+     "v": "pencerenin önünde",
+     "abl": "pencerenin önünden"
+    },
+    {
+     "v": "dolabın içinde",
+     "abl": "dolabın içinden"
+    },
+    {
+     "v": "yatağın altında",
+     "abl": "yatağın altından"
+    }
+   ]
+  },
+  "jobs": {
+   "items": [
+    "doktor",
+    "öğretmen",
+    "aşçı",
+    "şoför",
+    "polis",
+    "hemşire",
+    "garson",
+    "berber",
+    "postacı",
+    "mühendis"
+   ]
+  },
+  "kin3": {
+   "possessive": true,
+   "items": [
+    {
+     "v": "annesi",
+     "dat": "annesine",
+     "ins": "annesiyle"
+    },
+    {
+     "v": "babası",
+     "dat": "babasına",
+     "ins": "babasıyla"
+    },
+    {
+     "v": "ablası",
+     "dat": "ablasına",
+     "ins": "ablasıyla"
+    },
+    {
+     "v": "ağabeyi",
+     "dat": "ağabeyine",
+     "ins": "ağabeyiyle"
+    },
+    {
+     "v": "dedesi",
+     "dat": "dedesine",
+     "ins": "dedesiyle"
+    },
+    {
+     "v": "ninesi",
+     "dat": "ninesine",
+     "ins": "ninesiyle"
+    },
+    {
+     "v": "teyzesi",
+     "dat": "teyzesine",
+     "ins": "teyzesiyle"
+    },
+    {
+     "v": "amcası",
+     "dat": "amcasına",
+     "ins": "amcasıyla"
+    }
+   ]
+  },
+  "activities": {
+   "items": [
+    "yemek yapıyordu",
+    "kitap okuyordu",
+    "televizyon izliyordu",
+    "telefonla konuşuyordu",
+    "bahçeyi suluyordu",
+    "bulaşık yıkıyordu",
+    "uyuyordu",
+    "müzik dinliyordu"
+   ]
+  },
+  "acts_now": {
+   "items": [
+    "uyuyor",
+    "koşuyor",
+    "yüzüyor",
+    "gülüyor",
+    "okuyor",
+    "yazıyor",
+    "şarkı söylüyor",
+    "dans ediyor",
+    "yemek yiyor",
+    "resim yapıyor"
+   ]
+  },
+  "events": {
+   "items": [
+    "toplantı",
+    "ders",
+    "film",
+    "maç",
+    "konser",
+    "sınav",
+    "kurs",
+    "tören"
+   ]
+  },
+  "cities": {
+   "proper": true,
+   "items": [
+    "Ankara",
+    "İstanbul",
+    "İzmir",
+    "Bursa",
+    "Antalya",
+    "Trabzon",
+    "Konya",
+    "Erzurum",
+    "Eskişehir",
+    "Samsun"
+   ]
+  },
+  "weather": {
+   "items": [
+    "güneşli",
+    "yağmurlu",
+    "karlı",
+    "bulutlu",
+    "rüzgârlı",
+    "sisli",
+    "serin",
+    "sıcak"
+   ]
+  },
+  "produce": {
+   "items": [
+    {
+     "v": "domates",
+     "gen": "domatesin"
+    },
+    {
+     "v": "elma",
+     "gen": "elmanın"
+    },
+    {
+     "v": "patates",
+     "gen": "patatesin"
+    },
+    {
+     "v": "soğan",
+     "gen": "soğanın"
+    },
+    {
+     "v": "muz",
+     "gen": "muzun"
+    },
+    {
+     "v": "üzüm",
+     "gen": "üzümün"
+    },
+    {
+     "v": "portakal",
+     "gen": "portakalın"
+    },
+    {
+     "v": "kiraz",
+     "gen": "kirazın"
+    },
+    {
+     "v": "armut",
+     "gen": "armudun"
+    },
+    {
+     "v": "biber",
+     "gen": "biberin"
+    }
+   ]
+  },
+  "foods_meal": {
+   "items": [
+    "çorba",
+    "pilav",
+    "makarna",
+    "salata",
+    "köfte",
+    "balık",
+    "börek",
+    "menemen",
+    "tost",
+    "mantı"
+   ]
+  },
+  "workdocs": {
+   "items": [
+    {
+     "v": "rapor",
+     "acc": "raporu"
+    },
+    {
+     "v": "sunum",
+     "acc": "sunumu"
+    },
+    {
+     "v": "bütçe tablosu",
+     "acc": "bütçe tablosunu"
+    },
+    {
+     "v": "teklif",
+     "acc": "teklifi"
+    },
+    {
+     "v": "sözleşme",
+     "acc": "sözleşmeyi"
+    },
+    {
+     "v": "toplantı notları",
+     "acc": "toplantı notlarını"
+    },
+    {
+     "v": "fatura",
+     "acc": "faturayı"
+    }
+   ]
+  },
+  "workevents": {
+   "items": [
+    "toplantı",
+    "eğitim",
+    "sunum",
+    "görüşme",
+    "değerlendirme"
+   ]
+  },
+  "workrooms": {
+   "items": [
+    {
+     "v": "büyük salon",
+     "loc": "büyük salonda"
+    },
+    {
+     "v": "üçüncü kattaki oda",
+     "loc": "üçüncü kattaki odada"
+    },
+    {
+     "v": "müdürün odası",
+     "loc": "müdürün odasında"
+    },
+    {
+     "v": "giriş kattaki toplantı odası",
+     "loc": "giriş kattaki toplantı odasında"
+    },
+    {
+     "v": "kantin",
+     "loc": "kantinde"
+    },
+    {
+     "v": "çevrim içi",
+     "loc": "çevrim içi"
+    }
+   ]
+  },
+  "commands": {
+   "items": [
+    {
+     "v": "Lütfen pencereyi aç.",
+     "short": "Pencereyi açmak"
+    },
+    {
+     "v": "Işığı kapatır mısın?",
+     "short": "Işığı kapatmak"
+    },
+    {
+     "v": "Ayakkabılarını kapının önüne bırak.",
+     "short": "Ayakkabıları kapının önüne bırakmak"
+    },
+    {
+     "v": "Sofrayı kurmama yardım eder misin?",
+     "short": "Sofrayı kurmaya yardım etmek"
+    },
+    {
+     "v": "Televizyonun sesini biraz kıs.",
+     "short": "Televizyonun sesini kısmak"
+    },
+    {
+     "v": "Çöpü dışarı çıkarır mısın?",
+     "short": "Çöpü dışarı çıkarmak"
+    },
+    {
+     "v": "Çiçekleri sulamayı unutma.",
+     "short": "Çiçekleri sulamak"
+    },
+    {
+     "v": "Çıkarken kapıyı kilitle.",
+     "short": "Kapıyı kilitlemek"
+    },
+    {
+     "v": "Ellerini yıkayıp sofraya gel.",
+     "short": "Elleri yıkayıp sofraya gelmek"
+    },
+    {
+     "v": "Ceketini askıya as.",
+     "short": "Ceketi askıya asmak"
+    }
+   ]
+  },
+  "kin_home": {
+   "items": [
+    "annem",
+    "babam",
+    "ablam",
+    "ağabeyim",
+    "dedem",
+    "ninem",
+    "teyzem",
+    "amcam"
+   ]
+  },
+  "rooms": {
+   "items": [
+    "mutfak",
+    "salon",
+    "banyo",
+    {
+     "v": "yatak odası",
+     "loc": "yatak odasında",
+     "dat": "yatak odasına",
+     "abl": "yatak odasından"
+    },
+    "balkon",
+    "bahçe"
+   ]
+  },
+  "streets": {
+   "items": [
+    "Lale Sokak",
+    "Gül Sokak",
+    "Çınar Caddesi",
+    "Papatya Sokak",
+    "Atatürk Caddesi",
+    "Menekşe Sokak",
+    "Kavak Sokak",
+    "Zambak Sokak"
+   ]
+  },
+  "reasons_walk": {
+   "items": [
+    {
+     "v": "hava çok güzeldi",
+     "short": "Hava çok güzel olduğu için"
+    },
+    {
+     "v": "otobüsler grevdeydi",
+     "short": "Otobüsler grevde olduğu için"
+    },
+    {
+     "v": "biraz spor yapmak istiyordu",
+     "short": "Spor yapmak istediği için"
+    },
+    {
+     "v": "yol çok kalabalıktı",
+     "short": "Yol kalabalık olduğu için"
+    },
+    {
+     "v": "bisikleti bozulmuştu",
+     "short": "Bisikleti bozulduğu için"
+    }
+   ]
+  },
+  "toys": {
+   "items": [
+    {
+     "v": "top",
+     "acc": "topunu",
+     "ins": "topuyla"
+    },
+    {
+     "v": "oyuncak ayı",
+     "acc": "oyuncak ayısını",
+     "ins": "oyuncak ayısıyla"
+    },
+    {
+     "v": "oyuncak araba",
+     "acc": "oyuncak arabasını",
+     "ins": "oyuncak arabasıyla"
+    },
+    {
+     "v": "bebek",
+     "acc": "bebeğini",
+     "ins": "bebeğiyle"
+    },
+    {
+     "v": "yapboz",
+     "acc": "yapbozunu",
+     "ins": "yapboz ile"
+    },
+    {
+     "v": "uçurtma",
+     "acc": "uçurtmasını",
+     "ins": "uçurtmasıyla"
+    },
+    {
+     "v": "kova",
+     "acc": "kovasını",
+     "ins": "kovasıyla"
+    }
+   ]
+  },
+  "zoo_animals": {
+   "items": [
+    "zürafa",
+    "fil",
+    "aslan",
+    "maymun",
+    "zebra",
+    "penguen",
+    "kanguru",
+    "ayı"
+   ]
+  },
+  "fruits": {
+   "items": [
+    "çilek",
+    "muz",
+    "kiraz",
+    "şeftali",
+    "ahududu",
+    "böğürtlen"
+   ]
+  },
+  "indoor": {
+   "items": [
+    {
+     "v": "resim yaptı",
+     "short": "Resim yaptı"
+    },
+    {
+     "v": "yapboz yaptı",
+     "short": "Yapboz yaptı"
+    },
+    {
+     "v": "kitap okudu",
+     "short": "Kitap okudu"
+    },
+    {
+     "v": "legolarla bir kule yaptı",
+     "short": "Lego ile kule yaptı"
+    },
+    {
+     "v": "kardeşiyle saklambaç oynadı",
+     "short": "Saklambaç oynadı"
+    },
+    {
+     "v": "babasıyla kurabiye pişirdi",
+     "short": "Kurabiye pişirdi"
+    }
+   ]
+  },
+  "doctors": {
+   "items": [
+    {
+     "v": "göz doktoru",
+     "abl": "göz doktorundan"
+    },
+    {
+     "v": "diş hekimi",
+     "abl": "diş hekiminden"
+    },
+    {
+     "v": "kulak burun boğaz uzmanı",
+     "abl": "kulak burun boğaz uzmanından"
+    },
+    {
+     "v": "odyolog",
+     "abl": "odyologdan"
+    },
+    {
+     "v": "aile hekimi",
+     "abl": "aile hekiminden"
+    }
+   ]
+  },
+  "ordinals": {
+   "items": [
+    {
+     "v": "birinci",
+     "show": "1"
+    },
+    {
+     "v": "ikinci",
+     "show": "2"
+    },
+    {
+     "v": "üçüncü",
+     "show": "3"
+    },
+    {
+     "v": "dördüncü",
+     "show": "4"
+    },
+    {
+     "v": "beşinci",
+     "show": "5"
+    },
+    {
+     "v": "altıncı",
+     "show": "6"
+    }
+   ]
+  },
+  "clinics": {
+   "items": [
+    {
+     "v": "Merkez Sağlık Kampüsü",
+     "loc": "Merkez Sağlık Kampüsü'nde"
+    },
+    {
+     "v": "Şehir Hastanesi",
+     "loc": "Şehir Hastanesi'nde"
+    },
+    {
+     "v": "Çınar Polikliniği",
+     "loc": "Çınar Polikliniği'nde"
+    },
+    {
+     "v": "Yeni Mahalle Sağlık Merkezi",
+     "loc": "Yeni Mahalle Sağlık Merkezi'nde"
+    }
+   ]
+  },
+  "hours": {
+   "items": [
+    {
+     "v": "iki",
+     "show": "2"
+    },
+    {
+     "v": "üç",
+     "show": "3"
+    },
+    {
+     "v": "dört",
+     "show": "4"
+    },
+    {
+     "v": "beş",
+     "show": "5"
+    },
+    {
+     "v": "altı",
+     "show": "6"
+    },
+    {
+     "v": "yedi",
+     "show": "7"
+    }
+   ]
+  },
+  "parks": {
+   "items": [
+    {
+     "v": "Gençlik Parkı",
+     "loc": "Gençlik Parkı'nda"
+    },
+    {
+     "v": "Çamlık Parkı",
+     "loc": "Çamlık Parkı'nda"
+    },
+    {
+     "v": "mahalle meydanı",
+     "loc": "mahalle meydanında"
+    },
+    {
+     "v": "okul bahçesi",
+     "loc": "okul bahçesinde"
+    }
+   ]
+  },
+  "temps": {
+   "items": [
+    {
+     "v": "beş",
+     "show": "5"
+    },
+    {
+     "v": "on",
+     "show": "10"
+    },
+    {
+     "v": "on iki",
+     "show": "12"
+    },
+    {
+     "v": "on beş",
+     "show": "15"
+    },
+    {
+     "v": "on sekiz",
+     "show": "18"
+    },
+    {
+     "v": "yirmi",
+     "show": "20"
+    },
+    {
+     "v": "yirmi beş",
+     "show": "25"
+    },
+    {
+     "v": "otuz",
+     "show": "30"
+    }
+   ]
+  },
+  "lostplaces": {
+   "items": [
+    {
+     "v": "kafe",
+     "loc": "kafede"
+    },
+    {
+     "v": "otobüs",
+     "loc": "otobüste"
+    },
+    {
+     "v": "sinema",
+     "loc": "sinemada"
+    },
+    {
+     "v": "kütüphane",
+     "loc": "kütüphanede"
+    },
+    {
+     "v": "eczane",
+     "loc": "eczanede"
+    },
+    {
+     "v": "spor salonu",
+     "loc": "spor salonunda"
+    }
+   ]
+  },
+  "topics": {
+   "items": [
+    "yeni proje",
+    "müşteri anketi",
+    "web sitesinin yenilenmesi",
+    "yıllık bütçe",
+    "eğitim programı"
+   ]
+  },
+  "chores": {
+   "items": [
+    {
+     "v": "çiçekleri sula",
+     "short": "Çiçekleri sulamak"
+    },
+    {
+     "v": "çöpü dışarı çıkar",
+     "short": "Çöpü çıkarmak"
+    },
+    {
+     "v": "bulaşıkları makineye yerleştir",
+     "short": "Bulaşıkları yerleştirmek"
+    },
+    {
+     "v": "odanı topla",
+     "short": "Odayı toplamak"
+    },
+    {
+     "v": "kediye mama ver",
+     "short": "Kediye mama vermek"
+    },
+    {
+     "v": "çamaşırları as",
+     "short": "Çamaşırları asmak"
+    }
+   ]
+  },
+  "drinks": {
+   "items": [
+    "ayran",
+    "su",
+    "limonata",
+    "çay",
+    "maden suyu",
+    "portakal suyu"
+   ]
+  },
+  "dishes": {
+   "items": [
+    "mercimek çorbası",
+    "karnıyarık",
+    "tavuk şiş",
+    "kuru fasulye",
+    "mantı",
+    "izgara köfte",
+    "sebze yemeği"
+   ]
+  },
+  "sizes": {
+   "items": [
+    "küçük",
+    "orta",
+    "büyük"
+   ]
+  },
+  "aisles": {
+   "items": [
+    {
+     "v": "birinci reyonda",
+     "show": "1"
+    },
+    {
+     "v": "ikinci reyonda",
+     "show": "2"
+    },
+    {
+     "v": "üçüncü reyonda",
+     "show": "3"
+    },
+    {
+     "v": "dördüncü reyonda",
+     "show": "4"
+    },
+    {
+     "v": "beşinci reyonda",
+     "show": "5"
+    },
+    {
+     "v": "altıncı reyonda",
+     "show": "6"
+    }
+   ]
+  },
+  "dirs": {
+   "items": [
+    {
+     "v": "sağ",
+     "dat": "sağa"
+    },
+    {
+     "v": "sol",
+     "dat": "sola"
+    }
+   ]
+  },
+  "landmarks": {
+   "items": [
+    {
+     "v": "eczane",
+     "gen": "eczanenin"
+    },
+    {
+     "v": "banka",
+     "gen": "bankanın"
+    },
+    {
+     "v": "park",
+     "gen": "parkın"
+    },
+    {
+     "v": "okul",
+     "gen": "okulun"
+    },
+    {
+     "v": "postane",
+     "gen": "postanenin"
+    },
+    {
+     "v": "fırın",
+     "gen": "fırının"
+    }
+   ]
+  },
+  "dest": {
+   "items": [
+    {
+     "v": "kütüphane"
+    },
+    {
+     "v": "müze"
+    },
+    {
+     "v": "belediye binası"
+    },
+    {
+     "v": "sinema"
+    },
+    {
+     "v": "otobüs durağı"
+    }
+   ]
+  },
+  "socials": {
+   "items": [
+    "konser",
+    "doğum günü partisi",
+    "piknik",
+    "film gecesi",
+    "kahvaltı",
+    "mangal"
+   ]
+  },
+  "stations": {
+   "proper": true,
+   "items": [
+    "Kızılay",
+    "Ulus",
+    "Sıhhiye",
+    "Bahçelievler",
+    "Emek",
+    "Tandoğan",
+    "Kurtuluş",
+    "Dikimevi"
+   ]
+  },
+  "sides": {
+   "items": [
+    {
+     "v": "sağ",
+     "show": "Sağ"
+    },
+    {
+     "v": "sol",
+     "show": "Sol"
+    }
+   ]
+  },
+  "lines": {
+   "items": [
+    {
+     "v": "on iki",
+     "show": "12"
+    },
+    {
+     "v": "yirmi üç",
+     "show": "23"
+    },
+    {
+     "v": "otuz beş",
+     "show": "35"
+    },
+    {
+     "v": "kırk bir",
+     "show": "41"
+    },
+    {
+     "v": "elli yedi",
+     "show": "57"
+    },
+    {
+     "v": "altmış dört",
+     "show": "64"
+    }
+   ]
+  },
+  "mins": {
+   "items": [
+    {
+     "v": "beş",
+     "show": "5"
+    },
+    {
+     "v": "yedi",
+     "show": "7"
+    },
+    {
+     "v": "on",
+     "show": "10"
+    },
+    {
+     "v": "on beş",
+     "show": "15"
+    },
+    {
+     "v": "yirmi",
+     "show": "20"
+    }
+   ]
+  },
+  "pages": {
+   "items": [
+    {
+     "v": "otuz ikinci",
+     "show": "32"
+    },
+    {
+     "v": "kırk beşinci",
+     "show": "45"
+    },
+    {
+     "v": "elli sekizinci",
+     "show": "58"
+    },
+    {
+     "v": "altmış yedinci",
+     "show": "67"
+    },
+    {
+     "v": "yetmiş dördüncü",
+     "show": "74"
+    },
+    {
+     "v": "seksen birinci",
+     "show": "81"
+    }
+   ]
+  },
+  "exnums": {
+   "items": [
+    {
+     "v": "birinci",
+     "show": "1"
+    },
+    {
+     "v": "ikinci",
+     "show": "2"
+    },
+    {
+     "v": "üçüncü",
+     "show": "3"
+    },
+    {
+     "v": "dördüncü",
+     "show": "4"
+    },
+    {
+     "v": "beşinci",
+     "show": "5"
+    }
+   ]
+  },
+  "depts": {
+   "items": [
+    {
+     "v": "göz",
+     "show": "Göz"
+    },
+    {
+     "v": "kulak burun boğaz",
+     "show": "Kulak burun boğaz"
+    },
+    {
+     "v": "diş",
+     "show": "Diş"
+    },
+    {
+     "v": "dahiliye",
+     "show": "Dahiliye"
+    },
+    {
+     "v": "odyoloji",
+     "show": "Odyoloji"
+    }
+   ]
+  },
+  "assembly": {
+   "items": [
+    {
+     "v": "binanın önündeki otopark",
+     "dat": "binanın önündeki otoparka"
+    },
+    {
+     "v": "bahçedeki toplanma alanı",
+     "dat": "bahçedeki toplanma alanına"
+    },
+    {
+     "v": "karşıdaki park",
+     "dat": "karşıdaki parka"
+    },
+    {
+     "v": "okulun spor sahası",
+     "dat": "okulun spor sahasına"
+    }
+   ]
+  },
+  "tvshows": {
+   "items": [
+    "haber bülteni",
+    "belgesel",
+    "yarışma programı",
+    "çizgi film",
+    "maç özeti"
+   ]
+  },
+  "kin3_helpers": {
+   "possessive": true,
+   "items": [
+    {
+     "v": "annesi",
+     "dat": "annesine",
+     "ins": "annesiyle"
+    },
+    {
+     "v": "babası",
+     "dat": "babasına",
+     "ins": "babasıyla"
+    },
+    {
+     "v": "ablası",
+     "dat": "ablasına",
+     "ins": "ablasıyla"
+    },
+    {
+     "v": "ağabeyi",
+     "dat": "ağabeyine",
+     "ins": "ağabeyiyle"
+    },
+    {
+     "v": "dedesi",
+     "dat": "dedesine",
+     "ins": "dedesiyle"
+    },
+    {
+     "v": "teyzesi",
+     "dat": "teyzesine",
+     "ins": "teyzesiyle"
+    },
+    {
+     "v": "amcası",
+     "dat": "amcasına",
+     "ins": "amcasıyla"
+    }
+   ]
+  },
+  "meetspots": {
+   "items": [
+    {
+     "v": "kütüphanenin önü",
+     "loc": "kütüphanenin önünde"
+    },
+    {
+     "v": "metro çıkışı",
+     "loc": "metro çıkışında"
+    },
+    {
+     "v": "parkın girişi",
+     "loc": "parkın girişinde"
+    },
+    {
+     "v": "kafenin önü",
+     "loc": "kafenin önünde"
+    },
+    {
+     "v": "otobüs durağı",
+     "loc": "otobüs durağında"
+    }
+   ]
+  },
+  "bringables": {
+   "items": [
+    {
+     "v": "şemsiye",
+     "acc": "şemsiyeyi"
+    },
+    {
+     "v": "kimlik kartı",
+     "acc": "kimlik kartını"
+    },
+    {
+     "v": "fotoğraf makinesi",
+     "acc": "fotoğraf makinesini"
+    },
+    {
+     "v": "su şişesi",
+     "acc": "su şişesini"
+    },
+    {
+     "v": "atkı",
+     "acc": "atkıyı"
+    },
+    {
+     "v": "harita",
+     "acc": "haritayı"
+    }
+   ]
+  },
+  "companies": {
+   "proper": true,
+   "items": [
+    "Yıldız Lojistik",
+    "Mavi Yazılım",
+    "Deniz Gıda",
+    "Akın İnşaat",
+    "Ege Tekstil"
+   ]
+  }
+ }
+}

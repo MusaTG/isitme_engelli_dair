@@ -1,0 +1,108 @@
+{
+ "note": "Özgün kelimeler; klinik Türkçe Matris Testi’nin kelime listeleri kullanılmamıştır. Her kombinasyon dilbilgisel olarak doğrudur.",
+ "license": "MIT",
+ "pattern": [
+  "name",
+  "number",
+  "adj",
+  "object",
+  "verb"
+ ],
+ "columns": [
+  {
+   "id": "name",
+   "label": {
+    "tr": "Kim?",
+    "en": "Who?"
+   },
+   "words": [
+    "Ayşe",
+    "Can",
+    "Deniz",
+    "Elif",
+    "Emre",
+    "Kerem",
+    "Murat",
+    "Selin",
+    "Zeynep",
+    "Ömer"
+   ]
+  },
+  {
+   "id": "number",
+   "label": {
+    "tr": "Kaç?",
+    "en": "How many?"
+   },
+   "words": [
+    "iki",
+    "üç",
+    "dört",
+    "beş",
+    "altı",
+    "yedi",
+    "sekiz",
+    "dokuz",
+    "on",
+    "on iki"
+   ]
+  },
+  {
+   "id": "adj",
+   "label": {
+    "tr": "Nasıl?",
+    "en": "What kind?"
+   },
+   "words": [
+    "büyük",
+    "küçük",
+    "kırmızı",
+    "yeşil",
+    "eski",
+    "yeni",
+    "güzel",
+    "ucuz",
+    "beyaz",
+    "sarı"
+   ]
+  },
+  {
+   "id": "object",
+   "label": {
+    "tr": "Ne?",
+    "en": "What?"
+   },
+   "words": [
+    "kalem",
+    "kutu",
+    "bardak",
+    "çanta",
+    "top",
+    "kitap",
+    "sandalye",
+    "şapka",
+    "tabak",
+    "yastık"
+   ]
+  },
+  {
+   "id": "verb",
+   "label": {
+    "tr": "Ne yaptı?",
+    "en": "Did what?"
+   },
+   "words": [
+    "aldı",
+    "gördü",
+    "sattı",
+    "istedi",
+    "buldu",
+    "getirdi",
+    "sakladı",
+    "taşıdı",
+    "boyadı",
+    "gönderdi"
+   ]
+  }
+ ]
+}

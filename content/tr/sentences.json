@@ -1,0 +1,762 @@
+{
+ "templates": [
+  {
+   "id": "tr.s.two-word",
+   "lvl": 1,
+   "aud": "both",
+   "struct": "short",
+   "slots": {
+    "p": "names",
+    "x": "acts_now"
+   },
+   "text": [
+    "{p} {x}."
+   ],
+   "q": [
+    {
+     "type": "what",
+     "q": "{p} ne yapıyor?",
+     "ask": "x"
+    },
+    {
+     "type": "who",
+     "q": "Kim {x}?",
+     "ask": "p"
+    }
+   ]
+  },
+  {
+   "id": "tr.s.animal-short",
+   "lvl": 1,
+   "aud": "both",
+   "struct": "short",
+   "slots": {
+    "an": "animals"
+   },
+   "text": [
+    "{an} uyuyor.",
+    "{an} koşuyor.",
+    "{an} su içiyor."
+   ],
+   "q": [
+    {
+     "type": "what",
+     "q": "Hangi hayvandan bahsedildi?",
+     "ask": "an"
+    }
+   ]
+  },
+  {
+   "id": "tr.s.color-thing",
+   "lvl": 1,
+   "aud": "both",
+   "struct": "short",
+   "slots": {
+    "c": "colors",
+    "th": "things"
+   },
+   "text": [
+    "{c} bir {th} aldım.",
+    "Bana {c} bir {th} lazım."
+   ],
+   "q": [
+    {
+     "type": "what",
+     "q": "Hangi renkten bahsedildi?",
+     "ask": "c"
+    },
+    {
+     "type": "what",
+     "q": "Hangi eşyadan bahsedildi?",
+     "ask": "th"
+    }
+   ]
+  },
+  {
+   "id": "tr.s.count",
+   "lvl": 1,
+   "aud": "both",
+   "struct": "quantity",
+   "slots": {
+    "n": "numbers",
+    "ct": "countables"
+   },
+   "text": [
+    "Masada {n} {ct} var.",
+    "Sepette {n} {ct} var."
+   ],
+   "q": [
+    {
+     "type": "howmany",
+     "q": "Kaç tane var?",
+     "ask": "n",
+     "show": "show"
+    },
+    {
+     "type": "what",
+     "q": "Ne var?",
+     "ask": "ct"
+    }
+   ]
+  },
+  {
+   "id": "tr.s.where-thing",
+   "lvl": 1,
+   "aud": "both",
+   "struct": "place",
+   "slots": {
+    "th": "things",
+    "r": "relations"
+   },
+   "text": [
+    "{th} {r}.",
+    "Bence {th} {r}."
+   ],
+   "q": [
+    {
+     "type": "where",
+     "q": "{th} nerede?",
+     "ask": "r"
+    },
+    {
+     "type": "what",
+     "q": "{r} ne var?",
+     "ask": "th"
+    }
+   ]
+  },
+  {
+   "id": "tr.s.likes",
+   "lvl": 1,
+   "aud": "child",
+   "struct": "short",
+   "slots": {
+    "p": "names",
+    "fd": "kidfoods"
+   },
+   "text": [
+    "{p} {fd} seviyor.",
+    "{p} en çok {fd} seviyor."
+   ],
+   "neg": [
+    "{p} {fd} sevmiyor.",
+    "{p} hiç {fd} sevmiyor."
+   ],
+   "yn": "{p} {fd} seviyor mu?",
+   "q": [
+    {
+     "type": "what",
+     "q": "{p} ne seviyor?",
+     "ask": "fd"
+    },
+    {
+     "type": "who",
+     "q": "Kim {fd} seviyor?",
+     "ask": "p"
+    }
+   ]
+  },
+  {
+   "id": "tr.s.command",
+   "lvl": 1,
+   "aud": "both",
+   "struct": "imperative",
+   "slots": {
+    "cmd": "commands"
+   },
+   "text": [
+    "{cmd}"
+   ],
+   "q": [
+    {
+     "type": "purpose",
+     "q": "Ne yapılması istendi?",
+     "ask": "cmd",
+     "form": "short"
+    }
+   ]
+  },
+  {
+   "id": "tr.s.went",
+   "lvl": 2,
+   "aud": "both",
+   "struct": "past",
+   "slots": {
+    "p": "names",
+    "t": "past_times",
+    "pl": "places"
+   },
+   "text": [
+    "{p} {t} {pl.dat} gitti.",
+    "{t} {p} {pl.dat} gitti."
+   ],
+   "neg": [
+    "{p} {t} {pl.dat} gitmedi.",
+    "{t} {p} {pl.dat} gitmedi."
+   ],
+   "yn": "{p} {pl.dat} gitti mi?",
+   "q": [
+    {
+     "type": "who",
+     "q": "Kim gitti?",
+     "ask": "p"
+    },
+    {
+     "type": "where",
+     "q": "{p} nereye gitti?",
+     "ask": "pl",
+     "form": "dat"
+    },
+    {
+     "type": "when",
+     "q": "{p} ne zaman gitti?",
+     "ask": "t"
+    }
+   ]
+  },
+  {
+   "id": "tr.s.vehicle",
+   "lvl": 2,
+   "aud": "both",
+   "struct": "present",
+   "slots": {
+    "p": "names",
+    "v": "vehicles"
+   },
+   "text": [
+    "{p} her gün işe {v.ins} gidiyor.",
+    "{p} işe genellikle {v.ins} gidiyor."
+   ],
+   "q": [
+    {
+     "type": "how",
+     "q": "{p} işe neyle gidiyor?",
+     "ask": "v",
+     "form": "ins"
+    },
+    {
+     "type": "who",
+     "q": "Kim işe {v.ins} gidiyor?",
+     "ask": "p"
+    }
+   ]
+  },
+  {
+   "id": "tr.s.event-time",
+   "lvl": 2,
+   "aud": "both",
+   "struct": "time",
+   "slots": {
+    "ev": "events",
+    "tm": "@time"
+   },
+   "text": [
+    "{ev} {tm.at} başlıyor.",
+    "{ev} bugün {tm.at} başlayacak."
+   ],
+   "q": [
+    {
+     "type": "when",
+     "q": "{ev} saat kaçta başlıyor?",
+     "ask": "tm",
+     "show": "show"
+    },
+    {
+     "type": "what",
+     "q": "Ne başlıyor?",
+     "ask": "ev"
+    }
+   ]
+  },
+  {
+   "id": "tr.s.day-plan",
+   "lvl": 2,
+   "aud": "both",
+   "struct": "future",
+   "slots": {
+    "p": "names",
+    "wd": "weekdays",
+    "pl": "places"
+   },
+   "text": [
+    "{p} {wd} {pl.dat} gidecek.",
+    "{wd} {p} {pl.dat} gidecek."
+   ],
+   "neg": [
+    "{p} {wd} {pl.dat} gitmeyecek.",
+    "{wd} {p} {pl.dat} gitmeyecek."
+   ],
+   "yn": "{p} {pl.dat} gidecek mi?",
+   "q": [
+    {
+     "type": "when",
+     "q": "{p} hangi gün gidecek?",
+     "ask": "wd"
+    },
+    {
+     "type": "where",
+     "q": "{p} nereye gidecek?",
+     "ask": "pl",
+     "form": "dat"
+    }
+   ]
+  },
+  {
+   "id": "tr.s.give",
+   "lvl": 2,
+   "aud": "both",
+   "struct": "relation",
+   "slots": {
+    "a": "names",
+    "b": "names",
+    "th": "things"
+   },
+   "text": [
+    "{a} {b.dat} bir {th} verdi.",
+    "{a}, {b.dat} bir {th} hediye etti."
+   ],
+   "q": [
+    {
+     "type": "who",
+     "q": "Hediyeyi kim verdi?",
+     "ask": "a"
+    },
+    {
+     "type": "who",
+     "q": "Hediye kime verildi?",
+     "ask": "b",
+     "form": "dat"
+    },
+    {
+     "type": "what",
+     "q": "Hediye neydi?",
+     "ask": "th"
+    }
+   ]
+  },
+  {
+   "id": "tr.s.found",
+   "lvl": 2,
+   "aud": "both",
+   "struct": "past",
+   "slots": {
+    "p": "names",
+    "th": "things",
+    "pl": "places"
+   },
+   "text": [
+    "{p} {pl.loc} bir {th} buldu.",
+    "{pl.loc} {p} bir {th} buldu."
+   ],
+   "q": [
+    {
+     "type": "what",
+     "q": "{p} ne buldu?",
+     "ask": "th"
+    },
+    {
+     "type": "where",
+     "q": "{p} nerede buldu?",
+     "ask": "pl",
+     "form": "loc"
+    },
+    {
+     "type": "who",
+     "q": "Kim buldu?",
+     "ask": "p"
+    }
+   ]
+  },
+  {
+   "id": "tr.s.weather",
+   "lvl": 2,
+   "aud": "both",
+   "struct": "future",
+   "slots": {
+    "city": "cities",
+    "wx": "weather"
+   },
+   "text": [
+    "Yarın {city.loc} hava {wx} olacak.",
+    "Hava durumuna göre yarın {city.loc} hava {wx} olacak."
+   ],
+   "q": [
+    {
+     "type": "how",
+     "q": "Yarın hava nasıl olacak?",
+     "ask": "wx"
+    },
+    {
+     "type": "where",
+     "q": "Hangi şehirden bahsedildi?",
+     "ask": "city"
+    }
+   ]
+  },
+  {
+   "id": "tr.s.price",
+   "lvl": 2,
+   "aud": "both",
+   "struct": "quantity",
+   "slots": {
+    "pr": "produce",
+    "m": "@money"
+   },
+   "text": [
+    "Bugün {pr.gen} kilosu {m}.",
+    "Pazarda {pr.gen} kilosu {m}."
+   ],
+   "q": [
+    {
+     "type": "howmany",
+     "q": "Kilosu ne kadar?",
+     "ask": "m",
+     "show": "show"
+    },
+    {
+     "type": "what",
+     "q": "Hangi ürünün fiyatı söylendi?",
+     "ask": "pr"
+    }
+   ]
+  },
+  {
+   "id": "tr.s.phone-call",
+   "lvl": 2,
+   "aud": "both",
+   "struct": "past",
+   "slots": {
+    "a": "names",
+    "b": "names",
+    "tm": "@time"
+   },
+   "text": [
+    "{a} {tm.at} {b.dat} telefon etti.",
+    "{a}, {b.dat} {tm.at} telefon etti."
+   ],
+   "q": [
+    {
+     "type": "who",
+     "q": "Telefon eden kim?",
+     "ask": "a"
+    },
+    {
+     "type": "who",
+     "q": "Kime telefon edildi?",
+     "ask": "b",
+     "form": "dat"
+    },
+    {
+     "type": "when",
+     "q": "Saat kaçta telefon edildi?",
+     "ask": "tm",
+     "show": "show"
+    }
+   ]
+  },
+  {
+   "id": "tr.s.neg-like",
+   "lvl": 2,
+   "aud": "both",
+   "struct": "negative",
+   "slots": {
+    "p": "names",
+    "f1": "foods_meal",
+    "f2": "foods_meal"
+   },
+   "text": [
+    "{p} {f1} sevmiyor ama {f2} çok seviyor.",
+    "{p} {f2} çok seviyor ama {f1} hiç sevmiyor."
+   ],
+   "q": [
+    {
+     "type": "detail",
+     "q": "{p} neyi sevmiyor?",
+     "ask": "f1"
+    },
+    {
+     "type": "detail",
+     "q": "{p} neyi çok seviyor?",
+     "ask": "f2"
+    }
+   ]
+  },
+  {
+   "id": "tr.s.party-count",
+   "lvl": 2,
+   "aud": "both",
+   "struct": "quantity",
+   "slots": {
+    "p": "names",
+    "n": "@number:3:30"
+   },
+   "text": [
+    "{p} doğum gününe {n} kişi davet etti.",
+    "{p}, doğum günü partisine {n} arkadaşını çağırdı."
+   ],
+   "q": [
+    {
+     "type": "howmany",
+     "q": "Kaç kişi davet edildi?",
+     "ask": "n",
+     "show": "show"
+    }
+   ]
+  },
+  {
+   "id": "tr.s.came-home",
+   "lvl": 3,
+   "aud": "both",
+   "struct": "subordinate",
+   "slots": {
+    "p": "names",
+    "k": "kin3",
+    "act": "activities"
+   },
+   "text": [
+    "{p} eve geldiğinde {k} {act}.",
+    "{p} eve döndüğünde {k} {act}."
+   ],
+   "q": [
+    {
+     "type": "what",
+     "q": "{p} eve geldiğinde {k} ne yapıyordu?",
+     "ask": "act"
+    },
+    {
+     "type": "who",
+     "q": "Kim {act}?",
+     "ask": "k"
+    }
+   ]
+  },
+  {
+   "id": "tr.s.before-leave",
+   "lvl": 3,
+   "aud": "both",
+   "struct": "subordinate",
+   "slots": {
+    "p": "names",
+    "pl": "places",
+    "th": "things"
+   },
+   "text": [
+    "{p} {pl.dat} gitmeden önce {th} almayı unutmadı.",
+    "{p}, {pl.dat} gitmeden önce yanına bir {th} aldı."
+   ],
+   "q": [
+    {
+     "type": "what",
+     "q": "{p} yanına ne aldı?",
+     "ask": "th"
+    },
+    {
+     "type": "where",
+     "q": "{p} nereye gitti?",
+     "ask": "pl",
+     "form": "dat"
+    }
+   ]
+  },
+  {
+   "id": "tr.s.address",
+   "lvl": 3,
+   "aud": "both",
+   "struct": "place",
+   "slots": {
+    "p": "names",
+    "ad": "@address"
+   },
+   "text": [
+    "{p} {ad} adresinde oturuyor.",
+    "{p} artık {ad} adresinde oturuyor."
+   ],
+   "q": [
+    {
+     "type": "where",
+     "q": "Adres nedir?",
+     "ask": "ad",
+     "show": "show"
+    }
+   ]
+  },
+  {
+   "id": "tr.s.work-deadline",
+   "lvl": 3,
+   "aud": "adult",
+   "struct": "work",
+   "slots": {
+    "p": "names",
+    "wd": "weekdays",
+    "doc": "workdocs"
+   },
+   "text": [
+    "{p}, {doc.acc} {wd} öğleden önce göndermemizi istedi.",
+    "{p}, {doc.acc} en geç {wd} öğleye kadar bekliyor."
+   ],
+   "q": [
+    {
+     "type": "when",
+     "q": "Hangi gün teslim edilmesi gerekiyor?",
+     "ask": "wd"
+    },
+    {
+     "type": "what",
+     "q": "Ne gönderilecek?",
+     "ask": "doc"
+    },
+    {
+     "type": "who",
+     "q": "Bunu kim istedi?",
+     "ask": "p"
+    }
+   ]
+  },
+  {
+   "id": "tr.s.meeting-room",
+   "lvl": 2,
+   "aud": "adult",
+   "struct": "work",
+   "slots": {
+    "ev": "workevents",
+    "rm": "workrooms",
+    "tm": "@time"
+   },
+   "text": [
+    "{ev} {tm.at} {rm.loc} yapılacak.",
+    "{ev} bugün {tm.at}, {rm.loc} olacak."
+   ],
+   "q": [
+    {
+     "type": "where",
+     "q": "{ev} nerede yapılacak?",
+     "ask": "rm",
+     "form": "loc"
+    },
+    {
+     "type": "when",
+     "q": "{ev} saat kaçta?",
+     "ask": "tm",
+     "show": "show"
+    }
+   ]
+  },
+  {
+   "id": "tr.s.walk-reason",
+   "lvl": 3,
+   "aud": "both",
+   "struct": "subordinate",
+   "slots": {
+    "p": "names",
+    "r": "reasons_walk"
+   },
+   "text": [
+    "{p} bugün işe yürüyerek gitti, çünkü {r}.",
+    "{r}; bu yüzden {p} bugün işe yürüyerek gitti."
+   ],
+   "q": [
+    {
+     "type": "why",
+     "q": "{p} neden yürüyerek gitti?",
+     "ask": "r",
+     "form": "short"
+    }
+   ]
+  }
+ ],
+ "qa": [
+  {
+   "q": "Kaç yaşındasın?",
+   "a": "Sekiz yaşındayım.",
+   "t": "age"
+  },
+  {
+   "q": "Bugün hava nasıl?",
+   "a": "Güneşli ve ılık.",
+   "t": "weather"
+  },
+  {
+   "q": "Saat kaç?",
+   "a": "Saat üç buçuk.",
+   "t": "time"
+  },
+  {
+   "q": "Nerede oturuyorsun?",
+   "a": "Ankara'da oturuyorum.",
+   "t": "place"
+  },
+  {
+   "q": "Kahvaltıda ne yedin?",
+   "a": "Peynir ve zeytin yedim.",
+   "t": "food"
+  },
+  {
+   "q": "Okula nasıl gidiyorsun?",
+   "a": "Servisle gidiyorum.",
+   "t": "transport"
+  },
+  {
+   "q": "Kardeşin var mı?",
+   "a": "Evet, bir ablam var.",
+   "t": "family"
+  },
+  {
+   "q": "Hafta sonu ne yapacaksın?",
+   "a": "Dedemi ziyaret edeceğim.",
+   "t": "plan"
+  },
+  {
+   "q": "En sevdiğin renk hangisi?",
+   "a": "Mavi.",
+   "t": "color"
+  },
+  {
+   "q": "Kiminle geldin?",
+   "a": "Annemle geldim.",
+   "t": "person"
+  },
+  {
+   "q": "Bu kitap kimin?",
+   "a": "Ayşe'nin.",
+   "t": "owner"
+  },
+  {
+   "q": "Neden geç kaldın?",
+   "a": "Otobüs gecikti.",
+   "t": "reason"
+  },
+  {
+   "q": "Toplantı ne zaman bitecek?",
+   "a": "Yarım saat sonra.",
+   "t": "duration",
+   "aud": "adult"
+  },
+  {
+   "q": "Hesabı kim ödeyecek?",
+   "a": "Ben öderim.",
+   "t": "payer",
+   "aud": "adult"
+  },
+  {
+   "q": "Kaç kişilik masa istersiniz?",
+   "a": "Dört kişilik lütfen.",
+   "t": "count",
+   "aud": "adult"
+  },
+  {
+   "q": "Ne içmek istersin?",
+   "a": "Bir bardak su lütfen.",
+   "t": "drink"
+  },
+  {
+   "q": "Telefon numaranı verir misin?",
+   "a": "Tabii, yazıyorum.",
+   "t": "request"
+  },
+  {
+   "q": "Nereye gidiyorsun?",
+   "a": "Kütüphaneye gidiyorum.",
+   "t": "destination"
+  }
+ ]
+}

@@ -1,0 +1,1275 @@
+{
+ "families": [
+  {
+   "id": "en.p.ship-sheep",
+   "words": [
+    {
+     "w": "ship",
+     "ipa": "ʃɪp",
+     "e": "🚢"
+    },
+    {
+     "w": "sheep",
+     "ipa": "ʃiːp",
+     "e": "🐑"
+    }
+   ],
+   "lvl": 1,
+   "aud": "both",
+   "note": "Vowel ɪ/iː",
+   "minimal": true,
+   "frame": "Look at the {w} in the picture."
+  },
+  {
+   "id": "en.p.bit-beat",
+   "words": [
+    {
+     "w": "bit",
+     "ipa": "bɪt"
+    },
+    {
+     "w": "beat",
+     "ipa": "biːt"
+    }
+   ],
+   "lvl": 2,
+   "aud": "both",
+   "note": "Vowel ɪ/iː",
+   "minimal": true
+  },
+  {
+   "id": "en.p.sit-seat",
+   "words": [
+    {
+     "w": "sit",
+     "ipa": "sɪt"
+    },
+    {
+     "w": "seat",
+     "ipa": "siːt"
+    }
+   ],
+   "lvl": 2,
+   "aud": "both",
+   "note": "Vowel ɪ/iː",
+   "minimal": true
+  },
+  {
+   "id": "en.p.fill-feel",
+   "words": [
+    {
+     "w": "fill",
+     "ipa": "fɪl"
+    },
+    {
+     "w": "feel",
+     "ipa": "fiːl"
+    }
+   ],
+   "lvl": 3,
+   "aud": "both",
+   "note": "Vowel ɪ/iː",
+   "minimal": true
+  },
+  {
+   "id": "en.p.live-leave",
+   "words": [
+    {
+     "w": "live",
+     "ipa": "lɪv"
+    },
+    {
+     "w": "leave",
+     "ipa": "liːv"
+    }
+   ],
+   "lvl": 3,
+   "aud": "adult",
+   "note": "Vowel ɪ/iː",
+   "minimal": true
+  },
+  {
+   "id": "en.p.pen-pan-pin",
+   "words": [
+    {
+     "w": "pen",
+     "ipa": "pɛn",
+     "e": "🖊️"
+    },
+    {
+     "w": "pan",
+     "ipa": "pæn",
+     "e": "🍳"
+    },
+    {
+     "w": "pin",
+     "ipa": "pɪn",
+     "e": "📌"
+    }
+   ],
+   "lvl": 1,
+   "aud": "both",
+   "note": "Vowel",
+   "minimal": true,
+   "frame": "Can you pass me the {w}?"
+  },
+  {
+   "id": "en.p.bed-bad-bid",
+   "words": [
+    {
+     "w": "bed",
+     "ipa": "bɛd",
+     "e": "🛏️"
+    },
+    {
+     "w": "bad",
+     "ipa": "bæd"
+    },
+    {
+     "w": "bid",
+     "ipa": "bɪd"
+    }
+   ],
+   "lvl": 2,
+   "aud": "both",
+   "note": "Vowel",
+   "minimal": true
+  },
+  {
+   "id": "en.p.men-man",
+   "words": [
+    {
+     "w": "men",
+     "ipa": "mɛn"
+    },
+    {
+     "w": "man",
+     "ipa": "mæn"
+    }
+   ],
+   "lvl": 2,
+   "aud": "both",
+   "note": "Vowel ɛ/æ",
+   "minimal": true
+  },
+  {
+   "id": "en.p.cat-cut",
+   "words": [
+    {
+     "w": "cat",
+     "ipa": "kæt",
+     "e": "🐱"
+    },
+    {
+     "w": "cut",
+     "ipa": "kʌt"
+    }
+   ],
+   "lvl": 2,
+   "aud": "both",
+   "note": "Vowel æ/ʌ",
+   "minimal": true
+  },
+  {
+   "id": "en.p.hat-hut-hot",
+   "words": [
+    {
+     "w": "hat",
+     "ipa": "hæt",
+     "e": "🎩"
+    },
+    {
+     "w": "hut",
+     "ipa": "hʌt"
+    },
+    {
+     "w": "hot",
+     "ipa": "hɑt",
+     "e": "🥵"
+    }
+   ],
+   "lvl": 2,
+   "aud": "both",
+   "note": "Vowel",
+   "minimal": true
+  },
+  {
+   "id": "en.p.cap-cup",
+   "words": [
+    {
+     "w": "cap",
+     "ipa": "kæp",
+     "e": "🧢"
+    },
+    {
+     "w": "cup",
+     "ipa": "kʌp"
+    }
+   ],
+   "lvl": 2,
+   "aud": "both",
+   "note": "Vowel æ/ʌ",
+   "minimal": true
+  },
+  {
+   "id": "en.p.pull-pool",
+   "words": [
+    {
+     "w": "pull",
+     "ipa": "pʊl"
+    },
+    {
+     "w": "pool",
+     "ipa": "puːl"
+    }
+   ],
+   "lvl": 3,
+   "aud": "both",
+   "note": "Vowel ʊ/uː",
+   "minimal": true
+  },
+  {
+   "id": "en.p.full-fool",
+   "words": [
+    {
+     "w": "full",
+     "ipa": "fʊl"
+    },
+    {
+     "w": "fool",
+     "ipa": "fuːl"
+    }
+   ],
+   "lvl": 3,
+   "aud": "adult",
+   "note": "Vowel ʊ/uː",
+   "minimal": true
+  },
+  {
+   "id": "en.p.pin-bin",
+   "words": [
+    {
+     "w": "pin",
+     "ipa": "pɪn",
+     "e": "📌"
+    },
+    {
+     "w": "bin",
+     "ipa": "bɪn"
+    }
+   ],
+   "lvl": 2,
+   "aud": "both",
+   "note": "Initial p/b (voicing)",
+   "minimal": true
+  },
+  {
+   "id": "en.p.pear-bear-chair-hair",
+   "words": [
+    {
+     "w": "pear",
+     "ipa": "pɛr",
+     "e": "🍐"
+    },
+    {
+     "w": "bear",
+     "ipa": "bɛr",
+     "e": "🐻"
+    },
+    {
+     "w": "chair",
+     "ipa": "ʧɛr",
+     "e": "🪑"
+    },
+    {
+     "w": "hair",
+     "ipa": "hɛr",
+     "e": "💇"
+    }
+   ],
+   "lvl": 1,
+   "aud": "both",
+   "note": "Initial consonant",
+   "minimal": true,
+   "frame": "Look at that {w}!",
+   "frameWords": [
+    "pear",
+    "bear",
+    "chair"
+   ]
+  },
+  {
+   "id": "en.p.pie-buy",
+   "words": [
+    {
+     "w": "pie",
+     "ipa": "paɪ",
+     "e": "🥧"
+    },
+    {
+     "w": "buy",
+     "ipa": "baɪ"
+    }
+   ],
+   "lvl": 2,
+   "aud": "both",
+   "note": "Initial p/b (voicing)",
+   "minimal": true
+  },
+  {
+   "id": "en.p.cap-cab",
+   "words": [
+    {
+     "w": "cap",
+     "ipa": "kæp",
+     "e": "🧢"
+    },
+    {
+     "w": "cab",
+     "ipa": "kæb"
+    }
+   ],
+   "lvl": 3,
+   "aud": "both",
+   "note": "Final p/b (voicing)",
+   "minimal": true
+  },
+  {
+   "id": "en.p.tie-die",
+   "words": [
+    {
+     "w": "tie",
+     "ipa": "taɪ",
+     "e": "👔"
+    },
+    {
+     "w": "die",
+     "ipa": "daɪ"
+    }
+   ],
+   "lvl": 3,
+   "aud": "adult",
+   "note": "Initial t/d (voicing)",
+   "minimal": true
+  },
+  {
+   "id": "en.p.ten-den",
+   "words": [
+    {
+     "w": "ten",
+     "ipa": "tɛn",
+     "e": "🔟"
+    },
+    {
+     "w": "den",
+     "ipa": "dɛn"
+    }
+   ],
+   "lvl": 2,
+   "aud": "both",
+   "note": "Initial t/d (voicing)",
+   "minimal": true
+  },
+  {
+   "id": "en.p.bat-bad",
+   "words": [
+    {
+     "w": "bat",
+     "ipa": "bæt",
+     "e": "🦇"
+    },
+    {
+     "w": "bad",
+     "ipa": "bæd"
+    }
+   ],
+   "lvl": 2,
+   "aud": "both",
+   "note": "Final t/d (voicing)",
+   "minimal": true
+  },
+  {
+   "id": "en.p.coat-goat-boat",
+   "words": [
+    {
+     "w": "coat",
+     "ipa": "koʊt",
+     "e": "🧥"
+    },
+    {
+     "w": "goat",
+     "ipa": "goʊt",
+     "e": "🐐"
+    },
+    {
+     "w": "boat",
+     "ipa": "boʊt",
+     "e": "⛵"
+    }
+   ],
+   "lvl": 1,
+   "aud": "both",
+   "note": "Initial consonant",
+   "minimal": true,
+   "frame": "There's a {w} by the lake."
+  },
+  {
+   "id": "en.p.cold-gold",
+   "words": [
+    {
+     "w": "cold",
+     "ipa": "koʊld",
+     "e": "🥶"
+    },
+    {
+     "w": "gold",
+     "ipa": "goʊld"
+    }
+   ],
+   "lvl": 2,
+   "aud": "both",
+   "note": "Initial k/g (voicing)",
+   "minimal": true
+  },
+  {
+   "id": "en.p.back-bag",
+   "words": [
+    {
+     "w": "back",
+     "ipa": "bæk"
+    },
+    {
+     "w": "bag",
+     "ipa": "bæg",
+     "e": "👜"
+    }
+   ],
+   "lvl": 2,
+   "aud": "both",
+   "note": "Final k/g (voicing)",
+   "minimal": true
+  },
+  {
+   "id": "en.p.fan-van",
+   "words": [
+    {
+     "w": "fan",
+     "ipa": "fæn",
+     "e": "🪭"
+    },
+    {
+     "w": "van",
+     "ipa": "væn",
+     "e": "🚐"
+    }
+   ],
+   "lvl": 1,
+   "aud": "both",
+   "note": "Initial f/v (voicing)",
+   "minimal": true,
+   "frame": "We need a new {w}."
+  },
+  {
+   "id": "en.p.fine-vine",
+   "words": [
+    {
+     "w": "fine",
+     "ipa": "faɪn"
+    },
+    {
+     "w": "vine",
+     "ipa": "vaɪn"
+    }
+   ],
+   "lvl": 3,
+   "aud": "both",
+   "note": "Initial f/v (voicing)",
+   "minimal": true
+  },
+  {
+   "id": "en.p.leaf-leave",
+   "words": [
+    {
+     "w": "leaf",
+     "ipa": "liːf",
+     "e": "🍃"
+    },
+    {
+     "w": "leave",
+     "ipa": "liːv"
+    }
+   ],
+   "lvl": 3,
+   "aud": "both",
+   "note": "Final f/v (voicing)",
+   "minimal": true
+  },
+  {
+   "id": "en.p.thin-tin",
+   "words": [
+    {
+     "w": "thin",
+     "ipa": "θɪn"
+    },
+    {
+     "w": "tin",
+     "ipa": "tɪn"
+    }
+   ],
+   "lvl": 3,
+   "aud": "both",
+   "note": "Initial θ/t",
+   "minimal": true
+  },
+  {
+   "id": "en.p.three-tree-free",
+   "words": [
+    {
+     "w": "three",
+     "ipa": "θriː",
+     "e": "3️⃣"
+    },
+    {
+     "w": "tree",
+     "ipa": "triː",
+     "e": "🌳"
+    },
+    {
+     "w": "free",
+     "ipa": "friː"
+    }
+   ],
+   "lvl": 1,
+   "aud": "both",
+   "note": "Initial consonant",
+   "minimal": true
+  },
+  {
+   "id": "en.p.thank-tank",
+   "words": [
+    {
+     "w": "thank",
+     "ipa": "θæŋk"
+    },
+    {
+     "w": "tank",
+     "ipa": "tæŋk"
+    }
+   ],
+   "lvl": 3,
+   "aud": "adult",
+   "note": "Initial θ/t",
+   "minimal": true
+  },
+  {
+   "id": "en.p.sink-think",
+   "words": [
+    {
+     "w": "sink",
+     "ipa": "sɪŋk"
+    },
+    {
+     "w": "think",
+     "ipa": "θɪŋk"
+    }
+   ],
+   "lvl": 3,
+   "aud": "both",
+   "note": "Initial s/θ",
+   "minimal": true
+  },
+  {
+   "id": "en.p.sing-thing",
+   "words": [
+    {
+     "w": "sing",
+     "ipa": "sɪŋ"
+    },
+    {
+     "w": "thing",
+     "ipa": "θɪŋ"
+    }
+   ],
+   "lvl": 3,
+   "aud": "both",
+   "note": "Initial s/θ",
+   "minimal": true
+  },
+  {
+   "id": "en.p.mouse-mouth",
+   "words": [
+    {
+     "w": "mouse",
+     "ipa": "maʊs",
+     "e": "🐭"
+    },
+    {
+     "w": "mouth",
+     "ipa": "maʊθ",
+     "e": "👄"
+    }
+   ],
+   "lvl": 2,
+   "aud": "both",
+   "note": "Final s/θ",
+   "minimal": true
+  },
+  {
+   "id": "en.p.sea-she",
+   "words": [
+    {
+     "w": "sea",
+     "ipa": "siː",
+     "e": "🌊"
+    },
+    {
+     "w": "she",
+     "ipa": "ʃiː"
+    }
+   ],
+   "lvl": 2,
+   "aud": "both",
+   "note": "Initial s/ʃ",
+   "minimal": true
+  },
+  {
+   "id": "en.p.sip-ship-chip",
+   "words": [
+    {
+     "w": "sip",
+     "ipa": "sɪp"
+    },
+    {
+     "w": "ship",
+     "ipa": "ʃɪp",
+     "e": "🚢"
+    },
+    {
+     "w": "chip",
+     "ipa": "ʧɪp"
+    }
+   ],
+   "lvl": 2,
+   "aud": "both",
+   "note": "Initial consonant",
+   "minimal": true
+  },
+  {
+   "id": "en.p.save-shave",
+   "words": [
+    {
+     "w": "save",
+     "ipa": "seɪv"
+    },
+    {
+     "w": "shave",
+     "ipa": "ʃeɪv"
+    }
+   ],
+   "lvl": 3,
+   "aud": "adult",
+   "note": "Initial s/ʃ",
+   "minimal": true
+  },
+  {
+   "id": "en.p.chair-share",
+   "words": [
+    {
+     "w": "chair",
+     "ipa": "ʧɛr",
+     "e": "🪑"
+    },
+    {
+     "w": "share",
+     "ipa": "ʃɛr"
+    }
+   ],
+   "lvl": 3,
+   "aud": "both",
+   "note": "Initial ʧ/ʃ",
+   "minimal": true
+  },
+  {
+   "id": "en.p.cheap-sheep",
+   "words": [
+    {
+     "w": "cheap",
+     "ipa": "ʧiːp"
+    },
+    {
+     "w": "sheep",
+     "ipa": "ʃiːp",
+     "e": "🐑"
+    }
+   ],
+   "lvl": 3,
+   "aud": "both",
+   "note": "Initial ʧ/ʃ",
+   "minimal": true
+  },
+  {
+   "id": "en.p.watch-wash",
+   "words": [
+    {
+     "w": "watch",
+     "ipa": "wɑʧ",
+     "e": "⌚"
+    },
+    {
+     "w": "wash",
+     "ipa": "wɑʃ"
+    }
+   ],
+   "lvl": 3,
+   "aud": "both",
+   "note": "Final ʧ/ʃ",
+   "minimal": true
+  },
+  {
+   "id": "en.p.light-right-night-kite",
+   "words": [
+    {
+     "w": "light",
+     "ipa": "laɪt",
+     "e": "💡"
+    },
+    {
+     "w": "right",
+     "ipa": "raɪt",
+     "e": "➡️"
+    },
+    {
+     "w": "night",
+     "ipa": "naɪt",
+     "e": "🌃"
+    },
+    {
+     "w": "kite",
+     "ipa": "kaɪt",
+     "e": "🪁"
+    }
+   ],
+   "lvl": 1,
+   "aud": "both",
+   "note": "Initial consonant",
+   "minimal": true,
+   "frame": "Look at the {w} in the sky.",
+   "frameWords": [
+    "light",
+    "kite"
+   ]
+  },
+  {
+   "id": "en.p.lock-rock",
+   "words": [
+    {
+     "w": "lock",
+     "ipa": "lɑk",
+     "e": "🔒"
+    },
+    {
+     "w": "rock",
+     "ipa": "rɑk",
+     "e": "🪨"
+    }
+   ],
+   "lvl": 2,
+   "aud": "both",
+   "note": "Initial l/r",
+   "minimal": true,
+   "frame": "There's a big {w} by the door."
+  },
+  {
+   "id": "en.p.glass-grass",
+   "words": [
+    {
+     "w": "glass",
+     "ipa": "glæs"
+    },
+    {
+     "w": "grass",
+     "ipa": "græs"
+    }
+   ],
+   "lvl": 3,
+   "aud": "both",
+   "note": "Cluster l/r",
+   "minimal": true
+  },
+  {
+   "id": "en.p.long-wrong",
+   "words": [
+    {
+     "w": "long",
+     "ipa": "lɔŋ"
+    },
+    {
+     "w": "wrong",
+     "ipa": "rɔŋ"
+    }
+   ],
+   "lvl": 3,
+   "aud": "both",
+   "note": "Initial l/r",
+   "minimal": true
+  },
+  {
+   "id": "en.p.mice-nice-rice-dice",
+   "words": [
+    {
+     "w": "mice",
+     "ipa": "maɪs",
+     "e": "🐭"
+    },
+    {
+     "w": "nice",
+     "ipa": "naɪs"
+    },
+    {
+     "w": "rice",
+     "ipa": "raɪs",
+     "e": "🍚"
+    },
+    {
+     "w": "dice",
+     "ipa": "daɪs",
+     "e": "🎲"
+    }
+   ],
+   "lvl": 1,
+   "aud": "both",
+   "note": "Initial consonant",
+   "minimal": true,
+   "frame": "I found some {w} in the box.",
+   "frameWords": [
+    "mice",
+    "rice",
+    "dice"
+   ]
+  },
+  {
+   "id": "en.p.map-nap",
+   "words": [
+    {
+     "w": "map",
+     "ipa": "mæp",
+     "e": "🗺️"
+    },
+    {
+     "w": "nap",
+     "ipa": "næp",
+     "e": "😴"
+    }
+   ],
+   "lvl": 2,
+   "aud": "both",
+   "note": "Initial m/n",
+   "minimal": true
+  },
+  {
+   "id": "en.p.thin-thing",
+   "words": [
+    {
+     "w": "thin",
+     "ipa": "θɪn"
+    },
+    {
+     "w": "thing",
+     "ipa": "θɪŋ"
+    }
+   ],
+   "lvl": 3,
+   "aud": "adult",
+   "note": "Final n/ŋ",
+   "minimal": true
+  },
+  {
+   "id": "en.p.ran-rang",
+   "words": [
+    {
+     "w": "ran",
+     "ipa": "ræn"
+    },
+    {
+     "w": "rang",
+     "ipa": "ræŋ"
+    }
+   ],
+   "lvl": 3,
+   "aud": "adult",
+   "note": "Final n/ŋ",
+   "minimal": true
+  },
+  {
+   "id": "en.p.sun-sung",
+   "words": [
+    {
+     "w": "sun",
+     "ipa": "sʌn",
+     "e": "☀️"
+    },
+    {
+     "w": "sung",
+     "ipa": "sʌŋ"
+    }
+   ],
+   "lvl": 3,
+   "aud": "both",
+   "note": "Final n/ŋ",
+   "minimal": true
+  },
+  {
+   "id": "en.p.wet-vet",
+   "words": [
+    {
+     "w": "wet",
+     "ipa": "wɛt"
+    },
+    {
+     "w": "vet",
+     "ipa": "vɛt"
+    }
+   ],
+   "lvl": 3,
+   "aud": "both",
+   "note": "Initial w/v",
+   "minimal": true
+  },
+  {
+   "id": "en.p.west-vest",
+   "words": [
+    {
+     "w": "west",
+     "ipa": "wɛst"
+    },
+    {
+     "w": "vest",
+     "ipa": "vɛst"
+    }
+   ],
+   "lvl": 3,
+   "aud": "adult",
+   "note": "Initial w/v",
+   "minimal": true
+  },
+  {
+   "id": "en.p.day-they",
+   "words": [
+    {
+     "w": "day",
+     "ipa": "deɪ"
+    },
+    {
+     "w": "they",
+     "ipa": "ðeɪ"
+    }
+   ],
+   "lvl": 3,
+   "aud": "both",
+   "note": "Initial d/ð",
+   "minimal": true
+  },
+  {
+   "id": "en.p.bus-buzz",
+   "words": [
+    {
+     "w": "bus",
+     "ipa": "bʌs",
+     "e": "🚌"
+    },
+    {
+     "w": "buzz",
+     "ipa": "bʌz"
+    }
+   ],
+   "lvl": 2,
+   "aud": "both",
+   "note": "Final s/z (voicing)",
+   "minimal": true
+  },
+  {
+   "id": "en.p.price-prize",
+   "words": [
+    {
+     "w": "price",
+     "ipa": "praɪs"
+    },
+    {
+     "w": "prize",
+     "ipa": "praɪz",
+     "e": "🏆"
+    }
+   ],
+   "lvl": 3,
+   "aud": "both",
+   "note": "Final s/z (voicing)",
+   "minimal": true
+  },
+  {
+   "id": "en.p.ice-eyes",
+   "words": [
+    {
+     "w": "ice",
+     "ipa": "aɪs",
+     "e": "🧊"
+    },
+    {
+     "w": "eyes",
+     "ipa": "aɪz",
+     "e": "👀"
+    }
+   ],
+   "lvl": 2,
+   "aud": "both",
+   "note": "Final s/z (voicing)",
+   "minimal": true
+  },
+  {
+   "id": "en.p.key-tea-bee-pea",
+   "words": [
+    {
+     "w": "key",
+     "ipa": "kiː",
+     "e": "🔑"
+    },
+    {
+     "w": "tea",
+     "ipa": "tiː",
+     "e": "🍵"
+    },
+    {
+     "w": "bee",
+     "ipa": "biː",
+     "e": "🐝"
+    },
+    {
+     "w": "pea",
+     "ipa": "piː"
+    }
+   ],
+   "lvl": 1,
+   "aud": "both",
+   "note": "Initial consonant",
+   "minimal": true,
+   "frame": "Where is the {w}?",
+   "frameWords": [
+    "key",
+    "tea",
+    "bee"
+   ]
+  },
+  {
+   "id": "en.p.cake-lake-rake-bake",
+   "words": [
+    {
+     "w": "cake",
+     "ipa": "keɪk",
+     "e": "🎂"
+    },
+    {
+     "w": "lake",
+     "ipa": "leɪk",
+     "e": "🏞️"
+    },
+    {
+     "w": "rake",
+     "ipa": "reɪk"
+    },
+    {
+     "w": "bake",
+     "ipa": "beɪk"
+    }
+   ],
+   "lvl": 1,
+   "aud": "both",
+   "note": "Initial consonant",
+   "minimal": true,
+   "frame": "Look at the {w} in this photo.",
+   "frameWords": [
+    "cake",
+    "lake",
+    "rake"
+   ]
+  },
+  {
+   "id": "en.p.hat-cat-bat-rat-mat",
+   "words": [
+    {
+     "w": "hat",
+     "ipa": "hæt",
+     "e": "🎩"
+    },
+    {
+     "w": "cat",
+     "ipa": "kæt",
+     "e": "🐱"
+    },
+    {
+     "w": "bat",
+     "ipa": "bæt",
+     "e": "🦇"
+    },
+    {
+     "w": "rat",
+     "ipa": "ræt",
+     "e": "🐀"
+    },
+    {
+     "w": "mat",
+     "ipa": "mæt"
+    }
+   ],
+   "lvl": 1,
+   "aud": "both",
+   "note": "Initial consonant",
+   "minimal": true,
+   "frame": "I saw a {w} in the picture."
+  },
+  {
+   "id": "en.p.fox-box-socks",
+   "words": [
+    {
+     "w": "fox",
+     "ipa": "fɑks",
+     "e": "🦊"
+    },
+    {
+     "w": "box",
+     "ipa": "bɑks",
+     "e": "📦"
+    },
+    {
+     "w": "socks",
+     "ipa": "sɑks",
+     "e": "🧦"
+    }
+   ],
+   "lvl": 1,
+   "aud": "both",
+   "note": "Initial consonant",
+   "minimal": true,
+   "frame": "There's a {w} in the garden.",
+   "frameWords": [
+    "fox",
+    "box"
+   ]
+  },
+  {
+   "id": "en.p.sock-sack-sick-suck",
+   "words": [
+    {
+     "w": "sock",
+     "ipa": "sɑk",
+     "e": "🧦"
+    },
+    {
+     "w": "sack",
+     "ipa": "sæk"
+    },
+    {
+     "w": "sick",
+     "ipa": "sɪk",
+     "e": "🤒"
+    },
+    {
+     "w": "suck",
+     "ipa": "sʌk"
+    }
+   ],
+   "lvl": 3,
+   "aud": "adult",
+   "note": "Vowel",
+   "minimal": true
+  },
+  {
+   "id": "en.p.bed-bet",
+   "words": [
+    {
+     "w": "bed",
+     "ipa": "bɛd",
+     "e": "🛏️"
+    },
+    {
+     "w": "bet",
+     "ipa": "bɛt"
+    }
+   ],
+   "lvl": 3,
+   "aud": "both",
+   "note": "Final d/t (voicing)",
+   "minimal": true
+  },
+  {
+   "id": "en.p.feet-feed",
+   "words": [
+    {
+     "w": "feet",
+     "ipa": "fiːt",
+     "e": "🦶"
+    },
+    {
+     "w": "feed",
+     "ipa": "fiːd"
+    }
+   ],
+   "lvl": 3,
+   "aud": "both",
+   "note": "Final t/d (voicing)",
+   "minimal": true
+  },
+  {
+   "id": "en.p.rope-robe",
+   "words": [
+    {
+     "w": "rope",
+     "ipa": "roʊp"
+    },
+    {
+     "w": "robe",
+     "ipa": "roʊb"
+    }
+   ],
+   "lvl": 3,
+   "aud": "adult",
+   "note": "Final p/b (voicing)",
+   "minimal": true
+  },
+  {
+   "id": "en.p.cup-cop",
+   "words": [
+    {
+     "w": "cup",
+     "ipa": "kʌp"
+    },
+    {
+     "w": "cop",
+     "ipa": "kɑp",
+     "e": "👮"
+    }
+   ],
+   "lvl": 3,
+   "aud": "both",
+   "note": "Vowel ʌ/ɑ",
+   "minimal": true
+  },
+  {
+   "id": "en.p.heart-hard",
+   "words": [
+    {
+     "w": "heart",
+     "ipa": "hɑrt",
+     "e": "❤️"
+    },
+    {
+     "w": "hard",
+     "ipa": "hɑrd"
+    }
+   ],
+   "lvl": 3,
+   "aud": "both",
+   "note": "Final t/d (voicing)",
+   "minimal": true
+  }
+ ],
+ "ipaNote": "Broad phonemic transcription, General American; iː and uː mark tense vowels."
+}

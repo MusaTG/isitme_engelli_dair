@@ -1,0 +1,32 @@
+ŞABLON — bu dosya kütüphaneye dahil edilmez (adı bir kategoriyle başlamıyor).
+Kopyalayıp content-src/reading/inbox/<dil>/<kategori>/ altına .txt olarak kaydedin.
+"###" satırına numara yazmayın; aktarma aracı verir. Ayrıntı: docs/reading-format.md
+
+### | Kısa Bir Metin Başlığı
+sub: <alt-kategori> | tags: etiket1, etiket2, etiket3 | level: 1
+---
+Birinci paragraf. Paragraflar arasında bir boş satır bırakın.
+
+İkinci paragraf. Metin tamamlanmış bir cümleyle bitmeli.
+
+### | Ara Başlıklı Orta/Uzun Metin
+sub: <alt-kategori> | tags: etiket1, etiket2 | level: 2 | summary: Kart ve bilgi panelinde görünen tek cümlelik özet.
+---
+## Birinci bölüm
+
+Paragraf.
+
+## İkinci bölüm
+
+Paragraf.
+
+### | Dizi Adı — 1. Bölüm: Bölüm Adı
+sub: adventure | series: dizi-kimligi | part: 1 | tags: macera, deniz
+---
+(Yalnızca roman kategorisinde; bölümler 1, 2, 3… ardışık olmalı.)
+
+### | Diyalog Örneği
+sub: everyday | tags: komşu, sohbet
+---
+Elif: Günaydın! Bugün hava çok güzel.
+Mert: Günaydın. Evet, parka gitmeyi düşünüyorum.

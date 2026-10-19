@@ -1,0 +1,863 @@
+{
+ "families": [
+  {
+   "id": "tr.p.bal-dal-sal",
+   "words": [
+    {
+     "w": "bal",
+     "ipa": "bal",
+     "e": "🍯"
+    },
+    {
+     "w": "dal",
+     "ipa": "dal",
+     "e": "🌿"
+    },
+    {
+     "w": "şal",
+     "ipa": "ʃal",
+     "e": "🧣"
+    },
+    {
+     "w": "mal",
+     "ipa": "mal"
+    },
+    {
+     "w": "sal",
+     "ipa": "sal"
+    }
+   ],
+   "lvl": 1,
+   "aud": "both",
+   "note": "İlk ünsüz",
+   "minimal": true,
+   "frame": "Resimde {w} var.",
+   "frameWords": [
+    "bal",
+    "dal",
+    "şal"
+   ]
+  },
+  {
+   "id": "tr.p.kol-yol-gol-sol",
+   "words": [
+    {
+     "w": "kol",
+     "ipa": "kol",
+     "e": "💪"
+    },
+    {
+     "w": "yol",
+     "ipa": "jol",
+     "e": "🛣️"
+    },
+    {
+     "w": "gol",
+     "ipa": "gol",
+     "e": "🥅"
+    },
+    {
+     "w": "sol",
+     "ipa": "sol",
+     "e": "⬅️"
+    }
+   ],
+   "lvl": 1,
+   "aud": "both",
+   "note": "İlk ünsüz",
+   "minimal": true
+  },
+  {
+   "id": "tr.p.tas-yas-kas-bas",
+   "words": [
+    {
+     "w": "taş",
+     "ipa": "taʃ",
+     "e": "🪨"
+    },
+    {
+     "w": "yaş",
+     "ipa": "jaʃ"
+    },
+    {
+     "w": "kaş",
+     "ipa": "kaʃ"
+    },
+    {
+     "w": "baş",
+     "ipa": "baʃ"
+    }
+   ],
+   "lvl": 2,
+   "aud": "both",
+   "note": "İlk ünsüz",
+   "minimal": true
+  },
+  {
+   "id": "tr.p.sac-tac",
+   "words": [
+    {
+     "w": "saç",
+     "ipa": "saʧ",
+     "e": "💇"
+    },
+    {
+     "w": "taç",
+     "ipa": "taʧ",
+     "e": "👑"
+    }
+   ],
+   "lvl": 1,
+   "aud": "both",
+   "note": "İlk ünsüz s/t",
+   "minimal": true
+  },
+  {
+   "id": "tr.p.kedi-dedi",
+   "words": [
+    {
+     "w": "kedi",
+     "ipa": "kedi",
+     "e": "🐱"
+    },
+    {
+     "w": "dedi",
+     "ipa": "dedi"
+    }
+   ],
+   "lvl": 2,
+   "aud": "both",
+   "note": "İlk ünsüz k/d; dedi bir fiil",
+   "minimal": true
+  },
+  {
+   "id": "tr.p.masa-kasa",
+   "words": [
+    {
+     "w": "masa",
+     "ipa": "masa"
+    },
+    {
+     "w": "kasa",
+     "ipa": "kasa"
+    }
+   ],
+   "lvl": 2,
+   "aud": "both",
+   "note": "İlk ünsüz m/k",
+   "minimal": true
+  },
+  {
+   "id": "tr.p.kal-kar-kaz-kas",
+   "words": [
+    {
+     "w": "kal",
+     "ipa": "kal"
+    },
+    {
+     "w": "kar",
+     "ipa": "kaɾ",
+     "e": "❄️"
+    },
+    {
+     "w": "kaz",
+     "ipa": "kaz",
+     "e": "🪿"
+    },
+    {
+     "w": "kas",
+     "ipa": "kas"
+    }
+   ],
+   "lvl": 2,
+   "aud": "both",
+   "note": "Son ünsüz",
+   "minimal": true
+  },
+  {
+   "id": "tr.p.gul-kul",
+   "words": [
+    {
+     "w": "gül",
+     "ipa": "gyl",
+     "e": "🌹"
+    },
+    {
+     "w": "kül",
+     "ipa": "kyl"
+    }
+   ],
+   "lvl": 2,
+   "aud": "both",
+   "note": "İlk ünsüz g/k (ötümlülük)",
+   "minimal": true
+  },
+  {
+   "id": "tr.p.cam-cam-dam-tam",
+   "words": [
+    {
+     "w": "çam",
+     "ipa": "ʧam",
+     "e": "🌲"
+    },
+    {
+     "w": "cam",
+     "ipa": "ʤam",
+     "e": "🪟"
+    },
+    {
+     "w": "dam",
+     "ipa": "dam"
+    },
+    {
+     "w": "tam",
+     "ipa": "tam"
+    }
+   ],
+   "lvl": 2,
+   "aud": "both",
+   "note": "İlk ünsüz",
+   "minimal": true,
+   "frame": "Resimde bir {w} görüyorum.",
+   "frameWords": [
+    "çam",
+    "cam"
+   ]
+  },
+  {
+   "id": "tr.p.can-can-kan",
+   "words": [
+    {
+     "w": "çan",
+     "ipa": "ʧan",
+     "e": "🔔"
+    },
+    {
+     "w": "can",
+     "ipa": "ʤan"
+    },
+    {
+     "w": "kan",
+     "ipa": "kan",
+     "e": "🩸"
+    }
+   ],
+   "lvl": 2,
+   "aud": "both",
+   "note": "İlk ünsüz",
+   "minimal": true
+  },
+  {
+   "id": "tr.p.kus-kis-kas-kos",
+   "words": [
+    {
+     "w": "kuş",
+     "ipa": "kuʃ",
+     "e": "🐦"
+    },
+    {
+     "w": "kış",
+     "ipa": "kɯʃ",
+     "e": "⛄"
+    },
+    {
+     "w": "kaş",
+     "ipa": "kaʃ"
+    },
+    {
+     "w": "koş",
+     "ipa": "koʃ"
+    }
+   ],
+   "lvl": 2,
+   "aud": "both",
+   "note": "Ünlü",
+   "minimal": true
+  },
+  {
+   "id": "tr.p.kiz-kaz-koz",
+   "words": [
+    {
+     "w": "kız",
+     "ipa": "kɯz",
+     "e": "👧"
+    },
+    {
+     "w": "kaz",
+     "ipa": "kaz",
+     "e": "🪿"
+    },
+    {
+     "w": "köz",
+     "ipa": "kœz"
+    }
+   ],
+   "lvl": 2,
+   "aud": "both",
+   "note": "Ünlü",
+   "minimal": true,
+   "frame": "Bahçede bir {w} gördüm.",
+   "frameWords": [
+    "kız",
+    "kaz"
+   ]
+  },
+  {
+   "id": "tr.p.gul-gol-gol",
+   "words": [
+    {
+     "w": "gül",
+     "ipa": "gyl",
+     "e": "🌹"
+    },
+    {
+     "w": "göl",
+     "ipa": "gœl",
+     "e": "🏞️"
+    },
+    {
+     "w": "gol",
+     "ipa": "gol",
+     "e": "🥅"
+    }
+   ],
+   "lvl": 2,
+   "aud": "both",
+   "note": "Ünlü",
+   "minimal": true,
+   "frame": "Resimde güzel bir {w} var.",
+   "frameWords": [
+    "gül",
+    "göl"
+   ]
+  },
+  {
+   "id": "tr.p.el-al-il",
+   "words": [
+    {
+     "w": "el",
+     "ipa": "el",
+     "e": "✋"
+    },
+    {
+     "w": "al",
+     "ipa": "al"
+    },
+    {
+     "w": "il",
+     "ipa": "il"
+    }
+   ],
+   "lvl": 2,
+   "aud": "both",
+   "note": "Ünlü",
+   "minimal": true
+  },
+  {
+   "id": "tr.p.kel-kal-kil-kol-kul",
+   "words": [
+    {
+     "w": "kel",
+     "ipa": "kel"
+    },
+    {
+     "w": "kal",
+     "ipa": "kal"
+    },
+    {
+     "w": "kil",
+     "ipa": "kil"
+    },
+    {
+     "w": "kol",
+     "ipa": "kol",
+     "e": "💪"
+    },
+    {
+     "w": "kul",
+     "ipa": "kul"
+    }
+   ],
+   "lvl": 3,
+   "aud": "adult",
+   "note": "Ünlü",
+   "minimal": true
+  },
+  {
+   "id": "tr.p.ses-sis-sus",
+   "words": [
+    {
+     "w": "ses",
+     "ipa": "ses",
+     "e": "🔊"
+    },
+    {
+     "w": "sis",
+     "ipa": "sis",
+     "e": "🌫️"
+    },
+    {
+     "w": "sus",
+     "ipa": "sus",
+     "e": "🤫"
+    }
+   ],
+   "lvl": 2,
+   "aud": "both",
+   "note": "Ünlü",
+   "minimal": true
+  },
+  {
+   "id": "tr.p.tuz-toz",
+   "words": [
+    {
+     "w": "tuz",
+     "ipa": "tuz",
+     "e": "🧂"
+    },
+    {
+     "w": "toz",
+     "ipa": "toz"
+    }
+   ],
+   "lvl": 2,
+   "aud": "both",
+   "note": "Ünlü u/o",
+   "minimal": true,
+   "frame": "Masada biraz {w} var."
+  },
+  {
+   "id": "tr.p.dag-bag-sag",
+   "words": [
+    {
+     "w": "dağ",
+     "ipa": "daː",
+     "e": "⛰️"
+    },
+    {
+     "w": "bağ",
+     "ipa": "baː"
+    },
+    {
+     "w": "sağ",
+     "ipa": "saː",
+     "e": "➡️"
+    }
+   ],
+   "lvl": 2,
+   "aud": "both",
+   "note": "İlk ünsüz; ğ uzatma",
+   "minimal": true
+  },
+  {
+   "id": "tr.p.kutu-kuzu",
+   "words": [
+    {
+     "w": "kutu",
+     "ipa": "kutu",
+     "e": "📦"
+    },
+    {
+     "w": "kuzu",
+     "ipa": "kuzu",
+     "e": "🐑"
+    }
+   ],
+   "lvl": 1,
+   "aud": "both",
+   "note": "Orta ünsüz t/z",
+   "minimal": true,
+   "frame": "Bahçede bir {w} var."
+  },
+  {
+   "id": "tr.p.deve-dere",
+   "words": [
+    {
+     "w": "deve",
+     "ipa": "deve",
+     "e": "🐫"
+    },
+    {
+     "w": "dere",
+     "ipa": "deɾe"
+    }
+   ],
+   "lvl": 2,
+   "aud": "both",
+   "note": "Orta ünsüz v/r",
+   "minimal": true,
+   "frame": "Köyün yanında bir {w} var."
+  },
+  {
+   "id": "tr.p.kapak-kayak",
+   "words": [
+    {
+     "w": "kapak",
+     "ipa": "kapak"
+    },
+    {
+     "w": "kayak",
+     "ipa": "kajak",
+     "e": "⛷️"
+    }
+   ],
+   "lvl": 3,
+   "aud": "both",
+   "note": "Orta ünsüz p/y",
+   "minimal": true,
+   "frame": "Dolapta bir {w} var."
+  },
+  {
+   "id": "tr.p.at-et-ot",
+   "words": [
+    {
+     "w": "at",
+     "ipa": "at",
+     "e": "🐴"
+    },
+    {
+     "w": "et",
+     "ipa": "et",
+     "e": "🥩"
+    },
+    {
+     "w": "ot",
+     "ipa": "ot"
+    }
+   ],
+   "lvl": 1,
+   "aud": "both",
+   "note": "Ünlü",
+   "minimal": true,
+   "frame": "Masanın üstünde {w} resmi var."
+  },
+  {
+   "id": "tr.p.para-yara-kara",
+   "words": [
+    {
+     "w": "para",
+     "ipa": "paɾa",
+     "e": "💵"
+    },
+    {
+     "w": "yara",
+     "ipa": "jaɾa",
+     "e": "🩹"
+    },
+    {
+     "w": "kara",
+     "ipa": "kaɾa"
+    }
+   ],
+   "lvl": 2,
+   "aud": "both",
+   "note": "İlk ünsüz",
+   "minimal": true,
+   "frame": "Elinde {w} vardı.",
+   "frameWords": [
+    "para",
+    "yara"
+   ]
+  },
+  {
+   "id": "tr.p.yarin-yarim",
+   "words": [
+    {
+     "w": "yarın",
+     "ipa": "jaɾɯn"
+    },
+    {
+     "w": "yarım",
+     "ipa": "jaɾɯm"
+    }
+   ],
+   "lvl": 3,
+   "aud": "adult",
+   "note": "Son ünsüz n/m",
+   "minimal": true
+  },
+  {
+   "id": "tr.p.kasa-kaza",
+   "words": [
+    {
+     "w": "kasa",
+     "ipa": "kasa"
+    },
+    {
+     "w": "kaza",
+     "ipa": "kaza"
+    }
+   ],
+   "lvl": 3,
+   "aud": "adult",
+   "note": "Orta ünsüz s/z (ötümlülük)",
+   "minimal": true
+  },
+  {
+   "id": "tr.p.kale-kafe",
+   "words": [
+    {
+     "w": "kale",
+     "ipa": "kale",
+     "e": "🏰"
+    },
+    {
+     "w": "kafe",
+     "ipa": "kafe",
+     "e": "☕"
+    }
+   ],
+   "lvl": 2,
+   "aud": "both",
+   "note": "Orta ünsüz l/f",
+   "minimal": true,
+   "frame": "Şehrin ortasında eski bir {w} var."
+  },
+  {
+   "id": "tr.p.pil-fil-dil-zil-kil",
+   "words": [
+    {
+     "w": "pil",
+     "ipa": "pil",
+     "e": "🔋"
+    },
+    {
+     "w": "fil",
+     "ipa": "fil",
+     "e": "🐘"
+    },
+    {
+     "w": "dil",
+     "ipa": "dil",
+     "e": "👅"
+    },
+    {
+     "w": "zil",
+     "ipa": "zil",
+     "e": "🔔"
+    },
+    {
+     "w": "kil",
+     "ipa": "kil"
+    }
+   ],
+   "lvl": 2,
+   "aud": "both",
+   "note": "İlk ünsüz",
+   "minimal": true,
+   "frame": "Kitapta bir {w} resmi var.",
+   "frameWords": [
+    "pil",
+    "fil",
+    "dil",
+    "zil"
+   ]
+  },
+  {
+   "id": "tr.p.pul-bul",
+   "words": [
+    {
+     "w": "pul",
+     "ipa": "pul"
+    },
+    {
+     "w": "bul",
+     "ipa": "bul"
+    }
+   ],
+   "lvl": 3,
+   "aud": "adult",
+   "note": "İlk ünsüz p/b (ötümlülük)",
+   "minimal": true
+  },
+  {
+   "id": "tr.p.tava-dava",
+   "words": [
+    {
+     "w": "tava",
+     "ipa": "tava",
+     "e": "🍳"
+    },
+    {
+     "w": "dava",
+     "ipa": "dava"
+    }
+   ],
+   "lvl": 3,
+   "aud": "adult",
+   "note": "İlk ünsüz t/d (ötümlülük)",
+   "minimal": true
+  },
+  {
+   "id": "tr.p.ic-uc-ac",
+   "words": [
+    {
+     "w": "iç",
+     "ipa": "iʧ"
+    },
+    {
+     "w": "üç",
+     "ipa": "yʧ",
+     "e": "3️⃣"
+    },
+    {
+     "w": "aç",
+     "ipa": "aʧ"
+    }
+   ],
+   "lvl": 2,
+   "aud": "both",
+   "note": "Ünlü",
+   "minimal": true
+  },
+  {
+   "id": "tr.p.kuru-koru",
+   "words": [
+    {
+     "w": "kuru",
+     "ipa": "kuɾu"
+    },
+    {
+     "w": "koru",
+     "ipa": "koɾu"
+    }
+   ],
+   "lvl": 3,
+   "aud": "adult",
+   "note": "Ünlü u/o",
+   "minimal": true
+  },
+  {
+   "id": "tr.p.erken-erkek",
+   "words": [
+    {
+     "w": "erken",
+     "ipa": "eɾken"
+    },
+    {
+     "w": "erkek",
+     "ipa": "eɾkek"
+    }
+   ],
+   "lvl": 3,
+   "aud": "adult",
+   "note": "Son ünsüz n/k",
+   "minimal": true
+  },
+  {
+   "id": "tr.p.yaz-yuz",
+   "words": [
+    {
+     "w": "yaz",
+     "ipa": "jaz"
+    },
+    {
+     "w": "yüz",
+     "ipa": "jyz"
+    }
+   ],
+   "lvl": 2,
+   "aud": "both",
+   "note": "Ünlü a/ü",
+   "minimal": true
+  },
+  {
+   "id": "tr.p.top-ton",
+   "words": [
+    {
+     "w": "top",
+     "ipa": "top",
+     "e": "⚽"
+    },
+    {
+     "w": "ton",
+     "ipa": "ton"
+    }
+   ],
+   "lvl": 3,
+   "aud": "adult",
+   "note": "Son ünsüz p/n",
+   "minimal": true
+  },
+  {
+   "id": "tr.p.bal-bel-bil",
+   "words": [
+    {
+     "w": "bal",
+     "ipa": "bal",
+     "e": "🍯"
+    },
+    {
+     "w": "bel",
+     "ipa": "bel"
+    },
+    {
+     "w": "bil",
+     "ipa": "bil"
+    }
+   ],
+   "lvl": 3,
+   "aud": "adult",
+   "note": "Ünlü",
+   "minimal": true
+  },
+  {
+   "id": "tr.p.kum-kim",
+   "words": [
+    {
+     "w": "kum",
+     "ipa": "kum"
+    },
+    {
+     "w": "kim",
+     "ipa": "kim"
+    }
+   ],
+   "lvl": 3,
+   "aud": "adult",
+   "note": "Ünlü u/i",
+   "minimal": true
+  },
+  {
+   "id": "tr.p.su-su-bu",
+   "words": [
+    {
+     "w": "su",
+     "ipa": "su",
+     "e": "💧"
+    },
+    {
+     "w": "şu",
+     "ipa": "ʃu"
+    },
+    {
+     "w": "bu",
+     "ipa": "bu"
+    }
+   ],
+   "lvl": 2,
+   "aud": "both",
+   "note": "İlk ünsüz",
+   "minimal": true
+  },
+  {
+   "id": "tr.p.cay-pay",
+   "words": [
+    {
+     "w": "çay",
+     "ipa": "ʧaj",
+     "e": "🍵"
+    },
+    {
+     "w": "pay",
+     "ipa": "paj"
+    }
+   ],
+   "lvl": 3,
+   "aud": "adult",
+   "note": "İlk ünsüz ç/p",
+   "minimal": true
+  }
+ ],
+ "ipaNote": "Geniş sesbilimsel çevriyazı; ğ önceki ünlüyü uzatır (ː)."
+}

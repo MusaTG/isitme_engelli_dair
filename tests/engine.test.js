@@ -9,13 +9,14 @@ import { updateLevel } from '../js/engine/adaptive.js';
 
 const ctx = (lang) => ({ voicesDistinct: 2, stereoOk: true, speechOk: true, qaStatus: allOk, catLabel: (c) => c });
 
-function checkItem(item, def) {
+function checkItem(item, def, lang) {
   assert.ok(item.uid && item.key, `${def.id}: kimlik`);
   assert.ok(item.play, `${def.id}: oynatma`);
   if (item.input === 'choice') {
     const ids = item.options.map((o) => o.id);
     assert.equal(new Set(ids).size, ids.length, `${def.id}: yinelenen seçenek kimliği`);
-    const labels = item.options.map((o) => String(o.label ?? o.labelKey).toLocaleLowerCase());
+    // Seçeneğin dilinde küçült: Türkçede I/ı ve İ/i ayrı harflerdir; varsayılan yerel ayar (ör. tr-TR Windows) ikisini de "i" yapar
+    const labels = item.options.map((o) => String(o.label ?? o.labelKey).toLocaleLowerCase(lang));
     assert.equal(new Set(labels).size, labels.length, `${def.id}: yinelenen seçenek etiketi ${labels}`);
     assert.equal(item.options.filter((o) => o.id === item.answer).length, 1, `${def.id}: tek doğru cevap`);
     assert.ok(item.options.length >= 2 && item.options.length <= 10, `${def.id}: seçenek sayısı ${item.options.length}`);
@@ -47,7 +48,7 @@ test('her görev, her dilde, her seviyede, çocuk ve yetişkin için geçerli ö
           if (def.id === 'word-seen') for (const w of pack.words.slice(0, 40)) exposure[`w:${w.id}`] = [1, 1, Date.now() - 1e6, 1, 0];
           const s = buildSession({ config: { mode: 'practice', audience, blocks: [{ task: def.id, count: 4 }] }, pack, exposure, levelFor: () => level, rng: makeRng(level * 31 + def.id.length), ...ctx(lang) });
           assert.ok(s.items.length >= 1, `${lang}/${def.id}/L${level}/${audience}: öğe üretilemedi ${JSON.stringify(s.warnings)}`);
-          for (const it of s.items) checkItem(it, def);
+          for (const it of s.items) checkItem(it, def, lang);
         }
       }
     }

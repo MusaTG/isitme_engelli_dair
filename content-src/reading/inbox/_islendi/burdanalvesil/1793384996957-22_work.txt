@@ -1,0 +1,47 @@
+### | Kurumsal Bilgi Teknolojileri Altyapısı, Veri Güvenliği Ve Cihaz Kullanım Talimatnamesi
+lang: tr | cat: work | sub: instructions | tags: talimat, güvenlik, bilişim, cihaz, şirket | level: 2
+---
+## 1. Amaç, Kapsam Ve Genel Sorumluluklar
+
+Bu talimatname, şirketimiz bünyesinde kullanılan tüm masaüstü bilgisayarların, dizüstü cihazların, kurumsal mobil telefonların, sunucuların, veri depolama ünitelerinin, ağ bileşenlerinin ve dijital iletişim kanallarının siber tehditlere, zararlı yazılımlara, yetkisiz veri erişimlerine, veri sızıntılarına ve fiziksel emniyet risklerine karşı korunmasını sağlamak amacıyla hazırlanmıştır. Şirket ağımıza kablolu veya kablosuz olarak bağlanan tüm personel, stajyerler, yüklenici firma temsilcileri, geçici danışmanlar ve dış kaynak hizmet sağlayıcıları bu talimatnamede belirtilen teknik güvenlik kurallarına, erişim yetkilendirme protokollerine, şifreleme standartlarına, bilgi güvenliği ilkelerine ve kurumsal gizlilik politikalarına eksiksiz ve amansızca uymakla mükellef ve yükümlüdür.
+
+Şirketimizin dijital varlıklarının korunması, müşteri kişisel verilerinin (KVKK) emniyete alınması, ticari sır niteliğindeki kurumsal bilginin gizliliğinin sürdürülmesi ve operasyonel devamlılığın aksatılmaması, yalnızca Bilgi Teknolojileri ve Siber Güvenlik biriminin değil, tüm çalışanlarımızın ortak, asli ve birincil kurumsal sorumluluğudur. İşbu talimatname kapsamında belirlenen kurallara aykırı hareket edilmesi, kurumsal siber dayanıklılığımızı riske atabileceği gibi yasal, mali, disipliner ve idari yaptırımlara da zemin hazırlayabilir. Tüm çalışanlarımızın ve birim yöneticilerimizin bu talimatnamedeki maddeleri dikkatlice okuması, kavraması, benimsemesi, uygulaması ve günlük mesai süreçlerinde harfiyen sürdürmesi büyük bir hassasiyet ve önem taşımaktadır.
+
+## 2. Kurumsal Ağ Erişimi, Wi-Fi Ve Uzaktan Bağlantı Standartları
+
+Şirket personeline tahsis edilen cihazların kurumsal kablosuz ağa (Wi-Fi) bağlantısı yalnızca kişisel dijital sertifika ve İki Faktörlü Kimlik Doğrulama (2FA) altyapısı ile gerçekleştirilecektir. Çalışanlar kendilerine verilen kullanıcı adı ve şifre bilgilerini kesinlikle üçüncü şahıslarla paylaşmamalı, başka çalışanların hesapları üzerinden sisteme giriş yapmamalıdır. Ortak alanlarda veya misafir ağlarında kurumsal kaynaklara doğrudan erişim sağlanması güvenlik protokolleri gereğince tamamen engellenmiştir.
+
+Şirket dışındayken, evden uzaktan çalışma esnasında veya saha görevlerinde kurumsal sunuculara, e-posta sistemine, finansal portallara ve iç ağ uygulamalarına erişimde yalnızca Bilgi Teknolojileri birimi tarafından tanımlanmış Sanal Özel Ağ (VPN) bağlantısı kullanılmalıdır. Kafe, havalimanı, otel ve toplu taşıma alanlarındaki şifresiz, güvensiz veya halka açık kablosuz ağlar üzerinden VPN bağlantısı olmadan kurumsal sistemlere giriş yapılması kesinlikle ve tamamen yasaktır. Uzaktan erişim esnasında kullanılan kişisel internet hatlarının güvenliği de çalışanların kişisel sorumluluğundadır. Ağ üzerinde yetkisiz bir erişim denemesi veya şüpheli hareket tespit edildiğinde kullanıcının bağlantısı otomatik olarak sonlandırılacaktır.
+
+## 3. Cihaz Güvenliği, Yazılım Yönetimi Ve İşletim Sistemi Güncellemeleri
+
+Çalışanlar kendilerine tahsis edilen bilgisayarlarda, tabletlerde ve mobil cihazlarda yerel yönetici (Administrator) yetkisi talep edemez; lisanssız, korsan, onaylanmamış veya kaynağı belirsiz üçüncü taraf yazılımları cihazlara yükleyemez. Şirket cihazlarına yüklenecek tüm uygulamalar yalnızca Bilgi Teknolojileri biriminin onayladığı kurumsal yazılım kataloğu ve yetkili uygulama mağazaları üzerinden temin edilmelidir. Kişisel kullanım amacına yönelik oyun, dosya paylaşım (torrent), mesajlaşma veya medya indirme programlarının kurumsal cihazlara kurulması kesinlikle ve tamamen yasaktır.
+
+İşletim sistemi güncellemeleri, güvenlik yamaları ve anti-virüs yazılımı güncellemeleri sistem yöneticileri tarafından otomatik olarak cihazlara yüklenecektir. Çalışanlar güncelleme bildirimlerini ertelememeli ve sistem performansının korunması amacıyla bilgisayarlarını haftada en az bir kez tamamen yeniden başlatmalıdır. Cihazların fiziksel güvenliğini sağlamak amacıyla dizüstü bilgisayarlar ofis dışında veya araç içinde gözetimsiz bırakılmamalı; çalınma, kaybolma veya fiziksel hasar durumlarında derhal İdari İşler ve Bilişim birimlerine yazılı haber verilmelidir.
+
+## 4. Taşınabilir Medya Araçları, Veri Transferi Ve Bulut Depolama Esasları
+
+Kurumsal bilgisayarlara kaynağı belirsiz USB bellek, harici sabit disk, hafıza kartı veya kişisel cep telefonu bağlantısı yapılması siber güvenlik yazılımları tarafından otomatik olarak engellenecektir. Veri transferi işlemleri yalnızca şirket tarafından sağlanan onaylı bulut depolama alanları ve yetkili ortak klasörler üzerinden güvenli şekilde gerçekleştirilmelidir. Şirket verilerinin kişisel e-posta hesaplarına, izinsiz harici bulut servislerine veya kişisel depolama cihazlarına aktarılması ağır veri sızıntısı ihlali olarak değerlendirilecektir.
+
+Hassas müşteri verileri, finansal raporlar, stratejik proje dokümanları, teknik çizimler ve kaynak kodları gibi kritik veritabanı içerikleri şirket dışına çıkartılamaz ve yetkisiz kişilerle paylaşılamaz. E-posta üzerinden büyük boyutlu veya gizlilik dereceli dosya gönderimlerinde şifreli dosya transfer protokolleri tercih edilmeli, dosya şifresi alıcıya farklı bir iletişim kanalı (SMS veya güvenli mesajlaşma) üzerinden iletilmelidir. Tüm veritabanı sorguları, dosya transfer hareketleri ve sistem erişim logları otomatik olarak kayıt altına alınmakta ve denetlenmektedir.
+
+## 5. Güçlü Şifre Yönetimi, Kimlik Doğrulama Ve Temiz Masa Politikası
+
+Kurumsal e-posta hesaplarına, iç ağ uygulamalarına ve veri tabanlarına erişimde kullanılan şifreler en az 12 karakter uzunluğunda olmalı; büyük harf, küçük harf, rakam ve özel karakter birleşiminden oluşmalıdır. Şifreler kâğıt notlara yazılmamalı, bilgisayar ekranlarına veya masa takvimlerine yapıştırılmamalı, mesai arkadaşlarıyla paylaşılmamalı ve en geç 90 günde bir düzenli olarak değiştirilmelidir. Tüm kurumsal uygulama girişlerinde İki Faktörlü Kimlik Doğrulama (2FA) kullanımı tamamen zorunludur.
+
+Temiz Masa ve Temiz Ekran Politikası gereğince, çalışanlar masalarından kısa süreliğine dahi ayrılırken 'Windows + L' kısayol tuşlarını kullanarak bilgisayar ekranlarını mutlaka kilitli konuma getirmelidir. Mesai bitiminde çalışma masalarında müşteri dosyası, finansal rapor veya gizlilik dereceli basılı evrak bırakılmamalı; tüm dokümanlar kilitli çekmece ve dolaplarda emniyetle saklanmalıdır. Yazıcı tepsilerinde unutulan basılı evraklar yetkisiz kişilerin erişimini engellemek adına derhal alınmalı veya imha kutularına atılmalıdır.
+
+## 6. Mobil Cihaz Yönetimi Ve E-posta Güvenliği Standartları
+
+Şirket tarafından sağlanan veya kurumsal e-posta erişimi tanımlanan akıllı cep telefonları ve tabletler, Mobil Cihaz Yönetimi (MDM) yazılımı ile koruma altına alınmaktadır. Bu cihazlarda ekran kilidi (PIN, güçlü şifre veya biyometrik doğrulama) kullanımı zorunlu olup, ekran kilidi zaman aşımı süresi en fazla 3 dakika olarak ayarlanmalıdır. Cihazların root edilmesi, jailbreak yapılması veya güvenlik mekanizmalarının devre dışı bırakılması kesinlikle ve tamamen yasaktır.
+
+E-posta güvenliği kapsamında, kaynağı bilinmeyen veya şüpheli görünen e-postalardaki ekli dosyalar açılmamalı ve e-posta içindeki bağlantı linklerine tıklanmamalıdır. Oltama (phishing) saldırılarına karşı dikkatli olunmalı, kurumsal şifre yenileme talebi gibi görünen şüpheli e-postalar derhal Siber Güvenlik Birimine bildirilmelidir. Kurumsal e-posta adresi kişisel alışveriş sitelerine veya sosyal medya platformlarına üyelik amacıyla kullanılmamalıdır.
+
+## 7. Olay Müdahale, Siber Tehdit Bildirimi Ve Disiplin Yaptırımları
+
+Cihazlarda şüpheli bir yavaşlama, garip açılır pencereler, sistem kilitlenmeleri veya virüs uyarıları görüldüğünde; ya da şüpheli bir e-posta ekine tıklandığında çalışanlar derhal Bilgi Teknolojileri ve Siber Güvenlik Olay Müdahale Ekibine yazılı bildirim yapmalıdır. Olası bir siber saldırı veya veri sızıntısı şüphesinde cihazın ağ bağlantısı (Ethernet kablosu çıkartılarak veya Wi-Fi kapatılarak) derhal kesilmeli ancak cihaz kapatılmadan teknik ekibin müdahalesi beklenmelidir.
+
+İşbu talimatnamede belirtilen kurallara, güvenlik protokollerine ve gizlilik ilkelerine aykırı hareket eden, şirket verilerini riske atan veya yetkisiz veri paylaşımında bulunan personel hakkında Şirket Disiplin Yönetmeliği hükümleri doğrultusunda gerekli idari, cezai, disipliner ve hukuki yaptırımlar kararlılıkla ve tavizsizce uygulanacaktır. Bilgi güvenliğini koruma, siber tehditleri engelleme ve kurumsal verileri her zaman emniyette tutma hususında tüm çalışanlarımızın gerekli özeni, dikkati, hassasiyeti ve sorumluluğu göstermesini önemle ve içtenlikle rica ederiz.
+
+Kontrol Özeti:
+1005

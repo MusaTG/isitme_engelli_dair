@@ -1,0 +1,44 @@
+### | Biyomedikal Cihaz Sektöründe Küresel Ar-Ge Stratejileri Sunumu
+lang: tr | cat: work | sub: presentation | level: 2 | tags: sunum, biyomedikal, ar-ge, sağlık, strateji
+---
+Değerli yönetim kurulu üyelerimiz, kıdemli araştırma direktörlerimiz, değerli yatırımcılarımız, ana paydaşlarımız ve biyomedikal araştırma merkezimize yön veren değerli çalışma arkadaşlarım, bugün gerçekleştireceğimiz bu stratejik sunumda şirketimizin önümüzdeki iki yıllık dönemde benimseyeceği küresel Ar-Ge stratejilerini, dijital sağlık entegrasyonu adımlarımızı ve klinik verimliliği artırmaya yönelik dinamik projelerimizi tüm detaylarıyla detaylı şekilde paylaşmaktan büyük bir onur duyuyorum.
+
+Günümüzün hızla değişen küresel sağlık pazar koşullarında, dijital dönüşüm rüzgârında ve yüksek rekabet ortamında, geleneksel tıbbi cihaz üretim yöntemleriyle pazarda kalıcı üstünlük sağlamak ne yazık ki tek başına yeterli olmamaktadır. Sağlık kurumları ve uzman hekimler artık teşhis ve tedavi süreçlerinin her bir adımında şeffaf, hızlı, güvenilir, ölçülebilir, hassas ve entegre bir teknolojik altyapı kurgulamayı arzulamaktadır. Yapılan son bağımsız araştırmalar, yapay zekâ destekli biyomedikal cihazları benimseyen sağlık kuruluşlarının klinik teşhis doğruluğunda %40 artış sağladığını ve hasta bakım süreçlerini iki kat daha hızlı tamamladığını net şekilde ortaya koymaktadır.
+
+Bu doğrultuda kurguladığımız yeni sağlık teknolojileri vizyonumuz üç ana temel sütun üzerine inşa edilmiştir: Birinci sütunumuz, tüm hasta takip cihazlarımızı ve laboratuvar analiz ünitelerimizi tek bir merkezde birleştiren bütünleşik klinik veri yönetimidir. Hastaneler arası tıbbi veri akışını kesintisiz hale getirerek tanı süreçlerındaki zaman kayıplarını tamamen ortadan kaldırıyoruz.
+
+İkinci sütunumuz, yapay zekâ destekli giyilebilir biyosensörler ve uzaktan hasta izleme sistemleridir. Hastaların hayati bulgularını ve biyokimyasal değerlerini anlık olarak analiz ederek, henüz klinik semptomlar gelişmeden önce önleyici tedavi protokolleri geliştireceğiz.
+
+Üçüncü sütunumuz ise sağlık personeline yönelik düzenlenecek sürekli teknik eğitim programlarıdır. Hekim ve hemşirelerimizin yeni nesil cihazlara uyum yetkinliklerini artırarak sağlık hizmeti kalitemizi en üst seviyeye taşımayı hedefliyoruz.
+
+Ayrıca Ar-Ge bütçemizin verimli kullanımı amacıyla her ay ürün klinik performans göstergelerini anlık takip edecek ve yönetim kuruluna sunacak esnek analiz panelleri kuracağız. Bu paneller sayesinde araştırma bütçesi sapmaları erken aşamada tespit edilecek ve gerekli iyileştirmeler hızla yapılacaktır.
+
+Sunumumuzun son bölümünde yer alan uygulama takvimi doğrultusunda, ilk çeyrekte klinik test hazırlıklarımızı tamamlayarak ikinci çeyrek itibarıyla yeni biyomedikal ürün serimizi tüm uluslararası pazarlarda canlıya alacağız. Şirketimizi geleceğe taşıyacak bu vizyoner projeye verdiğiniz güçlü destek için hepinize ayrı ayrı yürekten teşekkür ederim.
+
+### | Özel Taşımacılık Ve Kargo Gecikmesi Bilgilendirme Mektubu
+lang: tr | cat: work | sub: customer | level: 2 | tags: müşteri, iletişim, kargo, özür, bilgilendirme
+---
+Sayın Turgut Yıldız,
+
+Şirketimizden 20 Ekim 2026 tarihinde satın almış olduğunuz hassas laboratuvar ekipmanlarının kargo ve lojistik teslimat süreçleriyle ilgili tarafımıza iletmiş olduğunuz haklı şikâyet başvurusu ve bilgilendirme talebi Müşteri İlişkileri Departmanımız tarafından büyük bir dikkat, hassasiyet, ciddiyet, özen ve titizlikle detaylıca incelemeye alınmıştır.
+
+Öncelikle, siparişinizin lojistik tedarik zinciri sürecinde belirlenen teslimat tarihinde adresinize ulaştırılamaması ve yaşanan iletişim aksaklığı sebebiyle merkezinizde meydana gelen dönemsel araştırma gecikmesi ve mağduriyetten ötürü şirketimiz adına sizden ve ekibinizden içtenlikle ve yürekten özür dileriz. Müşterilerimize yüksek standartlarda, hızlı, güvenilir, kesintisiz, sorunsuz, şeffaf, sürdürülebilir ve kaliteli hizmet sunmak en temel kurumsal önceliğimiz ve vazgeçilmez varlık ilkemizdir.
+
+Gerçekleştirilen iç inceleme sonucında, bölgesel aktarma depomuzdaki otomasyon bandında meydana gelen beklenmedik teknik arıza ve olumsuz hava koşulları sebebiyle sevkiyat saatinizde gecikme yaşandığı tespit edilmiştir. Yaşanan bu iletişim kopukluğuyla ilgili sorumlu birimler uyarılmış ve benzer aksaklıkların tekrar etmemesi adına lojistik takip sistemimizde ve müşteri bilgilendirme süreçlerimizde gerekli düzeltici ve önleyici tedbirler derhal ve kararlılıkla alınmıştır.
+
+Yaşadığınız mağduriyeti telafi etmek ve şirketinizle olan uzun vadeli iş birliğimizi güçlendirmek amacıyla şirketimiz tarafından şu adımlar atılmıştır:
+1. Siparişinizin nakliye ve kargo teslimat ücretinin tamamı şirketimizin ikramı olarak tarafınıza tamamen iade edilmiştir.
+2. Gelecekteki ilk iki cihaz siparişinizde uygulanmak üzere hesabınıza %15 oranında özel indirim tanımlanmıştır.
+3. Şirketinize özel kıdemli bir lojistik operasyon temsilcisi atanmış olup 7/24 doğrudan iletişim imkânı sağlanmıştır.
+4. Lojistik ekibimiz önümüzdeki hafta merkezinize gelerek gelecekteki sevkiyat takvimini yerinde detaylıca planlayacaktır.
+5. Önümüzdeki 6 ay boyunca tüm sevkiyatlarınız için anlık konum takip raporları e-posta adresinize düzenli iletilecektir.
+6. Şirketinizin tüm lojistik talepleri öncelikli müşteri statüsünde doğrudan işleme alınacaktır.
+
+Müşteri memnuniyetini her şeyin üzerinde tutan kurumsal anlayışımızla, sizlere hizmet vermekten büyük onur duyuyoruz. Süreçle ilgili sorularınız için müşteri hizmetlerimize dilediğiniz zaman kolayca ulaşabilirsiniz.
+
+Anlayışınız, sabrınız, değerli iş birliğiniz, güveniniz ve desteğiniz için teşekkür ederiz.
+
+Saygılarımla,
+Burcu Arslan
+Müşteri İlişkileri Yöneticisi
+Lider Lojistik ve Cihaz A.Ş.

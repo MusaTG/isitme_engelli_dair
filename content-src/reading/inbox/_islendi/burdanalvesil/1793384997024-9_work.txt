@@ -1,0 +1,128 @@
+### | Şirket İçi Hibrit Çalışma Modeli ve Ofis Kullanım Rehberi
+lang: tr | cat: work | sub: email | tags: e-posta, hibrit, ofis, çalışma, duyuru | level: 1
+---
+Sayın Çalışma Arkadaşlarım,
+
+Şirketimizin büyüme hedefleri, sürdürülebilir dijital dönüşüm vizyonu, çalışan memnuniyeti odaklı insan kaynakları politikaları, kurumsal gelişim stratejileri ve modern iş dünyasının esnek gereksinimleri doğrultusunda, uzun süredir üzerinde çalışılan, değerlendirilen ve pilot uygulamaları başarıyla tamamlanan 'Yeni Nesil Hibrit Çalışma Modeli' önümüzdeki ayın ilk pazartesi günü itibarıyla tüm departmanlarımızda, temsilciliklerimizde, bölge müdürlüklerimizde ve idari birimlerimizde resmi olarak uygulamaya alınacaktır. İşbu bilgilendirme e-postası, yeni çalışma düzeninin detaylarını, haftalık off-site ve on-site gün planlamalarını, ortak alan kullanım kurallarını, masa rezervasyon prosedürlerini ve dikkat edilmesi gereken tüm hususları detaylıca paylaşmak üzere kaleme alınmıştır.
+
+Yeni modelimiz kapsamında, departman yöneticilerimizin koordinesinde ve onayında haftada iki gün uzaktan (evden), üç gün ise merkez ofisimizde fiziki olarak çalışma esası benimsenmiştir. Uzaktan çalışma günlerinde mesai saatlerine, iletişim kanallarının aktif kullanımına, çevrim içi toplantı katılım disiplinine, kurumsal bilgi güvenliği esaslarına ve verilen proje teslim tarihlerine aynı titizlikle uyulması büyük önem taşımaktadır. Şirket içi iletişim, anlık mesajlaşma, dosya paylaşımı ve proje takip süreçlerinde kurumsal platformumuz kesintisiz ve aktif olarak kullanılmaya devam edecektir.
+
+Merkez ofisimizde verimliliği artırmak, ferah bir çalışma ortamı sunmak ve kat alanlarını daha konforlu hale getirmek amacıyla 'Paylaşımlı Masa' (Hot-Desking) sistemine geçilmiştir. Ofiste çalışacağınız günlerde, katlarda bulunan çalışma masalarını, ortak dinlenme alanlarını ve odaklanma kabinlerini mobil uygulamamız üzerinden bir gün öncesinden kolayca rezerve edebilirsiniz. Masa rezervasyonlarında adillik ve esneklik sağlamak adına aynı masanın arka arkaya en fazla iki gün rezerve edilebileceğini önemle hatırlatmak isteriz.
+
+Yeni sisteme uyum sürecinde herhangi bir teknik donanım eksikliği, yazılım lisansı veya bağlantı sorunu yaşamanız durumunda Bilgi Teknolojileri Destek Masamıza taleplerinizi hızlıca iletebilirsiniz. Ek olarak, evden çalışma ortamınızı desteklemek amacıyla hazırlanan teknik donanım destek paketi başvuruları İnsan Kaynakları portalı üzerinden erişime açılmıştır.
+
+Yeni hibrit çalışma modelimizin şirketimize, iş verimliliğimize, çalışma motivasyonumuza ve tüm çalışanlarımıza hayırlı olmasını diler, göstereceğiniz uyum, hassasiyet, gayret ve iş birliği için şimdiden çok teşekkür ederim.
+
+Saygılarımla,
+Mustafa Özkan
+İnsan Kaynakları Direktörü
+Lider Holding A.Ş.
+
+### | Müşteri Deneyimi ve Kalite Güvence Komitesi Toplantı Tutanağı
+lang: tr | cat: work | sub: minutes | tags: toplantı, tutanak, müşteri, kalite, değerlendirme | level: 2
+---
+Toplantı Tarihi: 25 Ekim 2026
+Toplantı Saati: 10.30 - 13.00
+Toplantı Yeri: C Blok 1 Nolu Müşteri İlişkileri Salonu
+Toplantı Başkanı: Hande Yılmaz (Müşteri Deneyimi Direktörü)
+Not Tutan: Cenk Şahin (Kalite Güvence Uzmanı)
+
+Katılımcılar:
+- Hande Yılmaz (Müşteri Deneyimi Direktörü)
+- Cenk Şahin (Kalite Güvence Uzmanı)
+- Nihal Arslan (Çağrı Merkezi Yöneticisi)
+- Hakan Demir (Lojistik Operasyon Sorumlusu)
+- Gamze Yıldız (Dijital Pazarlama Uzmanı)
+
+Gündem Maddeleri:
+1. Üçüncü çeyrek müşteri şikâyet verilerinin, NPS skorlarının ve çağrı merkezi performansının incelenmesi
+2. Kargo ve teslimat süreçlerinde yaşanan bölgesel gecikmelerin kök neden analizi ve çözüm önerileri
+3. Canlı destek hattındaki otomatik yanıt sistemlerinin (Chatbot) hizmet kalitesine ve müşteri memnuniyetine etkisi
+4. Müşteri sadakat programı yeniliklerinin, özel indirim kuponlarının ve kampanya kurgularının onaylanması
+
+Görüşmeler ve Alınan Kararlar:
+Toplantı, Hande Yılmaz'ın açılış konuşması ve müşteri memnuniyetini şirket vizyonunun merkezine koyan stratejik hedefleri özetlemesiyle resmi olarak başladı. İlk gündem maddesi kapsamında, üçüncü çeyrek Müşteri Net Tavsiye Skoru (NPS) sonuçları detaylıca değerlendirildi. NPS puanımızın geçen çeyreğe göre 3 puan artarak 72 seviyesine yükseldiği, ancak kargo teslimat süreleriyle ilgili şikâyetlerin toplam başvurular içinde %38'lik önemli bir paya sahip olduğu tespit edildi.
+
+İkinci gündem maddesinde Hakan Demir, yoğun kampanya dönemlerinde kargo firmalarının aktarma merkezlerinde yaşanan kilitlenmeleri ve araç yetersizliklerini aktardı. Teslimat sürelerini kısaltmak ve bölgesal alternatifler yaratmak amacıyla iki yeni ulusal kargo acentesiyle deneme sözleşmesi imzalanması kararlaştırıldı.
+
+Üçüncü gündem maddesinde Nihal Arslan, canlı destek Chatbot yazılımının müşteri temsilcilerinin üzerindeki rutin çağrı yükünü %55 oranında hafiflettiğini belirtti. Chatbot bilgi bankasının yeni ürün SSS verileriyle ve güncel kargo bilgi akışlarıyla sürekli güncellenmesine karar verildi.
+
+Alınan Eylem Kararları:
+1. Yeni kargo firmalarıyla entegrasyon testlerinin tamamlanması (Sorumlu: Hakan Demir - Son Tarih: 12 Kasım)
+2. Chatbot soru-cevap veri tabanının güncellenmesi (Sorumlu: Gamze Yıldız - Son Tarih: 5 Kasım)
+3. Çağrı merkezi personeline yönelik kriz iletişimi ve empati eğitiminin planlanması (Sorumlu: Cenk Şahin - Son Tarih: 1 Kasım)
+
+Bir sonraki takip toplantısı 15 Kasım tarihinde aynı salonda gerçekleştirilecektir.
+
+### | Yıllık İş Sağlığı ve Güvenliği Denetim Raporu
+lang: tr | cat: work | sub: report | tags: rapor, güvenlik, denetim, tesis, emniyet | level: 3
+---
+Giriş ve Genel Değerlendirme:
+Bu kapsamlı teknik denetim raporu, şirketimizin merkez üretim tesislerinde, lojistik depolarında, iklimlendirme santrallerinde, atölye sahalarında, laboratuvarlarında ve idari binalarında 2026 yılı boyunca yürütülen İş Sağlığı ve Güvenliği (İSG) uygulamalarını, kaza önleme çalışmalarını, risk değerlendirme analizlerini, acil durum tatbikatlarını, yangın emniyet tedbirlerini ve yasal mevzuat uyum durumunu detaylıca incelemek üzere İSG Kurulu ve teknik emniyet uzmanlarımız tarafından titizlikle hazırlanmıştır.
+
+Mevcut Durum ve Kaza İstatistikleri Analizi:
+Yıl içerisinde gerçekleştirilen sürekli teknik denetimler, saha gözetimleri, risk analizleri, fiziksel kontrol turları ve çalışan eğitimleri sayesinde tesislerimizde ölümlü veya ağır yaralanmalı hiçbir iş kazası yaşanmamıştır. Kayıp zamanlı kaza sıklık oranı (LTIFR) geçen yıla kıyasla %42 oranında belirgin şekilde düşerek 0,8 seviyesine gerilemiştir. Yaşanan küçük çaplı ramak kala olaylar ve hafif yaralanmalar sistem üzerinden anında kayıt altına alınmış, kök neden analizleri yapılarak gerekli düzeltici ve önleyici faaliyetler (DÖF) derhal, kararlılıkla, yüksek hassasiyetle ve takip ilkeleriyle devreye sokulmuştur.
+
+Tamamlanan İSG Faaliyetleri ve Eğitimler:
+- Tüm tesislerdeki acil durum kaçış yolları, yangın merdivenleri, yönlendirme levhaları, ilk yardım dolapları ve yangın söndürme tüpleri eksiksiz yenilenmiştir.
+- Toplam 650 çalışanımıza yılda 16 saatlik zorunlu İş Sağlığı ve Güvenliği, İlk Yardım, Yüksekte Çalışma, Hijyen, Acil Durum Yönetimi ve Yangın Söndürme eğitimleri eksiksiz ve başarılı şekilde verilmiştir.
+- Üretim makine parkurundaki koruyucu kapaklar, sensörlü güvenlik bariyerleri, emniyet kilitleri ve acil stop butonları teknik standartlara tam uyumlu hale getirilmiştir.
+- Saha çalışanlarımızın kişisel koruyucu donanım (KKD) kullanımı günlük olarak denetlenmiş ve yıpranan ekipmanlar anında yenileriyle değiştirilmiştir.
+
+Riskler ve Öncelikli İyileştirme Alanları:
+1. Depo alanında forklift ve yaya yolu ayrımlarının çizgi işaretlerinin ve uyarı levhalarının yenilenmesi gerekmektedir.
+2. Kimyasal madde depolama alanındaki havalandırma fanlarının kapasitesinin artırılması ve gaz sensörlerinin güncellenmesi planlanmaktadır.
+
+Sonuç ve Öneriler:
+Şirketimizin İSG performansı genel olarak yüksek standartta olup, belirlenen küçük eksikliklerin önümüzdeki ay içinde giderilmesiyle 'Sıfır İş Kazası' hedefine kararlılıkla, yüksek disiplinle, emniyet anlayışıyla ve güvenle ulaşılacaktır.
+
+### | Mobil Müşteri Hizmetleri ve Self-Servis Portalı Projesi
+lang: tr | cat: work | sub: project | tags: proje, mobil, müşteri, yazılım, portal | level: 2
+---
+Proje Tanımı ve Amacı:
+Mobil Müşteri Hizmetleri ve Self-Servis Portalı Projesi, şirketimizin bireysel ve kurumsal müşterilerine 7/24 kesintisiz, hızlı, güvenli, kullanıcı dostu, esnek, dinamik ve şeffaf bir dijital hizmet deneyimi sunmak amacıyla tasarlanmış bütüncül bir yazılım ve altyapı geliştirme hamlesidir. Projenin temel amacı; müşterilerimizin çağrı merkezine bağlanma ihtiyacı duymadan veya uzun süre temsilci beklemeden fatura sorgulama, ödeme yapma, abonelik güncelleme, destek talebi oluşturma, arıza bildirimi yapma ve ürün iade süreçlerini kendi akıllı telefonları üzerinden saniyeler içinde kolayca gerçekleştirmelerini sağlamaktır.
+
+Proje Bileşenleri ve Uygulama Adımları:
+1. Kullanıcı Dostu Mobil Arayüz Tasarımı (UI/UX): Müşterilerin aradıkları hizmete veya işlem adımına en fazla iki dokunuşla ulaşabilmelerini sağlayan sezgisel, sade, estetik, anlaşılır ve modern bir mobil arayüzün kurgulanması.
+2. Güvenli Kimlik Doğrulama ve Biyometrik Giriş: Kullanıcı hesaplarının ve kişisel verilerin korunması amacıyla Biyometrik Doğrulama (Yüz/Parmak İzi) ve İki Faktörlü Kimlik Doğrulama (2FA) altyapısının mobil uygulamaya entegre edilmesi.
+3. Otomatik Destek ve Bilet Yönetim Sistemi: Müşterilerin oluşturduğu arıza ve destek taleplerinin ilgili teknik ekibe otomatik iş emri olarak atanması ve sürecin anlık SMS bildirimleriyle müşteriye adım adım raporlanması.
+4. Ödeme Sistemleri ve Sanal POS Entegrasyonu: Tüm banka ve kredi kartlarıyla uyumlu, uluslararası güvenlik sertifikalı (PCI-DSS) hızlı ve güvenli ödeme altyapısının kurulması.
+
+Beklenen Faydalar ve Bütçe Projeksiyonu:
+Projenin canlıya alınmasıyla birlikte çağrı merkezi operational yükü %40 azalacak, müşteri destek taleplerinin ortalama çözüme kavuşma süresi 24 saatten 2 saate düşecektir. Müşteri memnuniyet skorlarında %25'lik önemli bir artış hedeflenmektedir.
+
+Projenin toplam yatırım bütçesi 1.100.000 TL olarak belirlenmiş olup, yatırımın geri dönüş süresi (ROI) 15 ay olarak hesaplanmıştır.
+
+Proje Takvimi:
+- Faz 1 (Arayüz Tasarımı ve Analiz): 1 Kasım - 30 Kasım (Sorumlu: UX Tasarım Ekibi)
+- Faz 2 (Yazılım Geliştirme ve API Entegrasyonu): 1 Aralık - 15 Ocak (Sorumlu: Yazılım Ekibi)
+- Faz 3 (Güvenlik Testleri, Pilot Deneme ve Yayın): 15 Ocak - 1 Şubat (Sorumlu: BT Proje Yöneticisi)
+
+### | Şirket İçi Ergonomi ve Sağlıklı Ofis Yaşamı Rehberi
+lang: tr | cat: work | sub: workplace | tags: iş yeri, ergonomi, sağlık, ofis, yaşam | level: 1
+---
+Değerli Mesai Arkadaşlarım,
+
+Günümüz modern iş hayatında zamanımızın büyük bir kısmını bilgisayar başında, masa başında, ekran karşısında, toplantılarda ve oturarak geçiriyoruz. Uzun süreli hareketsizlik, yanlış oturma pozisyonları, uygun olmayan sandalye ayarları, yetersiz havalandırma ve düzensiz mola süreleri gibi faktörler zamanla kas-iskelet sistemi rahatsızlıklarına, bel ve boyun ağrılarına, göz yorgunluğuna, omurga rahatsızlıklarına, kas gerginliklerine ve genel fiziksel halsizliğe yol açabilmektedir. Şirketimiz, çalışanlarımızın sağlığını, konforunu, beden bütünlüğünü, fiziksel emniyetini, performansını, moralini ve yaşam kalitesini her şeyin üzerinde tutmaktadır. Bu doğrultuda hazırlanan Ergonomi ve Sağlıklı Ofis Yaşamı Rehberi, çalışma ortamınızı daha sağlıklı, konforlu, huzurlu, verimli ve keyifli hale getirecek pratik önerileri, egzersiz hareketlerini ve yöntemleri detaylıca kapsamaktadır.
+
+1. İdeal Oturma Pozisyonu ve Sandalye Ayarları:
+- Çalışma sandalyenizin yüksekliğini, ayaklarınız yere tam basacak ve dizleriniz 90 derecelik dik bir açı oluşturacak şekilde özenle ayarlayınız.
+- Sırtınızı ve belinizi sandalyenin bel desteğine tamamen yaslayınız. Gerekirse ergonomik bel desteği yastığı kullanınız.
+- Ekranınızın üst kenarı göz seviyenizle aynı hizada olmalı ve ekran ile gözünüz arasında yaklaşık 50-60 cm mesafe bulunmalıdır.
+
+2. Klavye, Fare Kullanımı ve Mola Alışkanlıkları:
+- Klavye ve fareyi kullanırken bileklerinizin bükülmemesine, düz durmasına özen gösteriniz. Bilek destekli fare pedleri kullanmak omurga ve bilek sağlığınızı korur.
+- Her 45 dakikalık aktif çalışma sonrasında 5 dakikalık kısa ayağa kalkma, esneme ve odada yürüyüş molaları veriniz.
+- Göz yorgunluğunu önlemek için '20-20-20' kuralını uygulayınız: Her 20 dakikada bir 20 saniye boyunca en az 20 fit (6 metre) uzaktaki bir noktaya bakarak göz kaslarınızı dinlendiriniz.
+
+3. Ofis İçi Sıvı Tüketimi, Beslenme ve Ortam Düzeni:
+- Gün boyunca masanızda mutlaka taze su bulundurunuz ve günde en az 2 litre su tüketmeye özen gösteriniz.
+- Çalışma alanlarınızın, ortak toplantı odalarının ve oda havalandırmalarının düzenli olarak temiz hava ile tazelenmesini sağlayınız.
+
+Sağlıklı, konforlu, enerjik, neşeli, dinamik, üretken ve huzurlu bir çalışma yaşamını birlikte sürdürmek dileğiyle.
+
+İdari İşler ve İSG Kurulu
+
+Kontrol Özeti:
+İstenen Sayı: 5
+Üretilen Sayı: 5

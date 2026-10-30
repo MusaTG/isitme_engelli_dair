@@ -6,7 +6,7 @@ Süre sınıfları varsayılan sesli okuma hızına göre hesaplanır (TR 110, E
 
 ## Türkçe
 
-Toplam 552 metin, 552 benzersiz içerik, 128.902 kelime.
+Toplam 1034 metin, 1034 benzersiz içerik, 290.020 kelime.
 
 | Kategori | Metin | Kısa | Orta | Uzun | Kelime | Seviye 1/2/3 |
 |---|---:|---:|---:|---:|---:|---|
@@ -15,12 +15,12 @@ Toplam 552 metin, 552 benzersiz içerik, 128.902 kelime.
 | Roman tarzı uzun okumalar | 101 | 98 | 2 | 1 | 24218 | 23/72/6 |
 | Gazete ve dergi tarzı | 100 | 98 | 1 | 1 | 18727 | 0/21/79 |
 | Bilgilendirici ve öğretici | 100 | 98 | 1 | 1 | 19433 | 0/18/82 |
-| Gezi ve seyahat | 50 | 50 | 0 | 0 | 7564 | 1/13/36 |
-| Diyalog ve konuşma | 0 | 0 | 0 | 0 | 0 | 0/0/0 |
-| İş ve mesleki okuma | 0 | 0 | 0 | 0 | 0 | 0/0/0 |
-| Şiir ve edebî metinler | 0 | 0 | 0 | 0 | 0 | 0/0/0 |
-| Dil ve telaffuz odaklı | 0 | 0 | 0 | 0 | 0 | 0/0/0 |
-| Çocuklar için | 0 | 0 | 0 | 0 | 0 | 0/0/0 |
+| Gezi ve seyahat | 90 | 85 | 5 | 0 | 23521 | 10/34/46 |
+| Diyalog ve konuşma | 99 | 93 | 5 | 1 | 36712 | 27/48/24 |
+| İş ve mesleki okuma | 83 | 77 | 5 | 1 | 31859 | 19/41/23 |
+| Şiir ve edebî metinler | 98 | 92 | 5 | 1 | 21150 | 23/50/25 |
+| Dil ve telaffuz odaklı | 62 | 56 | 5 | 1 | 26561 | 18/29/15 |
+| Çocuklar için | 100 | 94 | 5 | 1 | 28879 | 24/50/26 |
 | Yetişkinler için uzun okumalar | 0 | 0 | 0 | 0 | 0 | 0/0/0 |
 | Günlük ve mektup | 0 | 0 | 0 | 0 | 0 | 0/0/0 |
 | Eleştirel düşünme ve karşılaştırma | 0 | 0 | 0 | 0 | 0 | 0/0/0 |

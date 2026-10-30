@@ -1,0 +1,105 @@
+### | Yeni Nesil Müşteri Deneyimi Stratejileri Sunumu
+lang: tr | cat: work | sub: presentation | tags: sunum, müşteri, deneyim, strateji, pazarlama | level: 2
+---
+Değerli yöneticilerim, kıdemli mesai arkadaşlarım ve şirketimizin büyümesine katkı sağlayan çalışma ekibimiz, bugün gerçekleştireceğimiz bu stratejik sunumda şirketimizin önümüzdeki üç yıllık dönemde benimseyeceği yeni nesil müşteri deneyimi stratejisini, dijital dönüşüm adımlarımızı ve müşteri sadakatini artırmaya yönelik dinamik projelerimizi detaylarıyla paylaşacağım.
+
+Günümüzün hızla değişen rekabetçi pazar koşullarında, sadece kaliteli ürünler veya uygun fiyat seçenekleri sunmak müşterilerimizi elde tutmak için ne yazık ki tek başına yeterli olmamaktadır. Tüketiciler artık ürün satın alma sürecinin her bir adımında kişiselleştirilmiş, nitelikli, kesintisiz, şeffaf, hızlı ve güvenilir bir deneyim yaşamayı arzulamaktadır. Yapılan son pazar araştırmaları, mükemmel müşteri deneyimi sunan markaların rakiplerine kıyasla %60 daha yüksek kârlılık oranlarına ulaştığını net bir şekilde göstermektedir.
+
+Bu doğrultuda kurguladığımız yeni stratejimizin temelini üç ana sütun oluşturmaktadır: Birinci sütunumuz, müşteri etkileşim kanal süreçlerini tamamen entegre hale getiren çok kanallı iletişim altyapısıdır. Müşterilerimizin e-posta, sosyal medya, mobil uygulama, canlı destek veya çağrı merkezi üzerinden başlattığı her bir talebi, geçmiş etkileşim verileriyle birleştirerek tek bir panelde topluyoruz. Böylece müşterilerimiz kanal değiştirdiğinde aynı bilgileri tekrar vermek zorunda kalmayacak ve zaman kaybı yaşamayacaktır.
+
+İkinci sütunumuz ise yapay zekâ destekli analitik müşteri verisi tahminleme modelleridir. Müşterilerimizin geçmiş satın alma alışkanlıklarını, filtreleme tercihlerini ve geri bildirimlerini analiz ederek henüz talep oluşmadan önce kişiye özel kampanya ve öneriler sunacağız.
+
+Üçüncü ve en önemli sütunumuz ise müşteri hizmetleri ekibimizin yetkinliklerini artıracak sürekli eğitim programlarıdır. Çalışanlarımızın empati kurma, kriz anlarında hızlı karar alma ve çözüm odaklı iletişim kurma becerilerini güçlendirerek müşteri memnuniyet skorlarımızı (CSAT) %95 seviyesine çıkarmayı hedefliyoruz.
+
+Sunumumuzun son bölümünde yer alan bütçe projeksiyonu ve uygulama takvimi doğrultusunda, ilk çeyrekte altyapı kurulumlarını tamamlayarak ikinci çeyrek itibarıyla yeni müşteri deneyimi modelimizi tüm pazarlarda canlıya alacağız. Şirketimizi geleceğe taşıyacak bu vizyoner projeye sağladığınız katkı, vizyon ve değerli katılım için hepinize ayrı ayrı yürekten teşekkür ederim.
+
+### | Şirket İçi Bilgi Güvenliği ve Veri Koruma Talimatnamesi
+lang: tr | cat: work | sub: instructions | tags: talimat, güvenlik, veri, şirket, prosedür | level: 3
+---
+Amaç ve Kapsam:
+Bu talimatname, şirketimiz bünyesinde işlenen, saklanan ve aktarılan tüm kurumsal verilerin, müşteri kişisel verilerinin (KVKK), finansal kayıtların ve ticari sırların yetkisiz erişimlere, siber saldırılara, veri sızıntılarına ve fiziksel kayıplara karşı korunmasını sağlamak amacıyla hazırlanmıştır. Tüm departman yöneticileri, tam zamanlı çalışanlar, stajyerler ve dış kaynak hizmet sağlayan yüklenici personeli bu talimatnamede belirtilen güvenlik kurallarına eksiksiz uymakla yükümlüdür.
+
+1. Parola Yönetimi ve Kimlik Doğrulama Standartları:
+- Şirket içi ağa, e-posta hesaplarına ve kurumsal yazılımlara erişimde kullanılan parolalar en az 12 karakter uzunluğunda olmalı; büyük harf, küçük harf, rakam ve özel karakter içermelidir.
+- Oluşturulan parolalar en geç 90 günde bir değiştirilmeli ve son kullanılan 5 parola tekrar seçilmemelidir.
+- Parolalar hiçbir koşulda kâğıda yazılmamalı, e-posta ile paylaşılmamalı veya başkalarıyla ortak kullanılmamalıdır.
+- Tüm kurumsal hesaplarda İki Faktörlü Kimlik Doğrulama (2FA) kullanımı zorunludur.
+
+2. Temiz Masa ve Temiz Ekran İlkesi:
+- Mesai bitiminde veya kısa süreli ayrılmalarda masalarda gizlilik dereceli hiçbir evrak, müşteri dosyası veya kâğıt not bırakılmamalıdır.
+- Çalışanlar bilgisayar başından ayrılırken klavye üzerindeki 'Windows + L' kısayolu ile ekranlarını kilitli konuma getirmekle yükümlüdür.
+- Yazıcıdan alınan çıktılar derhal yazıcı tepsisinden alınmalı ve yetkisiz kişilerin erişebileceği açık alanlarda unutulmamalıdır.
+
+3. Veri Transferi ve Taşınabilir Medya Kullanımı:
+- Kurumsal veri ve e-postaların kişisel e-posta hesaplarına, harici bulut depolama alanlarına veya onaylanmamış mesajlaşma uygulamalarına aktarılması kesinlikle yasaktır.
+- Onaylı olmayan harici USB belleklerin, taşınabilir disklerin veya kişisel cihazların kurumsal bilgisayarlara bağlanması güvenlik yazılımları tarafından otomatik olarak engellenecektir.
+
+4. Olay Bildirimi ve Yaptırımlar:
+- Şüpheli bir e-posta, virüs uyarısı, kayıp cihaz veya veri sızıntısı durumu fark edildiğinde derhal Bilgi Teknolojileri Güvenlik Masasına bildirim yapılmalıdır. Kurallara aykırı hareket eden personel hakkında Disiplin Yönetmeliği hükümleri uygulanacaktır.
+
+### | Müşteri Şikâyeti Çözüm ve Bilgilendirme Mektubu
+lang: tr | cat: work | sub: customer | tags: müşteri, iletişim, şikâyet, çözüm, kurumsal | level: 2
+---
+Sayın Selim Yılmaz,
+
+Şirketimizden 18 Ekim 2026 tarihinde satın almış olduğunuz sanayi tipi iklimlendirme cihazının teslimatı ve yetkili servis kurulum süreciyle ilgili tarafımıza iletmiş olduğunuz geri bildirim ve şikâyet başvurusu Kalite Güvence ve Müşteri İlişkileri Departmanımız tarafından büyük bir titizlik, hassasiyet ve ciddiyetle detaylıca incelenmiştir.
+
+Öncelikle, cihazınızın kargo teslimatı esnasında yaşanan lojistik gecikme ve yetkili servis montaj ekibimizin randevu saatine zamanında ulaşamaması sebebiyle iş yerinizde meydana gelen aksaklık ve mağduriyetten dolayı şirketimiz adına sizden içtenlikle özür dileriz. Müşterilerimize yüksek standartlarda, hızlı, güvenilir, kesintisiz ve kaliteli hizmet sunmak en temel kurumsal ilke ve önceliğimizdir.
+
+Gerçekleştirilen iç inceleme sonucunda, bölgesel lojistik depomuzdaki aktarma yoğunluğu nedeniyle kargo sevkiyatında 24 saatlik bir aksama yaşandığı, servis ekibimizin ise acil arıza çağrısı nedeniyle randevu saatinize geciktiği tespit edilmiştir. Yaşanan bu iletişim ve koordinasyon eksikliğiyle ilgili sorumlu birimler uyarılmış ve benzer durumların tekrar etmemesi adına lojistik takip süreçlerimizde gerekli düzeltici ve önleyici tedbirler derhal alınmıştır.
+
+Yaşadığınız mağduriyeti telafi etmek ve cihazınızdan maksimum verimi almanızı sağlamak amacıyla şirketimiz tarafından şu adımlar atılmıştır:
+1. Ürününüzün yetkili servis kurulumu ve tüm teknik performans testleri kıdemli başteknisyenimiz yönetiminde bugün itibarıyla eksiksiz ve ücretsiz olarak tamamlanmıştır.
+2. Cihazınızın standart 2 yıllık garanti süresi, şirketimizin ikramı olarak herhangi bir ekstra ücret alınmaksızın 1 yıl süreyle uzatılarak toplam 3 yıla çıkarılmıştır.
+3. Önümüzdeki 12 ay boyunca cihazınızın periyodik ilk iki teknik bakımı şirketimiz tarafından ücretsiz olarak gerçekleştirilecektir.
+
+Müşteri memnuniyetini her şeyin üzerinde tutan kurumsal anlayışımızla, sizlere hizmet vermekten büyük onur duyuyoruz. Süreçle ilgili her türlü soru, talep veya öneriniz için doğrudan tarafımla veya 24 saat aktif müşteri hizmetleri hattımızla dilediğiniz zaman iletişime geçebilirsiniz.
+
+Anlayışınız, sabrınız ve değerli iş birliğiniz için teşekkür eder, çalışmalarınızda başarılar dileriz.
+
+Saygılarımla,
+Berna Aksu
+Müşteri İlişkileri Müdürü
+Lider İklimlendirme A.Ş.
+
+### | Yapay Zekâ Destekli Kod Asistanı Kullanım Kılavuzu
+lang: tr | cat: work | sub: tech | tags: teknoloji, yazılım, yapay zekâ, kod, kılavuz | level: 1
+---
+Yazılım Geliştirme Ekibimizin Değerli Üyeleri,
+
+Yazılım geliştirme süreçlerimizi hızlandırmak, kod kalitesini artırmak, hataları erken aşamada tespit etmek ve tekrarlayan kod yazım yükünü hafifletmek amacıyla şirketimiz bünyesinde lisanslanan Yapay Zekâ Destekli Kod Asistanı araçlarının kurulumu ve etkili kullanım adımları aşağıda detaylıca özetlenmiştir.
+
+1. Geliştirme Ortamı (IDE) Kurulumu:
+Yapay zekâ kod eklentisini kullandığınız geliştirme ortamına (VS Code, IntelliJ veya PyCharm) entegre etmek için arayüzdeki 'Extensions' veya 'Plugins' sekmesine giriniz. Arama çubuğuna kurumsal yapay zekâ eklentimizin adını yazarak 'Install' butonuna tıklayınız. Kurulum tamamlandıktan sonra şirket e-posta adresiniz ve tek oturum açma (SSO) şifrenizle giriş yaparak lisansınızı aktif hale getiriniz.
+
+2. Otomatik Kod Tamamlama ve Öneri Kullanımı:
+Yazılım kodunu yazmaya başladığınızda asistan arka planda anlık olarak satır içi veya blok kod önerileri sunacaktır. Sunulan gri renkli kod önerisini kabul etmek için klavyenizdeki 'Tab' tuşuna basabilir, öneriyi reddetmek için yazmaya devam edebilirsiniz. Farklı kod alternatiflerini görmek için 'Alt + ]' kısayolunu kullanabilirsiniz.
+
+3. Doğal Dil İle Kod Üretimi ve Sohbet Paneli:
+Karmaşık fonksiyonlar veya algoritmalar oluştururken sohbet panelini açarak doğal dilde açıklama yazabilirsiniz. Örneğin "Python ile verilen listedeki çift sayıları filtreleyen ve sıralayan fonksiyon yaz" şeklinde bir komut girerek saniyeler içinde temiz ve verimli bir kod bloğu ürettirebilirsiniz. Üretilen kod bloğunu dikkatlice inceledikten sonra 'Insert' butonuna basarak doğrudan projenize güvenle aktarabilirsiniz.
+
+4. Güvenlik ve Gizlilik Kuralları:
+Geliştirme yaparken şirketimize ait gizli güvenlik anahtarlarını, şifreleri, müşteri verilerini veya özel veri tabanı bağlantı cümlelerini sohbet paneline yazmamanız son derece önemlidir. Yapay zekâ asistanımız sadece kod yapısını analiz etmekte olup kurumsal veri gizliliği politikamız tamamen korunmaktadır.
+
+Yazılım geliştirme hızınızı, kod standartlarınızı ve iş verimliliğinizi önemli ölçüde artıracak bu kullanışlı aracın kullanımında herhangi bir teknik sorun yaşarsanız Bilişim Destek Ekibimizle her zaman iletişime geçebilirsiniz.
+
+### | Bireysel Kariyer Gelişimi ve Liderlik Yetkinlikleri
+lang: tr | cat: work | sub: growth | tags: gelişim, kariyer, liderlik, yetkinlik, başarı | level: 2
+---
+Hızla değişen günümüz küresel iş dünyasında ve dijitalleşen kurumsal yapılarda sürdürülebilir bir kariyer başarısı elde etmek, sadece mevcut teknik bilgileri korumakla değil, sürekli öğrenme yaklaşımını benimsemek ve esnek beceriler geliştirmekle mümkündür. Profesyonel iş hayatında öne çıkmak ve geleceğin başarılı liderleri arasında yer almak isteyen çalışanlarımızın bireysel gelişim yolculuğunda odaklanması gereken temel ilkeler ve öneriler şunlardır:
+
+1. Öz Farkındalık ve Sürekli Öğrenme Zihniyeti:
+Kariyer yolculuğundaki ilk adım, güçlü yönleri ve gelişime açık alanları dürüstçe analiz etmektir. Kendi yetkinlik haritasını çıkaran profesyoneller, eksik oldukları alanlarda online eğitimler, seminerler, makaleler ve mentörlük programları aracılığıyla bilgilerini sürekli güncel tutarlar. Hataları bir başarısızlık olarak değil, önemli bir öğrenme, deneyim ve tecrübe kazanma fırsatı olarak görmek gelişim zihniyetinin tam merkezinde yer alır.
+
+2. İletişim Becerileri ve Duygusal Zekâ:
+İş hayatındaki başarının %80'i teknik becerilerden ziyade insan ilişkileri, empati kurma yeteneği ve yüksek duygusal zekâ ile şekillenmektedir. Ekip arkadaşlarıyla açık, yapıcı, şeffaf ve saygılı iletişim kurabilmek, farklı fikirleri dikkatle dinlemek ve ortak paydada buluşabilmek kriz anlarını başarıyla yönetmeyi sağlar. Etkin dinleme becerisi kazanan bireyler, iş yerindeki çatışmaları yapıcı bir şekilde çözerek uyumlu ve huzurlu bir çalışma ortamı yaratırlar.
+
+3. Zaman Yönetimi ve Önceliklendirme:
+Yoğun iş temposu altında stresi yönetebilmek ve yüksek verimlilikle çalışabilmek için zamanı doğru planlamak şarttır. Önemli ve acil işleri birbirinden ayıran Eisenhower Matrisi gibi zaman yönetimi tekniklerini kullanmak, dikkat dağıtıcı unsurları azaltmak ve odaklanma sürelerini artırmak iş kalitesini yükseltir.
+
+4. Liderlik Vizyonu ve İnisiyatif Alma:
+Liderlik sadece bir unvan veya makam değil, bir duruş ve etki yaratma biçimidir. Sorumluluk almaktan çekinmeyen, yenilikçi fikirler üreten ve çevresindekilere ilham veren profesyoneller organizasyon bünyesinde doğal olarak öne çıkarlar. Bireysel kariyer gelişiminizi desteklemek adına şirketimizin sunduğu Akademi eğitimlerine katılabilir, iç mentörlük programlarımızdan dilediğiniz zaman faydalanabilirsiniz.
+
+Kontrol Özeti:
+İstenen Sayı: 5
+Üretilen Sayı: 5

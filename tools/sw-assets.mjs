@@ -1,9 +1,10 @@
 // sw.js içindeki önbellek listesini (ASSETS) uygulama dosyalarından yeniden üretir.
 // Kullanım: node tools/sw-assets.mjs   (içerik veya kod dosyası eklendiğinde çalıştırın)
+import { fileURLToPath } from 'node:url';
 import { readdir, readFile, writeFile, stat } from 'node:fs/promises';
 import { join } from 'node:path';
 
-const ROOT = new URL('..', import.meta.url).pathname;
+const ROOT = fileURLToPath(new URL('..', import.meta.url));
 const DIRS = ['css', 'js', 'locales', 'content', 'icons'];
 const TOP = ['index.html', 'manifest.webmanifest'];
 
@@ -26,7 +27,7 @@ export async function listAssets() {
   return ['./', ...files.map((f) => `./${f}`)];
 }
 
-if (process.argv[1] === new URL(import.meta.url).pathname) {
+if (process.argv[1] === fileURLToPath(import.meta.url)) {
   const assets = await listAssets();
   const sw = await readFile(join(ROOT, 'sw.js'), 'utf8');
   const body = `const ASSETS = [\n${assets.map((a) => `  '${a}',`).join('\n')}\n];`;

@@ -130,6 +130,23 @@ export function autoLevel(text, lang = 'tr') {
   return 3;
 }
 
+// Okunabilirlik puanı (yalnızca ek bilgi; düzeyi DEĞİŞTİRMEZ — 1/2/3 eşlemesi doğrulanana kadar).
+// TR: Ateşman (1997) = 198,825 − 40,175 × (hece/kelime) − 2,610 × (kelime/cümle); Türkçede hece = ünlü sayısı.
+// EN: Flesch Reading Ease = 206,835 − 84,6 × (hece/kelime) − 1,015 × (kelime/cümle); hece tahmini ünlü öbekleri.
+// Yorum aralıkları formüllerin kendi yayımlanmış bantlarıdır: ≥70 kolay, 50–69 orta, <50 zor.
+const enSyl = (w) => { const s = w.toLowerCase().replace(/[^a-z]/g, ''); if (!s) return 1; const g = s.replace(/(?:[^laeiouy]es|ed|[^laeiouy]e)$/, '').replace(/^y/, '').match(/[aeiouy]{1,2}/g); return Math.max(1, g ? g.length : 1); };
+export function readability(text, lang = 'tr') {
+  const ws = words(text);
+  if (ws.length < 30) return null;
+  const sents = Math.max(1, sentences(text).length);
+  const syl = ws.reduce((a, w) => a + (lang === 'tr' ? Math.max(1, (w.match(/[aeıioöuüâîû]/gi) || []).length) : enSyl(w)), 0);
+  const spw = syl / ws.length;
+  const wps = ws.length / sents;
+  const raw = lang === 'tr' ? 198.825 - 40.175 * spw - 2.61 * wps : 206.835 - 84.6 * spw - 1.015 * wps;
+  const score = Math.max(0, Math.min(100, Math.round(raw)));
+  return { score, band: score >= 70 ? 'easy' : score >= 50 ? 'medium' : 'hard', formula: lang === 'tr' ? 'Ateşman' : 'Flesch' };
+}
+
 export function sectionsText(sections) {
   return sections.map((s) => [s.h, ...s.paras.map((p) => (p.sp ? `${p.sp}: ${p.t}` : p.t))].filter(Boolean).join('\n')).join('\n');
 }
@@ -183,13 +200,24 @@ export function makeText({ lang, cat, num, title, meta = {}, body, defaults = {}
     kind,
     aud: meta.aud || defaults.aud || 'all',
     level: Number(meta.level) || autoLevel(plain, lang),
+    levelAuto: !Number(meta.level),
+    readability: readability(plain, lang)?.score ?? null,
     tags: (meta.tags || '').split(',').map((x) => x.trim()).filter(Boolean),
     series: meta.series || null,
     part: meta.part ? Number(meta.part) : null,
     version: Number(meta.version) || 1,
     hash: fnv(`${title}\n${plain}`),
     words: wordsN,
+    // İçerik özeti (başlıktan bağımsız): yeniden aktarmada aynı metni tanımak için.
+    contentHash: fnv(fold(plain, lang).replace(/\s+/g, ' ').trim()),
     summary: meta.summary || '',
+    // Kaynak, lisans ve üretim bilgisi (metin başına; boşsa kategori lisansı geçerlidir).
+    source: meta.source || '',
+    license: meta.license || '',
+    author: meta.author || '',
+    origin: meta.origin || defaults.origin || '',
+    reviewed: /^(yes|evet|true|1)$/i.test(meta.reviewed || ''),
+    similar: /^(ok|yes|evet|true|1)$/i.test(meta.similar || ''),
     preview: first.length > 220 ? `${first.slice(0, 217).replace(/\s+\S*$/, '')}…` : first,
     sections,
   };

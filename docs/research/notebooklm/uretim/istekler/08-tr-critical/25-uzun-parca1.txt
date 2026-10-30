@@ -1,0 +1,16 @@
+Kaynaklardaki yazım kılavuzuna göre 1 UZUN metin yazacağız; 4 parçada tamamlanacak (toplam 12 bölüm).
+
+- Dil: Türkçe
+- Kategori: critical (Eleştirel düşünme ve karşılaştırma) · sub: claims (İddia ve kanıt) · level: 3
+- Bu parça: başlık bloğu + ilk 3 bölüm, 900–1200 kelime. Her bölüm "## Ara başlık" ile başlasın.
+
+Biçim (YAML kullanma):
+
+### | Metnin Başlığı
+lang: tr | cat: critical | sub: claims | tags: <3-5 etiket> | level: 3
+---
+## İlk ara başlık
+
+Paragraflar…
+
+Metni bu parçada BİTİRME. Atıf numarası ve kontrol özeti yazma.

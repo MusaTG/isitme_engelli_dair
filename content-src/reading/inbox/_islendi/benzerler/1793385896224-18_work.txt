@@ -1,0 +1,64 @@
+### | Şirket İçi Dijital Dönüşüm Ve Müşteri Deneyimi Stratejileri Sunumu
+lang: tr | cat: work | sub: presentation | level: 2 | tags: sunum, dijital, dönüşüm, müşteri, strateji
+---
+Değerli yönetim kurulu üyelerimiz, kıdemli birim yöneticilerimiz, değerli yatırımcılarımız, ana hissedarlarımız ve şirketimizin büyüme vizyonuna yön veren değerli çalışma arkadaşlarım, bugün gerçekleştireceğimiz bu stratejik sunumda şirketimizin önümüzdeki iki yıllık dönemde benimseyeceği yenilikçi dijital dönüşüm stratejilerini, yeni müşteri deneyimi adımlarımızı ve verimliliği artırmaya yönelik dinamik projelerimizi tüm detaylarıyla detaylı şekilde paylaşmaktan büyük bir onur duyuyorum.
+
+Günümüzün hızla değişen küresel pazar koşullarında, dijital dönüşüm rüzgârında ve yoğun rekabet ortamında, geleneksel iş yöntemleriyle yüksek müşteri memnuniyeti sağlamak ne yazık ki tek başına yeterli olmamaktadır. Kurumlar artık iş süreçlerinin her bir adımında şeffaf, hızlı, güvenilir, ölçülebilir, esnek ve entegre bir dijital altyapı kurmayı arzulamaktadır. Yapılan son bağımsız araştırmalar, dijital süreç yönetimini benimseyen şirketlerin operasyonel maliyetlerinde %35 oranında tasarruf sağladığını ve iş süreçlerini iki kat daha hızlı tamamladığını net şekilde ortaya koymaktadır.
+
+Bu doğrultuda kurguladığımız yeni operasyonel vizyonumuz üç ana temel sütun üzerine inşa edilmiştir: Birinci sütunumuz, tüm idari birimlerimizi ve saha operasyonlarımızı tek bir platformda birleştiren bütünleşik iş süreçleri yönetimidir. Departmanlar arası veri akışını kesintisiz hale getirerek onay mekanizmalarındaki zaman kayıplarını tamamen ortadan kaldırıyoruz.
+
+İkinci sütunumuz, yapay zekâ destekli kaynak planlama ve otomatik raporlama sistemleridir. İş gücü dağılımını, envanter hareketlerini ve operasyonel dar boğazları anlık olarak analiz ederek, henüz sorun oluşmadan önce önleyici tedbirler geliştireceğiz.
+
+Üçüncü sütunumuz ise çalışanlarımızın mesleki gelişimini destekleyen sürekli eğitim programlarıdır. Saha ve idari ekiplerimizin dijital okuryazarlık yetkinliklerini artırarak kurumsal performansımızı en üst seviyeye taşımayı hedefliyoruz.
+
+Ayrıca operasyonel bütçemizin verimli kullanımı amacıyla her ay birim performans göstergelerini (KPI) anlık takip edecek ve yönetim kuruluna sunacak esnek analiz panelleri kuracağız. Bu paneller sayesinde bütçe sapmaları erken aşamada tespit edilecek ve gerekli iyileştirmeler hızla yapılacaktır.
+
+Sunumumuzun son bölümünde yer alan uygulama takvimi doğrultusunda, ilk çeyrekte altyapı hazırlıklarımızı tamamlayarak ikinci çeyrek itibarıyla yeni operasyonel modelimizi tüm bölge ve tesislerimizde canlıya alacağız. Şirketimizi geleceğe taşıyacak bu vizyoner projeye verdiğiniz güçlü destek için hepinize ayrı ayrı yürekten teşekkür ederim.
+
+### | Kurumsal Bilgi Güvenliği Ve Cihaz Erişim Standartları Talimatnamesi
+lang: tr | cat: work | sub: instructions | level: 3 | tags: talimat, güvenlik, bilgi, cihaz, şirket
+---
+Amaç ve Kapsam:
+Bu talimatname, şirketimiz bünyesinde kullanılan tüm kurumsal bilgi sistemlerinin, sunucuların, masaüstü bilgisayarların, dizüstü cihazların, kurumsal mobil telefonların ve ağ altyapısının siber tehditlere, zararlı yazılımlara, yetkisiz veri erişimlerine, veri sızıntılarına ve fiziksel güvenlik risklerine karşı korunmasını sağlamak amacıyla hazırlanmıştır. Şirket ağımıza kablolu veya kablosuz olarak bağlanan tüm personel, stajyer ve dış kaynak hizmet sağlayıcıları bu talimatnamede belirtilen teknik güvenlik kurallarına, erişim yetkilendirme protokollerine, şifreleme kriterlerine ve kurumsal gizlilik politikalarına eksiksiz ve amansızca uymakla mükellef ve yükümlüdür.
+
+1. Kablosuz Ağ ve Uzaktan Erişim Standartları:
+- Şirket personeline tahsis edilen cihazların kurumsal kablosuz ağa bağlantısı yalnızca kişisel dijital sertifika ve İki Faktörlü Kimlik Doğrulama (2FA) ile sağlanacaktır.
+- Şirket dışındayken veya uzaktan çalışma esnasında kurumsal sunuculara erişimde yalnızca Bilgi Teknolojileri birimi tarafından tanımlanmış Sanal Özel Ağ (VPN) bağlantısı kullanılmalıdır.
+- Şifresiz halka açık kablosuz ağlar üzerinden kurumsal sistemlere doğrudan giriş yapılması siber güvenlik riskleri sebebiyle kesinlikle ve tamamen yasaklanmıştır.
+
+2. Cihaz Güvenliği, Yazılım Güncellemeleri ve Şifreleme:
+- Çalışanlar kendilerine tahsis edilen bilgisayarlarda yerel yönetici (Administrator) yetkisi talep edemez; lisanssız veya onaylanmamış üçüncü taraf yazılımları cihazlara yükleyemez.
+- İşletim sistemi güncellemeleri otomatik yüklenecek ve cihazlar haftada en az bir kez tamamen yeniden başlatılacaktır.
+- Tüm bilgisayar diskleri ve taşınabilir medya araçları saklama aşamasında AES-256 standartlarında şifrelenmelidir.
+
+3. İhlal Bildirimi, Denetim, Kontrol ve Yaptırımlar:
+- Cihazlarda şüpheli bir yavaşlama, yetkisiz erişim denemesi veya virüs uyarısı görüldüğünde derhal Siber Güvenlik Olay Müdahale Ekibine yazılı bildirim yapılmalıdır.
+- Bu talimatnameye aykırı hareket eden personel hakkında Disiplin Yönetmeliği hükümleri doğrultusunda gerekli idari, cezai, disiplin ve hukuki yaptırımlar kararlılıkla ve tavizsizce uygulanacaktır.
+
+Bilgi güvenliğini koruma, siber tehditleri engelleme, erişim yetkilerini denetleme, veri gizliliğini sağlama ve kurumsal verileri her zaman emniyette tutma hususında tüm çalışanlarımızın, birim yöneticilerimizin, saha temsilcilerimizin ve teknik ekiplerimizin gerekli özeni, dikkati, duyarlılığı, hassasiyeti ve sorumluluğu göstermesini önemle, içtenlikle, saygıyla ve kararlılıkla rica ederiz.
+
+### | Özel Teknik Destek Ve Cihaz Kurulum Gecikmesi Özür Mektubu
+lang: tr | cat: work | sub: customer | level: 2 | tags: müşteri, iletişim, teknik, özür, bilgilendirme
+---
+Sayın Harun Şahin,
+
+Şirketimizden 19 Ekim 2026 tarihinde satın almış olduğunuz sanayi tipi otomasyon ünitesinin yetkili servis kurulumu, teknik montajı ve performans test süreçleriyle ilgili tarafımıza iletmiş olduğunuz haklı şikâyet başvurusu ve bilgilendirme talebi Müşteri İlişkileri Departmanımız tarafından büyük bir dikkat, hassasiyet, ciddiyet, özen ve titizlikle detaylıca incelemeye alınmıştır.
+
+Öncelikle, cihazınızın teknik servis montaj ekibimiz tarafından belirlenen randevu saatinde kurulamaması ve yaşanan iletişim aksaklığı sebebiyle tesisinizde meydana gelen dönemsel üretim gecikmesi ve mağduriyetten ötürü şirketimiz adına sizden ve ekibinizden içtenlikle ve yürekten özür dileriz. Müşterilerimize yüksek standartlarda, hızlı, güvenilir, kesintisiz, sorunsuz, şeffaf, sürdürülebilir ve kaliteli hizmet sunmak en temel kurumsal önceliğimiz ve vazgeçilmez varlık ilkemizdir.
+
+Gerçekleştirilen iç inceleme sonucında, teknik servis ekibimizin intikal güzergahında meydana gelen beklenmedik araç arızası ve bölgesel trafik yoğunluğu sebebiyle randevu saatinize gecikme yaşandığı tespit edilmiştir. Yaşanan bu iletişim kopukluğuyla ilgili sorumlu birimler uyarılmış ve benzer aksaklıkların tekrar etmemesi adına teknik servis takip sistemimizde ve müşteri bilgilendirme süreçlerimizde gerekli düzeltici ve önleyici tedbirler derhal ve kararlılıkla alınmıştır.
+
+Yaşadığınız mağduriyeti telafi etmek ve cihazınızdan maksimum verimi almanızı sağlamak amacıyla şirketimiz tarafından şu adımlar atılmıştır:
+1. Ürününüzün yetkili servis kurulumu ve tüm teknik performans testleri başteknisyenimiz yönetiminde bugün itibarıyla eksiksiz ve ücretsiz olarak tamamlanmıştır.
+2. Cihazınızın standart 2 yıllık garanti süresi, şirketimizin ikramı olarak hiçbir ekstra ücret alınmaksızın 1 yıl süreyle uzatılarak toplam 3 yıla çıkarılmıştır.
+3. Önümüzdeki 12 ay boyunca cihazınızın periyodik ilk iki teknik bakımı şirketimiz tarafından tamamen ücretsiz, kapsamlı ve öncelikli olarak gerçekleştirilecektir.
+4. Tesisinizdeki diğer otomasyon ünitelerinin genel kontrolü için uzman mühendisimiz önümüzdeki hafta özel bir inceleme ve bakım ziyareti gerçekleştirecektir.
+
+Müşteri memnuniyetini her şeyin üzerinde tutan kurumsal anlayışımızla, sizlere hizmet vermekten büyük onur duyuyoruz. Süreçle ilgili sorularınız için müşteri hizmetlerimize dilediğiniz zaman kolayca ulaşabilirsiniz.
+
+Anlayışınız, sabrınız, değerli iş birliğiniz, güveniniz ve desteğiniz için teşekkür ederiz.
+
+Saygılarımla,
+Gaye Arslan
+Müşteri İlişkileri Yöneticisi
+Lider Otomasyon Sistemleri A.Ş.

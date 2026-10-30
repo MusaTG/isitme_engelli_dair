@@ -1,6 +1,6 @@
 // Okuma listeleri ve 30–120 dakikalık okuma oturumları.
 import { t } from '../i18n.js';
-import { esc, icon, helpLink, toast, toastAction, announce } from '../ui.js';
+import { esc, icon, helpLink, toast, toastAction, announce, confirmAsk } from '../ui.js';
 import { metaResolver, allMeta } from '../reading/data.js';
 import { searchTexts } from '../reading/search.js';
 import { createList, listAdd, listRemove, listMove, listMinutes, listNext, startTimed, statusOf, endTimed } from '../reading/state.js';
@@ -38,8 +38,8 @@ export async function readListsView(root, ctx) {
       ctx.go(`#/read/list/${l.id}`);
     });
     root.querySelectorAll('[data-start]').forEach((b) => b.addEventListener('click', () => startList(ctx, R, R.lists.find((l) => l.id === b.dataset.start))));
-    root.querySelectorAll('[data-del]').forEach((b) => b.addEventListener('click', () => {
-      if (!window.confirm(t('rd.deleteListConfirm'))) return;
+    root.querySelectorAll('[data-del]').forEach((b) => b.addEventListener('click', async () => {
+      if (!await confirmAsk(t('rd.deleteListConfirm'))) return;
       const i = R.lists.findIndex((l) => l.id === b.dataset.del);
       const [removed] = R.lists.splice(i, 1);
       ctx.store.save();
@@ -50,9 +50,9 @@ export async function readListsView(root, ctx) {
   draw();
 }
 
-export function startList(ctx, R, l, { targetMin, breakEvery } = {}) {
+export async function startList(ctx, R, l, { targetMin, breakEvery } = {}) {
   if (!l || !l.items.length) return;
-  if (R.timed && !window.confirm(t('rd.replaceTimed'))) return;
+  if (R.timed && !await confirmAsk(t('rd.replaceTimed'))) return;
   if (R.timed) endTimed(R);
   startTimed(R, { targetMin: targetMin || l.targetMin, breakEvery: breakEvery ?? l.breakEvery ?? 0, listId: l.id });
   const next = listNext(R, l) || l.items[0];
@@ -107,7 +107,7 @@ export async function readListView(root, ctx, id) {
     $('#lc').addEventListener('change', (e) => { l.targetMin = Math.min(300, Math.max(5, Math.round(Number(e.target.value) || 60))); save(); draw('#lc'); });
     $('#lb').addEventListener('change', (e) => { l.breakEvery = Number(e.target.value); save(); toast(t('common.saved')); });
     $('[data-act=start]')?.addEventListener('click', () => startList(ctx, R, l));
-    $('[data-act=delete]').addEventListener('click', () => { if (!window.confirm(t('rd.deleteListConfirm'))) return; R.lists = R.lists.filter((x) => x !== l); ctx.store.save(); ctx.go('#/read/lists'); });
+    $('[data-act=delete]').addEventListener('click', async () => { if (!await confirmAsk(t('rd.deleteListConfirm'))) return; R.lists = R.lists.filter((x) => x !== l); ctx.store.save(); ctx.go('#/read/lists'); });
     root.querySelectorAll('[data-up]').forEach((b) => b.addEventListener('click', () => { const i = Number(b.dataset.up); listMove(l, i, i - 1); save(); draw(i - 1 === 0 ? `[data-down="0"]` : `[data-up="${i - 1}"]`); announce(t('rd.moved', { n: i })); }));
     root.querySelectorAll('[data-down]').forEach((b) => b.addEventListener('click', () => { const i = Number(b.dataset.down); listMove(l, i, i + 1); save(); draw(i + 1 === l.items.length - 1 ? `[data-up="${i + 1}"]` : `[data-down="${i + 1}"]`); announce(t('rd.moved', { n: i + 2 })); }));
     root.querySelectorAll('[data-rm]').forEach((b) => b.addEventListener('click', () => {

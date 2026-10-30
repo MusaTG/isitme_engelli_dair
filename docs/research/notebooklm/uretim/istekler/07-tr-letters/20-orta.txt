@@ -1,0 +1,17 @@
+Kaynaklardaki yazım kılavuzuna göre 1 ORTA uzunlukta metin yaz.
+
+- Dil: Türkçe
+- Kategori: letters (Günlük ve mektup) · sub: memoir (Anı) · level: 2
+- Uzunluk: 1000–1800 kelime, 6–10 bölüm; her bölüm "## Ara başlık" satırıyla başlasın. Alt sınırın altına düşme.
+- Mektup ya da günlük biçimi: hitap/tarih satırı ve kapanış olsun.
+
+Biçim (YAML kullanma):
+
+### | Metnin Başlığı
+lang: tr | cat: letters | sub: memoir | tags: <3-5 etiket> | level: 2
+---
+## İlk ara başlık
+
+Paragraflar…
+
+Daha önce yazdığın metinlerden farklı bir konu seç. Atıf numarası yazma. En sonda ayrı bir satıra yalnızca "Kontrol Özeti:" yaz ve altına kelime sayısını yaz.

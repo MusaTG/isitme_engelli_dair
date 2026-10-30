@@ -5,7 +5,7 @@
 # boş dil/kategori durumu, .txt dosyasından içe aktarma, mikrofon izni İSTENMEMESİ; telefon/tablet/masaüstü.
 import asyncio, os, sys
 sys.path.insert(0, os.path.dirname(__file__))
-from run import FAKE, onboard, go
+from run import FAKE, onboard, go, AUTO_CONFIRM
 from playwright.async_api import async_playwright
 
 BASE = 'http://localhost:8080/?nosw'
@@ -30,7 +30,7 @@ async def main():
     async with async_playwright() as p:
         b = await p.chromium.launch()
         ctx = await b.new_context(viewport={'width': 390, 'height': 844})
-        await ctx.add_init_script(FAKE)
+        await ctx.add_init_script(FAKE); await ctx.add_init_script(AUTO_CONFIRM)
         await ctx.add_init_script(MIC_SPY)
         pg = await ctx.new_page()
         errs = []
@@ -119,8 +119,27 @@ async def main():
         await go(pg, '#/read/mine'); await pg.wait_for_timeout(600)
         path = os.path.abspath(f'{OUT}/aktar.txt')
         open(path, 'w', encoding='utf8').write(SAMPLE)
-        await pg.set_input_files('#pack', path); await pg.wait_for_timeout(800)
-        check('Aktarılan Deneme Metni' in await pg.inner_text('main'), '.txt dosyasından içe aktarma çalıştı')
+        # İkinci dosya: CSV (2 geçerli, 1 hatalı) — aynı anda çoklu dosya
+        csvp = os.path.abspath(f'{OUT}/aktar.csv')
+        body2 = ' '.join(f'Kahvaltı sofrasında {i}. konuşma yeni bir konuya geçti.' for i in range(1, 30))
+        body3 = ' '.join(f'Otobüs durağında {i}. kişi saati sordu ve gülümsedi.' for i in range(1, 30))
+        open(csvp, 'w', encoding='utf8').write(f'title,body,lang,cat,sub,level\n"Kahvaltı, çay ve sohbet","{body2}",tr,daily,home,1\nDurakta,"{body3}",tr,daily,errands,2\nBozuk,"çok kısa",xx,daily,home,1\n')
+        await pg.set_input_files('#pack', [path, csvp]); await pg.wait_for_selector('.imp-dlg', timeout=5000)
+        nums = await pg.evaluate("[...document.querySelectorAll('.imp-stat .n')].map(x=>+x.textContent)")
+        check(nums == [3, 0, 0, 1], f'ön izleme: 3 eklenecek, 1 hatalı ({nums})')
+        errtxt = await pg.inner_text('.imp-list')
+        check('dil geçersiz' in errtxt, 'hatalı kaydın gerekçesi gösteriliyor')
+        await pg.screenshot(path=f'{OUT}/07-import-preview.png', full_page=False)
+        await pg.click('.imp-dlg [data-a=apply]'); await pg.wait_for_timeout(500)
+        check('tamamlandı' in (await pg.inner_text('.imp-dlg h2')).lower(), 'içe aktarma onaylandı ve sonuç raporu gösterildi')
+        await pg.click('.imp-dlg [data-a=close]'); await pg.wait_for_timeout(600)
+        main_txt = await pg.inner_text('main')
+        check('Aktarılan Deneme Metni' in main_txt and 'Kahvaltı, çay ve sohbet' in main_txt, 'çoklu dosyadan (.txt + .csv) içe aktarma çalıştı')
+        # Aynı dosyayı yeniden aktar → tekrar oluşmaz
+        await pg.set_input_files('#pack', [path]); await pg.wait_for_selector('.imp-dlg', timeout=5000)
+        nums2 = await pg.evaluate("[...document.querySelectorAll('.imp-stat .n')].map(x=>+x.textContent)")
+        check(nums2 == [0, 0, 1, 0], f'aynı dosya ikinci kez: 1 atlanacak, 0 eklenecek ({nums2})')
+        await pg.click('.imp-dlg [data-a=close]')
         await pg.screenshot(path=f'{OUT}/07-import-phone.png', full_page=True)
 
 
@@ -161,6 +180,27 @@ async def main():
         stored = await pg.evaluate("localStorage.getItem('duyum.ai.v1')||''")
         backup_has_key = await pg.evaluate("JSON.stringify(window.__duyum.store.state).includes('TEST-KEY')")
         check('TEST-KEY' in stored and not backup_has_key, 'anahtar ayrı saklanıyor, uygulama verisine/yedeğe girmiyor')
+
+
+        # Okuma durumu seçimi kaydırınca güncelleniyor (v5)
+        await pg.set_viewport_size({'width': 1440, 'height': 900})
+        await go(pg, '#/read/text/tr-novel-090'); await pg.wait_for_timeout(800)
+        await pg.mouse.move(700, 450); await pg.mouse.wheel(0, 1600); await pg.wait_for_timeout(3500)
+        stv = await pg.input_value('#ri-status')
+        check(stv == 'reading', f'okuma durumu seçimi konumla eşitlendi ({stv})')
+
+        # Bozuk kayıt: yedekten devam, bozuk veri silinmez, bildirim gösterilir (v5)
+        name_before = await pg.evaluate("window.__duyum.store.activeProfile().name")
+        # Uygulama sayfadan çıkarken kayıt yaptığı için bozulmayı yeni sayfa yüklenirken, betiklerden önce taklit ediyoruz.
+        await pg.add_init_script("if (sessionStorage.getItem('corruptOnce') === '1') { sessionStorage.removeItem('corruptOnce'); localStorage.setItem('duyum.v1', '{bozuk-veri'); }")
+        await pg.evaluate("sessionStorage.setItem('corruptOnce', '1')")
+        await pg.reload(); await pg.wait_for_timeout(1200)
+        banner = await pg.inner_text('#storage-warn') if await pg.locator('#storage-warn').is_visible() else ''
+        name_after = await pg.evaluate("window.__duyum.store.activeProfile()?.name")
+        qkeys = await pg.evaluate("Object.keys(localStorage).filter(k=>k.startsWith('duyum.v1.corrupt.'))")
+        check(bool(banner) and name_after == name_before and len(qkeys) == 1, f'bozuk kayıtta yedekten devam edildi, bozuk veri saklandı ({name_after}, {len(qkeys)})')
+        await pg.click('#storage-warn [data-sb=ok]'); await pg.wait_for_timeout(300)
+        check(not await pg.locator('#storage-warn').is_visible(), 'kurtarma bildirimi kapatılabildi')
 
         mic = await pg.evaluate('window.__micCalls')
         check(mic == 0, f'mikrofon izni/erişimi hiç istenmedi ({mic})')

@@ -1,0 +1,128 @@
+### | Şirket İçi Sıfır Atık ve Çevre Dostu Ofis Girişimi Duyurusu
+lang: tr | cat: work | sub: email | tags: e-posta, çevre, sürdürülebilirlik, ofis, duyuru | level: 1
+---
+Değerli Çalışma Arkadaşlarım,
+
+Şirketimizin sürdürülebilir çevre vizyonu, doğayı koruma sorumluluğu, kurumsal sosyal sorumluluk ilkeleri, gelecek nesillere daha yaşanabilir bir dünya bırakma hedefi ve karbon ayak izimizi azaltma stratejileri doğrultusunda, merkez binamızda, fabrika tesislerimizde, teknik alanlarımızda, lojistik depolarımızda ve tüm bölge temsilciliklerimizde hayata geçireceğimiz 'Sıfır Atık ve Yeşil Ofis Projesi' önümüzdeki pazartesi günü itibarıyla resmi olarak başlatılacaktır. İşbu bilgilendirme e-postası, yeni çevre politikamızın temel esaslarını, atık yönetim kurallarını, enerji tasarrufu önlemlerini ve tüm çalışanlarımızın günlük mesai içinde uygulamakla yükümlü olduğu pratik adımları detaylandırmak üzere kaleme alınmıştır.
+
+Projemiz kapsamında merkez binamızın tüm katlarında, yemekhane alanlarında, kafeteryalarda ve toplantı odalarında tek kullanımlık plastik bardak, tabak, çatal, karıştırıcı ve pipet kullanımı tamamen sonlandırılmıştır. Tüm çalışanlarımıza özel olarak hazırlanan paslanmaz çelik matara ve seramik kupa setleri Şirket İdari İşler birimi tarafından masalarınıza tek tek dağıtılmıştır. Gün içindeki çay, kahve ve su tüketimlerinizde bu kişisel kapları kullanmanız, plastik ve kâğıt israfını önlemek açısından büyük bir önem, değer ve öncelik taşımaktadır.
+
+Katlarımızdaki bireysel çöp kovaları tamamen kaldırılmış olup, bunların yerine her katta dört ayrı kategoriden oluşan akıllı geri dönüşüm istasyonları kurulmuştur. Atıklarınızı türlerine göre doğru kutulara atmanız gerekmektedir:
+- Mavi Kutular: Kâğıt, karton, dergi, broşür ve gazete atıkları
+- Sarı Kutular: Plastik ambalajlar, pet şişeler ve kapaklar
+- Gri Kutular: Metal kutular, alüminyum ve ambalaj atıkları
+- Yeşil Kutular: Cam şişe, kavanoz ve cam ambalaj atıkları
+
+Ayrıca enerjimizi verimli kullanmak amacıyla mesai bitiminde bilgisayarların, monitörlerin, yazıcıların ve klimaların tamamen kapatılması, ortak alan aydınlatmalarında sensörlü LED sistemlerin korunması hususında hassasiyet göstermenizi rica ederiz. Dijitalleşme hamlemiz doğrultusunda toplantılarda fiziki evrak basımı kaldırılmış olup tüm dokümanlar tablet ve bilgisayarlar üzerinden paylaşılacaktır.
+
+Doğaya saygılı, temiz, yeşil ve sürdürülebilir bir çalışma ortamını birlikte yaratmak adına göstereceğiniz ilginiz, duyarlılığınız, kişisel çabanız, hassasiyetiniz ve kıymetli desteğiniz için şimdiden çok teşekkür ederiz.
+
+Saygılarımla,
+Deniz Arslan
+Çevre Yönetimi ve İdari İşler Müdürü
+Lider Sürdürülebilir Teknolojiler A.Ş.
+
+### | Müşteri Deneyimi ve Satış Sonrası Hizmetler Komitesi Toplantı Tutanağı
+lang: tr | cat: work | sub: minutes | tags: toplantı, tutanak, müşteri, hizmet, kalite | level: 2
+---
+Toplantı Tarihi: 25 Ekim 2026
+Toplantı Saati: 10.30 - 13.00
+Toplantı Yeri: B Blok 3 Nolu Müşteri İlişkileri Salonu
+Toplantı Başkanı: Hande Yılmaz (Müşteri Deneyimi Direktörü)
+Not Tutan: Cenk Şahin (Kalite Güvence Uzmanı)
+
+Katılımcılar:
+- Hande Yılmaz (Müşteri Deneyimi Direktörü)
+- Cenk Şahin (Kalite Güvence Uzmanı)
+- Nihal Arslan (Çağrı Merkezi Yöneticisi)
+- Hakan Demir (Lojistik ve Sevkiyat Müdürü)
+- Gamze Yıldız (Dijital Pazarlama Sorumlusu)
+
+Gündem Maddeleri:
+1. Üçüncü çeyrek müşteri şikâyet verilerinin, Müşteri Tavsiye Skoru (NPS) sonuçlarının ve çağrı merkezi performans göstergelerinin incelenmesi
+2. Ürün kurulum ve yetkili servis süreçlerinde yaşanan bölgesel gecikmelerin kök neden analizi ve çözüm önerilerinin değerlendirilmesi
+3. Canlı destek hattındaki yapay zekâ sohbet asistanının (Chatbot) yanıt doğruluğunun ve müşteri memnuniyetine etkisinin görüşülmesi
+4. Müşteri sadakat programı yeniliklerinin, özel indirim kuponlarının ve hediye puan kurgularının onaylanması
+
+Görüşmeler ve Alınan Kararlar:
+Toplantı, Hande Yılmaz'ın açılış konuşması ve müşteri memnuniyetini şirket vizyonunun merkezine koyan stratejik hedefleri özetlemesiyle resmi olarak başladı. İlk gündem maddesi kapsamında, üçüncü çeyrek Müşteri Net Tavsiye Skoru (NPS) sonuçları detaylıca değerlendirildi. NPS puanımızın geçen çeyreğe göre 4 puan artarak 74 seviyesine yükseldiği, ancak yetkili servis kurulum süreleriyle ilgili şikâyetlerin toplam başvurular içinde %32'lik önemli bir paya sahip olduğu tespit edildi.
+
+İkinci gündem maddesinde Hakan Demir, yoğun kampanya dönemlerinde yetkili servis araçlarının yetersiz kaldığı bölgeleri aktardı. Kurulum sürelerini kısaltmak ve bölgesal alternatifler yaratmak amacıyla iki yeni bağımsız teknik servis acentesiyle deneme sözleşmesi imzalanmasına oy birliğiyle karar verildi.
+
+Üçüncü gündem maddesinde Nihal Arslan, canlı destek Chatbot yazılımının müşteri temsilcilerinin üzerindeki rutin çağrı yükünü %55 oranında hafiflettiğini belirtti. Chatbot bilgi bankasının yeni ürün SSS verileriyle ve güncel kargo bilgi akışlarıyla sürekli güncellenmesine karar verildi.
+
+Alınan Eylem Kararları:
+1. Yeni teknik servis firmalarıyla entegrasyon testlerinin tamamlanması (Sorumlu: Hakan Demir - Son Tarih: 12 Kasım)
+2. Chatbot soru-cevap veri tabanının güncellenmesi (Sorumlu: Gamze Yıldız - Son Tarih: 5 Kasım)
+3. Çağrı merkezi personeline yönelik kriz iletişimi ve empati eğitiminin planlanması (Sorumlu: Cenk Şahin - Son Tarih: 1 Kasım)
+
+Bir sonraki takip toplantısı 15 Kasım tarihinde aynı salonda gerçekleştirilecektir.
+
+### | Kurumsal Bilgi Güvenliği ve Siber Dayanıklılık Denetim Raporu
+lang: tr | cat: work | sub: report | tags: rapor, siber, güvenlik, denetim, bilgi | level: 3
+---
+Giriş ve Stratejik Değerlendirme:
+Bu kapsamlı teknik denetim raporu, şirketimizin merkez veri merkezinde, bulut sunucu altyapısında, idari bilgisayar ağlarında, mobil cihaz yönetim sistemlerinde ve bölgesal veri hatlarında 2026 yılı dördüncü çeyreği boyunca gerçekleştirilen siber güvenlik denetimlerini, sızma testi (penetrasyon) sonuçlarını, veri sızıntısı risk analizlerini, yetkilendirme kontrollerini ve KVKK standartlarına uyum durumunu detaylıca incelemek üzere Bilgi Güvenliği Komitesi ve bağımsız denetim uzmanlarımız tarafından titizlikle hazırlanmıştır.
+
+Mevcut Siber Tehdit Durumu ve Test Analizleri:
+Dönem boyunca gerçekleştirilen bağımsız dış ve iç ağ sızma testlerinde, şirketimizin ana güvenlik duvarlarının ve kimlik doğrulama protokollerinin dış kaynaklı kaba kuvvet (brute-force) ve ddos saldırılarına karşı yüksek dayanıklılık sergilediği teyit edilmiştir. Ancak iç ağ kullanıcı yetkilendirmelerinde ve bazı eski sunucu servislerinde mikro düzeyde güvenlik açıklarının bulunduğu tespit edilmiş, söz konusu teknik riskler için derhal ve kararlılıkla kapatma yamaları uygulanmıştır. Ayrıca veri sızıntısı önleme (DLP) yazılımlarının güncellenmesi gerektiği raporda açıkça, net olarak ve önemle vurgulanmıştır.
+
+Siber Güvenlik Göstergeleri ve İstatistikler:
+- Engellenen Zararlı E-posta ve Phishing Sayısı: Yıllık bazda 45.000 adet şüpheli e-posta otomatik olarak karantinaya alınmıştır.
+- İki Faktörlü Kimlik Doğrulama (2FA) Katılım Oranı: Kurumsal hesaplarda 2FA kullanımı %100 seviyesine çıkarılmıştır.
+- Personel Farkındalık Eğitimleri: 500 çalışanımıza oltama (phishing) simülasyonları uygulanmış, doğru bildirim oranı %92'ye yükselmiştir.
+
+Riskler ve Öncelikli İyileştirme Alanları:
+1. Uzaktan çalışan personelin kullandığı ev internet ağlarında VPN kullanım zorunluluğunun daha katı denetlenmesi ve güvenlik kontrollerinin sıklaştırılması gerekmektedir.
+2. Üçüncü taraf tedarikçi yazılımlarının şirket ağına erişim yetkilerinin 'En Az Yetki İlkesi' çerçevesinde daraltılması planlanmaktadır.
+3. Eski veritabanı sunucularındaki şifreleme algoritmalarının yenilenmesi, anahtar yönetimi sistemlerinin güncellenmesi, erişim loglarının anlık izlenmesi ve sistem yedeklerinin izole bir ortamda saklanması aciliyet ve önem taşımaktadır.
+
+Sonuç ve Öneriler:
+Şirketimizin siber güvenlik altyapısı genel olarak uluslararası ISO 27001 standartlarına tam uyumlu olup, belirlenen küçük teknik iyileştirmelerin, güvenlik yamalarının ve güncellemelerin önümüzdeki ay içinde eksiksiz tamamlanmasıyla kurumsal siber dayanıklılığımız en üst seviyeye taşınacaktır.
+
+### | Yapay Zekâ Destekli Akıllı Bütçe ve Finansal Analiz Portalı Projesi
+lang: tr | cat: work | sub: project | tags: proje, finans, bütçe, yapay zekâ, otomasyon | level: 2
+---
+Proje Tanımı ve Amacı:
+Yapay Zekâ Destekli Akıllı Bütçe ve Finansal Analiz Portalı Projesi, şirketimizin tüm departmanlarında, bölge müdürlüklerinde ve yurt dışı temsilciliklerinde bütçe hazırlama süreçlerini otomatikleştirmek, nakit akış tahminlerini gerçek zamanlı hale getirmek, harcama sapmalarını erken aşamada tespit etmek, finansal veri şeffaflığını artırmak ve üst yönetimin stratejik karar alma mekanizmalarını güçlendirmek amacıyla tasarlanmış kapsamlı bir finansal teknoloji dönüşüm hamlesidir. Projenin temel amacı; manuel Excel tabloları ve karmaşık onay süreçleri yerine, makine öğrenmesi algoritmalarıyla çalışan, çift yönlü ERP entegrasyonuna sahip, esnek, hızlı, güvenilir ve güvenli bir finansal yönetim platformunu faaliyete geçirmektir.
+
+Proje Kapsamı ve Uygulama Adımları:
+1. Finansal Veri Modeli ve ERP Entegrasyonu: Şirketimizin geçmiş beş yıllık muhasebe kayıtlarının, gelir-gider tablolarının, borç-alacak dengesinin ve bütçe gerçekleşme verilerinin yapay zekâ modeline aktarılması ve entegrasyonu.
+2. Otomatik Tahminleme ve Nakit Akış Modülü: Gelir ve gider kalemlerini piyasa koşullarına, döviz kurlarına ve dönemsel satış verilerine göre anlık tahminleyen yapay zekâ algoritmasının kurulması.
+3. Departman Bazlı Bütçe Onay ve Takip Arayüzü: Birim yöneticilerinin kendi bütçe taleplerini dijital ortamda girebileceği, harcama limitleri aşıldığında sistemin otomatik uyarı vereceği akıllı kontrol panelinin oluşturulması.
+4. Anlık Görsel Raporlama ve Dashboard Sistemi: Finans direktörleri ve yönetim kurulu için kârlılık, maliyet ve nakit akış grafikleri sunan özelleştirilebilir gösterge panelleri.
+
+Beklenen Faydalar ve Bütçe Projeksiyonu:
+Projenin faaliyete geçmesiyle birlikte yıllık bütçe hazırlama süreleri 2 aydan 10 güne düşecek, finansal raporlama hataları %95 oranında azalacaktır. Şirketimizin finansal operasyonel verimliliğinde %35'lik somut bir artış hedeflenmektedir.
+
+Projenin toplam yatırım bütçesi 1.050.000 TL olarak belirlenmiş olup, yatırımın geri dönüş süresi (ROI) 14 ay olarak hesaplanmıştır.
+
+Proje Takvimi:
+- Faz 1 (Veri Analizi ve Model Tasarımı): 1 Kasım - 30 Kasım (Sorumlu: Finans ve Veri Ekibi)
+- Faz 2 (Yazılım Geliştirme ve ERP Entegrasyonu): 1 Aralık - 15 Ocak (Sorumlu: BT Yazılım Ekibi)
+- Faz 3 (Test ve Canlıya Geçiş): 15 Ocak - 1 Şubat (Sorumlu: Finans Direktörü)
+
+### | Şirket İçi Açık Ofis Etik Kuralları ve Çalışma Alanı Düzeni
+lang: tr | cat: work | sub: workplace | tags: iş yeri, ofis, etik, düzen, kültür | level: 1
+---
+Değerli Çalışma Arkadaşlarım,
+
+Şirketimizin sürekli büyüyen, gelişen, yenilenen, kurumsallaşan ve dinamikleşen organizasyon yapısında tüm çalışanlarımıza daha ferah, konforlu, huzurlu, saygılı, verimli, ilham verici, düzenli, motive edici ve profesyonel bir çalışma ortamı sunabilmek amacıyla güncellenen Açık Ofis Etik Kuralları ve Çalışma Alanı Düzeni Kılavuzu bilgilerinize sunulmuştur. Birlikte mesai harcadığımız ortak alanlarda karşılıklı saygıyı, açık iletişimi, güveni, yardımlaşmayı ve yüksek çalışma motivasyonunu korumak hepimizin ortak sorumluluğudur.
+
+Açık Ofis Alanlarında Ses Seviyesi ve Telefon Görüşmeleri:
+Açık ofis düzeninde çalışanlarımızın odaklanma sürelerini korumak ve gürültü kirliliğini önlemek en temel önceliğimizdir. Bu doğrultuda dikkate alınması gereken hususlar şunlardır:
+1. Telefon Görüşmeleri ve Kulaklık Kullanımı: Şirket içi veya dışı telefon görüşmelerinde ses tonuna özen gösterilmeli, 3 dakikayı aşan uzun görüşmeler için katlarda bulunan ses yalıtımlı telefon kulübeleri tercih edilmelidir. Müzik dinlerken veya eğitim videoları izlerken mutlaka kulaklık kullanılmalıdır.
+2. Masa Başı Sohbetleri ve Toplantılar: Çalışma masalarında gerçekleştirilen anlık fikir alışverişleri kısa tutulmalı, grup içi tartışmalar ve detaylı proje değerlendirmeleri için katlardaki küçük toplantı odaları rezerve edilmelidir.
+
+Çalışma Masası Düzeni, Hijyen ve Yemek Yemek Kuralları:
+- Temiz masa (Clean Desk) politikamız gereği, mesai bitiminde masalarda kişisel evrak, kirlenmiş fincan, bardak veya yiyecek atığı bırakılmaması gerekmektedir.
+- Çalışma masalarında koku yayan sıcak yemeklerin tüketilmesi kesinlikle yasaktır. Tüm yemekler ve ağır ikramlar yalnızca kat mutfaklarında ve ana yemekhanede yenmelidir.
+- Ortak mutfak alanlarında kullanılan mikrodalga fırın, kahve makinesi ve buzdolapları kişisel kullanım sonrası temiz tutulmalı, çöpler türlerine göre ayrıştırılarak atılmalıdır.
+
+Ayrıca ofis içi kişisel eşyaların emniyeti ve güvenliği için kilitli çekmecelerin ve dolapların düzenli kullanılması, mesai bitiminde klimaların, bilgisayarların ve ışıkların tamamen kapatılması gerekmektedir. Bölüm içi iletişimin güçlendirilmesi amacıyla haftalık masaüstü temizlik denetimleri gerçekleştirilecektir. Daha keyifli, konforlu, verimli, samimi, saygılı, neşeli, dinamik ve huzurlu bir çalışma atmosferini birlikte yaşatmak adına göstereceğiniz özen, hassasiyet, dikkat, duyarlılık ve iş birliği için tüm ekibimize içtenlikle teşekkür ederiz.
+
+İdari İşler ve İnsan Kaynakları Yönetimi
+
+Kontrol Özeti:
+İstenen Sayı: 5
+Üretilen Sayı: 5

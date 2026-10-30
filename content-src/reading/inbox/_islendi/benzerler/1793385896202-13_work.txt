@@ -1,0 +1,20 @@
+### | Uluslararası Tedarik Zinciri ve Lojistik Yönetimi Güncellemesi
+lang: tr | cat: work | sub: email | level: 3 | tags: e-posta, tedarik, lojistik, yönetim, duyuru
+---
+Sayın Bölge Müdürleri, Kıdemli Operasyon Sorumluları ve Değerli Mesai Arkadaşlarım,
+
+Şirketimizin küresel pazarlardaki büyüme hedefleri, operasyonel esnekliği, sürdürülebilirlik ilkeleri, iş süreçleri kalitesi, kurumsal verimliliği, yüksek hizmet standartları, müşteri memnuniyet ilkeleri ve güçlü rekabet yapısını koruma vizyonu doğrultusunda, uluslararası tedarik zinciri ve lojistik yönetimi süreçlerimizi uluslararası standartlara tam uyumlu hale getirmek amacıyla Kapsamlı Tedarik Zinciri Politika ve Prosedür Güncellemesi gerçekleştirilmiştir. İşbu bilgilendirme e-postası, yönetim kurulumuzun oy birliğiyle aldığı karar doğrultusunda yürürlüğe giren yeni çalışma ilkelerini, risk yönetim esaslarını, tedarikçi değerlendirme kriterlerini, kalite standartlarını ve tüm birimlerin uymakla yükümlü olduğu operasyonel süreçleri detaylandırmak üzere kaleme alınmıştır.
+
+Son dönemde küresel lojistik hatlarında yaşanan bölgesel dalgalanmalar, gümrük mevzuatı değişiklikleri, liman yoğunlukları ve hammadde tedarik aksamaları, şirketimizin lojistik altyapısını daha esnek, çok merkezli, dayanıklı ve proaktif bir yapıda yeniden kurgulamasını zorunlu kılmaktadır. Bu doğrultuda, kritik hammadde ve yedek parça tedarikinde tek bir coğrafi bölgeye veya tedarikçiye bağımlılığı azaltmak amacıyla 'Çoklu Kaynak Stratejisi' (Multi-Sourcing) devreye alınmıştır. Her bir ana hammadde kalemi için en az iki alternatif yerel veya bölgesel tedarikçi ile çerçeve sözleşmeler imzalanması hedeflenmektedir.
+
+Yeni politika kapsamında tüm birimlerimizin takip etmesi gereken acil eylem adımları aşağıda sırasıyla belirtilmiştir:
+- Risk Haritasının Güncellenmesi: Tüm bölge müdürlükleri, mevcut tedarikçilerinin finansal dayanıklılık, lojistik kapasite, üretim kalitesi ve jeopolitik risk analizlerini kapsayan değerlendirme raporlarını önümüzdeki 15 gün içinde sistem üzerinden güncellenmelidir.
+- Emniyet Stok Seviyelerinin Revizyonu: Bölgesel depolarımızda tutulan kritik malzeme emniyet stok miktarları, iki haftalık üretim ihtiyacını kesintisiz karşılayacak seviyeye yükseltilmelidir.
+- Dijital Takip ve Erken Uyarı Entegrasyonu: Lojistik sevkiyatlarının anlık konum ve durum takibi için yeni geliştirdiğimiz uydu destekli takip yazılımı tüm sevkiyat hatlarında aktif kullanılacaktır.
+
+Yeni politika dokümanının tamamına ve detaylı uygulama rehberine kurumsal intranet portalımız üzerinden dilediğiniz zaman kolayca ulaşabilirsiniz. Tüm yöneticilerimizin ekiplerini bu kurallar hususunda bilgilendirmesini ve süreçleri titizlikle takip etmesini önemle rica ederiz.
+
+Saygılarımla,
+Ahmet Yılmaz
+Tedarik Zinciri ve Lojistik Direktörü
+Lider Endüstri A.Ş.

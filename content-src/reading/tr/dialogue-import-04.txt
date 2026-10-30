@@ -1,0 +1,284 @@
+### 41 | Şirket İçi Oryantasyon ve Bütçe Toplantısı
+sub: meeting | level: 1 | tags: toplantı, oryantasyon, bütçe, şirket, plan
+---
+Ahmet: Günaydın Banu Hanım, şirketimizin yeni dönem oryantasyon ve departman bütçe planlama toplantısına hoş geldiniz.
+Banu: Günaydın Ahmet Bey, davetiniz için çok teşekkür ederim. Yeni çeyrek bütçe taslağımızı ve eğitim takvimimizi eksiksiz hazırladım.
+Ahmet: Harika! Öncelikli olarak yeni işe başlayan çalışma arkadaşlarımızın oryantasyon süreçlerini ve eğitim bütçelerini ele alalım.
+Banu: Yeni katılan dört arkadaşımız için iki haftalık yoğunlaştırılmış teknik ve kurumsal adaptasyon eğitimi planladık.
+Ahmet: Bu iki haftalık eğitim süreci boyunca departman dışından uzman eğitmen desteği almamız gerekecek mi acaba?
+Banu: Hayır Ahmet Bey, kendi kıdemli uzmanlarımız ve birim yöneticilerimiz eğitimleri iç kaynaklarla üstlenecekler. Böylece eğitim bütçesinden önemli oranda tasarruf sağlamış olacağız.
+Ahmet: Çok akılcı ve verimli bir planlama olmuş Banu Hanım. Peki oryantasyon sürecinde kullanılacak dökümanlar ve dijital eğitim materyalleri hazır mı?
+Banu: İnsan kaynakları ekibimiz tüm sunumları, rehber kitapçıkları ve dijital platform erişim tanımlamalarını dün itibarıyla tamamladı.
+Ahmet: Mükemmel! Bütçe tarafında ilave donanım veya bilgisayar alımı için bir ödenek ayırmamız gerekti mi?
+Banu: Bilgi işlem departmanımız mevcut yedek donanımları yenileyerek yeni arkadaşlarımıza tahsis etti. Herhangi bir ek cihaz bütçesi talebimiz bulunmuyor.
+Ahmet: Bütçe disiplinine gösterdiğiniz bu özen ve titizlik için sizi ve ekibinizi yürekten tebrik ederim Banu Hanım.
+Banu: Çok teşekkür ederim Ahmet Bey. Şirketimizin tasarruf tedbirlerine sadık kalarak son derece verimli bir çalışma ortamı kurgulamaya gayret ediyoruz.
+Ahmet: Peki yeni personelin performans değerlendirme ve geri bildirim toplantılarını hangi aralıklarla yapmayı kurguladınız?
+Banu: İlk ayın sonunda birinci değerlendirme, üçüncü ayın sonunda ise deneme süresi sonu genel performans görüşmesini gerçekleştireceğiz.
+Ahmet: Bu periyodik görüşmeler personelin adaptasyonunu ölçmek açısından son derece faydalı olacaktır.
+Banu: Kesinlikle Ahmet Bey, böylece olası uyum sorunlarını erkenden tespit edip gerekli mentörlük desteğini sunabileceğiz.
+Ahmet: Mükemmel! O zaman oryantasyon programımızı önümüzdeki pazartesi günü resmi olarak başlatıyoruz. Toplantı notlarını tüm ekibe ileteceğim.
+Banu: Ben de eğitim takvimini ilgili birimlere hemen e-posta ile servis ediyorum. İyi çalışmalar dilerim Ahmet Bey.
+Ahmet: Çok teşekkürler Banu Hanım, tüm ekibe kolay gelsin.
+
+### 42 | Müşteri Hizmetleri Kargo Takip Görüşmesi
+sub: phone | level: 2 | tags: telefon, kargo, takip, müşteri, hizmetler
+---
+Deniz: İyi günler, Hızlı Kargo Müşteri Hizmetleri Merkezi, ben Deniz. Size nasıl yardımcı olabilirim?
+Sibel: Merhaba Deniz Hanım. İki gün önce internetten sipariş ettiğim kargo paketimin teslimat durumu hakkında bilgi almak istiyordum.
+Deniz: Tabii ki Sibel Hanım. Gönderi durumunuzu sistemimizden kontrol edebilmem için takip numaranızı veya kimlik numaranızı alabilir miyim?
+Sibel: Kargo takip numaram HZ-90421. Kayıtlı alıcı ismi Sibel Yılmaz.
+Deniz: Hemen sistemimizden sorguluyorum Sibel Hanım... Evet, gönderiniz bu sabah dağıtım şubemize ulaşmış ve kuryemize teslim edilmiştir.
+Sibel: Harika bir haber! Peki paketin adresime teslim edilmesi yaklaşık olarak günün hangi saatlerinde gerçekleşir acaba?
+Deniz: Dağıtım kuryemiz şu an sizin bulunduğunuz mahallede teslimat yapmaktadır. Pakbiniz saat iki ile dört arasında adresinizde olacaktır.
+Sibel: Anladım. Teslimat sırasında evde bulunmamam halinde paketi komşuma veya bina güvenliğine bırakma imkânınız var mıdır?
+Deniz: Evet Sibel Hanım, kuryemiz adresinize geldiğinde sizi arayacaktır. Onay vermeniz durumunda paketi komşunuza veya güvenliğe teslim edebiliriz.
+Sibel: Çok sevindim. Teslimat adresinde herhangi bir değişiklik yapmak istersek bunu telefon üzerinden gerçekleştirebiliyor muyiz?
+Deniz: Güvenlik prosedürleri gereği adres değişikliği taleplerini sadece sistemde kayıtlı cep telefonunuza göndereceğimiz onay kodu ile yapabiliyoruz.
+Sibel: Mevcut teslimat adresim tamamen doğrudur, değişiklik yapmama gerek yok Deniz Hanım.
+Deniz: Çok güzel Sibel Hanım. Teslimat anında sms ile bilgilendirme kodunuz da cep telefonunuza anlık olarak gönderilecektir.
+Sibel: Kuryeniz adrese gelmeden önce cep telefonumdan arama yapacak mı acaba?
+Deniz: Evet Sibel Hanım, dağıtım kuryelerimiz adrese varmadan en az on dakika önce alıcıyı telefonla arayarak adreste bulunup bulunmadığını teyit etmektedir.
+Sibel: Bu uygulama müşteri açısından gerçekten çok büyük kolaylık sağlıyor.
+Deniz: Müşteri memnuniyetini en üst düzeyde tutmak için süreçlerimizi sürekli iyileştiriyoruz.
+Sibel: Verdiğiniz detaylı, açıklayıcı ve yardımcı bilgiler için çok teşekkür ederim Deniz Hanım.
+Deniz: Rica ederim Sibel Hanım, paketinizin sorunsuz ulaşmasını diler, iyi ve sağlıklı günler dilerim!
+Sibel: İyi günler Deniz Hanım, hoşça kalın.
+
+### 43 | Akademik Danışmanlık ve Ders Kaydı
+sub: school | level: 3 | tags: okul, üniversite, ders, danışman, kayıt
+---
+Kemal: Merhaba Prof. Dr. Hasan Bey, yeni akademik dönem ders seçimi ve tez çalışmam konusunda danışmanlık görüşmesi için gelmiştim.
+Hasan: Merhaba Kemal, hoş geldin. Geçen dönemki akademik başarı grafiğini ve ders notlarını inceledim, gayet başarılı bir dönem geçirmissin.
+Kemal: Çok teşekkür ederim hocam. Bu dönem uzmanlaşmak istediğim veri bilimi ve yapay zekâ alanında seçmeli dersler almak istiyorum.
+Hasan: Seçimlerin uzmanlaşma hedefin açısından son derece isabetli Kemal. Ancak teorik derslerin yanında mutlaka uygulamalı veri analizi projesi dersini de müfredatına dâhil etmelisin.
+Kemal: Uygulamalı proje dersinin kontenjanı sistemde kapalı görünüyordu hocam. Kontenjan artırımı için dilekçe vermem gerekir mi?
+Hasan: Kontenjan konusunda alan öğrencilerine öncelik tanıyoruz. Öğrenci işleri sisteminden sana özel kontenjan onayını sistem üzerinden hemen tanımlıyorum.
+Kemal: Çok sağ olun hocam. Peki yüksek lisans tez konumun belirlenmesi hususunda önereceğiniz spesifik bir çalışma alanı var mıdır acaba?
+Hasan: Son dönemde derin öğrenme ve doğal dil işleme algoritmalarının sağlık sektöründeki uygulamaları büyük önem kazandı. Bu alanda son derece nitelikli bir tez hazırlayabilirsin.
+Kemal: İlgili literatür taramasına bu haftadan itibaren başlayıp ilk taslak çalışma planımı önümüzdeki hafta size sunabilirim.
+Hasan: Harika bir çalışma disiplini Kemal. Hazırlayacağın literatür özetini ve metot taslağını e-posta ile bana iletirsen detaylıca inceleyip sana geri bildirim veririm.
+Kemal: Ayrıca tez yazım sürecinde uluslararası indeksli dergilerde makale yayımlama şartı bulunuyor mu değerli hocam?
+Hasan: Tez savunmasına girmeden önce en az bir bildiri veya hakemli dergi makalesi sunman akademik kariyerin açısından büyük avantaj sağlayacaktır.
+Kemal: Bu konuda da değerli rehberliğinize uygun olarak makale taslağımı titizlikle hazırlayacağım.
+Hasan: Mükemmel! Düzenli haftalık toplantılarla ilerlememizi kontrol ederiz.
+Kemal: Yol gösterici değerli tavsiyeleriniz, ilginiz ve akademik desteğiniz için çok teşekkür ederim Hasan Hocam.
+Hasan: Rica ederim Kemal, akademik çalışmalarında ve yeni dönemde başarılar dilerim.
+Kemal: İyi günler dilerim hocam, görüşmek üzere.
+
+### 44 | Şehir Merkezinde Tarihi Müzeye Yol Tarifi
+sub: directions | level: 2 | tags: yol tarifi, müze, şehir, cadde, ulaşım
+---
+Caner: Afedersiniz Beyefendi, kentin tarihi etnografya müzesine ve saat kulesine giden en kısa yürüyüş yolunu tarif edebilir misiniz?
+Metin: Merhaba! Tabii ki memnuniyetle yardımcı olurum. Şu an kentin ana meydanındasınız ve etnografya müzesi buradan yürüyerek yaklaşık sekiz dakika mesafededir.
+Caner: Harika! Telefonumun şarjı bittiği için harita uygulamasına bakamadım. Hangi caddeden ne tarafa doğru yürümem gerekiyor?
+Metin: Şu an karşınızda görünen çiçekli geniş bulvar boyunca hiç sapmadan dosdoğru yaklaşık üç yüz metre kadar ilerleyin.
+Caner: Bulvarın sonundaki büyük tarihi Hükümet Konağı binasının olduğu yere kadar mı yürüyeceğim?
+Metin: Evet, tam olarak oraya kadar yürüyeceksiniz. Hükümet Konağı’nın önüne geldiğinizde sağa doğru ayrılan taş döşeli dar sokağa sapın.
+Caner: Taş döşeli sokağa saptıktan sonra herhangi bir meydan veya yol ayrımı karşıma çıkacak mı?
+Metin: O nostaljik sokak boyunca yürürken sol tarafınızda tarihi ahşap konakları ve antikacıları göreceksiniz. Sokak bitiminde küçük bir çınar meydanına çıkacaksınız.
+Caner: Çınar meydanına ulaştığımda etnografya müzesi binası tam olarak nerede kalıyor acaba?
+Metin: Meydana ulaştığınızda tarihi etnografya müzesinin görkemli taş binası ve geniş avlusu tam karşınızda belirecektir.
+Caner: Müze avlusunun hemen yanında veya yakınında tarihi saat kulesi de yer alıyor mu?
+Metin: Evet, saat kulesi müze binasının hemen arka bahçesindedir. İki tarihi yapıyı aynı alan içinde rahatlıkla gezebilirsiniz.
+Caner: Tarifiniz son derece net, açık ve anlaşılır oldu Metin Bey. Müzenin girişinde herhangi bir bilet sırası oluyor mu?
+Metin: Öğleden sonra saatlerinde genelde sakin olur, müze kartınız varsa doğrudan sıra beklemeden giriş yapabilirsiniz.
+Caner: Müze kartım yanımda mevcut, harika bir kolaylık olacak.
+Metin: Çok güzel, müze bahçesindeki tarihi çay bahçesinde de kısa bir mola vermenizi öneririm.
+Caner: Nazik yardımınız ve detaylı tarifiniz için çok teşekkür ederim Metin Bey.
+Metin: Rica ederim Caner Bey, şimdiden keyifli ve güzel bir müze gezisi dilerim!
+Caner: Sağ olun, iyi günler!
+
+### 45 | Mahalle Kitabevinde Yeni Komşu ile Tanışma
+sub: intro | level: 1 | tags: tanışma, komşu, kitabevi, mahalle, sohbet
+---
+Merve: Merhaba, iyi günler! Sizi son birkaç gündür mahallemizdeki bu şirin kitabevinde görünce selam vermek istedim. Ben Merve.
+Selin: Merhaba Merve Hanım! Ben de Selin. Çok memnun oldum. Mahallenize ve bu sokağa daha yeni taşındım.
+Merve: Mahallemize hoş geldiniz Selin Hanım! Ben beş yıldır üst sokaktaki sarı apartmanda oturuyorum. Bir ihtiyacınız olursa lütfen çekinmeyin.
+Selin: Çok naziksiniz Merve Hanım, çok teşekkür ederim. Mahallemizin bu kadar sakin, yeşil ve komşuluk ilişkilerinin sıcak olması beni çok mutlu etti.
+Merve: Evet, mahallemiz gerçekten şehir karmaşasından uzak, huzurlu ve samimi bir yerdir. Kitabevimizin sahibi Ali Bey de çok tatlı bir insandır.
+Selin: Evet, Ali Bey geldiğim ilk gün bana harika bir dibek kahvesi ikram etti ve mahalle hakkında çok güzel bilgiler verdi.
+Merve: Sizi elinizde tarih romanıyla görünce sormak istedim, tarihi biyografiler okumayı sever misiniz?
+Selin: Evet, özellikle yakın dönem tarih araştırmalarını ve edebi biyografileri okumaktan büyük keyif alırım.
+Merve: Ne kadar güzel! Bizim mahallemizde her ayın son hafta sonu toplanan küçük bir kitap okuma kulübümüz var.
+Selin: Gerçekten mi? Böyle bir topluluğun olması harika bir tesadüf oldu. Ben de katılmayı çok isterim.
+Merve: Kitap kulübümüzde her ay seçtiğimiz ortak bir kitabı okuyup burada kahve eşliğinde detaylıca sohbet ederiz.
+Selin: Kulağa son derece keyifli, geliştirici ve entelektüel bir etkinlik gibi geliyor.
+Merve: Önümüzdeki pazar günü saat üçte kitabevinin arka bahçesinde toplanacağız. Sizi de aramızda görmekten büyük mutluluk duyacağız Selin Hanım.
+Selin: Nazik davetiniz için çok teşekkür ederim Merve Hanım, pazar günü mutlaka katılacağım.
+Merve: Kulüp arkadaşlarımızla da tanışmış olursunuz, harika zaman geçireceğimizden eminim.
+Selin: Ben de heyecanla pazar gününü bekliyorum Merve Hanım.
+Merve: Anlaştık o zaman Selin Hanım! Tekrar hoş geldiniz, pazar günü görüşmek üzere.
+Selin: Görüşmek üzere Merve Hanım, iyi günler!
+
+### 46 | Apartman Gürültü Sorununun Çözümü
+sub: problem | level: 2 | tags: sorun, gürültü, komşu, apartman, çözüm
+---
+Erkan: İyi akşamlar Sinan Bey, müsait bir vaktinizde üst kat komşunuz olarak kısa ve önemli bir konuda düşüncelerinizi, önerilerinizi ve anlayışınızı rica etmek istemiştim.
+Sinan: İyi akşamlar Erkan Bey! Buyurun lütfen, her zaman rahatça konuşabiliriz. Apartmanda veya dairenizde herhangi bir sıkıntı, teknik arıza veya rahatsızlık mı vardı acaba?
+Erkan: Aslında çok büyük bir sorun veya anlaşmazlık değil ancak son zamanlarda özellikle akşamları geç saatlerde salon ve koridor tarafında yürürken çıkan ayak topuk sesleri ve ağır ahşap sandalyelerin çekilme gürültüleri alt kattaki çocuk odasına biraz fazla yoğun şekilde yansıyor ve yankılanıyor.
+Sinan: Gerçekten mi? İnanın durumun hiç ama hiç farkında değildik Erkan Bey, çıkardığımız seslerin alt kattaki çocukların uyku saatine denk geldiğini ve bu kadar rahatsızlık verdiğini asla düşünememişiz.
+Erkan: Yapıcı ve samimi anlayışınız için çok teşekkür ederim Sinan Bey. Küçük çocuklarımız akşam saat dokuzdan sonra uykuya geçtiği için o saatten sonra biraz daha dikkatli ve özenli davranabilirseniz ailece çok mutlu oluruz.
+Sinan: Kesinlikle Erkan Bey! Bu konuda son derece haklısınız. Masadaki tüm sandalye ayaklarına yarın sabah hemen koruyucu keçe pedler yapıştıracağım ve akşam geç saatlerde daire içinde daha yumuşak tabanlı ev terlikleri kullanacağız. Ayrıca çocukların koşma saatlerini de akşam erken saatlere çekeceğiz.
+Erkan: Gösterdiğiniz yüksek komşuluk nezaketi, içten duyarlılık, hızlı çözüm yaklaşımınız ve son derece anlayışlı tutumunuz için size ve ailenize çok teşekkür ederim Sinan Bey.
+Sinan: Rica ederim Erkan Bey. Lütfen benzer bir durum veya rahatsızlık yaşandığında hiç çekinmeden bana doğrudan iletin, huzurlu, mutlu ve karşılıklı saygıya dayalı bir apartman ortamı hepimizin ortak arzusu ve dileğidir.
+Erkan: Çok sağ olun Sinan Bey, size ve ailenize hayırlı, sağlıklı ve huzurlu akşamlar dilerim.
+Sinan: İyi akşamlar Erkan Bey, anlayışınız ve nazik uyarınız için tekrar teşekkürler, görüşmek üzere.
+
+### 47 | Gurme Balık Restoranında Aile Yemeği
+sub: restaurant | level: 3 | tags: restoran, balık, akşam yemeği, gurme, sipariş
+---
+Şef: Taze deniz ürünleri, zeytinyağlı meze çeşitleri ve günlük balıklarıyla ünlü lezzet restoranımıza hoş geldiniz Efendim! Sizi deniz manzaralı geniş teras masamıza memnuniyetle alabilir miyim?
+Bülent: Hoş bulduk Şefim! Ailemizle birlikte özel bir akşam yemeği kutlaması için geldik. Teras masanızın ferah konumu, deniz manzarası ve masanın yerleşimi gerçekten büyüleyici görünüyor.
+Şef: Masanıza taze Ege mezelerimizi, meze dolabımızı ve akşam balık menümüzü hemen takdim ediyorum. Bu akşam halden taze gelen günlük deniz levreği, çipura ve lüfer çeşitlerimiz son derece öne çıkıyor.
+Bülent: Başlangıç ve ara sıcak olarak taze kalamar tavası, tereyağlı sarımsaklı karides güveç ve ızgara ahtapot tabağı alabilir miyiz?
+Şef: Tabii ki Efendim. Kalamarlarımız taze çıtır kaplamalı ve özel tarator sosla servis edilir, karideslerimiz ise taze tereyağı, sarımsak ve hafif pul biber aromasıyla bakır sahanda pişirilir.
+Bülent: Harika! Ana yemek olarak porsiyon ızgara deniz levreği ve fırınlanmış lüfer tercih edeceğiz. Balıkların yanında ne tür taze garnitürler ve salatalar servis ediyorsunuz?
+Şef: Izgara balıklarımızın yanında taze roka yaprakları, fırınlanmış baharatlı patates dilimleri, kütür kütür kırmızı soğan halkaları ve taze sıkılmış limon dilimleri özenle eşlik eder.
+Bülent: Çok lezzetli ve dengeli bir tabağa benziyor. Başlangıçta masamıza zeytinyağlı ve nar ekşili Ege otları salatası da ekler misiniz?
+Şef: İçinde sızma zeytinyağı, taze limon suyu ve Bergama tulum peyniri bulunan özel Ege otları salatamızı siparişlerinize memnuniyetle ekliyorum. İçecek olarak ne arzu edersiniz?
+Bülent: Serinletici içecek olarak soğuk taze sıkılmış koruk suyu ve ev yapımı bol buzlu nane aromalı limonata rica ediyoruz.
+Şef: Siparişlerinizi detaylıca not aldım Bülent Bey. Mezeleriniz ve salatanız beş dakika içinde, sıcak balıklarınız ise en fazla on sekiz dakika içinde masanıza özenle servis edilecektir.
+Bülent: Detaylı ilginiz, açıklayıcı bilgileleriniz ve kaliteli hizmetiniz için çok teşekkür ederim Şefim.
+Şef: Afiyet olsun Efendim, ailenizle birlikte harika ve lezzetli bir akşam geçirmenizi dilerim!
+
+### 48 | Şarküteri ve Yöresel Ürünler Alışverişi
+sub: shopping | level: 2 | tags: alışveriş, şarküteri, peynir, zeytin, gurme
+---
+Osman: Hayırlı işler Usta! Dükkânınızın vitrininde sergilenen el yapımı yöresel peynirler, doğal zeytinler ve katkısız kahvaltılık çeşitleri caddeden geçerken çok iştah açıcı görünüyor.
+Nuri: Sağ olasın Beyefendi! Hoş geldiniz. Yıllardır Anadolu'nun farklı köylerindeki yerel üreticilerden doğrudan temin ettiğimiz doğal, taze ve katkısız şarküteri ürünlerini müşterilerimizle buluşturuyoruz.
+Osman: Çok güzel ve güven veren bir hizmet. Özellikle Ezine tam yağlı beyaz peyniri, Kars eski kaşarını ve Edremit yeşil kırma zeytinini detaylıca incelemek istiyorum. Peynirlerinizin tuz oranı ve olgunlaşma süresi nasıldır?
+Nuri: Ezine tam yağlı koyun peynirimiz özel koruma tenekelerinde en az sekiz ay boyunca dinlendirilmiştir, tuz oranı ise damak tadına tam uygun ideal seviyededir.
+Osman: Satın almadan önce peynirin lezzetine ve kıvamına bakmak adına küçük bir tadım yapma imkânımız var mıdır acaba?
+Nuri: Tabii ki Beyefendi, hemen tahta sunum tabağında taze kesip size ikram edeyim, tadına bakıp kararınızı öyle verin.
+Osman: Gerçekten lezzeti ve kıvamı mükemmel, ağızda harika bir doğal süt aroması bırakıyor. Bir kilo bu Ezine peynirinden özenle paketlemenizi rica edeceğim.
+Nuri: Hemen hassas terazi ile tartıp paketliyorum. Yeşil kırma zeytinimizden ve eski kaşarımızdan da çeşni olarak ekleyelim mi?
+Osman: Evet, zeytinden yarım kilo, Kars eski kaşarından da yarım kilo ekleyin lütfen. Ayrıca el yapımı organik süzme çam balınız var mıdır?
+Nuri: Marmaris ve Datça yöresine ait birinci sınıf organik süzme çam balımız mevcuttur.
+Osman: Bir kavanoz çam balı da siparişime ekleyelim. Toplam borcum ne kadar tuttu Nuri Usta?
+Nuri: Bir kilo peynir, yarım kilo kaşar, yarım kilo zeytin ve bir kavanoz çam balı toplam sekiz yüz elli lira tutuyor Beyefendi.
+Osman: Ödemeyi kredi kartı ile temassız olarak yapabilir miyim?
+Nuri: Pos cihazımız aktiftir, kartınızı okutabilirsiniz. Ürünlerinizi de sağlam ambalajlı alışveriş çantasına koyuyorum.
+Osman: İlgilendiğiniz, kaliteli ve lezzetli ürünler sunduğunuz için çok teşekkür ederim Nuri Usta.
+Nuri: Sağlıklı, huzurlu ve afiyetle tüketiniz Beyefendi, hayırlı günler dilerim, yine bekleriz!
+
+### 49 | Mağaza Satış Danışmanı Mülakatı
+sub: interview | level: 1 | tags: mülakat, satış, mağaza, müşteri, kariyer
+---
+Leyla: Hoş geldiniz Burak Bey. Mağazamızın müşteri ilişkileri, ürün tanıtımı ve satış danışmanı pozisyonu için başvurunuzu detaylıca inceledik ve sizinle yüz yüze tanışmak istedik.
+Burak: Hoş bulduk Leyla Hanım. Perakende ve mağazacılık sektöründe öncü, yenilikçi ve prestijli olan markanızda görev almak ve hedeflere katkı sağlamak adına burada bulunmaktan büyük memnuniyet duyuyorum.
+Leyla: Öz geçmişinizde daha önce iki yıl boyunca kurumsal bir giyim mağazasında satış danışmanı olarak çalıştığınız görülüyor. Bu süreçte edindiğiniz tecrübeleri ve sorumlulukları özetler misiniz?
+Burak: Müşterileri güler yüzle karşılamak, ihtiyaçlarını doğru analiz edip en uygun ürünleri önermek, reyon düzenini sağlamak ve kasa işlemlerini eksiksiz yürütmek temel sorumluluklarımdı.
+Leyla: Peki hafta sonları yaşanan yoğun ve kalabalık alışveriş saatlerinde yüksek stres altında çalışırken müşteri memnuniyetini nasıl korursunuz?
+Burak: Sakinliğimi, profesyonelliğimi ve güler yüzümü koruyarak her müşteriye eşit ilgi göstermeye, sorularını sabırla yanıtlamaya ve hızlı çözümler sunmaya özen gösteririm.
+Leyla: Ekip çalışmasında arkadaşlarınızla uyumu sağlamak ve mağaza satış hedeflerine ulaşmak adına ne tür bir yaklaşım benimsersiniz?
+Burak: Yardımlaşmayı, açık iletişimi ve pozitif enerjiyi ön planda tutarım. Ekip hedeflerine ulaşmak için üzerime düşen görevi zamanında ve eksiksiz yerine getiririm.
+Leyla: Mağazamıza ve ekibimize katacağınız en önemli kişisel yetkinliğiniz sizce nedir Burak Bey?
+Burak: Yüksek iletişim becerim, müşteri odaklı ikna kabiliyetim, dinamik yapım ve çözüm odaklı çalışma disiplinimdir.
+Leyla: Vardiyalı çalışma saatlerimize ve hafta sonu esnek mesaileşme takvimimize uyum sağlama konusunda herhangi bir kısıtlamanız bulunuyor mu acaba?
+Burak: Esnek çalışma saatlerine ve yoğun tempoya tamamen uyum sağlayabilirim Leyla Hanım.
+Leyla: Çok güzel ve tatmin edici açıklamalar Burak Bey. Mülakat değerlendirme sonucumuzu iki gün içinde telefon ve e-posta yoluyla tarafınıza detaylıca bildireceğiz.
+Burak: Zaman ayırdığınız, ilginiz ve nazik kabulünüz için çok teşekkür ederim Leyla Hanım.
+Leyla: Biz teşekkür ederiz Burak Bey, kariyerinizde başarılar ve iyi günler dilerim.
+
+### 50 | Yazılım Projesi İlerleme Toplantısı
+sub: meeting | level: 2 | tags: toplantı, yazılım, proje, takım, planlama
+---
+Tarkan: Değerli ekip arkadaşlarım, haftalık mobil uygulama geliştirme projesi ilerleme ve performans değerlendirme toplantımıza hepiniz hoş geldiniz.
+Seda: Günaydın Tarkan Bey. Tasarım ve yazılım ekibimiz geçen hafta belirlenen tüm kullanıcı arayüzü testlerini, ekran uyumlandırmalarını ve veri tabanı entegrasyonlarını başarıyla tamamladı.
+Tarkan: Harika bir haber Seda Hanım! Peki uygulama içi ödeme adımlarında, veri güvenliğinde ve kullanıcı yetkilendirme protokollerinde herhangi bir teknik aksaklık veya performans kaybı tespit edildi mi?
+Seda: Ödeme entegrasyonu ve güvenlik testlerimizde performans değerleri gayet yüksek çıktı. Şimdilik herhangi bir güvenlik açığı, veri sızıntısı veya sistem yavaşlaması bulunmuyor.
+Tarkan: Mükemmel bir çalışma! Peki önümüzdeki hafta uygulamamızı canlı ortama alma, uygulama mağazalarına yükleme ve kullanıcı erişimine açma aşamasına geçebilir miyiz?
+Seda: Son bir güvenlik ve performans kural test kontrolünün ardından cuma günü uygulamayı mağaza onayına sunmaya tamamen hazır olacağız. Ayrıca pazarlama ekibine de tanıtım görsellerini ilettik.
+Tarkan: Uygulamanın mağaza lansmanı öncesinde pazarlama ve halkla ilişkiler tarafında yürütülecek reklam kampanyası bütçesi ve hedef kitlesi netleşti mi acaba?
+Seda: Evet Tarkan Bey, dijital pazarlama ekibimiz sosyal medya reklam tasarımlarını ve bütçe dağılım planını dün itibarıyla tamamlayıp onayımıza sundu.
+Tarkan: Çok güzel! Kullanıcı geri bildirimlerini anlık olarak takip edeceğimiz destek hattı ve uygulama içi bildirim sistemimiz de lansman gününe kadar hazır olacak mı?
+Seda: Müşteri hizmetleri entegrasyonumuz ve anlık bildirim altyapımız tamamlandı, lansman anında sorunsuz çalışacaktır.
+Tarkan: Ekip olarak gösterdiğiniz yüksek performans, teknik nitelik, uyum ve zaman disiplini için hepinize ayrı ayrı yürekten teşekkür ederim Seda Hanım.
+Seda: Biz teşekkür ederiz Tarkan Bey. Hazırladığım haftalık proje ilerleme raporunu ve yeni dönem teknik iş takvimini toplantı hemen sonrası tüm ekiple e-posta üzerinden detaylıca paylaşacağım.
+Tarkan: Harika bir çalışma ve planlama oldu Seda Hanım. Katkılarınız için tekrar teşekkür eder, hepinize kolaylıklar ve başarılı çalışmalar dilerim.
+Seda: Çok teşekkürler Tarkan Bey, iyi çalışmalar dilerim.
+
+### 51 | Okul Tiyatro Kulübü Rol Dağılımı
+sub: school | level: 2 | tags: okul, tiyatro, kulüp, sahne, prova
+---
+Tarık: Günaydın Selin! Okul tiyatro kulübümüzün bu dönem sahneleyeceği geleneksel komedi oyunu için rol dağılımı listesi panoda ilan edildi mi?
+Selin: Günaydın Tarık! Evet, kulüp danışman öğretmenimiz liste metnini az önce tiyatro salonunun girişindeki ana duyuru panosuna astı.
+Tarık: Büyüleyici bir haber! Gerçekten günlerdir büyük bir merak ve heyecanla bu liste içeriğini bekliyorduk. Hangi roller kime verilmiş detaylıca inceleyebildin mi?
+Selin: İnceledim Tarık! Oyunun başrolündeki sevecen ve komik ihtiyar konağın sahibi karakterini öğretmenimiz sana vermiş!
+Tarık: Harika bir sürpriz! Bu rolü almayı çok ama çok istiyordum. Oyun boyunca sahnede olmak ve o karakteri canlandırmak benim için muazzam bir deneyim olacak.
+Selin: Seni yürekten tebrik ederim Tarık, bu rolün hakkını sahnede en iyi ve en yetkin şekilde vereceğinden hiç şüphem yok.
+Tarık: Çok teşekkür ederim Selin. Peki sen hangi karakteri canlandıracaksın, sana hangi rol uygun görülmüş acaba?
+Selin: Ben de konağın bilgili, akıllı ve her olayı tatlıya bağlayan hanımefendisi rolünü üstleneceğim.
+Tarık: Mükemmel bir seçim olmuş Selin! Sahnede karşılıklı diyaloglarımızın ve ortak oyun sahnelerimizin sayısı oldukça fazla olacak demektir.
+Selin: Evet Tarık, bu yüzden ezber çalışmalarına ve sahne provalarına şimdiden son derece disiplinli bir şekilde başlamamız gerekiyor.
+Tarık: Haftalık prova takvimimiz ve tiyatro salonundaki çalışma saatlerimiz tam olarak nasıl belirlenmiş acaba?
+Selin: Salı ve perşembe günleri ders bitiminde ikişer saat boyunca tiyatro salonunda sahne provası yapacak ekibimiz.
+Tarık: Prova saatleri son derece uygun. İlk provamıza kadar repliklerimizi ve senaryo metnimizi tamamen eksiksiz ezberlemeyi hedefleyelim mi?
+Selin: Kesinlikle katılıyorum Tarık. Metni iyi ezberlersek sahnede jest, mimik ve sahne duruşumuza daha çok odaklanabiliriz.
+Tarık: O zaman öğle arasında okulumuzun kütüphanesinde buluşup ilk okuma provamızı birlikte yapalım mı Selin?
+Selin: Çok iyi bir fikir Tarık, öğle arasında kütüphanede görüşmek üzere!
+Tarık: Görüşmek üzere Selin, sabırsızlıkla bekliyorum, iyi dersler dilerim.
+
+### 52 | Botanik Parkına Ulaşım Yolu
+sub: directions | level: 1 | tags: yol tarifi, park, otobüs, cadde, şehir
+---
+Derya: Afedersiniz Kadir Amca, sizi rahatsız ediyorum ama kentin en büyük botanik parkına giden belediye otobüsü durağını ve yürüyüş yolunu arıyorum.
+Kadir: Merhaba Kızım! Hiç rahatsızlık değil, memnuniyetle yardımcı olurum. Botanik parkına gitmek için son derece doğru bir caddedesin, buradan ulaşım çok kolay ve rahattır.
+Derya: Çok sevindim Kadir Amca. Tam olarak hangi otobüs hattına binmem gerekiyor ve durağın yeri buraya ne kadar uzaklıkta acaba?
+Kadir: Şu an üzerinde bulunduğumuz ana geniş cadde boyunca hiç sapmadan dosdoğru iki yüz metre kadar ileriye doğru yürümelisin.
+Derya: İleride görünen büyük mavi taksi durağının ve trafik ışıklarının olduğu tarafa doğru mu yürüyeceğim Kadir Amca?
+Kadir: Evet Kızım, taksi durağının hemen yanında üstü kapalı büyük camlı belediye otobüs durağını göreceksin.
+Derya: O duraktan hangi otobüs hattına binmem gerekiyor botanik parkının ana kapısına doğrudan ulaşmak için?
+Kadir: Duraktan her on dakikada bir geçen on iki numaralı yeşil belediye otobüsüne bindiğinde otobüs seni doğrudan parkın ana giriş kapısında indirir.
+Derya: Yolculuk otobüsle yaklaşık kaç dakika sürer acaba Kadir Amca?
+Kadir: Trafik yoğunluğuna bağlı olarak en fazla ten ila fifteen dakika içinde botanik parkında olursun Kızım.
+Derya: Otobüsten indikten sonra park girişini ve bilet gişelerini bulmak için ekstra bir sokak yürümeme gerek var mı?
+Kadir: Hayır Kızım, otobüs durağı zaten botanik parkının ana giriş kapısının ve bilet gişelerinin tam karşısındadır.
+Derya: Otobüs biniş ücretini temassız kredi kartımla ödeyebilir miyim acaba?
+Kadir: Evet Kızım, tüm belediye otobüslerinde temassız banka ve kredi kartları geçerlidir.
+Derya: Verdiğin net, açık, detaylı ve nazik tarif için çok teşekkür ederim Kadir Amca.
+Kadir: Rica ederim Kızım, botanik parkında sana çok güzel, huzurlu ve keyifli bir gezi dilerim!
+Derya: Sağ olasın Kadir Amca, hayırlı ve güzel günler dilerim.
+
+### 53 | Resim Kursunda Yeni Sınıf Arkadaşı ile Tanışma
+sub: intro | level: 2 | tags: tanışma, resim, kurs, sanat, atölye
+---
+Gökhan: Merhaba! Galiba siz de belediyenin halk eğitimi merkezinde açılan hafta sonu yağlı boya resim kursuna yeni kayıt yaptırdınız?
+Nilay: Merhaba! Evet, çok doğru bir tahmin. Ben Nilay. Bu sabah ilk dersimiz için Atölyeye heyecanla geldim.
+Gökhan: Çok memnun oldu Nilay Hanım, ben de Gökhan. Geçen dönem başlangıç seviyesi sulu boya kursuna katılmıştım, bu dönem yağlı boya tekniğine geçmeye karar verdim.
+Nilay: Ben de tanıştığıma çok memnun oldu Gökhan Bey. Ben ömrümde ilk kez resim eğitimi alıyorum, o yüzden biraz heyecanlıyım.
+Gökhan: Hiç heyecanlanmayın Nilay Hanım, atölye hocamız Zafer Bey son derece sabırlı, anlayışlı ve alanında uzman bir eğitmendir.
+Nilay: Bunu duyduğuma çok sevindim Gökhan Bey. İlk derste şövale kurulumu ve tuval hazırlığı mı yapılıyor acaba?
+Gökhan: Evet, Zafer Hocamız ilk derste tuval germe, tuval yüzeyini zımparalama ve temel fırça tekniklerini detaylıca anlatır.
+Nilay: Resim malzemeleri olarak tuval, şövale, fırça seti ve yağlı boya tüplerini nereden temin ettiniz acaba?
+Gökhan: Kurs binamızın hemen karşı sokağındaki sanat malzemeleri dükkânından uygun fiyatlı kaliteli resim setlerini temin edebilirsiniz.
+Nilay: Derslerden sonra tuvalimizi ve boya fırçalarımızı atölyedeki kilitli dolaplarda saklama imkânımız var mı acaba?
+Gökhan: Evet, her kursiyere özel bir kilitli malzeme dolabı tahsis ediliyor, eşyalarınızı emniyetle bırakabilirsiniz.
+Nilay: Muazzam bir kolaylık gerçekten. Sizin en çok yapmayı sevdiğiniz resim tarzı ve konusu nedir Gökhan Bey?
+Gökhan: Ben doğa manzaraları, deniz kıyıları ve dağ manzaraları çalışmayı çok seviyorum Nilay Hanım.
+Nilay: Ben de soyut kompozisyonlar ve canlı renkli çiçek natürmortları üzerine çalışmayı hayal ediyorum.
+Gökhan: Harika bir sanatsal vizyon! Dersimiz başlamak üzere, şövalelerimizin başına geçelim isterseniz.
+Nilay: İlginiz, samimi sohbetiniz ve verdiğiniz faydalı bilgiler için çok teşekkür ederim Gökhan Bey.
+Gökhan: Rica ederim Nilay Hanım, kursumuzda harika ve verimli zamanlar geçirmenizi dilerim!
+
+### 54 | Otel Odasındaki Isınma ve Klima Arızası Çözümü
+sub: problem | level: 3 | tags: sorun, otel, klima, arıza, müşteri
+---
+Volkan: İyi akşamlar Burcu Hanım, resepsiyondan arıyorum. Tarafımıza tahsis edilen üç yüz dört numaralı odada konaklamaktayım.
+Burcu: İyi akşamlar Volkan Bey! Size ve ailenize nasıl yardımcı olabilirim acaba? Konaklamanızla ilgili bir talebiniz mi vardı?
+Volkan: Evet Burcu Hanım, odadaki merkezi iklimlendirme ve klima sistemimiz maalesef yeterli sıcaklığı sağlamıyor ve odamız oldukça soğuk.
+Burcu: Bu durum için çok özür dilerim Volkan Bey. Odadaki dijital termostat kumandasını yirmi dört derece sıcaklık moduna ayarlamayı denediniz mi acaba?
+Volkan: Evet Burcu Hanım, dereceyi yükselttik ve yaklaşık kırk beş dakika bekledik ancak klima ünitesinden sadece soğuk hava üflemeye devam ediyor.
+Burcu: Yaşadığınız bu teknik mağduriyet ve soğuk ortam rahatsızlığı için otelimiz adına sizden içtenlikle özür dilerim Volkan Bey.
+Volkan: Anlayışınız için teşekkür ederim Burcu Hanım. Akşam vakti hava sıcaklığı oldukça düştüğü için küçük çocuğumuz soğuktan olumsuz etkileniyor.
+Burcu: Sizi çok iyi anlıyorum Volkan Bey. Teknik ekibimiz şu an nöbette, hemen odaya bir teknisyen yönlendirip klima ünitesini kontrol ettirebilirim.
+Volkan: Teknisyenin arızayı gidermesi uzun sürecekse ailenin mağdur olmaması adına odamızın değiştirilmesi mümkün müdür acaba?
+Burcu: Kesinlikle Volkan Bey! Teknisyenimizin kontrolünü beklemeden, sizi hemen bir üst kategoride yer alan deniz manzaralı süit odamıza aktaralım.
+Volkan: Gösterdiğiniz bu hızlı, müşteri odaklı ve yapıcı çözüm yaklaşımı için size çok teşekkür ederim Burcu Hanım.
+Burcu: Rica ederim Volkan Bey, müşteri memnuniyeti ve konforu bizim için her zaman ilk sıradadır.
+Volkan: Yeni odanın anahtarını resepsiyondan ben mi alayım yoksa görevli mi getirecek?
+Burcu: Bellboy arkadaşımız yeni odanızın kart anahtarını hemen odanıza getirecek ve valizlerinizi yeni odaya emniyetle taşıyacaktır.
+Volkan: Harika bir hizmet Burcu Hanım, hassasiyetiniz için minnettarım.
+Burcu: Rahatınız bizim için esastır Volkan Bey, yeni odanızda huzurlu ve sıcak bir gece geçirmenizi dilerim!
+Volkan: Çok teşekkür ederim Burcu Hanım, iyi çalışmalar dilerim.

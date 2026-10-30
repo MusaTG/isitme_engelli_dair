@@ -1,0 +1,16 @@
+### | Nesnelerin İnterneti Tabanlı Akıllı Tesis Otomasyonu
+lang: tr | cat: work | sub: tech | level: 3 | tags: teknoloji, otomasyon, sensör, mimari, veri
+---
+Giriş ve Mimari Tasarım:
+Endüstri 4.0 dönüşüm sürecinin en kritik bileşenlerinden biri olan Nesnelerin İnterneti (IoT) tabanlı akıllı tesis otomasyon sistemleri, üretim sahalarındaki fiziki cihazların, makine parkurlarının, iklimlendirme ünitelerinin ve enerji hatlarının kablosuz sensör ağları üzerinden anlık olarak izlenmesini, analiz edilmesini ve uzaktan yönetilmesini sağlayan ileri düzey bir teknolojik mimaridir. Bu teknik kılavuz, şirketimizin üretim tesislerinde devreye alınan yeni nesil IoT sensör ağlarının detaylı teknik mimarisini, veri iletişim protokollerini ve güvenlik altyapısını ayrıntılarıyla kurgulayarak açıklamaktadır.
+
+1. Sensör Katmanı ve Veri Toplama Protokolleri:
+Fabrika sahamızdaki 250 farklı noktaya yerleştirilen titreşim, sıcaklık, nem, basınç ve elektrik akım sensörleri, makinelerin anlık çalışma performansını milisaniyelik yüksek hassasiyetle kaydetmektedir. Sensörler arası veri iletişimi, düşük enerji tüketimi ve yüksek menzil sağlayan LoRaWAN ve Zigbee kablosuz haberleşme protokolleri üzerinden kesintisiz yürütülmektedir. Sahadan toplanan ham telemetry verileri, endüstriyel gateway cihazları aracılığıyla filtrelenerek merkeze güvenle iletilir.
+
+2. Bulut Veri İşleme ve Kestirimci Bakım Algoritmaları:
+Saha gateway cihazlarından aktarılan anlık veriler, şirketimizin yerel bulut sunucularında çalışan zaman serisi veri tabanlarına (TimeSeries DB) aktarılır. Sistem bünyesinde çalışan makine öğrenmesi modelleri, makinelerdeki mikro titreşim değişimlerini ve sıcaklık artışlarını analiz ederek olası rulman veya motor arızalarını henüz gerçekleşmeden 72 saat önce tespit eder. Kestirimci bakım (predictive maintenance) uyarısı üreten sistem, bakım ekiplerimize otomatik iş emri kurgulayarak doğrudan yönlendirir.
+
+3. Siber Güvenlik ve Ağ Yalıtımı Standartları:
+IoT ağımızın dış siber saldırılardan korunması amacıyla endüstriyel kontrol ağı (OT) ile kurumsal bilgi teknolojileri ağı (IT) birbirinden fiziksel ve mantıksal güvenlik duvarlarıyla (DMZ) tamamen ayrılmıştır. Sensör verilerinin iletiminde AES-256 uçtan uca kriptolama teknolojisi kullanılmakta olup yetkisiz cihazların ağa katılması tamamen engellenmektedir.
+
+Bu bütüncül teknolojik altyapı ve otomasyon yatırımı sayesinde tesisimizdeki plansız duruş oranları %85 azaltılmış, enerji verimliliği %22 artırılmış ve operasyonel üretim kalitesi en üst seviyeye çıkarılmıştır.

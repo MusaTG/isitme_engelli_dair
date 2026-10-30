@@ -2,7 +2,7 @@
 // yalnızca DKT bölümü açıkken görünür. Uygulama hiçbir hedefin uzman tarafından reçete edildiğini
 // veya klinik olarak doğrulandığını iddia etmez; "uzmanın verdiği" kullanıcının kendi beyanıdır.
 import { t, formatDate, pct } from '../i18n.js';
-import { esc, icon, toast, toastAction, download, selectOptions, helpLink } from '../ui.js';
+import { esc, icon, toast, toastAction, download, selectOptions, helpLink, confirmAsk } from '../ui.js';
 import { GROUPS, getTask } from '../engine/registry.js';
 import { summarize } from '../engine/stats.js';
 import {
@@ -87,8 +87,8 @@ export async function goalsView(root, ctx, params) {
         <div class="page-actions"><a class="btn primary" href="#/goals/new">${icon('plus')}${t('goal.new')}</a>
         ${helpLink('goals', t('guide.helpHere'))}</div>
       </div>
-      <div class="tabbar" role="tablist" aria-label="${esc(t('goal.filterStatus'))}">
-        ${[['open', counts.active + counts.paused], ['done', counts.done], ['archived', counts.archived], ['all', null]].map(([k, n]) => `<button role="tab" class="tab${st.status === k ? ' on' : ''}" aria-selected="${st.status === k}" data-status="${k}">${t(`goal.tab.${k}`)}${n !== null ? ` <span class="count">${n}</span>` : ''}</button>`).join('')}
+      <div class="tabbar" role="group" aria-label="${esc(t('goal.filterStatus'))}">
+        ${[['open', counts.active + counts.paused], ['done', counts.done], ['archived', counts.archived], ['all', null]].map(([k, n]) => `<button class="tab${st.status === k ? ' on' : ''}" aria-pressed="${st.status === k}" data-status="${k}">${t(`goal.tab.${k}`)}${n !== null ? ` <span class="count">${n}</span>` : ''}</button>`).join('')}
         ${slt ? `<label class="tab-select"><span class="sr-only">${t('goal.filterSource')}</span><select id="src">${selectOptions([['all', t('goal.source.all')], ['self', t('goal.source.self')], ['specialist', t('goal.source.specialist')]], st.source)}</select></label>` : ''}
       </div>
       ${list.length ? `<ul class="goal-list2">${list.map((g) => goalCard(g, goalStats(g, p.sessions), slt)).join('')}</ul>`
@@ -202,8 +202,8 @@ export async function goalDetailView(root, ctx, id) {
       const task = b.dataset.one;
       await ctx.startSession({ source: 'goal', label: `goal:${g.id}`, goalId: g.id, ...(g.lang ? { lang: g.lang } : {}), blocks: [{ task, count: getTask(task).input === 'multi' ? 2 : p.prefs.sessionLength }] });
     }));
-    root.querySelector('[data-act=delete]').addEventListener('click', () => {
-      if (!window.confirm(t('goal.deleteConfirm'))) return;
+    root.querySelector('[data-act=delete]').addEventListener('click', async () => {
+      if (!await confirmAsk(t('goal.deleteConfirm'))) return;
       const idx = p.goalsV3.indexOf(g);
       p.goalsV3.splice(idx, 1);
       store.save();
@@ -485,8 +485,8 @@ export async function noteEditView(root, ctx, id, params) {
     toast(t('common.saved'));
     ctx.go(n.goals.length === 1 ? `#/goal/${n.goals[0]}` : '#/notes');
   });
-  $('[data-act=delete]')?.addEventListener('click', () => {
-    if (!window.confirm(t('notes.deleteConfirm'))) return;
+  $('[data-act=delete]')?.addEventListener('click', async () => {
+    if (!await confirmAsk(t('notes.deleteConfirm'))) return;
     const idx = p.notesV3.indexOf(existing);
     p.notesV3.splice(idx, 1);
     store.save();

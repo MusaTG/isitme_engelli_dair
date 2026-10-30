@@ -1,0 +1,104 @@
+### | E-Ticaret Lojistik Altyapısı ve Depo Otomasyonu Sunumu
+lang: tr | cat: work | sub: presentation | tags: sunum, lojistik, e-ticaret, otomasyon, depolama | level: 2
+---
+Değerli yönetim kurulu üyelerimiz, kıdemli birim yöneticilerimiz, değerli yatırımcılarımız, ana hissedarlarımız ve şirketimizin lojistik operasyonlarına yön veren değerli çalışma arkadaşlarım, bugün gerçekleştireceğimiz bu kapsamlı sunumda şirketimizin e-ticaret kanalındaki hızlı büyümeyi destekleyecek yeni nesil akıllı depo otomasyon altyapısını, bölgesel dağıtım stratejilerimizi ve teslimat sürelerini yarı yarıya düşürecek teknoloji yatırımlarımızı tüm detaylarıyla detaylı şekilde paylaşacağım.
+
+Günümüz e-ticaret dünyasında müşteri memnuniyetini belirleyen en kritik ve hayati unsur, sipariş verilen ürünlerin doğru, eksiksiz, zarar görmeden ve maksimum hızla müşteriye ulaştırılmasıdır. Tüketiciler artık ürün satın alma kararı verirken teslimat hızını ve esnek kargo seçeneklerini birinci öncelik olarak değerlendirmektedir. Yapılan bağımsız pazar araştırmaları, aynı gün veya ertesi gün teslimat imkânı sunan e-ticaret markalarının müşteri elde tutma, yeniden satın alma ve marka sadakati oranlarının rakiplerine göre %55 daha yüksek olduğunu açıkça ve net şekilde ortaya koymaktadır.
+
+Bu doğrultuda kurguladığımız yeni lojistik dönüşüm projemiz üç ana sütun üzerine inşa edilmiştir: Birinci sütunumuz, ana depomuzda devreye alacağımız yapay zekâ destekli otonom sipariş toplama, ayıklama ve paketleme robotlarıdır. Bu robotik sistemler sayesinde sipariş hazırlama süreleri 45 dakikadan 10 dakikaya düşecek ve insan kaynaklı hatalı ürün gönderim oranı tamamen sıfırlanacaktır.
+
+İkinci sütunumuz, kentin stratejik noktalarında konumlandıracağımız mikro dağıtım merkezleridir (Dark Store). Bu merkezler sayesinde yüksek nüfuslu bölgelerdeki siparişler 2 saat içinde motorlu kuryelerle doğrudan müşterilerin adreslerine güvenle teslim edilecektir.
+
+Üçüncü sütunumuz ise tüm kargo ve lojistik firmalarıyla entegre çalışan akıllı akış rotalama yazılımıdır. Yazılım, o anki şehir içi trafik durumunu ve kargo yoğunluğunu analiz ederek siparişi en hızlı teslim edecek firmaya otomatik atayacaktır. Ayrıca kargo süreçlerinin anlık takibi için müşterilerimize SMS, e-posta ve mobil bildirimler gönderilecektir.
+
+Projemizin ilk fazını önümüzdeki ay faaliyete geçirmeyi hedefliyoruz. Lojistik operasyonlarımızı geleceğe taşıyacak, şirketimizin pazardaki rekabet gücünü artıracak ve müşteri memnuniyetini en üst seviyeye çıkaracak bu dev yatırıma katkı sağlayan tüm çalışma arkadaşlarıma, saha ekiplerimize, teknoloji partnerlerimize ve değerli yönetim kurulumuza yürekten teşekkür ederim.
+
+### | Şirket İçi Bilgisayar Ağ Güvenliği ve Cihaz Kullanım Talimatı
+lang: tr | cat: work | sub: instructions | tags: talimat, güvenlik, ağ, cihaz, şirket | level: 3
+---
+Amaç ve Kapsam:
+Bu talimatname, şirketimiz bünyesinde kullanılan tüm masaüstü bilgisayarların, dizüstü cihazların, kurumsal mobil telefonların ve ağ altyapısının siber tehditlere, zararlı yazılımlara, yetkisiz veri erişimlerine ve fiziksel güvenlik risklerine karşı korunmasını sağlamak amacıyla hazırlanmıştır. Şirket ağımıza kablolu veya kablosuz olarak bağlanan tüm personel, stajyer ve dış kaynak hizmet sağlayıcıları bu talimatnamede belirtilen teknik güvenlik kurallarına, erişim protokollerine, şifreleme kriterlerine ve kurumsal gizlilik politikalarına eksiksiz ve amansızca uymakla mükellef ve sorumlu yükümlüdür.
+
+1. Kablosuz Ağ (Wi-Fi) ve Uzaktan Erişim Standartları:
+- Şirket personeline tahsis edilen cihazların kurumsal kablosuz ağa bağlantısı yalnızca Kişisel Sertifika ve İki Faktörlü Kimlik Doğrulama (2FA) ile sağlanacaktır.
+- Şirket dışındayken veya evden uzaktan çalışma esnasında kurumsal sistemlere ve ortak sunuculara erişimde yalnızca Bilgi Teknolojileri birimi tarafından tanımlanmış Sanal Özel Ağ (VPN) bağlantısı kullanılmalıdır.
+- Kafe, havalimanı ve otel gibi alanlardaki şifresiz veya güvensiz halka açık kablosuz ağlar üzerinden kurumsal e-posta ve sistemlere doğrudan giriş yapılması kesinlikle ve hiçbir koşulda yasaktır.
+
+2. Cihaz Güvenliği ve Yazılım Güncellemeleri:
+- Çalışanlar kendilerine tahsis edilen bilgisayarlarda yerel yönetici (Administrator) yetkisi talep edemez; lisanssız, korsan veya onaylanmamış üçüncü taraf yazılımları cihazlara yükleyemez.
+- İşletim sistemi ve антиvirüs yazılımı güncellemeleri sistem tarafından otomatik olarak yüklenecektir. Güncelleme bildirimleri ertelenmemeli ve cihazlar haftada en az bir kez tamamen yeniden başlatılmalıdır.
+- Şirket cihazlarının çalınması, kaybedilmesi, hasar görmesi veya fiziksel zarara uğraması durumunda derhal Bilgi Teknolojileri birimine yazılı bildirim yapılmalıdır.
+
+3. Taşınabilir Medya ve Harici Cihaz Kısıtlamaları:
+- Kurumsal bilgisayarlara kaynağı belirsiz USB bellek, harici disk veya kişisel telefon bağlantısı yapılması güvenlik yazılımları tarafından otomatik olarak engellenecektir.
+- Dosya aktarımı yalnızca onaylı kurumsal bulut depolama alanları üzerinden güvenli şekilde gerçekleştirilmelidir.
+
+4. İhlal Bildirimi ve Yaptırımlar:
+- Cihazlarda şüpheli bir yavaşlama, garip açılır pencereler veya virüs uyarısı görüldüğünde derhal Siber Güvenlik Olay Müdahale Ekibine bildirim yapılmalıdır. Bu talimatnameye aykırı hareket eden personel hakkında Disiplin Yönetmeliği hükümleri doğrultusunda gerekli idari, idari takibat ve hukuki yaptırımlar uygulanacaktır.
+
+### | Özel Çağrı Merkezi Hizmet Aksaması Bilgilendirme Mektubu
+lang: tr | cat: work | sub: customer | tags: müşteri, iletişim, hizmet, bilgilendirme, kurumsal | level: 2
+---
+Sayın Murat Öztürk,
+
+Şirketimizden almakta olduğunuz Kurumsal Bulut Santral ve Müşteri İletişim Merkezi hizmetiyle ilgili olarak 22 Ekim 2026 tarihinde yaşanan kısa süreli altyapı kesintisi ve erişim aksaklığıyla ilgili tarafımıza iletmiş olduğunuz teknik inceleme talebiniz Kalite Güvence ve Sistem Operasyonları Departmanımız tarafından büyük bir hassasiyet, ciddiyet, dikkat, özen ve titizlikle detaylıca değerlendirilmiştir.
+
+Öncelikle, ana veri merkezimizdeki fiber optik hatlarda meydana gelen fiziksel bir kopukluk sebebiyle çağrı merkezi sisteminizde yaşanan 35 dakikalık erişim kesintisinden ve bu durumun iş süreçlerinizde yarattığı aksaklıktan ötürü şirketimiz adına sizden ve ekibinizden içtenlikle özür dileriz. Müşterilerimize kesintisiz, güvenilir, hızlı, yüksek performanslı ve kaliteli iletişim altyapısı sunmak en temel kurumsal ilke, vazife ve önceliğimizdir.
+
+Gerçekleştirilen teknik inceleme sonucında, Türk Telekom ana hatlarında oluşan fiziksel hasar sebebiyle yedek hatlara otomatik geçiş esnasında yönlendirme sunucularında dönemsel bir kilitlenme yaşandığı tespit edilmiştir. Yaşanan bu beklenmedik teknik durum üzerine uzman mühendislerimiz anında müdahale ederek yedek sunucuları devreye sokmuş ve sistem trafiğini normale döndürmüştür. Benzer bir aksaklığın tekrar etmemesi adına felaket kurtarma merkezimizdeki otomatik geçiş yazılımları ve yedekleme protokolleri tamamen yenilenmiştir.
+
+Yaşadığınız mağduriyeti telafi etmek amacıyla şirketimiz tarafından şu adımlar atılmıştır:
+1. Hizmet Seviyesi Sözleşmemiz (SLA) uyarınca kesinti yaşanan süreye ilişkin aylık hizmet bedelinizden %15 oranında otomatik ceza indirimi yapılarak faturanıza yansıtılmıştır.
+2. Şirketinize tahsis edilen yedek bulut santral kapasitesi 1 yıl süreyle ücretsiz olarak iki katına çıkarılmıştır.
+3. Şirketinize özel kıdemli bir müşteri temsilcisi atanmış olup 7/24 doğrudan erişim imkânı sağlanmıştır.
+4. Önümüzdeki 6 ay boyunca sistem performans, kesintisizlik ve erişilebilirlik raporları tarafınıza haftalık olarak e-posta ile sunulacaktır.
+
+Müşteri memnuniyetini her şeyin üzerinde tutan anlayışımızla, sizlere hizmet vermekten büyük onur duyuyoruz. Süreçle ilgili her türlü soru ve talebiniz için tarafımla dilediğiniz zaman iletişime geçebilirsiniz.
+
+Anlayışınız, sabrınız, değerli güveniniz ve iş birliğiniz için teşekkür eder, hayırlı ve başarılı çalışmalar dileriz.
+
+Saygılarımla,
+Deniz Arslan
+Müşteri İlişkileri Yöneticisi
+Lider Telekomünikasyon A.Ş.
+
+### | Makine Öğrenmesi Tabanlı Veri Analitiği Platformu
+lang: tr | cat: work | sub: tech | tags: teknoloji, yazılım, veri, yapay zekâ, analitik | level: 1
+---
+Yazılım, Veri Bilimi ve İş Zekası Ekibimizin Değerli Üyeleri,
+
+Şirketimizin büyük veri (Big Data) işleme kapasitesini artırmak, müşteri davranışlarını anlık ve canlı olarak analiz etmek, pazarlama kampanyalarının verimliliğini ölçmek, satış tahminleme modelleri oluşturmak ve iş süreçlerimizi optimizasyonla güçlendirmek amacıyla geliştirdiğimiz Makine Öğrenmesi Tabanlı Veri Analitiği Platformunun mimari yapısı, teknik yetkinlikleri, donanım gereksinimleri ve temel kullanım adımları aşağıda detaylıca özetlenmiştir.
+
+1. Veri Kaynakları ve Veri Hattı (Data Pipeline):
+Yeni platformumuz; e-ticaret web sitemizden, mobil uygulamamızdan, CRM sistemimizden ve sosyal medya kanallarımızdan gelen ham verileri Apache Kafka veri akış mimarisi üzerinden anlık olarak toplamaktadır. Toplanan veriler, veri temizleme, anonimleştirme, doğrulama ve dönüştürme aşamalarından geçerek bulut veri depolama alanımıza son derece güvenli ve eksiksiz şekilde aktarılmaktadır. Veri kayıplarını tamamen önlemek için anlık yedekleme protokolleri sürekli aktif tutulmaktadır.
+
+2. Yapay Zekâ ve Tahminleme Modelleri:
+Platform bünyesinde çalışan denetimli öğrenme algoritmaları, geçmiş satın alma verilerini analiz ederek müşteri terk riski (Churn Risk), çapraz satış fırsatları ve bölgesal talep tahminleri üretmektedir. Veri analistlerimiz, arayüzdeki 'Model Studio' sekmesini kullanarak kendi Python veya R kodlarını sisteme entegre edebilir ve yeni tahminleme algoritmalarını kolayca eğitebilirler. Model eğitimi sonrasında doğruluk oranları otomatik raporlanır ve performans metrikleri detaylı olarak görselleştirilir.
+
+3. Görsel Raporlama ve İş Zekası Arayüzü:
+Üretilen tahminleme sonuçları ve analitik metrikler, kullanıcı dostu paneller üzerinden grafiksel olarak sunulmaktadır. Birim yöneticileri, özelleştirilebilir gösterge panelleri (Dashboard) sayesinde günlük satış performansını, kampanya dönüşüm oranlarını ve bölgesal müşteri yoğunluklarını canlı olarak takip edebilirler. Raporlar istenildiğinde PDF, CSV veya Excel formatlarında dışa aktarılabilir ve ilgili birimlerle anında paylaşılabilir.
+
+4. Veri Gizliliği ve Yetkilendirme Standartları:
+Platform üzerindeki tüm müşteri verileri anonimleştirilerek işlenmakte ve KVKK standartlarına uygun olarak saklanmaktadır. Veri tabanı erişimleri rol bazlı yetkilendirme modelleriyle kısıtlanmıştır.
+
+Yazılım geliştirme hızınızı, veri analizi kalitenizi ve karar alma süreçlerinizi önemli ölçüde güçlendirecek bu platformun kullanımında her türlü teknik destek için Bilişim Destek Ekibimizle her zaman iletişime geçebilirsiniz.
+
+### | İş Hayatında Stres Yönetimi Ve Duygusal Dayanıklılık
+lang: tr | cat: work | sub: growth | tags: gelişim, stres, psikoloji, kariyer, başarı | level: 2
+---
+Dinamik, son derece rekabetçi, yüksek tempolu, yoğun ve hızla değişen günümüz küresel iş dünyasında sürdürülebilir bir kariyer başarısı elde etmek, sadece yüksek teknik bilgi, mesleki tecrübe ve uzmanlıkla değil, aynı zamanda yoğun iş temposu altında stresi doğru yönetebilmek, zihinsel dengeyi korumak ve duygusal dayanıklılık (Resilience) geliştirmekle mümkündür. İş hayatında karşılaşılan zorluklar, sıkışık proje teslim tarihleri, beklenmedik krizler ve yoğun sorumluluklar karşısında zihinsel ve duygusal dengesini koruyabilen profesyoneller, hem bireysel sağlıklarını korumakta hem de uzun vadeli yüksek performans, üretkenlik, motivasyon ve verimlilik sergilemektedir. Bireysel duygusal dayanıklılığı ve profesyonel direnci artırmaya yönelik temel stratejiler aşağıda sırasıyla ve detaylıca sıralanmıştır:
+
+1. Düşünce Kalıplarını Dönüştürmek ve Bilişsel Esneklik:
+Stres anlarında olaylara verilen ilk tepkiler genelde felaketleştirme veya aşırı genelleme eğilimindedir. Zorluklarla karşılaşıldığında "Bu durumun üstesinden nasıl gelebilirim?" veya "Bu tecrübe bana ne öğretti?" sorularını sormak bilişsel esneklik kazandırır. Hataları bir başarısızlık olarak değil, önemli bir öğrenme, gelişim, tecrübe edinme ve olgunlaşma fırsatı olarak görmek duygusal direnci belirgin şekilde güçlendirir ve kişisel gelişimi destekler.
+
+2. Sınır Koyabilmek ve Öz Bakım Farkındalığı:
+İş ve özel hayat arasındaki sağlıklı dengeyi korumak, tükenmişlik sendromunu (Burnout) engellemenin ve zihinsel tazeliği korumanın en temel anahtarıdır. Gün içinde kısa zihinsel molalar vermek, düzenli fiziksel aktivite yapmak, kaliteli uyku düzenine özen göstermek ve mesai saatleri dışında zihni dinlendirmek stres seviyesini gözle görülür şekilde düşürür.
+
+3. Destek Ağları Oluşturmak ve Açık İletişim:
+Stresli dönemlerde yalnız kalmak yerine mesai arkadaşlarıyla, yöneticilerle, mentörlerle ve aileyle duygu ve sorumlulukları paylaşmak zihinsel yükü hafifletir. Yardım istemekten çekinmemek profesyonel bir olgunluk ve farkındalık göstergesidir.
+
+Şirketimizin sunduğu Bireysel Danışmanlık ve Psikolojik Destek Programı kapsamında uzman psikologlarımızla ücretsiz görüşmeler gerçekleştirebilir, akademi portalımızdaki 'İş Hayatında Stres Yönetimi ve Duygusal Dayanıklılık' online eğitimlerine dilediğiniz zaman katılarak yetkinliklerinizi güçlendirebilirsiniz. Unutmayın ki ruh sağlığınız, zihinsel huzurunuz, motivasyonunuz ve iş-yaşam dengeniz şirketimiz için her zaman en değerli, en kıymetli, en hassas ve en öncelikli konumdadır.
+
+Kontrol Özeti:
+İstenen Sayı: 5
+Üretilen Sayı: 5

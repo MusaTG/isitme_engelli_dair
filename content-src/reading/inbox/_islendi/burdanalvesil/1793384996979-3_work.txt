@@ -1,0 +1,136 @@
+### | Kurumsal Veri Güvenliği ve Erişim Hakları Politikası
+lang: tr | cat: work | sub: email | tags: e-posta, güvenlik, veri, politika, duyuru | level: 3
+---
+Sayın Departman Yöneticileri ve Kıdemli Birim Sorumluları,
+
+Şirketimizin uzun vadeli küresel büyüme stratejisi, dijital dönüşüm hedefleri ve uluslararası pazarlardaki yüksek rekabet gücünü koruma vizyonu doğrultusunda, kurumsal veri yönetimi süreçlerimizi uluslararası güvenlik standartlarına tam uyumlu hale getirmek amacıyla kapsamlı bir Veri Yönetişimi, Bilgi Güvenliği ve Sistem Erişim Hakları Politika Güncellemesi gerçekleştirilmiştir. İşbu bilgilendirme e-postası, yönetim kurulumuzun onayıyla yürürlüğe giren yeni çalışma ilkelerini, veri güvenliği prosedürlerini ve tüm idari birimlerin uymakla yükümlü olduğu operasyonel esasları detaylandırmak üzere kaleme alınmıştır.
+
+Şirketimizin bilgi teknolojileri ve yazılım altyapısında gerçekleştirilen son teknik güncellemelerle birlikte, kurumsal veri tabanlarına ve müşteri bilgi sistemlerine erişim yetkileri küresel güvenlik standardı olan 'En Az Yetki İlkesi' (Principle of Least Privilege) çerçevesinde yeniden yapılandırılmıştır. Buna göre, her çalışanımız bundan böyle yalnızca doğrudan yürütmekle yükümlü olduğu projeler, görev tanımları ve operasyonel iş süreçleri kapsamında zorunlu olan veri kümelerine güvenli erişim sağlayabilecektir. Departmanlar arası veri paylaşımı talepleri, hassas finansal veriler, müşteri kişisel kayıtları (KVKK) ve ticari sır niteliğindeki dokümanlara erişim istekleri, ilgili birim yöneticisinin sistem üzerindeki dijital onayı ve Bilgi Güvenliği Komitesi'nin detaylı incelemesi sonrasında süreli ve kısıtlı olarak tanımlanacaktır.
+
+Yeni veri güvenliği politikamız uyarınca şirket genelinde öne çıkan temel sorumluluklar ve uygulama adımları aşağıda özetlenmiştir:
+- Çok Faktörlü Kimlik Doğrulama: Tüm kurumsal sistem girişlerinde, e-posta erişimlerinde ve uzaktan bağlantılarda mobil kimlik doğrulama uygulaması kullanımı zorunlu hale getirilmiştir.
+- Veri Sınıflandırması ve Etiketleme: Şirket içinde üretilen tüm dijital belgelerin, sunumların ve e-posta eklerinin 'Halka Açık', 'Kurum İçi', 'Gizli' veya 'Çok Gizli' etiketleriyle sistem üzerinde işaretlenmesi gerekmektedir.
+- Üçüncü Taraf Veri Aktarımı: Tedarikçiler veya dış kaynak hizmet sağlayıcılarıyla veri paylaşımı yapılmadan önce Hukuk Departmanı tarafından onaylanmış Gizlilik Sözleşmesi (NDA) imzalanması şarttır.
+
+Söz konusu güvenlik politikalarına ilişkin tüm detaylı kılavuz dokümanlarına, resimli kullanım rehberlerine ve prosedür kitapçıklarına kurumsal iç ağımızdaki (intranet) 'Politikalar ve Prosedürler' sekmesinden dilediğiniz zaman kolayca ulaşabilirsiniz. Birim yöneticilerimizin ekiplerindeki tüm personeli bu kurallar hakkında bilgilendirmesini ve uyum süreçlerini yakından takip etmesini önemle rica ederiz.
+
+Göstereceğiniz hassasiyet, kurumsal sorumluluk anlayışı ve değerli iş birliği için şimdiden çok teşekkür ederiz.
+
+Saygılarımla,
+Dr. Erdem Karaca
+Bilgi Güvenliği ve Uyum Direktörü
+Lider Finansal Teknolojiler A.Ş.
+
+### | Küresel Tedarik Zinciri ve Lojistik Değerlendirme Tutanağı
+lang: tr | cat: work | sub: minutes | tags: toplantı, tutanak, tedarik, lojistik, operasyon | level: 2
+---
+Toplantı Tarihi: 24 Ekim 2026
+Toplantı Saati: 14.00 - 16.30
+Toplantı Yeri: B Blok 3 Nolu Yönetim Kurulu Salonu
+Toplantı Başkanı: Serdar Aksoy (Tedarik Zinciri Direktörü)
+Not Tutan: Ayşe Yılmaz (Operasyon Asistanı)
+
+Katılımcılar:
+- Serdar Aksoy (Tedarik Zinciri Direktörü)
+- Meltem Şahin (Lojistik ve Depo Müdürü)
+- Hakan Öztürk (Satın Alma Uzmanı)
+- Gamze Arslan (Kalite Güvence Sorumlusu)
+- Volkan Doğan (Planlama Müdürü)
+
+Gündem Maddeleri:
+1. Son çeyrek hammadde tedarik süreçlerinin ve nakliye maliyetlerinin değerlendirilmesi
+2. Liman ve gümrük operasyonlarında yaşanan dönemsel gecikmelerin analizi
+3. Yerli tedarikçi ağının genişletilmesi ve alternatif tedarik rotalarının kurgulanması
+4. Depo stok seviyelerinin ve kritik malzeme emniyet stoklarının güncellenmesi
+
+Görüşmeler ve Alınan Kararlar:
+Toplantı, Serdar Aksoy'un açılış konuşması ve son üç aydaki küresel tedarik zinciri aksamalarını detaylıca özetlemesiyle resmi olarak başladı. İlk gündem maddesinde Meltem Şahin, deniz yolu nakliye navlun fiyatlarındaki artışların operasyon bütçesine etkisini hazırladığı sunumla aktardı. Taşımacılık bütçesindeki %12'lik sapmayı engellemek adına kara yolu ve demir yolu kombine taşımacılık modellerinin acilen değerlendirilmesine oy birliğiyle karar verildi.
+
+İkinci gündem maddesinde, ithal hammadde girişlerinde gümrük işlemlerinin uzaması sebebiyle fabrika üretim hatlarında yaşanan kısa süreli duraksamalar detaylıca ele alındı. Gamze Arslan, gümrük müşavirliği firmasıyla yapılan hizmet seviyesi sözleşmesinin (SLA) performans göstergeleri açısından derhal revize edilmesi gerektiğini vurguladı.
+
+Üçüncü gündem maddesinde Hakan Öztürk, yerli hammadde üreticileriyle yapılan ön görüşme raporlarını kurul üyeleriyle paylaştı. İthal edilen plastik granül ve ambalaj malzemelerinin %30'unun yerli üreticilerden tedarik edilmesinin maliyet ve zaman avantajı sağlayacağı kararlaştırıldı.
+
+Alınan Eylem Kararları:
+1. Yerli granül üreticileriyle deneme siparişi sözleşmelerinin imzalanması (Sorumlu: Hakan Öztürk - Son Tarih: 10 Kasım)
+2. Kombine taşımacılık navlun tekliflerinin toplanması ve karşılaştırılması (Sorumlu: Meltem Şahin - Son Tarih: 5 Kasım)
+3. Depo güvenlik stok miktarlarının iki haftalık üretim ihtiyacını karşılayacak seviyeye yükseltilmesi (Sorumlu: Volkan Doğan - Son Tarih: 1 Kasım)
+
+Bir sonraki takip toplantısının 10 Kasım tarihinde yapılmasına karar verilerek toplantı kapatılmıştır.
+
+### | Haftalık İdari Operasyon ve Tesis Yönetimi Raporu
+lang: tr | cat: work | sub: report | tags: rapor, operasyon, tesis, yönetim, bakım | level: 1
+---
+Giriş ve Genel Değerlendirme:
+Bu kısa haftalık faaliyet ve performans raporu, şirketimizin merkez tesislerinde ve bölge müdürlüklerinde yürütülen idari operasyon durumunu, bina yönetim faaliyetlerini, bilişim altyapı bakımlarını, çevre düzenlemelerini ve personel çalışma ortamı standartlarını detaylıca özetlemektedir.
+
+Operasyonel Gelir ve Maliyet Özeti:
+Hafta boyunca merkez binamızda ve bölge ofislerimizde yürütülen idari ve teknik hizmetler planlanan çeyreklik bütçe sınırları dahilinde başarıyla tamamlanmıştır. Uygulanan akıllı bina otomasyonu ve enerji tasarrufu önlemleri sayesinde elektrik ve su tüketim maliyetlerimizde geçen haftaya kıyasla %8 oranında somut bir düşüş sağlanmıştır. Ayrıca atık yönetimi, sıfır atık belgelendirme ve ambalaj geri dönüşüm çalışmalarından kurumumuza ek finansal gelir elde edilmiştir.
+
+Tamamlanan Başlıca Faaliyetler ve Bakım Çalışmaları:
+- Merkez bina iklimlendirme ve havalandırma santrallerinin periyodik altı aylık kapsamlı teknik bakımları yapılmış, tüm filtreler hijyenik standartlara uygun olarak yenilenmiştir.
+- Tüm bilgisayar ve sunucu sistemlerinin güvenlik yamaları yüklenmiş, veri tabanı yedekleme ve felaket kurtarma testleri Bilgi Teknolojileri ekibimiz tarafından başarıyla gerçekleştirilmiştir.
+- Yemekhane hizmetlerinde başlatılan memnuniyet anketine 350 çalışan katılmış, genel memnuniyet oranı %85 olarak ölçülmüştür. Elde edilen yapıcı sonuçlar doğrultusunda menü çeşitliliği artırılacak ve diyet menü alternatifleri eklenecektir.
+- Bahçe peyzaj ve açık alan aydınlatma armatürlerinin LED dönüşümü tamamlanmış, gece güvenliği artırılmıştır.
+- Otopark giriş kontrol sistemleri ve plaka tanıma kameraları güncellenerek erişim güvenliği en üst seviyeye çıkarılmıştır.
+
+Tespit Edilen Aksaklıklar ve Alınan Önlemler:
+- B Blok 2. kat mutfak alanında su tesisatı sızıntısı yaşanmış, teknik destek ekibi tarafından 2 saat içinde müdahale edilerek boru tesisatı tamamen onarılmış ve zemin hijyeni sağlanmıştır.
+- Şirket araç filosundaki iki binek aracın periyodik muayene ve bakım zamanı gelmiş olup araçlar yetkili servise yönlendirilmiş, ikame araçlar geçici olarak devreye sokulmuştur.
+
+Sonuç ve Önümüzdeki Hafta Planı:
+Gelecek hafta merkez bina asansörlerinin yıllık resmi muayenesi gerçekleştirileceğinden, mesai saatleri içinde dönüşümlü servis dışı kalma durumu yaşanacaktır. Tüm personelin önceden bilgilendirilmesi ve gerekli güvenlik önlemlerinin eksiksiz ve titizlikle alınması planlanmıştır.
+
+### | Dijital İnsan Kaynakları ve Çalışan Deneyimi Platformu
+lang: tr | cat: work | sub: project | tags: proje, insan kaynakları, dijital, çalışan, otomasyon | level: 2
+---
+Proje Tanımı ve Amacı:
+Çalışan Deneyimi ve Dijital İnsan Kaynakları Platformu Projesi, şirketimizin hızla büyüyen organizasyon yapısında çalışan memnuniyetini artırmak, oryantasyon süreçlerini dijitalleştirmek, performans değerlendirme mekanizmalarını şeffaf hale getirmek, iç iletişimi güçlendirmek ve insan kaynakları operasyonlarını tek bir merkezden yönetmek amacıyla hayata geçirilmektedir. Proje, çalışanlarımızın mobil cihazlarından veya bilgisayarlarından tüm İK süreçlerine kesintisiz, hızlı, şeffaf ve güvenli erişimini hedeflemektedir.
+
+Proje Bileşenleri ve Kapsam:
+1. Dijital Onboarding ve Oryantasyon Modülü: Yeni işe başlayan çalışanların şirket içi dokümanlara, eğitim videolarına, organizasyon şemasına ve ekip tanıtımlarına kolayca ulaşabileceği etkileşimli modül.
+2. Performans ve Hedef Yönetimi Modülü: Yıllık ve çeyreklik bireysel hedeflerin, yetkinlik değerlendirmelerinin ve geri bildirim görüşmelerinin izlenebileceği şeffaf alt panel.
+3. İzin, Masraf ve Avans Talepleri Modülü: Çalışanların yıllık izin, mazeret izni, seyahat masrafı ve avans taleplerini dijital imza ile saniyeler içinde onaya sunabileceği sistem.
+4. Anket ve Ödüllendirme Platformu: Çalışanların fikirlerini anlık olarak iletebileceği anket araçları ve ayın çalışanı tebrik mekanizması.
+5. Kariyer ve Yetkinlik Gelişim Paneli: Çalışanların katılabileceği iç eğitimlerin, sertifika programlarının, akademilerin ve iç kariyer fırsatlarının listelendiği modül.
+
+Beklenen Kazanımlar ve Başarı Göstergeleri:
+Projenin faaliyete geçmesiyle birlikte İK departmanının evrak ve form onaylama operasyonel yükü %60 azalacaktır. Yeni çalışanların oryantasyon tamamlama süreleri 2 haftadan 3 güne düşecek, çalışan bağlılığı skorlarında %25'lik bir artış sağlanacaktır. Ayrıca iç iletişim, takım ruhu, çalışma motivasyonu, kurumsal aidiyet ve performans kalitesi belirgin şekilde güçlenecektir.
+
+Proje Bütçesi ve Uygulama Takvimi:
+Projenin toplam yatırım bütçesi 850.000 TL olarak hesaplanmış olup, yazılım geliştirme, entegrasyon, güvenlik ve test süreçleri toplam 4 ay sürecektir.
+- Tasarım ve Analiz Fazı: 1 Kasım - 30 Kasım (Sorumlu: İş Analisti Ekibi)
+- Yazılım Geliştirme Fazı: 1 Aralık - 31 Ocak (Sorumlu: BT Yazılım Ekibi)
+- Test ve Kullanıcı Eğitimleri: 1 Şubat - 28 Şubat (Sorumlu: İK ve Kalite Ekibi)
+- Canlıya Geçiş, Yayın ve Genel Değerlendirme: 1 Mart (Sorumlu: Tüm Şirket Yönetimi)
+
+### | Ofis İçi İSG Yönetmeliği ve Alan Kullanım İlkeleri
+lang: tr | cat: work | sub: workplace | tags: iş yeri, güvenlik, ofis, düzen, kural | level: 3
+---
+Sayın Mesai Arkadaşlarım,
+
+Şirketimizin merkez binasında ve bölge temsilciliklerimizde daha güvenli, sağlıklı, hijyenik, huzurlu, düzenli, disiplinli ve verimli bir çalışma ortamı yaratmak amacıyla oluşturulan İş Sağlığı ve Güvenliği (İSG) Yönetmeliği ile Alan Kullanım Esasları güncellenmiştir. Tüm çalışanlarımızın iş yerinde uymakla yükümlü olduğu temel kurallar, acil durum prosedürleri, sağlık protokolleri ve ortak alan kullanım ilkeleri aşağıda detaylarıyla bilgilerinize sunulmuştur:
+
+1. İş Sağlığı, Güvenliği ve Acil Durum Prosedürleri:
+- Ofis alanlarında ve koridorlarda bulunan acil çıkış kapılarının, yangın merdivenlerinin ve yangın söndürme tüplerinin önü hiçbir şekilde koli, arşiv dosyası veya kişisel eşyalarla kapatılmamalıdır.
+- Binamızda düzenlenecek olan yıllık habersiz yangın ve tahliye tatbikatlarına tüm çalışanlarımızın katılımı zorunludur. Tatbikat alarmı duyulduğunda asansörler kesinlikle kullanılmamalı, acil çıkış merdivenleri aracılığıyla bahçedeki toplanma alanına geçilmelidir.
+- Çalışanlarımızın ilk yardım dolaplarına ve sağlık odasına erişimi 24 saat açıktır. Yaşanan küçük iş kazaları veya rahatsızlıklar derhal İSG Uzmanına bildirilmelidir.
+
+2. Ortak Alan, Kafeterya ve Mutfak Kullanım İlkeleri:
+- Her katta bulunan kafeterya ve çay ocağı alanları ortak kullanımımızdadır. Bulaşıkların tezgâhta bırakılmaması, yemek sonrası masaların temiz tutulması ortak yaşam saygısının bir gereğidir.
+- Mutfak buzdolaplarında saklanan ambalajlı gıdaların üzerine isim ve tarih yazılması gerekmektedir. Cuma günleri mesai bitiminde buzdolabı genel temizliği yapılacaktır.
+
+3. Çalışma Masaları, Temiz Masa İlkesi ve Bilgi Gizliliği:
+- Çalışanlarımızın mesai bitiminde masalarında teknik cihaz, bilgisayar veya şirket içi gizli doküman bırakmaması, tüm kilitli dolapları kapalı tutması gerekmektedir.
+- Bireysel iklimlendirme ve klimaların hava akış yönleri mesai arkadaşlarını rahatsız etmeyecek şekilde özenle ayarlanmalıdır.
+
+4. Ergonomi, Kat Düzeni ve Sigara İçme Alanları:
+- Ofis içi çalışma sandalyelerinin ergonomik ayarları kişi bazlı yapılmalı, kablo dağınıklığı önlenmelidir.
+- Bina girişlerinde, yangın merdivenlerinde ve balkonlarda sigara içilmesi kesinlikle yasak olup, sadece bahçedeki özel tahsis edilmiş camlı sigara içme alanları kullanılmalıdır.
+
+Güvenli, sağlıklı ve huzurlu bir çalışma ortamını birlikte yaşatmak adına göstereceğiniz özen, hassasiyet ve iş birliği için teşekkür ederiz.
+
+İş Sağlığı ve Güvenliği Kurulu
+
+Kontrol Özeti:
+İstenen Sayı: 5
+Üretilen Sayı: 5

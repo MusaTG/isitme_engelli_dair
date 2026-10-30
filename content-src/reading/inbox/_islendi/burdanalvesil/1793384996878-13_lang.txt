@@ -1,0 +1,188 @@
+### | Mahalle Spor Salonunda Tanışma
+lang: tr | cat: dialogue | sub: intro | tags: tanışma, spor, salon, komşu, sağlık | level: 1
+---
+Murat: Merhaba, iyi günler! Sizi son birkaç haftadır mahallemizin bu güzel spor salonunda görünce selam vermek ve tanışmak istedim. Ben Murat.
+
+Efe: Merhaba Murat Bey! Ben de Efe. Çok memnun oldum. Mahallenize ve bu sokağa daha iki ay önce yeni taşındım.
+
+Murat: Mahallemize ve kulübümüze tekrar hoş geldiniz Efe Bey! Ben altı yıldır yan sokaktaki beyaz apartmanda oturuyorum. Herhangi bir ihtiyacınız veya sorunuz olursa lütfen çekinmeyin.
+
+Efe: Çok naziksiniz Murat Bey, çok teşekkür ederim. Mahallemizin bu kadar sakin, yeşil, düzenli ve komşuluk ilişkilerinin sıcak olması beni gerçekten çok mutlu etti.
+
+Murat: Evet, mahallemiz gerçekten şehir gürültüsünden uzak, son derece huzurlu, güvenli ve samimi bir yerdir. Spor salonumuzun işletmecisi Hakan Bey de çok tatlı ve yardımsever bir insandır.
+
+Efe: Evet, Hakan Bey kayıt olduğum ilk gün bana salonu detaylıca gezdirdi, egzersiz aletlerini tanıttı ve spor programım hakkında çok faydalı tavsiyeler verdi.
+
+Murat: Sizi elinizde tempolu yürüyüş ve kardiyo programıyla görünce sormak istedim, düzenli olarak sabah sporu yapmaya yeni mi başladınız?
+
+Efe: Evet, masa başı iş hayatının getirdiği hareketsizliği azaltmak ve daha sağlıklı yaşamak adına haftada üç gün düzenli kardiyo ve yürüyüş yapmaya karar verdim.
+
+Murat: Ne kadar harika ve doğru bir karar! Biz de salondaki birkaç komşumuzla birlikte hafta sonları sabahları yakındaki orman parkında tempolu yürüyüşler yapıyoruz.
+
+Efe: Gerçekten mi? Böyle açık hava yürüyüş grubunun olması harika bir tesadüf oldu. Ben de aranıza katılmayı çok isterim.
+
+Murat: Yürüyüş grubumuzda her cumartesi sabahı açık havada tempolu yürür, ardından çam ağaçlarının altında taze çay içip keyifle sohbet ederiz.
+
+Efe: Kulağa son derece keyifli, dinlendirici, sağlıklı ve sosyal bir etkinlik gibi geliyor Murat Bey.
+
+Murat: Önümüzdeki cumartesi sabahı saat sekizde parkın ana giriş kapısında buluşacağız. Sizi de aramızda görmekten büyük mutluluk duyacağız Efe Bey.
+
+Efe: Nazik davetiniz ve samimi karşılamanız için çok teşekkür ederim Murat Bey, cumartesi sabahı mutlaka parkta olacağım.
+
+Murat: Yürüyüş grubundaki diğer komşularımızla da tanışmış olursunuz, harika ve sağlıklı bir sabah geçireceğimizden emin gibiyim.
+
+Efe: Ben de heyecanla cumartesi gününü bekliyorum Murat Bey.
+
+Murat: Anlaştık o zaman Efe Bey! Tekrar aramıza hoş geldiniz, cumartesi günü görüşmek üzere.
+
+Efe: Görüşmek üzere Murat Bey, size de iyi sporlar ve harika günler dilerim!
+
+Murat: Çok teşekkürler Efe Bey, hoşça kalın!
+
+### | Kütüphanede Sessizlik Sorununun Çözümü
+lang: tr | cat: dialogue | sub: problem | tags: sorun, kütüphane, gürültü, çalışma, çözüm | level: 2
+---
+Serkan: Afedersiniz Gizem Hanım, yan masanızda ders çalışan bir öğrenci arkadaşınız olarak çok kısa bir konuda anlayışınızı, duyarlılığınızı ve yardımınızı rica etmek istemiştim.
+
+Gizem: Merhaba Serkan Bey! Buyurun lütfen, masamla, kulaklığımla veya bilgisayar çalışmamla ilgili beklenmedik bir rahatsızlık mı yaşandı acaba?
+
+Serkan: Aslında çok büyük bir sorun değil ancak bilgisayarınızda hızlı yazı yazarken kulaklığınızdan dışarıya sızan yüksek sesli müzik ritimleri ve sert tuş basış sesleri sessiz çalışma salonunda biraz fazla yankılanıyor.
+
+Gizem: Gerçekten mi? İnanın durumun hiç ama hiç farkında değildim Serkan Bey! Kulaklığımın dışarıya bu kadar ses verdiğini ve ders çalışmanızı olumsuz etkilediğini asla tahmin edemedim.
+
+Serkan: Nazik, samimi, kibar ve yapıcı anlayışınız için çok teşekkür ederim Gizem Hanım. Yaklaşan üniversite sınavına hazırlandığım için yoğun odaklanma gerektiren matematik sorularını çözerken biraz hassas davranabiliyorum.
+
+Gizem: Son derece haklısınız Serkan Bey. Kulaklığımın ses seviyesini hemen düşürüyorum ve klavye yazım tempomu daha yumuşak hale getiriyorum. Sınav hazırlığınızda sizi rahatsız ettiğim için içtenlikle özür dilerim.
+
+Serkan: Gösterdiğiniz bu yüksek nezaket, anlayışlı tutum, duyarlılık ve hızlı çözüm yaklaşımınız için ben çok teşekkür ederim Gizem Hanım. Özür dilemenize hiç gerek yok, durumu fark etmeyebilirsiniz.
+
+Gizem: Lütfen benzer bir ses veya rahatsızlık yaşandığında hiç çekinmeden bana doğrudan iletin. Kütüphanedeki sessiz, huzurlu ve verimli çalışma ortamı hepimizin ortak ihtiyacıdır.
+
+Serkan: Çok sağ olun Gizem Hanım, yapıcı tutumunuz için tekrar teşekkür eder, sınavlarımda ve derslerimde başarılar dilerim.
+
+Gizem: Ben teşekkür ederim Serkan Bey, sınavlarınızda yürekten başarılar, zihin açıklığı ve kolaylıklar dilerim, iyi ve verimli çalışmalar!
+
+Serkan: Çok teşekkürler Gizem Hanım, size de verimli, huzurlu ve harika çalışmalar dilerim!
+
+Gizem: Sağ olun Serkan Bey, size de iyi günler ve başarılar dilerim!
+
+Serkan: Hoşça kalın Gizem Hanım, kolay gelsin!
+
+Gizem: Hoşça kalın Serkan Bey, iyi günler!
+
+### | Gurme İtalyan Restoranında Özel Akşam Yemeği
+lang: tr | cat: dialogue | sub: restaurant | tags: restoran, akşam yemeği, italyan, biftek, sipariş | level: 3
+---
+Garson: Otantik İtalyan lezzetleri, taze makarnalar ve özel ızgara çeşitleri sunan gurme restoranımıza hoş geldiniz Efendim! Sizi bahçe manzaralı mum ışıklı masamıza memnuniyetle alabilir miyim?
+
+Berna: Hoş bulduk! İlgilendiğiniz, güler yüzle karşıladığınız ve yer gösterdiğiniz için çok teşekkür ederim. Bahçe masanız akşam serinliğinde son derece keyifli, sakin, şık ve huzurlu bir ortama sahip.
+
+Garson: Masanıza taze İtalyan zeytinyağı tabağımızı, fırınlanmış sarımsaklı ekmekçikleri ve akşam yemeği menümüzü hemen takdim ediyorum. Şefimiz bu akşam dinlendirilmiş dana biftek ve taze trüf mantarlı makarnayı özenle hazırladı.
+
+Berna: Menünüzü dikkatlice inceledim. Başlangıç olarak taze manda mozzarellalı ve organik domatesli Caprese salatası alabilir miyiz acaba?
+
+Garson: Tabii ki Efendim. Caprese salatamız sızma zeytinyağı, taze fesleğen yaprakları, ceviz parçaları ve balzamik sirke sosu ile porselen tabakta servis edilir.
+
+Berna: Çok iştah açıcı görünüyor. Ana yemek olarak odun ateşinde pişirilmiş meşe odunu aromalı özel dana biftek tabağı tercih edeceğiz. Bifteğin yanında hangi garnitürler sunuluyor?
+
+Garson: Odun ateşinde fırınlanmış özel dana bifteğimizin yanında baharatlı fırın patates dilimleri, karamelize arpa soğanı, ızgara kuşkonmaz ve taze biberiye otu servis edilmektedir.
+
+Berna: Harika ve çok dengeli bir tabakmış! İçecek olarak taze sıkılmış nar ve portakal suyu harmanını tercih edebilir miyiz acaba?
+
+Garson: Özel taze meyve karışımınızı siparişlerinize memnuniyetle ekliyorum. Tatlı olarak yemek sonrasında meşhur taze maskarpone peynirli tiramisumuzdan denemek ister misiniz?
+
+Berna: Tiramisuyu yemek sonrasındaki kahve molamızda değerlendirelim, şimdilik ana yemeğimiz yeterli olacaktır.
+
+Garson: Siparişlerinizi detaylıca not aldım Berna Hanım. Salatanız beş dakika içinde, sıcak bifteğiniz ise en fazla on beş dakika içinde özenle servis edilecektir.
+
+Berna: Detaylı açıklamalarınız, güler yüzlü kaliteli hizmetiniz, hızlı servisiniz ve ilginiz için çok teşekkür ederim.
+
+Garson: Afiyet olsun Berna Hanım, harika, lezzetli, neşeli ve huzurlu bir akşam geçirmenizi dilerim!
+
+Berna: Çok teşekkürler, iyi çalışmalar dilerim!
+
+Garson: Sağ olun Berna Hanım, afiyet olsun!
+
+### | Organik Zeytinyağı ve Yöresel Şarküteri Alışverişi
+lang: tr | cat: dialogue | sub: shopping | tags: alışveriş, zeytinyağı, organik, şarküteri, gurme | level: 2
+---
+Selim: Hayırlı işler Nuri Usta! Dükkânınızın vitrininde sergilenen el yapımı yöresel peynirler, soğuk sıkım zeytinyağları ve katkısız şarküteri çeşitleri caddeden geçerken dikkatimi çekti.
+
+Nuri: Hoş geldiniz Beyefendi! Yıllardır ülkemizin farklı bölgelerindeki yerel üreticilerden doğrudan temin ettiğimiz doğal, taze, katkısız ve kaliteli şarküteri ürünlerini müşterilerimizle buluşturuyoruz.
+
+Selim: Harika ve takdir edilesi bir hizmet. Özellikle Ege bölgesine ait soğuk sıkım natürel sızma zeytinyağınızı ve Ezine peyniri çeşitlerinizi detaylıca incelemek istiyorum.
+
+Nuri: Şu cam raflarda gördüğünüz zeytinyağlarımız Kazdağları eteklerindeki asırlık zeytin ağaçlarından erken hasat döneminde soğuk sıkım yöntemiyle özenle elde edilmiştir.
+
+Selim: Zeytinyağınızın dizem asitlik oranı ve aroma profili hakkında detaylı bilgi alabilir miyim acaba?
+
+Nuri: Zeytinyağımızın dizem asitlik oranı sıfır virgül üç seviyesindedir. Meyvemsi aroması oldukça yüksek, genizde hafif yakıcılığı olan birinci sınıf bir sızma zeytinyağıdır.
+
+Selim: Muazzam bir kalite gerçekten. Şarküteri reyonunuzda yer alan Ezine peyniri ve Kars eski kaşarının olgunlaşma süreleri nedir acaba?
+
+Nuri: Ezine peynirimiz doğal koyun sütünden üretilip özel koruma tenekelerinde en az sekiz ay boyunca sabırla dinlendirilmiştir.
+
+Selim: Peynirlerin lezzetine ve tuz oranına bakmak adına küçük bir tadım yapma imkânımız var mıdır acaba?
+
+Nuri: Tabii ki Beyefendi, hemen tahta sunum tabağında taze kesip size ikram edebilirim.
+
+Selim: Harika! Peynirin lezzetine ve kıvamına hayran kaldım. İki litre soğuk sıkım zeytinyağı ile yarım kilo Kars eski kaşarı almak istiyorum.
+
+Nuri: İki litre zeytinyağımız sekiz yüz lira, yarım kilo eski kaşarımız iki yüz elli lira tutuyor. Toplam ödemeniz bin elli liradır.
+
+Selim: Cam şişedeki zeytinyağının kırılmaması için paketlemeyi biraz özenli yapabilir misiniz?
+
+Nuri: Tabii ki Beyefendi, kalın havalı ambalaj malzemesine sarıp korumalı çantaya yerleştiriyorum.
+
+Selim: Ödemeyi temassız kredi kartımla yapmak istiyorum.
+
+Nuri: Pos cihazımız hazırdır, kartınızı dokundurabilirsiniz. Doğal ürünlerimizi afiyetle ve sağlıkla tüketmenizi dilerim.
+
+Selim: İlginiz, detaylı bilgilendirmeniz, taze ürünleriniz ve güler yüzünüz için çok teşekkür ederim Nuri Usta!
+
+Nuri: Rica ederim Beyefendi, iyi ve sağlıklı günler dilerim, her zaman yine bekleriz!
+
+Selim: Çok teşekkürler Nuri Usta, hayırlı işler dilerim!
+
+### | Müşteri İlişkileri Temsilcisi Mülakatı
+lang: tr | cat: dialogue | sub: interview | tags: mülakat, müşteri, hizmetler, iletişim, kariyer | level: 1
+---
+Derya: Hoş geldiniz Hakan Bey. Şirketimizin müşteri ilişkileri ve iletişim temsilcisi pozisyonu için başvurunuzu detaylıca inceledik ve sizinle yüz yüze tanışmak istedik.
+
+Hakan: Hoş bulduk Derya Hanım. Kurumsal yapısıyla sektörde öncü, yenilikçi ve prestijli olan şirketinizde bu önemli pozisyon için değerlendirilmekten büyük memnuniyet duyuyorum.
+
+Derya: Öz geçmişinizde daha önce iki yıl boyunca kurumsal bir firmada müşteri hizmetleri temsilcisi olarak çalıştığınız görülüyor. Bu süreçte edindiğiniz tecrübeleri ve sorumlulukları özetler misiniz?
+
+Hakan: Müşteri taleplerini çağrı merkezinde güler yüzle karşılamak, şikâyet ve önerileri doğru analiz edip hızlı çözümler üretmek, müşteri memnuniyetini en üst düzeyde tutmak temel sorumluluklarımdı.
+
+Derya: Peki yoğun çağrı trafiğinin yaşandığı stresli çalışma saatlerinde sakinliğinizi ve müşteri memnuniyetini nasıl korursunuz?
+
+Hakan: Empati kurarak, profesyonelliğimi ve pozitif iletişim dilimi koruyarak her müşteriyi sabırla dinler, sorunu en pratik ve doğru şekilde çözmeye odaklanırım.
+
+Derya: Ekip çalışmasında arkadaşlarınızla uyumu sağlamak ve şirket hedeflerine ulaşmak adına ne tür bir yaklaşım benimsersiniz?
+
+Hakan: İş birliğini, açık iletişimi, bilgi paylaşımını ve karşılıklı yardımlaşmayı ön planda tutarım. Ekip hedeflerine ulaşmak için üzerime düşen görevi eksiksiz yerine getiririm.
+
+Derya: Şirketimize ve ekibimize katacağınız en önemli kişisel yetkinliğiniz sizce nedir Hakan Bey?
+
+Hakan: Yüksek dinleme ve ikna becerim, çözüm odaklı yaklaşımım, kriz yönetimindeki sakinliğim ve güçlü insan ilişkilerimdir.
+
+Derya: Vardiyalı çalışma saatlerimize ve esnek mesai takvimimize uyum sağlama konusunda herhangi bir kısıtlamanız bulunuyor mu acaba?
+
+Hakan: Vardiyalı çalışma düzenine ve esnek mesai saatlerine tamamen uyum sağlayabilirim Derya Hanım.
+
+Derya: Çok güzel ve tatmin edici açıklamalar Hakan Bey. Mülakat değerlendirme sonucumuzu önümüzdeki hafta içinde e-posta ile tarafınıza detaylıca bildireceğiz.
+
+Hakan: Zaman ayırdığınız, ilginiz, detaylı bilgilendirmeniz ve nazik kabulünüz için çok teşekkür ederim Derya Hanım.
+
+Derya: Biz teşekkür ederiz Hakan Bey, çalışmalarınızda başarılar, kolaylıklar ve iyi günler dileriz!
+
+Hakan: Çok teşekkürler Derya Hanım, iyi çalışmalar dilerim!
+
+Kontrol Özeti:
+İstenen Sayı: 5
+Üretilen Sayı: 5
+
+---
+
+`13-kisa.txt` kaynağındaki 5 kısa diyalog metni kılavuza ve kelime alt sınırlarına tam uyumlu olarak üretilmiştir. Sıradaki dosya (`14-kisa.txt` vb.) ile devam etmek isterseniz "14 ile devam" yazmanız yeterlidir!

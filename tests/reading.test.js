@@ -1,6 +1,7 @@
 // Okuma Egzersizi testleri: kaynak biçimi, gövde ayrıştırma, süre/aşama, Türkçe katlama ve arama,
 // konum/işaret taşıma, ilerleme durumu, listeler ve süreli oturum, kalite denetimi, dışarıdan aktarma,
 // derlenmiş kütüphanenin bütünlüğü ve "mikrofon yok" güvencesi.
+import { fileURLToPath } from 'node:url';
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { readFile, readdir } from 'node:fs/promises';
@@ -14,7 +15,7 @@ import { chunkText } from '../js/reading/readaloud.js';
 import { textProblems, catDefaults, buildLang } from '../tools/build-reading.mjs';
 import { validatePack } from '../js/views/read-mine.js';
 
-const ROOT = new URL('..', import.meta.url).pathname;
+const ROOT = fileURLToPath(new URL('..', import.meta.url));
 const cats = JSON.parse(await readFile(join(ROOT, 'content-src/reading/categories.json'), 'utf8'));
 const catById = Object.fromEntries(cats.categories.map((c) => [c.id, c]));
 const long = (n) => Array.from({ length: n }, (_, i) => `Bu ${i + 1}. cümle okuma pratiği için yazıldı.`).join(' ');
@@ -124,6 +125,11 @@ test('kalite denetimi: kısa, geçersiz alt kategori, yarıda kesilme yakalanır
   assert.match(msgs, /yarıda/);
   const ok = makeText({ lang: 'tr', cat: 'daily', num: 2, title: 'Y', meta: { sub: 'home' }, body: long(30) });
   assert.equal(textProblems(ok, catById.daily, cats).filter((p) => !p.warn).length, 0);
+  // E-posta imzası kesilme sayılmaz; noktalamasız uzun son paragraf sayılır
+  const signed = makeText({ lang: 'tr', cat: 'daily', num: 3, title: 'Z', meta: { sub: 'home' }, body: `${long(30)}\n\nİdari İşler ve Ofis Yönetimi` });
+  assert.doesNotMatch(textProblems(signed, catById.daily, cats).map((p) => p.msg).join(' | '), /yarıda/);
+  const cut = makeText({ lang: 'tr', cat: 'daily', num: 4, title: 'W', meta: { sub: 'home' }, body: `${long(30)}\n\nBu paragraf da uzun sürüp hiç bitmeden ortada bir yerde kalan bir cümleyle`, });
+  assert.match(textProblems(cut, catById.daily, cats).map((p) => p.msg).join(' | '), /yarıda/);
   assert.equal(catDefaults('kids', 'dialogue').kind, 'dialogue');
   assert.equal(catDefaults('news').kind, 'fictional-news');
 });
@@ -250,4 +256,158 @@ test('kütüphaneye öneri: GitHub dosya yolu, Türkçe karakterli içerik ve ha
   assert.equal(Buffer.from(body.content, 'base64').toString('utf8').includes('ğüşiöç'), true);
   const bad = await sendToLibrary({ owner: 'o', repo: 'r', token: 't' }, { lang: 'tr', cat: 'daily', title: 'x', content: 'y' }, async () => fakeRes(403, { message: 'no' }));
   assert.equal(bad.code, 'forbidden');
+});
+
+// ---------- v5: içe aktarma güvenliği ----------
+import { cp, mkdtemp, rm, writeFile as wf, readdir as rd } from 'node:fs/promises';
+import { tmpdir } from 'node:os';
+import { spawnSync } from 'node:child_process';
+
+test('içe aktarma: yazma sırasında hata olursa kaynak inbox\'ta kalır, kütüphane değişmez; sonra başarılı aktarım', async () => {
+  const dir = await mkdtemp(join(tmpdir(), 'duyum-imp-'));
+  try {
+    for (const d of ['js', 'tools', 'content-src', 'content']) await cp(join(ROOT, d), join(dir, d), { recursive: true });
+    await cp(join(ROOT, 'package.json'), join(dir, 'package.json'));
+    const inbox = join(dir, 'content-src/reading/inbox/tr/dialogue');
+    await cp(join(ROOT, 'content-src/reading/inbox/README.md'), join(dir, 'content-src/reading/inbox/README.md')).catch(() => {});
+    const { mkdir: mk } = await import('node:fs/promises');
+    await mk(inbox, { recursive: true });
+    const lines = Array.from({ length: 22 }, (_, i) => (i % 2 ? `Ayla: ${i}. sorumu soruyorum, menüde bugün hangi çorbalar var acaba?` : `Garson: ${i}. cevabım şu, mercimek ve ezogelin çorbamız sıcak sıcak hazır.`)).join('\n');
+    await wf(join(inbox, 'parti.txt'), `### | Lokantada Öğle\nsub: restaurant | level: 1 | tags: lokanta\n---\n${lines}\n`);
+    const before = (await rd(join(dir, 'content-src/reading/tr'))).sort();
+    const run = (env = {}) => spawnSync(process.execPath, [join(dir, 'tools/import-reading.mjs'), '--yes', '--no-build'], { env: { ...process.env, ...env }, encoding: 'utf8' });
+    const r1 = run({ DUYUM_IMPORT_FAIL_AFTER_STAGE: '1' });
+    assert.equal(r1.status, 1, r1.stdout + r1.stderr);
+    assert.deepEqual((await rd(join(dir, 'content-src/reading/tr'))).sort(), before, 'kütüphaneye dosya eklenmemeli, geçici dosya kalmamalı');
+    assert.deepEqual(await rd(inbox), ['parti.txt'], 'kaynak dosya inbox\'ta kalmalı');
+    const r2 = run();
+    assert.equal(r2.status, 0, r2.stderr);
+    const after = (await rd(join(dir, 'content-src/reading/tr'))).filter((f) => !before.includes(f));
+    assert.equal(after.length, 1);
+    assert.match(after[0], /^dialogue-import-\d{2}\.txt$/);
+    assert.deepEqual(await rd(inbox), []);
+  } finally { await rm(dir, { recursive: true, force: true }); }
+});
+
+// ---------- v5 Faz 3: toplu içe aktarma çekirdeği ----------
+import { parseImportFile, planImport, parseCSV } from '../js/reading/importer.js';
+
+const para = (seed, n = 30) => Array.from({ length: n }, (_, i) => `${seed} konusunda ${i + 1}. cümle farklı ayrıntılar içeriyor ve yeni bilgiler veriyor.`).join(' ');
+
+test('içe aktarma çekirdeği: .txt/.json/.csv ayrıştırma, desteklenmeyen dosya açık hata', () => {
+  const txt = parseImportFile('a.txt', `### | Bir\nsub: home | level: 1\n---\n${para('ev')}\n\n### | İki\nsub: home | level: 2\n---\n${para('bahçe')}`);
+  assert.equal(txt.blocks.length, 2);
+  const js = parseImportFile('b.json', JSON.stringify([{ lang: 'en', cat: 'daily', sub: 'home', level: 1, title: 'X', tags: ['a', 'b'], body: 'y' }]));
+  assert.equal(js.blocks[0].meta.lang, 'en');
+  assert.equal(js.blocks[0].meta.tags, 'a, b');
+  const csv = parseImportFile('c.csv', `başlık;metin;dil;kategori;alt kategori;seviye;kaynak;lisans\n"Kahve; ve sohbet";"Bir ""alıntı"" ve\nyeni satır.";tr;daily;home;2;Örnek Vakfı;CC BY 4.0\n`);
+  assert.equal(csv.errors.length, 0);
+  assert.equal(csv.blocks[0].title, 'Kahve; ve sohbet');
+  assert.match(csv.blocks[0].body, /"alıntı" ve\nyeni/);
+  assert.equal(csv.blocks[0].meta.license, 'CC BY 4.0');
+  assert.match(parseImportFile('d.docx', 'x').errors[0], /Desteklenmeyen/);
+  assert.match(parseImportFile('e.csv', 'a,b\n"açık').errors[0], /tırnak/);
+  assert.match(parseImportFile('f.txt', 'başlıksız metin').errors[0], /bloğu bulunamadı/);
+  assert.deepEqual(parseCSV('a,b\n1,2\n'), [['a', 'b'], ['1', '2']]);
+});
+
+test('içe aktarma planı: eklenecek / tekrar atlanır / kimlikle güncellenir / hatalı olan diğerlerini engellemez', () => {
+  const blk = (title, body, meta = {}) => ({ block: { num: null, title, body, meta: { sub: 'home', level: '2', ...meta } }, file: 'x.txt', lang: 'tr', cat: 'daily' });
+  const base = planImport([blk('Eski Metin', para('mutfak'))], { cats, existing: [] });
+  assert.equal(base.summary.add, 1);
+  const prev = base.rows[0];
+  const existing = [{ id: prev.id, n: prev.num, lang: 'tr', cat: 'daily', title: 'Eski Metin', contentHash: prev.contentHash, set: shingles(para('mutfak')) }];
+  const plan = planImport([
+    blk('Yeni Başlık Ama Aynı Metin', para('mutfak')), // aynı içerik → atla
+    blk('Eski Metin', para('balkon')), // aynı başlık, farklı içerik → ayrı kayıt + uyarı
+    blk('Güncel', para('salon'), { id: prev.id }), // kimlikle güncelleme
+    blk('', para('boş başlık')), // hata
+    blk('Seviyesiz', para('oda'), { level: '' }), // kütüphanede seviye zorunlu
+    blk('Kaynaklı', para('çarşı'), { source: 'Bir dergi' }), // lisans yok → hata
+    { block: { num: null, title: 'Yanlış dil', body: para('dil'), meta: { sub: 'home', level: '1', lang: 'de' } }, file: 'x.txt', cat: 'daily' },
+    blk('Geçerli Yeni', para('kütüphane')),
+  ], { cats, existing });
+  const st = plan.rows.map((r) => r.status);
+  assert.deepEqual(st, ['skip', 'add', 'update', 'error', 'error', 'error', 'error', 'add']);
+  assert.match(plan.rows[1].warnings.join(), /aynı başlıkta/);
+  assert.equal(plan.rows[2].id, prev.id);
+  assert.match(plan.rows[5].reasons.join(), /lisans/);
+  assert.match(plan.rows[6].reasons.join(), /dil geçersiz/);
+  assert.deepEqual(plan.summary.dist, { tr: { daily: 3 } });
+  assert.equal(plan.rows[1].num, prev.num + 1);
+  assert.equal(plan.rows[7].num, prev.num + 2);
+  // Çok benzer metin: varsayılan hata; "similar: ok" ya da allowSimilar ile eklenir ve işaret yazılır; birebir aynı yine atlanır
+  const near = `${para('mutfak')} Bir de küçük bir ek cümle var burada.`;
+  assert.equal(planImport([blk('Benzer', near)], { cats, existing }).rows[0].status, 'error');
+  const okMeta = planImport([blk('Benzer', near, { similar: 'ok' })], { cats, existing }).rows[0];
+  assert.equal(okMeta.status, 'add');
+  assert.match(okMeta.warnings.join(), /izin verildi/);
+  const allowed = planImport([blk('Benzer', near), blk('Aynı', para('mutfak'))], { cats, existing, allowSimilar: true }).rows;
+  assert.deepEqual(allowed.map((r) => r.status), ['add', 'skip']);
+  assert.equal(allowed[0].block.meta.similar, 'ok');
+});
+
+test('içe aktarma aracı: aynı dosya ikinci kez aktarılınca kayıt oluşmaz, kimlikle güncelleme sürümü artırır, ön izleme dosyaya dokunmaz', async () => {
+  const dir = await mkdtemp(join(tmpdir(), 'duyum-imp2-'));
+  try {
+    for (const d of ['js', 'tools', 'content-src', 'content']) await cp(join(ROOT, d), join(dir, d), { recursive: true });
+    const { mkdir: mk, readFile: rf } = await import('node:fs/promises');
+    const inbox = join(dir, 'content-src/reading/inbox/tr/letters');
+    await mk(inbox, { recursive: true });
+    const file = `### | Eski Bir Mektup\nsub: letter | level: 2 | source: Kendi arşivim | license: CC BY 4.0\n---\n${para('mektup', 25)}\n`;
+    const run = (...a) => spawnSync(process.execPath, [join(dir, 'tools/import-reading.mjs'), '--no-build', ...a], { encoding: 'utf8' });
+    await wf(join(inbox, 'a.txt'), file);
+    const pv = run();
+    assert.match(pv.stdout, /ÖN İZLEME/);
+    assert.deepEqual(await rd(inbox), ['a.txt'], 'ön izleme kaynak dosyayı taşımamalı');
+    assert.equal(run('--yes').status, 0);
+    await wf(join(inbox, 'a.txt'), file);
+    const again = run('--yes');
+    assert.match(again.stdout, /\| 0 \| 0 \| 1 \| 0 \| 1 \|/, again.stdout);
+    const rep = JSON.parse(await rf(join(dir, 'content-src/reading/inbox/RAPOR.json'), 'utf8'));
+    assert.equal(rep.summary.skip, 1);
+    // kimlikle güncelle
+    await wf(join(inbox, 'b.txt'), `### | Eski Bir Mektup (düzeltilmiş)\nid: tr-letters-001 | sub: letter | level: 2 | source: Kendi arşivim | license: CC BY 4.0\n---\n${para('düzeltilmiş mektup', 25)}\n`);
+    const up = run('--yes');
+    assert.equal(up.status, 0, up.stderr);
+    const src = await rf(join(dir, 'content-src/reading/tr/letters-import-01.txt'), 'utf8');
+    assert.match(src, /### 1 \| Eski Bir Mektup \(düzeltilmiş\)/);
+    assert.match(src, /version: 2/);
+    assert.match(src, /license: CC BY 4.0/);
+    // desteklenmeyen dosya raporlanır ve yerinde kalır
+    await wf(join(inbox, 'not.docx'), 'x');
+    const un = run('--yes');
+    assert.match(un.stdout, /desteklenmeyen dosya türü/);
+    assert.ok((await rd(inbox)).includes('not.docx'));
+  } finally { await rm(dir, { recursive: true, force: true }); }
+});
+
+test('NotebookLM çıktısı: kaynak işaretleri, kalın yazı, kaçışlar, eksik --- ve çizgisiz başlık', async () => {
+  const { parseImportFile, normalizeChatText } = await import('../js/reading/importer.js');
+  const body = Array.from({ length: 40 }, (_, i) => `Cümle ${i} burada akıp gidiyor ve okuru yoruyor değil.`).join(' ');
+  const src = `İşte istediğiniz metinler:\n\n\`\`\`text\n### | Pazar Kahvaltısı\n**sub:** home | **tags:** aile, sabah | **level:** 1\n\n${body} [1]\n\n\\- Bir madde [2, 3]\n\`\`\`\n\n### 2. Yağmurlu Gün\nSub: errands | Level: 2\n---\n${body}\n\n***\n\n### Sıradan bir ara başlık değil\nBu bir paragraf.\n`;
+  const { blocks, errors } = parseImportFile('tr-daily-notebooklm.txt', src);
+  assert.deepEqual(errors, []);
+  assert.equal(blocks.length, 2);
+  assert.equal(blocks[0].title, 'Pazar Kahvaltısı');
+  assert.deepEqual(blocks[0].meta, { sub: 'home', tags: 'aile, sabah', level: '1' });
+  assert.ok(!/\[\d/.test(blocks[0].body) && !/\*\*/.test(blocks[0].body) && /^- Bir madde$/m.test(blocks[0].body));
+  assert.equal(blocks[1].title, 'Yağmurlu Gün');
+  assert.equal(blocks[1].meta.level, '2');
+  // Meta satırı izlemeyen ### satırı başlığa dönüştürülmez (gövdede kalır)
+  assert.match(normalizeChatText('### Rastgele\nDüz metin'), /^### Rastgele$/m);
+});
+
+test('sohbet çıktısı: "## sub:" meta satırı, tek paragrafa yığılmış diyalog, "Kontrol Özeti" kuyruğu', async () => {
+  const { parseImportFile } = await import('../js/reading/importer.js');
+  const src = `### | Çorba\n\n## sub: restaurant | tags: restoran | level: 1\n\nGarson: Hoş geldiniz Canan Hanım. Canan: Teşekkür ederim. Garson: Menüyü getireyim mi? Canan: Lütfen.\n\n### | Plak\n- sub: shopping | level: 2\n---\nSelim: Merhaba.\nSami: Hoş geldiniz.\n\nKontrol Özeti:\n\n* İstenen Sayı: 2\n* Üretilen Sayı: 2\n`;
+  const { blocks } = parseImportFile('tr-dialogue-x.txt', src);
+  assert.equal(blocks.length, 2);
+  assert.deepEqual(blocks[0].meta, { sub: 'restaurant', tags: 'restoran', level: '1' });
+  assert.deepEqual(blocks[0].body.split('\n'), ['Garson: Hoş geldiniz Canan Hanım.', 'Canan: Teşekkür ederim.', 'Garson: Menüyü getireyim mi?', 'Canan: Lütfen.']);
+  assert.equal(blocks[1].meta.sub, 'shopping');
+  assert.equal(blocks[1].body, 'Selim: Merhaba.\nSami: Hoş geldiniz.');
+  // Aynı satırda değer taşıyan özet ("Kontrol Özeti:5") da atılır
+  const { blocks: b2 } = parseImportFile('tr-work-x.txt', '### | Duyuru\nsub: email | level: 1\n---\nMerhaba.\n\nYönetim\n\nKontrol Özeti:5\n');
+  assert.equal(b2[0].body, 'Merhaba.\n\nYönetim');
 });

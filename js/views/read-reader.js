@@ -2,13 +2,19 @@
 // kaldığın yerden devam, süreli oturum ve isteğe bağlı sesli dinleme (TTS) düğmesi.
 // Mikrofon, ses kaydı veya konuşma tanıma YOKTUR; ilerleme kaydırma ve işaretlemeyle belirlenir.
 import { t } from '../i18n.js';
-import { esc, icon, toast, toastAction, announce } from '../ui.js';
+import { esc, icon, toast, toastAction, announce, confirmAsk } from '../ui.js';
 import { getText, counterpartId, metaById, metaResolver } from '../reading/data.js';
 import { locate, allParas, wordCount, estimateMinutes } from '../reading/core.js';
 import { setPosition, setStatus, restart, addTime, toggleFavorite, addMark, updateMark, removeMark, marksFor, migrateForText, recordSession, tickTimed, timedRatio, endTimed, listNext, listAdd, createList, defaultView, IDLE_SEC } from '../reading/state.js';
-import { createReadAloud } from '../reading/readaloud.js';
+import { createReadAloud, wordSpans, snapToWord } from '../reading/readaloud.js';
 import { ttsErrorMessage } from './shared.js';
+
 import { rctx, fmtMin, fmtSec, fmtNum, pctText, locLabel, dateLabel } from './read-common.js';
+// Üretim beyanı (metin başına): origin "human"/"original-human" → insan yazımı; aksi hâlde yapay zekâ destekli taslak,
+// reviewed: yes ise "insan incelemesinden geçti", değilse "inceleme bekliyor".
+const provKey = (x) => (/^(human|original-human|insan)$/i.test(x.origin || '') ? 'human' : x.reviewed ? 'aiReviewed' : 'aiDraft');
+const rdScore = (x) => (x.rs ?? x.readability ?? null);
+const rdBand = (n) => (n >= 70 ? 'easy' : n >= 50 ? 'medium' : 'hard');
 
 const COLORS = ['yellow', 'green', 'blue', 'pink'];
 const WIDTHS = { s: '52ch', m: '64ch', l: '76ch', full: '100%' };
@@ -54,8 +60,9 @@ export async function readerView(root, ctx, id, params) {
   const headHtml = `<header class="r-head">
       <p class="small muted">${esc(rc.catName(text.cat))}${text.sub ? ` · ${esc(rc.subName(text.cat, text.sub))}` : ''}${text.series ? ` · ${esc(t('rd.partOf', { n: text.part, total: series?.length || '?' }))}` : ''}</p>
       <h1 tabindex="-1" class="r-title">${esc(text.title)}</h1>
-      <p class="r-metaline small"><span>${esc(rc.levelName(text.level))}</span><span>${esc(fmtMin(estimateMinutes(text.words, wpm)))} <span class="muted">(${t('rd.estimate')})</span></span><span>${esc(t('rd.words', { n: fmtNum(text.words) }))}</span><span>${esc(t('rd.stagesN', { n: text.sections.length }))}</span></p>
-      <p class="small muted r-kind">${esc(rc.kindLabel(text.kind))}${text.user ? '' : ` · ${esc(rc.cats.license[rc.ui])}`}${text.user && text.license ? ` · ${esc(text.license)}` : ''}${text.author ? ` · ${esc(text.author)}` : ''}${text.source ? ` · ${esc(text.source)}` : ''}</p>
+      <p class="r-metaline small"><span>${esc(rc.levelName(text.level))}</span><span>${esc(fmtMin(estimateMinutes(text.words, wpm)))} <span class="muted">(${t('rd.estimate')})</span></span><span>${esc(t('rd.words', { n: fmtNum(text.words) }))}</span><span>${esc(t('rd.stagesN', { n: text.sections.length }))}</span>${rdScore(text) != null ? `<span title="${esc(t('rd.readabilityNote', { f: text.lang === 'en' || /^en-/.test(text.id || '') ? 'Flesch' : 'Ateşman' }))}">${esc(t('rd.readability', { n: rdScore(text), b: t(`rd.rband.${rdBand(rdScore(text))}`) }))}</span>` : ''}</p>
+      <p class="small muted r-kind">${esc(rc.kindLabel(text.kind))}${text.user ? '' : ` · ${esc(rc.cats.license[rc.ui])}`}${text.license && !text.user ? ` · ${esc(text.license)}` : ''}${text.user && text.license ? ` · ${esc(text.license)}` : ''}${text.author ? ` · ${esc(text.author)}` : ''}${text.source ? ` · ${esc(text.source)}` : ''}</p>
+      ${text.user ? '' : `<p class="small r-prov" data-prov="${provKey(text)}">${icon('info')}<span>${esc(t(`rd.prov.${provKey(text)}`))}</span></p>`}
       ${['fictional-news', 'fictional-journal'].includes(text.kind) ? `<p class="alert info small">${icon('info')}<span>${esc(rc.kindLabel(text.kind))}</span></p>` : ''}
       ${resumed ? `<div class="alert info small resume-note" role="status">${icon('bookmark')}<div><p>${esc(t('rd.resumedAt', { loc: locLabel(saved) }))}</p><p><button class="btn ghost small" data-act="toStart">${t('rd.goStart')}</button></p></div></div>` : ''}
       ${saved?.lostPosition ? `<p class="alert warn small">${icon('info')}<span>${t('rd.versionLost')}</span></p>` : ''}
@@ -107,6 +114,7 @@ export async function readerView(root, ctx, id, params) {
     <div id="r-view" class="r-sheet r-panel" role="dialog" aria-modal="false" aria-labelledby="rv-h" tabindex="-1" hidden></div>
     <div id="r-sel" class="r-seltools" role="toolbar" aria-label="${esc(t('rd.selTools'))}" hidden></div>
     <div class="r-backdrop" hidden></div>
+    <button type="button" class="tts-follow" id="tts-follow" hidden>${icon('focus')}<span>${t('rd.ttsFollow')}</span></button>
     <button type="button" class="tts-fab" id="tts-fab" hidden><span class="fab-ico">${icon('speaker')}</span><span class="fab-label">${t('rd.listen')}</span></button>
     <dialog id="r-dlg" class="r-dlg"></dialog>
   </div>`;
@@ -220,10 +228,18 @@ export async function readerView(root, ctx, id, params) {
     dirty = false;
     setPosition(R, text, current, { atEnd });
     store.save();
+    syncStatusSelect();
     const st = $('#rv-saved');
     if (st) st.textContent = t('rd.savedAt', { time: new Date().toLocaleTimeString(rc.ui === 'tr' ? 'tr-TR' : 'en-GB', { hour: '2-digit', minute: '2-digit' }) });
     const ls = $('#ri-saved');
     if (ls) ls.textContent = t('rd.savedAt', { time: new Date().toLocaleTimeString(rc.ui === 'tr' ? 'tr-TR' : 'en-GB', { hour: '2-digit', minute: '2-digit' }) });
+  }
+
+  // Bilgi panelindeki okuma durumu seçimini kayıtlı durumla eşitle (konum kaydı durumu değiştirebilir).
+  function syncStatusSelect() {
+    const sel = $('#ri-status');
+    const st = R.progress[text.id]?.status || 'new';
+    if (sel && sel.value !== st && document.activeElement !== sel) sel.value = st;
   }
 
   let reachedEndOnce = false;
@@ -281,8 +297,8 @@ export async function readerView(root, ctx, id, params) {
     $('#ri-status').addEventListener('change', (e) => { setStatus(R, text, e.target.value); store.save(); toast(t('common.saved')); refreshEnd(); });
     $('#r-info [data-act=fav]').addEventListener('click', () => { const on = toggleFavorite(R, id); store.save(); toast(t(on ? 'rd.favAdded' : 'rd.favRemoved')); renderInfo(); });
     $('#r-info [data-act=addList]').addEventListener('click', addToListDialog);
-    $('#r-info [data-act=restart]').addEventListener('click', () => {
-      if (!window.confirm(t('rd.restartConfirm'))) return;
+    $('#r-info [data-act=restart]').addEventListener('click', async () => {
+      if (!await confirmAsk(t('rd.restartConfirm'))) return;
       restart(R, text);
       store.save();
       current = firstPid;
@@ -363,6 +379,7 @@ export async function readerView(root, ctx, id, params) {
       ${isDialogue ? `<label class="switch-row"><span>${t('rd.v.hideSpeakers')}</span><input type="checkbox" role="switch" id="v-sp"${view.hideSpeakers ? ' checked' : ''}></label>` : ''}
       <label class="switch-row"><span>${t('rd.v.ttsButton')}</span><input type="checkbox" role="switch" id="v-tts"${settings.readTTSButton ? ' checked' : ''}></label>
       <p class="hint">${t('rd.v.ttsButtonHint')}</p>
+      <div class="field"><label for="v-ttsw">${t('rd.v.ttsWords')}</label><select id="v-ttsw">${[1, 2, 3, 4, 5].map((n) => `<option value="${n}"${n === (view.ttsWords || 3) ? ' selected' : ''}>${t('rd.v.ttsWordsN', { n })}</option>`).join('')}</select></div>
       <p class="small muted" id="rv-saved">${t('rd.v.savedNote')}</p>
       <div class="actions"><button class="btn ghost small" data-act="vreset">${t('rd.v.reset')}</button><button class="btn primary small" data-close="view">${t('rd.close')}</button></div>`;
     const keep = (fn) => { const anchor = current; fn(); applyView(); store.save(); requestAnimationFrame(() => { scrollToPid(anchor); observe(); }); };
@@ -372,6 +389,7 @@ export async function readerView(root, ctx, id, params) {
     sel('#v-para', 'para', Number);
     sel('#v-font', 'font');
     sel('#v-theme', 'theme');
+    $('#v-ttsw').addEventListener('change', (e) => { view.ttsWords = Number(e.target.value) || 3; lastGroup = null; store.save(); if (aloud.position) showWord(aloud.position.pid, aloud.position.off, !aloud.playing); });
     $('#r-view').querySelectorAll('input[type=radio]').forEach((r) => r.addEventListener('change', () => keep(() => { view[r.name.slice(2)] = r.value; })));
     $('#v-focus').addEventListener('change', (e) => keep(() => { view.focus = e.target.checked; }));
     $('#v-sp')?.addEventListener('change', (e) => keep(() => { view.hideSpeakers = e.target.checked; paras.forEach((p) => p.sp && renderPara(p.id)); }));
@@ -432,7 +450,7 @@ export async function readerView(root, ctx, id, params) {
     box.querySelector('[data-sel=note]').addEventListener('click', () => { hideTools(); noteDialog(null, target); });
     box.querySelector('[data-sel=bookmark]').addEventListener('click', () => { hideTools(); bookmarkDialog(null, target); });
     box.querySelector('[data-sel=here]').addEventListener('click', () => { hideTools(); markHere(target.pid); });
-    box.querySelector('[data-sel=listen]')?.addEventListener('click', () => { hideTools(); aloud.start(target.pid); });
+    box.querySelector('[data-sel=listen]')?.addEventListener('click', () => { hideTools(); aloud.start(listenFrom(target)); });
     box.querySelector('[data-sel=close]').addEventListener('click', hideTools);
     if (anchorEl !== false) box.querySelector('button')?.focus({ preventScroll: true });
   }
@@ -447,6 +465,7 @@ export async function readerView(root, ctx, id, params) {
     current = pid;
     atEnd = false;
     setPosition(R, text, pid, { manual: true });
+    syncStatusSelect();
     store.save();
     renderAllMarks();
     renderInfo();
@@ -518,8 +537,8 @@ export async function readerView(root, ctx, id, params) {
     });
   }
 
-  function deleteMark(m) {
-    if (!window.confirm(t('rd.deleteMarkConfirm'))) return;
+  async function deleteMark(m) {
+    if (!await confirmAsk(t('rd.deleteMarkConfirm'))) return;
     const removed = removeMark(R, m.id);
     store.save(); closeDialog(); renderPara(m.pid); renderInfo();
     toastAction(t('rd.markDeleted'), t('rd.undo'), () => { R.marks.push(removed); store.save(); renderPara(removed.pid); renderInfo(); });
@@ -545,39 +564,204 @@ export async function readerView(root, ctx, id, params) {
   }
 
   // ---------- Sesli dinleme (TTS) ----------
+  // Okunan yer 1–5 kelimelik öbeklerle vurgulanır (CSS Custom Highlight API; DOM'a dokunmaz, işaretlerle çakışmaz).
+  // Desteklenmeyen tarayıcıda paragraf vurgusuna düşer. Elle kaydırınca otomatik ortalama durur, vurgu sürer;
+  // "Okunan yere git" düğmesi takibi geri açar. Durdurunca konum korunur; "Dinle" kaldığı yerden ya da seçilen /
+  // dokunulan kelimeden devam eder.
   const fab = $('#tts-fab');
+  const followBtn = $('#tts-follow');
   const voice = profile.voice[lang] || {};
+  const HL = typeof CSS !== 'undefined' && CSS.highlights && typeof Highlight === 'function';
+  reader.classList.toggle('tts-words', Boolean(HL));
+  // Okuma sırası: metin başlığı → (bölüm başlığı → paragraflar)… Başlıklar da okunur ve vurgulanır; böylece bölüm
+  // geçişi sessiz bir atlama olmaz. Başlık öğelerinin kimliği "@title" ve "@h:<bölüm>" biçimindedir.
+  const speakItems = [];
+  speakItems.push({ pid: '@title', t: text.title, head: true });
+  for (const s of text.sections) {
+    if (s.h) speakItems.push({ pid: `@h:${s.id}`, t: s.h, head: true });
+    for (const p of s.paras) speakItems.push({ pid: p.id, t: p.t, sp: p.sp });
+  }
+  const itemById = new Map(speakItems.map((x) => [x.pid, x]));
+  const hostOf = (pid) => (pid === '@title' ? $('.r-title') : pid.startsWith('@h:') ? $(`#h-${pid.slice(3)}`) : paraEl(pid)?.querySelector('.pt'));
+  const blockOf = (pid) => (pid.startsWith('@') ? hostOf(pid) : paraEl(pid));
+  const wordCache = new Map();
+  const wordsOf = (pid) => { if (!wordCache.has(pid)) wordCache.set(pid, wordSpans(itemById.get(pid)?.t || '')); return wordCache.get(pid); };
+  let follow = true;
+  let autoScrollAt = 0;
+  let lastGroup = null;
+  let lastRange = null;
+  let tapAt = null; // { pid, off, at }
+  let stopAt = 0;
+
+  function textRange(pid, a, b) {
+    const pt = hostOf(pid);
+    if (!pt) return null;
+    const walker = document.createTreeWalker(pt, NodeFilter.SHOW_TEXT);
+    const r = document.createRange();
+    let acc = 0;
+    let started = false;
+    for (let n = walker.nextNode(); n; n = walker.nextNode()) {
+      const len = n.data.length;
+      if (!started && a < acc + len) { r.setStart(n, a - acc); started = true; }
+      if (started && b <= acc + len) { r.setEnd(n, b - acc); return r; }
+      acc += len;
+    }
+    return null;
+  }
+  const HL_NAMES = ['tts-w0', 'tts-w1', 'tts-w2', 'tts-resume'];
+  function clearWord() {
+    if (HL) HL_NAMES.forEach((n) => CSS.highlights.delete(n));
+    lastGroup = null;
+  }
+  // Pencere: o an okunan kelime (en belirgin) + yanındaki yardımcı kelimeler (uzaklaştıkça soluk).
+  // 1: [0] · 2: [0,+1] · 3: [-1,0,+1] · 4: [-1,0,+1,+2] · 5: [-2…+2]. Pencere kelime kelime kayar.
+  const WINDOWS = { 1: [0], 2: [0, 1], 3: [-1, 0, 1], 4: [-1, 0, 1, 2], 5: [-2, -1, 0, 1, 2] };
+  function showWord(pid, off, paused = false) {
+    if (!HL) return;
+    const ws = wordsOf(pid);
+    if (!ws.length) return;
+    let i = ws.findIndex((w) => off < w.b);
+    if (i < 0) i = ws.length - 1;
+    const n = Math.min(5, Math.max(1, view.ttsWords || 3));
+    const key = `${pid}:${i}:${n}:${paused}`;
+    if (key === lastGroup) return;
+    lastGroup = key;
+    HL_NAMES.forEach((x) => CSS.highlights.delete(x));
+    const center = textRange(pid, ws[i].a, ws[i].b);
+    if (!center) return;
+    lastRange = center;
+    if (paused) { CSS.highlights.set('tts-resume', new Highlight(center)); return; }
+    const levels = [[], [], []];
+    for (const k of WINDOWS[n]) {
+      const w = ws[i + k];
+      if (!w) continue;
+      const r = k === 0 ? center : textRange(pid, w.a, w.b);
+      if (r) levels[Math.min(2, Math.abs(k))].push(r);
+    }
+    levels.forEach((rs, lv) => { if (rs.length) CSS.highlights.set(`tts-w${lv}`, new Highlight(...rs)); });
+    followTo(center);
+  }
+  function followTo(range) {
+    if (!follow || !range) return;
+    const r = range.getBoundingClientRect();
+    if (!r.height) return;
+    const top = topH();
+    const span = window.innerHeight - top;
+    if (r.top >= top + span * 0.18 && r.bottom <= top + span * 0.62) return; // rahat bölgede: kaydırma yok
+    autoScrollAt = Date.now();
+    window.scrollTo({ top: Math.max(0, window.scrollY + r.top - (top + span * 0.38)), behavior: document.documentElement.dataset.motion === 'reduce' ? 'auto' : 'smooth' });
+  }
+  function setFollow(on) {
+    follow = on;
+    followBtn.hidden = on || !aloud.playing;
+    if (on && lastRange && aloud.playing) followTo(lastRange);
+  }
+  // Elle kaydırma: tekerlek, dokunma, kaydırma tuşları, kaydırma çubuğu. (Uygulamanın kendi kaydırması sayılmaz.)
+  const manual = () => { if (aloud.playing && follow && Date.now() - autoScrollAt > 120) setFollow(false); };
+  const NAV_KEYS = new Set(['PageUp', 'PageDown', 'Home', 'End', 'ArrowUp', 'ArrowDown', ' ']);
+  const onWheel = () => manual();
+  const onTouch = () => manual();
+  const onNavKey = (e) => { if (NAV_KEYS.has(e.key) && !e.target.closest?.('input, textarea, select, button, [contenteditable]')) manual(); };
+  const onBarDown = (e) => { if (e.clientX >= document.documentElement.clientWidth) manual(); };
+  window.addEventListener('wheel', onWheel, { passive: true });
+  window.addEventListener('touchmove', onTouch, { passive: true });
+  window.addEventListener('keydown', onNavKey);
+  window.addEventListener('pointerdown', onBarDown);
+  followBtn.addEventListener('click', () => setFollow(true));
+
+  function savePosTTS() {
+    const pr = R.progress[id];
+    if (!pr) return;
+    const p = aloud.position;
+    if (p) pr.ttsAt = { pid: p.pid, off: p.off, v: text.hash }; else delete pr.ttsAt;
+  }
+  // Başlangıç noktası: etkin seçim > durdurmadan sonra dokunulan kelime > kaldığı yer > görünen paragraf.
+  function resumeFrom() {
+    const sel = selectionTarget();
+    if (sel && sel.off != null) return { pid: sel.pid, off: snapToWord(paraById.get(sel.pid).t, sel.off) };
+    if (tapAt && tapAt.at > stopAt) return tapAt;
+    const p = aloud.position;
+    if (p && itemById.has(p.pid)) return p;
+    return { pid: current || firstPid, off: 0 };
+  }
+  function listenFrom(target) {
+    if (target.quote && target.off != null) return { pid: target.pid, off: target.off };
+    if (tapAt && tapAt.pid === target.pid && Date.now() - tapAt.at < 60000) return tapAt;
+    return { pid: target.pid, off: 0 };
+  }
+  // Dokunulan kelimeyi bul (durdurulmuşken devam noktası olarak işaretlenir)
+  function caretOffset(e, pEl) {
+    const pt = pEl.querySelector('.pt');
+    let node = null;
+    let off = 0;
+    if (document.caretPositionFromPoint) { const c = document.caretPositionFromPoint(e.clientX, e.clientY); node = c?.offsetNode; off = c?.offset || 0; }
+    else if (document.caretRangeFromPoint) { const r = document.caretRangeFromPoint(e.clientX, e.clientY); node = r?.startContainer; off = r?.startOffset || 0; }
+    if (!node || !pt?.contains(node)) return null;
+    const pre = document.createRange();
+    pre.setStart(pt, 0);
+    pre.setEnd(node, off);
+    return pre.toString().length;
+  }
+  article.addEventListener('click', (e) => {
+    const pEl = e.target.closest('[data-pid]');
+    if (!pEl || e.target.closest('button, a') || !window.getSelection()?.isCollapsed) return;
+    const off = caretOffset(e, pEl);
+    if (off == null) return;
+    const pid = pEl.dataset.pid;
+    tapAt = { pid, off: snapToWord(paraById.get(pid).t, off), at: Date.now() };
+    if (!aloud.playing) showWord(pid, tapAt.off, true);
+  }, true);
+
   const aloud = createReadAloud({
     tts: ctx.tts,
-    getQueue: (from) => { const i = Math.max(0, paras.findIndex((p) => p.id === from)); return paras.slice(i).map((p) => ({ pid: p.id, text: p.t.replace(/\n/g, ' '), speaker: view.hideSpeakers ? null : p.sp })); },
+    getQueue: (from, off = 0) => {
+      let i = Math.max(0, speakItems.findIndex((x) => x.pid === from));
+      // Bölümün/metnin ilk paragrafının başından başlanıyorsa hemen önündeki başlıklar da okunur.
+      if (!off && !from.startsWith('@')) while (i > 0 && speakItems[i - 1].head) i -= 1;
+      return speakItems.slice(i).map((x) => ({ pid: x.pid, text: x.t.replace(/\n/g, ' '), speaker: x.head || view.hideSpeakers ? null : x.sp, startOff: x.pid === from ? off : 0 }));
+    },
     speakOpts: () => ({ lang, voiceURI: voice.voiceURI, rate: voice.rate || 1, accent: profile.voice.en?.accent }),
     onPara: (pid) => {
-      article.querySelectorAll('.tts-now').forEach((el) => el.classList.remove('tts-now'));
-      const el = paraEl(pid);
+      root.querySelectorAll('.tts-now').forEach((el) => el.classList.remove('tts-now'));
+      const el = blockOf(pid);
       el?.classList.add('tts-now');
-      if (el && Date.now() - lastManualScroll > 4000) { const r = el.getBoundingClientRect(); if (r.top < topH() || r.bottom > window.innerHeight - 120) scrollToPid(pid, true); }
+      if (!HL && el && follow) { const r = el.getBoundingClientRect(); if (r.top < topH() || r.bottom > window.innerHeight - 120) { autoScrollAt = Date.now(); scrollToPid(pid, true); } }
     },
+    onWord: (pid, a) => showWord(pid, a),
     onState: (on) => {
       fab.classList.toggle('is-playing', on);
       fab.querySelector('.fab-ico').innerHTML = icon(on ? 'stop' : 'speaker');
       fab.querySelector('.fab-label').textContent = t(on ? 'rd.stopListen' : 'rd.listen');
       fab.setAttribute('aria-label', t(on ? 'rd.stopListenLong' : 'rd.listenLong'));
-      if (!on) article.querySelectorAll('.tts-now').forEach((el) => el.classList.remove('tts-now'));
+      if (on) { follow = true; followBtn.hidden = true; }
+      else {
+        followBtn.hidden = true;
+        stopAt = Date.now();
+        root.querySelectorAll('.tts-now').forEach((el) => el.classList.remove('tts-now'));
+        const p = aloud.position;
+        lastGroup = null;
+        if (p) showWord(p.pid, p.off, true); else clearWord();
+        savePosTTS();
+        store.save();
+      }
       announce(t(on ? 'rd.listenStarted' : 'rd.listenStopped'));
     },
     onError: (err) => toast(ttsErrorMessage(err, lang)),
   });
+  // Önceki oturumdan kalan devam noktası (metin değişmediyse)
+  {
+    const saved = R.progress[id]?.ttsAt;
+    if (saved && saved.v === text.hash && itemById.has(saved.pid)) { aloud.position = { pid: saved.pid, off: saved.off }; requestAnimationFrame(() => showWord(saved.pid, saved.off, true)); }
+  }
   fab.setAttribute('aria-label', t('rd.listenLong'));
-  fab.addEventListener('click', () => { if (aloud.playing) aloud.stop(); else aloud.start(current || firstPid); });
+  fab.addEventListener('click', () => { if (aloud.playing) aloud.stop(); else { clearWord(); aloud.start(resumeFrom()); } });
 
   // Telefonda kaydırırken düğmeyi gizle; yukarı kaydırınca veya durunca geri getir.
   let lastY = window.scrollY;
-  let lastManualScroll = 0;
   let fabTimer = null;
   const narrow = matchMedia('(max-width: 899px)');
   function onScroll() {
     const y = window.scrollY;
-    lastManualScroll = Date.now();
     lastInteraction = Date.now();
     if (settings.readTTSAutoHide && narrow.matches && !aloud.playing) {
       if (y > lastY + 6) fab.classList.add('is-away');
@@ -606,7 +790,7 @@ export async function readerView(root, ctx, id, params) {
     box.innerHTML = `<span>${icon('clock')}<strong>${esc(t('rd.timedShort', { done: fmtSec(s.elapsedSec), target: t('rd.minShort', { n: s.targetMin }), pct: pctText(timedRatio(s)) }))}</strong> · ${esc(t('rd.textPct', { pct: pctText(tpct) }))}${idx ? ` · ${esc(t('rd.listPos', { n: idx, total: list.items.length }))}` : ''}${s.running ? '' : ` · <em>${esc(t('rd.paused'))}</em>`}</span>
       <span class="r-timed-actions"><button class="btn ghost small" data-t="toggle">${t(s.running ? 'rd.pause' : 'rd.resume')}</button><button class="btn ghost small" data-t="end">${t('rd.timedEnd')}</button></span>`;
     box.querySelector('[data-t=toggle]').addEventListener('click', () => { s.running = !s.running; store.save(); renderTimed(); announce(t(s.running ? 'rd.resumed' : 'rd.pausedMsg')); });
-    box.querySelector('[data-t=end]').addEventListener('click', () => { if (!window.confirm(t('rd.timedEndConfirm'))) return; endTimed(R); store.save(); renderTimed(); toast(t('rd.timedEnded')); });
+    box.querySelector('[data-t=end]').addEventListener('click', async () => { if (!await confirmAsk(t('rd.timedEndConfirm'))) return; endTimed(R); store.save(); renderTimed(); toast(t('rd.timedEnded')); });
   }
 
   const tick = setInterval(() => {
@@ -725,6 +909,12 @@ export async function readerView(root, ctx, id, params) {
     clearTimeout(saveTimer);
     clearTimeout(fabTimer);
     aloud.stop();
+    savePosTTS();
+    clearWord();
+    window.removeEventListener('wheel', onWheel);
+    window.removeEventListener('touchmove', onTouch);
+    window.removeEventListener('keydown', onNavKey);
+    window.removeEventListener('pointerdown', onBarDown);
     flushTime();
     dirty = true;
     savePos();

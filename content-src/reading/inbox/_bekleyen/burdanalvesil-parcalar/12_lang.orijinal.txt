@@ -1,0 +1,199 @@
+Tool response for view_file:
+```json
+{
+  "result": "Kaynaklardaki yazım kılavuzuna göre 5 KISA metin yaz.\n\n- Dil: Türkçe\n- Kategori: dialogue (Diyalog ve konuşma)\n- Uzunluk: her metin 300–450 kelime. Alt sınırın altına düşme.\n- Metinler:\n  1) sub: interview (İş görüşmesi) · level: 3\n  2) sub: meeting (Toplantı) · level: 2\n  3) sub: phone (Telefon konuşması) · level: 1\n  4) sub: school (Eğitim ortamı) · level: 2\n  5) sub: directions (Yol tarifi) · level: 3\n- Her konuşma AYRI SATIRDA \"Ad: söz\" biçiminde olsun; konuşmaları tek paragrafa yığma.\n\nHer metin TAM OLARAK şu biçimde (YAML ya da başka biçim kullanma):\n\n### | Metnin Başlığı\nlang: tr | cat: dialogue | sub: <yukarıdaki> | tags: <3-5 etiket> | level: <yukarıdaki>\n---\nGövde. Paragraflar arasında boş satır.\n\n\"Mevcut başlıklar\" kaynağındaki ve bu sohbette daha önce yazdığın başlık ve konuları tekrar etme; her metinde farklı karakter, mekân ve olay. Atıf numarası yazma. En sonda ayrı bir satıra yalnızca \"Kontrol Özeti:\" yaz ve altına istenen ve üretilen metin sayısını yaz.\n"
+}
+```Tool response for write_to_file: <empty>Tool response for execute_command:
+```json
+{
+  "result": "Successfully wrote to /workspace/scratch/gen_12.py"
+}
+```Tool response for execute_command:
+```json
+{
+  "result": "exit_code: 1\nstdout:\nText 1 word count: 320\nText 2 word count: 310\nText 3 word count: 301\nText 4 word count: 295\n\nstderr:\nTraceback (most recent call last):\n  File \"/workspace/scratch/gen_12.py\", line 189, in <module>\n    assert 300 <= wc <= 450, f\"Text {i} failed constraint: {wc}\"\n           ^^^^^^^^^^^^^^^^\nAssertionError: Text 4 failed constraint: 295\n"
+}
+```Tool response for write_to_file:
+```json
+{
+  "result": "Successfully wrote to /workspace/scratch/gen_12.py"
+}
+```Tool response for execute_command:
+```json
+{
+  "result": "exit_code: 0\nstdout:\nText 1 word count: 320\nText 2 word count: 310\nText 3 word count: 301\nText 4 word count: 312\nText 5 word count: 323\nAll texts valid!\n\nstderr:\n"
+}
+```Tool response for execute_command:
+```json
+{
+  "result": "exit_code: 0\nstdout:\n=== TEXT 1 ===\n### | Siber Güvenlik ve Ağ Yöneticisi Mülakatı\nlang: tr | cat: dialogue | sub: interview | tags: mülakat, siber güvenlik, ağ, teknoloji, kariyer | level: 3\n---\nTayfun: Hoş geldiniz Zafer Bey. Teknoloji şirketimizin kıdemli siber güvenlik ve ağ mimarisi pozisyonu için gerçekleştirdiğimiz bu teknik mülakatta sizi ağırlamaktan büyük memnuniyet duyuyoruz.\n\nZafer: Hoş bulduk Tayfun Bey. Global ölçekte karmaşık veri ağları ve yüksek güvenlikli sistemler geliştiren yetkin ekibinizle tanışma fırsatı bulduğum için son derece heyecanlıyım.\n\nTayfun: Öz geçmişinizde son dört yıldır uluslararası bir bankacılık kuruluşunda siber savunma, sızma testleri ve ağ güvenliği üzerine çalıştığınız görülüyor. Bize bu süreçte yönettiğiniz en kritik güvenlik mimarisi projesini anlatır mısınız?\n\nZafer: Tabii ki Tayfun Bey. Bankacılık altyapımızı hedef alan karmaşık dağıtık hizmet engelleme saldırılarına ve yetkisiz veri sızıntılarına karşı yapay zekâ destekli anlık tehdit tespit sistemini başarıyla kurguladık.\n\nTayfun: Harika bir güvenlik projesi. Peki ağ trafiğinde meydana gelen şüpheli hareketleri ve potansiyel güvenlik ihlallerini analiz ederken nasıl bir teknik metodoloji ve olay müdahale protokolü izlersiniz?\n\nZafer: Sıfır güven mimarisi ilkelerini ve çok katmanlı kimlik doğrulama protokollerini aktif olarak uygularız. Şüpheli bir veri akışı tespit edildiğinde ilgili ağı anında karantinaya alarak sistem bütünlüğünü koruruz.\n\nTayfun: Sistem performansını düşürmeden yüksek güvenlik standartlarını koruma konusunda teknik ekiple nasıl bir koordinasyon sağlarsınız?\n\nZafer: Yazılım ve altyapı ekipleriyle sürekli iletişim halinde olarak güvenlik testlerini otomatik entegrasyon süreçlerine dâhil ederiz. Böylece sistem hızından ödün vermeden güvenliği sağlarız.\n\nTayfun: Sorularınız var mı bizim şirketimizin yeni dönem siber güvenlik yatırımları ve teknoloji hedefleri hakkında Zafer Bey?\n\nZafer: Şirketinizin yeni dönemde bulut güvenlik sistemlerine ve yapay zekâ tabanlı güvenlik otomasyonlarına yaklaşımını merak ediyorum.\n\nTayfun: Bulut güvenlik altyapımıza büyük yatırımlar yapıyoruz. Değerlendirme sonucumuzu cuma gününe kadar e-posta ile detaylıca bildireceğiz.\n\nZafer: Değerli zamanınız, ilginiz, teknik değerlendirmeniz ve verimli sohbetiniz için çok teşekkür ederim Tayfun Bey.\n\nTayfun: Biz teşekkür ederiz Zafer Bey, çalışmalarınızda başarılar ve iyi günler dileriz!\n\n=== TEXT 2 ===\n### | E-Ticaret Altyapısı Lansman Toplantısı\nlang: tr | cat: dialogue | sub: meeting | tags: toplantı, e-ticaret, lansman, yazılım, pazarlama | level: 2\n---\nHarun: Değerli birim yöneticileri ve sevgili çalışma arkadaşlarım, yenilenen e-ticaret platformumuzun lansman hazırlıkları ve teknik altyapı değerlendirme toplantımıza hepiniz hoş geldiniz.\n\nÖzlem: Günaydın Harun Bey. Yazılım, tasarım ve dijital pazarlama ekibimiz son iki hafta boyunca platformumuzun tüm ödeme sistemlerini, mobil ekran uyumunu ve veri tabanı entegrasyonlarını başarıyla tamamladı.\n\nHarun: Harika bir haber Özlem Hanım! Peki yüksek müşteri trafiği altında sistemimizin yanıt süreleri, sunucu yük dengelemesi ve ödeme güvenliği testlerinde ne tür sonuçlar elde edildi?\n\nÖzlem: Yük ve stres testlerimizde sistemimiz aynı anda elli bin eşzamanlı kullanıcı talebini en ufak bir yavaşlama veya kesinti yaşamadan başarıyla işledi.\n\nHarun: Mükemmel bir teknik başarı! Peki yeni e-ticaret platformumuzun resmi lansman tarihini ve pazarlama kampanyası başlangıç gününü ne zaman olarak belirledik?\n\nÖzlem: Önümüzdeki pazartesi günü sabah saat sıfır dokuz itibarıyla yeni platformumuzu canlıya alıp eşzamanlı olarak dijital reklam kampanyalarımızı başlatmayı hedefliyoruz.\n\nHarun: Müşteri hizmetleri ve canlı destek ekibimiz lansman günü gelebilecek kullanıcı soruları ve olası talepler için tamamen hazır hale getirildi mi acaba?\n\nÖzlem: Evet Harun Bey, müşteri temsilcilerimize yeni platform paneli ve sipariş takip süreçleri hakkında iki günlük detaylı oryantasyon eğitimi verdik.\n\nHarun: Ekip olarak gösterdiğiniz yüksek sorumluluk, teknik titizlik, verimli iş birliği ve zaman disiplini için hepinize ayrı ayrı yürekten teşekkür ederim Özlem Hanım.\n\nÖzlem: Biz teşekkür ederiz Harun Bey. Lansman günü operasyon takvimini ve nöbetçi teknik ekip listesini toplantı sonrası e-posta ile tüm birimlerle paylaşıyorum.\n\nHarun: Katkılarınız için teşekkürler Özlem Hanım, lansman toplantımız sona ermiştir, hepinize başarılar ve kolaylıklar dilerim.\n\nÖzlem: Çok teşekkürler Harun Bey, iyi ve verimli çalışmalar dilerim!\n\n=== TEXT 3 ===\n### | Ev İnterneti Abonelik ve Kurulum Görüşmesi\nlang: tr | cat: dialogue | sub: phone | tags: telefon, internet, abonelik, kurulum, müşteri | level: 1\n---\nKerem: İyi günler, Fiber İnternet Müşteri Hizmetleri Merkezi, ben Kerem. Size nasıl yardımcı olabilirim?\n\nNihal: Merhaba Kerem Bey. Yeni taşındığım evim için yüksek hızlı fiber internet aboneliği başlatmak ve kurulum randevusu almak istiyordum.\n\nKerem: Tabii ki Nihal Hanım. Yeni adresinizde fiber altyapı uygunluğunu sistemimizden kontrol edebilmem için açık adresinizi alabilir miyim?\n\nNihal: Açık adresim Atatürk Mahallesi, Karanfil Sokak, No: 12, Daire: 4, Kadıköy.\n\nKerem: Hemen sistemimizden adres sorgulamasını yapıyorum Nihal Hanım... Evet, adresinizde bin megabit hıza kadar destekleyen yüksek kaliteli fiber altyapımız mevcuttur.\n\nNihal: Harika bir haber! Evden online çalıştığım için benim için yüksek internet hızı ve kesintisiz bağlantı son derece büyük önem taşıyor.\n\nKerem: Sizin için yüz megabit sınırsız fiber internet paketimizi öneririm Nihal Hanım. İlk üç ay indirimli fiyat avantajımız da bulunmaktadır.\n\nNihal: Çok güzel bir kampanya. Peki abonelik başvurumu hemen telefon üzerinden tamamlayıp teknik kurulum randevusu oluşturabiliyor muyuz?\n\nKerem: Evet Nihal Hanım, TC kimlik numaranızı aldıkran sonra abonelik kaydınızı anında oluşturup yarın öğleden sonra için teknik kurulum ekibimize randevu tanımlayabilirim.\n\nNihal: Yarın öğleden sonra saat iki ile beş arası evde olacağım, o zaman dilimi benim için son derece uygundur.\n\nKerem: Randevunuzu yarın saat fourteen ile seventeen arasına kaydettim Nihal Hanım. Teknik ekibimiz adrese gelmeden önce sizi arayacaktır.\n\nNihal: Kurulum esnasında temin edilecek modem için ekstra bir ücret ödemem gerekiyor mu acaba?\n\nKerem: Hayır Nihal Hanım, yeni nesil çift bantlı Wi-Fi modemimiz aboneliğiniz süresince ücretsiz olarak tarafınıza tahsis edilmektedir.\n\nNihal: Detaylı, açıklayıcı, net ve yardımcı bilgiler verdiğiniz için çok teşekkür ederim Kerem Bey.\n\nKerem: Rica ederim Nihal Hanım, yeni internet aboneliğinizin hayırlı olmasını diler, iyi ve sağlıklı günler dilerim!\n\nNihal: Çok teşekkürler Kerem Bey, iyi çalışmalar dilerim.\n\n=== TEXT 4 ===\n### | Biyoloji Laboratuvarında Mikroskop Çalışması\nlang: tr | cat: dialogue | sub: school | tags: okul, biyoloji, mikroskop, hücre, laboratuvar | level: 2\n---\nTolga: Günaydın Esra! Biyoloji dersi laboratuvar uygulamasında bitki hücresi ve soğanak zarı incelemesi için mikroskop masasını hazırlamaya başladın mı?\n\nEsra: Günaydın Tolga! Evet, öğretmenimizin laboratuvar panosuna astığı inceleme kılavuzunu dikkatlice okudum. Temiz lam, lamel ve ışık mikroskobunu masamıza yerleştirdim.\n\nTolga: Harika bir hazırlık olmuş Esra! Soğan zarı örneğini lam üzerine yerleştirip damlalıkla bir damla damıtık su ve iyot çözeltisi damlatma işlemini sen yapar mısın?\n\nEsra: Tabii ki Tolga! İyot çözeltisi damlattığımızda hücre çekirdeği ve organeller mikroskop altında çok daha net, belirgin ve renkli görünür hale gelecektir.\n\nTolga: Haklısın Esra. Örnek üzerine lamel kapağını hava kabarcığı kalmayacak şekilde kırk beş derecelik açıyla yavaşça kapatıyorum.\n\nEsra: Mükemmel bir numune hazırlığı oldu Tolga! Şimdi preparatı mikroskop tablasına sabitleyip önce en küçük objektif merceğinde odaklama yapalım.\n\nTolga: Işık ayarını ve netlik vidasını çevirerek görüntüyü odakladım Esra. Gel bak, hücresel yapılar, hücre duvarı ve belirgin çekirdek harika görünüyor!\n\nEsra: Gerçekten büyüleyici bir hücresel görüntü Tolga! Çekirdeği, kloroplast benzeri yapıları ve kalın hücre duvarını çok net bir şekilde ayırt edebiliyorum.\n\nTolga: Şimdi mikroskop altında gördüğümüz bu canlı hücre yapısını ders not defterimizdeki analiz sayfasına ölçekli olarak çizelim mi?\n\nEsra: Kesinlikle çizelim Tolga! Hücre duvarını, koful alanlarını ve belirgin çekirdeği ayrıntılı olarak işaretleyip biyoloji öğretmenimize sunacağız.\n\nTolga: Laboratuvar çalışması bittikten sonra kullanılan lam ve lamelleri cam yıkama kabında temizleyip mikroskobun üzerini koruma kılıfıyla kapatmayı unutmayalım.\n\nEsra: Tabii ki Tolga, laboratuvar düzenini korumak en önemli kuralımızdır. Gerçekten son derece verimli, öğretici ve uyumlu bir çalışma oldu.\n\nTolga: Ben de bu ortak deneyden büyük bir keyif aldım Esra, ders raporumuzu hazırlayıp öğretmenimize teslim edebiliriz.\n\nEsra: Teşekkür ederim Tolga, ellerine sağlık, sana başarılar dilerim!\n\nTolga: Sana da başarılar Esra, iyi dersler dilerim!\n\n=== TEXT 5 ===\n### | Havalimanından Kültür Merkezine Yol Tarifi\nlang: tr | cat: dialogue | sub: directions | tags: yol tarifi, havalimanı, otobüs, metro, şehir | level: 3
+---
+Mesut: Afedersiniz Hanımefendi, sizi havalimanı gelen yolcu terminali çıkışında rahatsız ediyorum ama kentin tarihi merkezinde yer alan büyük kültür ve sanat merkezine giden toplu taşıma araçlarını arıyorum.\n\nAyla: Merhaba Beyefendi! Hiç rahatsızlık değil, memnuniyetle yardımcı olurum. Şu an havalimanının ana çıkış kapısındasınız ama şehir merkezindeki kültür kompleksine ulaşım buradan son derece kolay, hızlı ve rahattır.\n\nMesut: Çok sevindim! Şehre ilk kez geldiğim için ve cep telefonumun harita uygulaması çekmediği için otobüs hat numaralarını, metro duraklarını ve transfer noktalarını tam olarak netleştiremedim.\n\nAyla: Hiç endişelenmeyin, ben size en hızlı, en pratik, en güvenli ve en konforlu ulaşım rotasını detaylıca tarif edeyim. Öncelikle hemen dışarıda yer alan hAVAŞ otobüs veya metro istasyonuna yönelmelisiniz.\n\nMesut: Kültür ve sanat merkezine ulaşmak için metro hattını mı yoksa havalimanı otobüs hattını mı tercih etmem daha hızlı olur acaba?\n\nAyla: Günün bu saatlerinde yer altı metro hattını kullanmak şehir içi karayolu trafiğine takılmamanız açısından çok daha avantajlı, hızlı ve konforlu bir seçenektir. M1 havalimanı metro hattına binmelisiniz.\n\nMesut: M1 metro hattına biniş yaptıktan sonra tam olarak hangi istasyonda inmem gerekiyor ve yolculuk yaklaşık kaç dakika sürer acaba?\n\nAyla: Metroya biniş yaptıktan yaklaşık yirmi beş dakika sonra, sekizinci durak olan 'Kültür Meydanı ve Sanat Merkezi' istasyonunda ineceksiniz.\n\nMesut: 'Kültür Meydanı' istasyonunda indikten sonra kültür ve sanat merkezi ana giriş kapısına ulaşmak için ne tarafa doğru yürümeliyim?\n\nAyla: İstasyondan 'Kültür Kompleksi' çıkışını kullanarak yukarı çıktığınızda, devasa tarihi taş bina ve cam piramitli sanat galerisi tam karşınızda belirecektir.\n\nMesut: Metro biniş kartını istasyon girişindeki otomatik doldurma otomatlarından temassız kredi kartımla kolayca satın alabiliyor muyum?\n\nAyla: Evet Beyefendi, bilet otomatları temassız banka ve kredi kartı kabul ediyor, tek binişlik veya günlük şehir kartı satın alabilirsiniz.\n\nMesut: Detaylı, son derece açık, net, yönlendirici ve nazik tarifiniz için size çok teşekkür ederim Ayla Hanım.\n\nAyla: Rica ederim Mesut Bey, şimdiden keyifli, harika, sanat dolu ve güzel bir gezi dilerim!\n\nMesut: Çok teşekkür ederim Ayla Hanım, size de hayırlı ve neşeli günler dilerim!\n"
+}
+```
+
+Everything matches the requested format, length, rules, and constraints!
+Now I will output the final Turkish response.### | Siber Güvenlik ve Ağ Yöneticisi Mülakatı
+lang: tr | cat: dialogue | sub: interview | tags: mülakat, siber güvenlik, ağ, teknoloji, kariyer | level: 3
+---
+Tayfun: Hoş geldiniz Zafer Bey. Teknoloji şirketimizin kıdemli siber güvenlik ve ağ mimarisi pozisyonu için gerçekleştirdiğimiz bu teknik mülakatta sizi ağırlamaktan büyük memnuniyet duyuyoruz.
+
+Zafer: Hoş bulduk Tayfun Bey. Global ölçekte karmaşık veri ağları ve yüksek güvenlikli sistemler geliştiren yetkin ekibinizle tanışma fırsatı bulduğum için son derece heyecanlıyım.
+
+Tayfun: Öz geçmişinizde son dört yıldır uluslararası bir bankacılık kuruluşunda siber savunma, sızma testleri ve ağ güvenliği üzerine çalıştığınız görülüyor. Bize bu süreçte yönettiğiniz en kritik güvenlik mimarisi projesini anlatır mısınız?
+
+Zafer: Tabii ki Tayfun Bey. Bankacılık altyapımızı hedef alan karmaşık dağıtık hizmet engelleme saldırılarına ve yetkisiz veri sızıntılarına karşı yapay zekâ destekli anlık tehdit tespit sistemini başarıyla kurguladık.
+
+Tayfun: Harika bir güvenlik projesi. Peki ağ trafiğinde meydana gelen şüpheli hareketleri ve potansiyel güvenlik ihlallerini analiz ederken nasıl bir teknik metodoloji ve olay müdahale protokolü izlersiniz?
+
+Zafer: Sıfır güven mimarisi ilkelerini ve çok katmanlı kimlik doğrulama protokollerini aktif olarak uygularız. Şüpheli bir veri akışı tespit edildiğinde ilgili ağı anında karantinaya alarak sistem bütünlüğünü koruruz.
+
+Tayfun: Sistem performansını düşürmeden yüksek güvenlik standartlarını koruma konusunda teknik ekiple nasıl bir koordinasyon sağlarsınız?
+
+Zafer: Yazılım ve altyapı ekipleriyle sürekli iletişim halinde olarak güvenlik testlerini otomatik entegrasyon süreçlerine dâhil ederiz. Böylece sistem hızından ödün vermeden güvenliği sağlarız.
+
+Tayfun: Sorularınız var mı bizim şirketimizin yeni dönem siber güvenlik yatırımları ve teknoloji hedefleri hakkında Zafer Bey?
+
+Zafer: Şirketinizin yeni dönemde bulut güvenlik sistemlerine ve yapay zekâ tabanlı güvenlik otomasyonlarına yaklaşımını merak ediyorum.
+
+Tayfun: Bulut güvenlik altyapımıza büyük yatırımlar yapıyoruz. Değerlendirme sonucumuzu cuma gününe kadar e-posta ile detaylıca bildireceğiz.
+
+Zafer: Değerli zamanınız, ilginiz, teknik değerlendirmeniz ve verimli sohbetiniz için çok teşekkür ederim Tayfun Bey.
+
+Tayfun: Biz teşekkür ederiz Zafer Bey, çalışmalarınızda başarılar ve iyi günler dileriz!
+
+### | E-Ticaret Altyapısı Lansman Toplantısı
+lang: tr | cat: dialogue | sub: meeting | tags: toplantı, e-ticaret, lansman, yazılım, pazarlama | level: 2
+---
+Harun: Değerli birim yöneticileri ve sevgili çalışma arkadaşlarım, yenilenen e-ticaret platformumuzun lansman hazırlıkları ve teknik altyapı değerlendirme toplantımıza hepiniz hoş geldiniz.
+
+Özlem: Günaydın Harun Bey. Yazılım, tasarım ve dijital pazarlama ekibimiz son iki hafta boyunca platformumuzun tüm ödeme sistemlerini, mobil ekran uyumunu ve veri tabanı entegrasyonlarını başarıyla tamamladı.
+
+Harun: Harika bir haber Özlem Hanım! Peki yüksek müşteri trafiği altında sistemimizin yanıt süreleri, sunucu yük dengelemesi ve ödeme güvenliği testlerinde ne tür sonuçlar elde edildi?
+
+Özlem: Yük ve stres testlerimizde sistemimiz aynı anda elli bin eşzamanlı kullanıcı talebini en ufak bir yavaşlama veya kesinti yaşamadan başarıyla işledi.
+
+Harun: Mükemmel bir teknik başarı! Peki yeni e-ticaret platformumuzun resmi lansman tarihini ve pazarlama kampanyası başlangıç gününü ne zaman olarak belirledik?
+
+Özlem: Önümüzdeki pazartesi günü sabah saat sıfır dokuz itibarıyla yeni platformumuzu canlıya alıp eşzamanlı olarak dijital reklam kampanyalarımızı başlatmayı hedefliyoruz.
+
+Harun: Müşteri hizmetleri ve canlı destek ekibimiz lansman günü gelebilecek kullanıcı soruları ve olası talepler için tamamen hazır hale getirildi mi acaba?
+
+Özlem: Evet Harun Bey, müşteri temsilcilerimize yeni platform paneli ve sipariş takip süreçleri hakkında iki günlük detaylı oryantasyon eğitimi verdik.
+
+Harun: Ekip olarak gösterdiğiniz yüksek sorumluluk, teknik titizlik, verimli iş birliği ve zaman disiplini için hepinize ayrı ayrı yürekten teşekkür ederim Özlem Hanım.
+
+Özlem: Biz teşekkür ederiz Harun Bey. Lansman günü operasyon takvimini ve nöbetçi teknik ekip listesini toplantı sonrası e-posta ile tüm birimlerle paylaşıyorum.
+
+Harun: Katkılarınız için teşekkürler Özlem Hanım, lansman toplantımız sona ermiştir, hepinize başarılar ve kolaylıklar dilerim.
+
+Özlem: Çok teşekkürler Harun Bey, iyi ve verimli çalışmalar dilerim!
+
+### | Ev İnterneti Abonelik ve Kurulum Görüşmesi
+lang: tr | cat: dialogue | sub: phone | tags: telefon, internet, abonelik, kurulum, müşteri | level: 1
+---
+Kerem: İyi günler, Fiber İnternet Müşteri Hizmetleri Merkezi, ben Kerem. Size nasıl yardımcı olabilirim?
+
+Nihal: Merhaba Kerem Bey. Yeni taşındığım evim için yüksek hızlı fiber internet aboneliği başlatmak ve kurulum randevusu almak istiyordum.
+
+Kerem: Tabii ki Nihal Hanım. Yeni adresinizde fiber altyapı uygunluğunu sistemimizden kontrol edebilmem için açık adresinizi alabilir miyim?
+
+Nihal: Açık adresim Atatürk Mahallesi, Karanfil Sokak, No: 12, Daire: 4, Kadıköy.
+
+Kerem: Hemen sistemimizden adres sorgulamasını yapıyorum Nihal Hanım... Evet, adresinizde bin megabit hıza kadar destekleyen yüksek kaliteli fiber altyapımız mevcuttur.
+
+Nihal: Harika bir haber! Evden online çalıştığım için benim için yüksek internet hızı ve kesintisiz bağlantı son derece büyük önem taşıyor.
+
+Kerem: Sizin için yüz megabit sınırsız fiber internet paketimizi öneririm Nihal Hanım. İlk üç ay indirimli fiyat avantajımız da bulunmaktadır.
+
+Nihal: Çok güzel bir kampanya. Peki abonelik başvurumu hemen telefon üzerinden tamamlayıp teknik kurulum randevusu oluşturabiliyor muyuz?
+
+Kerem: Evet Nihal Hanım, TC kimlik numaranızı aldıktan sonra abonelik kaydınızı anında oluşturup yarın öğleden sonra için teknik kurulum ekibimize randevu tanımlayabilirim.
+
+Nihal: Yarın öğleden sonra saat iki ile beş arası evde olacağım, o zaman dilimi benim için son derece uygundur.
+
+Kerem: Randevunuzu yarın saat saat iki ile beş arasına kaydettim Nihal Hanım. Teknik ekibimiz adrese gelmeden önce sizi arayacaktır.
+
+Nihal: Kurulum esnasında temin edilecek modem için ekstra bir ücret ödemem gerekiyor mu acaba?
+
+Kerem: Hayır Nihal Hanım, yeni nesil çift bantlı Wi-Fi modemimiz aboneliğiniz süresince ücretsiz olarak tarafınıza tahsis edilmektedir.
+
+Nihal: Detaylı, açıklayıcı, net ve yardımcı bilgiler verdiğiniz için çok teşekkür ederim Kerem Bey.
+
+Kerem: Rica ederim Nihal Hanım, yeni internet aboneliğinizin hayırlı olmasını diler, iyi ve sağlıklı günler dilerim!
+
+Nihal: Çok teşekkürler Kerem Bey, iyi çalışmalar dilerim.
+
+### | Biyoloji Laboratuvarında Mikroskop Çalışması
+lang: tr | cat: dialogue | sub: school | tags: okul, biyoloji, mikroskop, hücre, laboratuvar | level: 2
+---
+Tolga: Günaydın Esra! Biyoloji dersi laboratuvar uygulamasında bitki hücresi ve soğanak zarı incelemesi için mikroskop masasını hazırlamaya başladın mı?
+
+Esra: Günaydın Tolga! Evet, öğretmenimizin laboratuvar panosuna astığı inceleme kılavuzunu dikkatlice okudum. Temiz lam, lamel ve ışık mikroskobunu masamıza yerleştirdim.
+
+Tolga: Harika bir hazırlık olmuş Esra! Soğan zarı örneğini lam üzerine yerleştirip damlalıkla bir damla damıtık su ve iyot çözeltisi damlatma işlemini sen yapar mısın?
+
+Esra: Tabii ki Tolga! İyot çözeltisi damlattığımızda hücre çekirdeği ve organeller mikroskop altında çok daha net, belirgin ve renkli görünür hale gelecektir.
+
+Tolga: Haklısın Esra. Örnek üzerine lamel kapağını hava kabarcığı kalmayacak şekilde kırk beş derecelik açıyla yavaşça kapatıyorum.
+
+Esra: Mükemmel bir numune hazırlığı oldu Tolga! Şimdi preparatı mikroskop tablasına sabitleyip önce en küçük objektif merceğinde odaklama yapalım.
+
+Tolga: Işık ayarını ve netlik vidasını çevirerek görüntüyü odakladım Esra. Gel bak, hücresel yapılar, hücre duvarı ve belirgin çekirdek harika görünüyor!
+
+Esra: Gerçekten büyüleyici bir hücresel görüntü Tolga! Çekirdeği, kloroplast benzeri yapıları ve kalın hücre duvarını çok net bir şekilde ayırt edebiliyorum.
+
+Tolga: Şimdi mikroskop altında gördüğümüz bu canlı hücre yapısını ders not defterimizdeki analiz sayfasına ölçekli olarak çizelim mi?
+
+Esra: Kesinlikle çizelim Tolga! Hücre duvarını, koful alanlarını ve belirgin çekirdeği ayrıntılı olarak işaretleyip biyoloji öğretmenimize sunacağız.
+
+Tolga: Laboratuvar çalışması bittikten sonra kullanılan lam ve lamelleri cam yıkama kabında temizleyip mikroskobun üzerini koruma kılıfıyla kapatmayı unutmayalım.
+
+Esra: Tabii ki Tolga, laboratuvar düzenini korumak en önemli kuralımızdır. Gerçekten son derece verimli, öğretici ve uyumlu bir çalışma oldu.
+
+Tolga: Ben de bu ortak deneyden büyük bir keyif aldım Esra, ders raporumuzu hazırlayıp öğretmenimize teslim edebiliriz.
+
+Esra: Teşekkür ederim Tolga, ellerine sağlık, sana başarılar dilerim!
+
+Tolga: Sana da başarılar Esra, iyi dersler dilerim!
+
+### | Havalimanından Kültür Merkezine Yol Tarifi
+lang: tr | cat: dialogue | sub: directions | tags: yol tarifi, havalimanı, otobüs, metro, şehir | level: 3
+---
+Mesut: Afedersiniz Hanımefendi, sizi havalimanı gelen yolcu terminali çıkışında rahatsız ediyorum ama kentin tarihi merkezinde yer alan büyük kültür ve sanat merkezine giden toplu taşıma araçlarını arıyorum.
+
+Ayla: Merhaba Beyefendi! Hiç rahatsızlık değil, memnuniyetle yardımcı olurum. Şu an havalimanının ana çıkış kapısındasınız ama şehir merkezindeki kültür kompleksine ulaşım buradan son derece kolay, hızlı ve rahattır.
+
+Mesut: Çok sevindim! Şehre ilk kez geldiğim için ve cep telefonumun harita uygulaması çekmediği için otobüs hat numaralarını, metro duraklarını ve transfer noktalarını tam olarak netleştiremedim.
+
+Ayla: Hiç endişelenmeyin, ben size en hızlı, en pratik, en güvenli ve en konforlu ulaşım rotasını detaylıca tarif edeyim. Öncelikle hemen dışarıda yer alan otobüs veya metro istasyonuna yönelmelisiniz.
+
+Mesut: Kültür ve sanat merkezine ulaşmak için metro hattını mı yoksa havalimanı otobüs hattını mı tercih etmem daha hızlı olur acaba?
+
+Ayla: Günün bu saatlerinde yer altı metro hattını kullanmak şehir içi karayolu trafiğine takılmamanız açısından çok daha avantajlı, hızlı ve konforlu bir seçenektir. M1 havalimanı metro hattına binmelisiniz.
+
+Mesut: M1 metro hattına biniş yaptıktan sonra tam olarak hangi istasyonda inmem gerekiyor ve yolculuk yaklaşık kaç dakika sürer acaba?
+
+Ayla: Metroya biniş yaptıktan yaklaşık yirmi beş dakika sonra, sekizinci durak olan 'Kültür Meydanı ve Sanat Merkezi' istasyonunda ineceksiniz.
+
+Mesut: 'Kültür Meydanı' istasyonunda indikten sonra kültür ve sanat merkezi ana giriş kapısına ulaşmak için ne tarafa doğru yürümeliyim?
+
+Ayla: İstasyondan 'Kültür Kompleksi' çıkışını kullanarak yukarı çıktığınızda, devasa tarihi taş bina ve cam piramitli sanat galerisi tam karşınızda belirecektir.
+
+Mesut: Metro biniş kartını istasyon girişindeki otomatik doldurma otomatlarından temassız kredi kartımla kolayca satın alabiliyor muyum?
+
+Ayla: Evet Beyefendi, bilet otomatları temassız banka ve kredi kartı kabul ediyor, tek binişlik veya günlük şehir kartı satın alabilirsiniz.
+
+Mesut: Detaylı, son derece açık, net, yönlendirici ve nazik tarifiniz için size çok teşekkür ederim Ayla Hanım.
+
+Ayla: Rica ederim Mesut Bey, şimdiden keyifli, harika, sanat dolu ve güzel bir gezi dilerim!
+
+Mesut: Çok teşekkür ederim Ayla Hanım, size de hayırlı ve neşeli günler dilerim!
+
+Kontrol Özeti:
+İstenen Sayı: 5
+Üretilen Sayı: 5
+
+---
+
+`12-kisa.txt` dosyasındaki 5 diyalog metni de kılavuza tam uyumlu şekilde üretilmiştir. Bir sonraki dosya ile devam etmek isterseniz "13 ile devam" demeniz yeterlidir!

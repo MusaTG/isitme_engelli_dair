@@ -1,0 +1,16 @@
+Kaynaklardaki yazım kılavuzuna göre 1 ORTA uzunlukta metin yaz.
+
+- Dil: İngilizce (doğal İngilizce; Türkçeden çeviri değil)
+- Kategori: critical (Eleştirel düşünme ve karşılaştırma) · sub: problem (Bir sorunu açıklama) · level: 2
+- Uzunluk: 1300–2200 kelime, 6–10 bölüm; her bölüm "## Ara başlık" satırıyla başlasın. Alt sınırın altına düşme.
+
+Biçim (YAML kullanma):
+
+### | Metnin Başlığı
+lang: en | cat: critical | sub: problem | tags: <3-5 etiket> | level: 2
+---
+## İlk ara başlık
+
+Paragraflar…
+
+Daha önce yazdığın metinlerden farklı bir konu seç. Atıf numarası yazma. En sonda ayrı bir satıra yalnızca "Kontrol Özeti:" yaz ve altına kelime sayısını yaz.

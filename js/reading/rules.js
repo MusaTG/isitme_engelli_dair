@@ -23,8 +23,13 @@ export function textProblems(t, cat, cats) {
   const min = t.kind === 'poem' ? MIN_WORDS.poem : cat.id === 'kids' ? KIDS_MIN : MIN_WORDS.default;
   if (t.words < min) err(`çok kısa (${t.words} kelime < ${min})`);
   const plain = sectionsText(t.sections);
+  // E-posta/mektup imzası ("İdari İşler ve Ofis Yönetimi") noktalama taşımaz: noktalamayla biten paragraftan sonra
+  // gelen kısa son satır kesilme sayılmaz.
+  const END = /[.!?…"”»)’'*]/;
+  const lines = plain.trim().split('\n').filter((l) => l.trim());
+  const sign = lines.length > 1 && lines.at(-1).trim().split(/\s+/).length <= 8 && END.test(lines.at(-2).trim().slice(-1));
   const last = plain.trim().slice(-1);
-  if (!/[.!?…"”»)’'*]/.test(last)) err(`yarıda kesilmiş olabilir (son karakter "${last}")`);
+  if (!sign && !END.test(last)) err(`yarıda kesilmiş olabilir (son karakter "${last}")`);
   const counts = new Map();
   for (const s of sentences(plain)) {
     if (s.split(/\s+/).length < 5) continue;

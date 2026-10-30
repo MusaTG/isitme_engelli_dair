@@ -1,0 +1,106 @@
+### | Kurumsal Sosyal Sorumluluk Ve Sürdürülebilirlik Vizyonu Sunumu
+lang: tr | cat: work | sub: presentation | tags: sunum, sosyal sorumluluk, sürdürülebilirlik, çevre, kurumsal | level: 2
+---
+Değerli yönetim kurulu üyelerimiz, kıdemli birim yöneticilerimiz ve şirketimizin sürdürülebilir büyüme yolculuğuna katkı sağlayan çalışma arkadaşlarım, bugün gerçekleştireceğimiz bu özel sunumda şirketimizin gelecek beş yıllık dönemde benimseyeceği Kurumsal Sosyal Sorumluluk (KSS) ve Çevre Stratejisini, yenilikçi yeşil enerji projelerimizi ve toplumsal fayda odaklı yatırım hedeflerimizi sizlerle detaylı olarak paylaşmaktan büyük bir onur duyuyorum.
+
+Günümüz küresel iş dünyasında şirketlerin başarısı, sadece elde ettikleri çeyreklik finansal kârlılık oranlarıyla değil, içinde yaşadıkları topluma, çevreye ve gelecek nesillere kattıkları değerle ölçülmektedir. Tüketiciler, yatırımcılar ve iş ortaklarımız artık çevreye duyarlı, karbon ayak izini şeffaf şekilde açıklayan ve sosyal sorumluluk projeleri geliştiren markalarla çalışmayı tercih etmektedir. Yapılan bağımsız pazar araştırmaları, sosyal sorumluluk vizyonunu kurumsal kültürünün merkezine koyan şirketlerin marka değerinin, müşteri sadakatinin ve çalışan bağlılığının belirgin şekilde yükseldiğini net bir şekilde ortaya koymaktadır.
+
+Bu doğrultuda hazırladığımız yeni sosyal sorumluluk stratejimiz üç ana odak alanı üzerine kurgulanmıştır: Birinci odak alanımız, üretim tesislerimizde ve hizmet binalarımızda sıfır atık yönetim modeline tamamen geçilmesidir. Tüm operasyonlarımızda tek kullanımlık plastik malzeme tüketimini sonlandırıyor, ambalaj atıklarımızı %100 geri dönüştürülebilir malzemelerden elde ederek doğaya verilen zararı tamamen engelliyoruz.
+
+İkincisi, yenilenebilir enerji dönüşümü ve yeşil lojistik hamlemizdir. Fabrika çatılarımıza kuracağımız yüksek kapasiteli güneş panelleri sayesinde yıllık elektrik ihtiyacımızın yarıya yakınını temiz enerjiyle karşılayacağız. Dağıtım filomuzu ise kademeli olarak elektrikli araçlarla yenileyeceğiz.
+
+Üçüncüsü ve en anlamlısını oluşturan alan ise 'Geleceğe Umut' başlığı altında yürüteceğimiz gençlik ve eğitim destek programıdır. Her yıl üniversitelerin mühendislik ve çevre bilimleri fakültelerinde okuyan 100 başarılı öğrencimize tam eğitim bursu sağlayacak, fabrikalarımızda staj imkânı sunarak yarının çevre uzmanlarını yetiştireceğiz.
+
+Hazırladığımız bu vizyoner projenin bütçesi ve uygulama takvimi onaylanmış olup önümüzdeki ay ilk lansmanımızı gerçekleştireceğiz. Şirketimizi sadece sektöründe değil, çevre bilinci ve toplumsal fayda alanında da lider konuma taşıyacak bu projeye sağladığınız değerli katkı ve destekler için hepinize ayrı ayrı yürekten teşekkür ederim.
+
+### | Kurumsal Mobil Uygulama Ve İki Faktörlü Giriş Talimatı
+lang: tr | cat: work | sub: instructions | tags: talimat, mobil, güvenlik, giriş, kullanım | level: 1
+---
+Değerli Çalışma Arkadaşlarım,
+
+Şirketimizin bilgi teknolojileri altyapısını güçlendirmek, kullanıcı hesaplarımızı siber tehditlere karşı korumak, veri gizliliğini en üst düzeyde sağlamak ve mobil erişim süreçlerini çok daha güvenli, pratik, sorunsuz ve hızlı hale getirmek amacıyla tüm kurumsal sistemlerimizde İki Faktörlü Kimlik Doğrulama (2FA) kullanımı zorunlu hale getirilmiştir. Kurumsal mobil doğrulama uygulamasının akıllı telefonlarınıza kurulumu, hesap eşleştirme prosedürleri ve sisteme ilk giriş adımları aşağıda adım adım detaylıca açıklanmıştır.
+
+1. Mobil Uygulama Kurulum Adımları:
+- Akıllı telefonunuzun resmi uygulama mağazasına (App Store veya Google Play Store) giriş yapınız.
+- Arama çubuğuna şirketimizin onaylı mobil doğrulama uygulamasının tam adını yazarak uygulamayı telefonunuza ücretsiz olarak indiriniz.
+- İndirme işlemi tamamen tamamlandıktan sonra uygulamayı açınız ve kameranıza gelen erişim izinlerini onaylayınız.
+
+2. Hesap Eşleştirme ve QR Kod Taraması:
+- Bilgisayarınızın internet tarayıcısından kurumsal kullanıcı portalı adresine erişim sağlayınız.
+- Kullanıcı adı ve mevcut şifrenizi girdikten sonra ekranda kişisel hesabınıza özel tek kullanımlık bir QR kod belirecektir.
+- Cep telefonunuzdaki doğrulama uygulamasını açarak ekrandaki bu QR kodu kameranıza dikkatlice okutunuz.
+- Tarama işlemi başarıyla tamamlandığında mobil uygulamanızda 6 haneli güvenlik kodları otomatik olarak üretilmeye başlayacaktır.
+
+3. Güvenli Giriş ve Onay Prosedürü:
+- Bundan böyle kurumsal sistemlere, e-posta hesabınıza veya portal yazılımına giriş yaparken şifrenizi girdikten sonra mobil uygulamanızda görünen 6 haneli geçici kodu ekrana yazmanız gerekecektir.
+- Kodlar her 30 saniyede bir otomatik olarak yenilendiği için şifrenizin başkalarının eline geçmesi durumunda dahi hesabınıza yetkisiz erişim sağlanması tamamen engellenmiş ve güvenlik katmanı güçlendirilmiş olacaktır.
+
+4. Cihaz Değişikliği ve Teknik Destek:
+- Akıllı telefonunuzu değiştirmeniz, sıfırlamanız veya kaybetmeniz durumunda vakit kaybetmeden Bilgi Teknolojileri Destek Masamızla iletişime geçerek güvenlik kimlik sıfırlama ve yeniden kurulum talebinde bulunmanız önemle rica olunur.
+
+Kurumsal verilerimizin güvenliğini sağlamak adına göstereceğiniz hassasiyet, dikkat ve anlayış için teşekkür eder, çalışmalarınızda başarılar dileriz.
+
+Bilgi Teknolojileri Güvenlik Ekibi
+
+### | Özel Yazılım Lisansı İptal Ve İade Bilgilendirmesi
+lang: tr | cat: work | sub: customer | tags: müşteri, yazılım, lisans, iade, bilgilendirme | level: 2
+---
+Sayın Murat Arslan,
+
+Şirketimizden 20 Ekim 2026 tarihinde satın almış olduğunuz Kurumsal Muhasebe ve Stok Takip Yazılımı lisansı iptal talebiniz ve ödeme iadesi başvurunuz Müşteri İlişkileri ve Finans Departmanımız tarafından büyük bir titizlik, dikkat, hassasiyet ve ciddiyetle detaylıca incelenmiş ve değerlendirme süreci başarıyla tamamlanmıştır.
+
+Yapılan kapsamlı incelemelerde, satın aldığınız yazılım paketiyle ilgili modül uyumsuzluğu sebebiyle sisteminizde yaşanan teknik aksaklıklar ve canlı destek ekibimizin konuya müdahale süresiyle ilgili ilettiğiniz haklı eleştirileriniz kayıt altına alınmıştır. Müşterilerimize kesintisiz, sorunsuz, güvenilir, hızlı ve yüksek kalitede dijital çözümler sunmak şirketimizin en temel varlık sebebi ve vazgeçilmez kurumsal önceliğidir.
+
+Teknik ekibimizin sisteminizde gerçekleştirdiği detaylı incelemeler sonucunda, şirketinizin mevcut sunucu işletim sistemi ile yazılımımızın son sürümü arasında dönemsel bir veri tabanı uyuşmazlığı oluştuğu açıkça tespit edilmiştir. Yaşanan bu beklenmedik teknik durum sebebiyle iş süreçlerinizde meydana gelen kısa süreli aksaklıklardan ve iletişim gecikmesinden ötürü şirketimiz adına sizden içtenlikle ve yürekten özür dileriz.
+
+Talebiniz doğrultusunda gerçekleştirilen işlemler aşağıda sırasıyla ve detaylarıyla belirtilmiştir:
+1. Kurumsal yazılım lisans aboneliğiniz talebinize uygun olarak sistemimiz üzerinden tamamen iptal edilmiş ve kullanıcı hesaplarınız güvenli şekilde kapatılmıştır.
+2. Satın alma işlemi esnasında kredi kartınızdan tahsil edilen 18.500 TL tutarındaki toplam ödemenin tamamı, herhangi bir kesinti yapılmaksızın bankanıza iade edilmiştir. İade tutarı bankanızın işlem süreçlerine bağlı olarak 2 ila 4 iş günü içinde hesabınıza doğrudan ve eksiksiz olarak yansıyacaktır.
+3. Şirketinizin gelecekteki olası yazılım ihtiyaçlarında kullanılmak üzere %20 oranında özel indirim kuponu tanımlanarak müşteri hesabınıza iletilmiştir.
+
+Müşteri memnuniyetini her şeyin üstünde tutan anlayışımızla, sizlere hizmet vermekten büyük onur duyuyoruz. Süreçle ilgili sorularınız için müşteri hizmetlerimize dilediğiniz zaman kolayca ulaşabilirsiniz.
+
+Anlayışınız, sabrınız, değerli güveniniz ve iş birliğiniz için teşekkür eder, çalışmalarınızda başarılar ve kolaylıklar dileriz.
+
+Saygılarımla,
+Canan Şahin
+Müşteri İlişkileri Yöneticisi
+Lider Yazılım Teknolojileri A.Ş.
+
+### | Nesnelerin İnterneti Tabanlı Akıllı Tesis Otomasyonu
+lang: tr | cat: work | sub: tech | tags: teknoloji, otomasyon, sensör, mimari, veri | level: 3
+---
+Giriş ve Mimari Tasarım:
+Endüstri 4.0 dönüşüm sürecinin en kritik bileşenlerinden biri olan Nesnelerin İnterneti (IoT) tabanlı akıllı tesis otomasyon sistemleri, üretim sahalarındaki fiziki cihazların, makine parkurlarının, iklimlendirme ünitelerinin ve enerji hatlarının kablosuz sensör ağları üzerinden anlık olarak izlenmesini, analiz edilmesini ve uzaktan yönetilmesini sağlayan ileri düzey bir teknolojik mimaridir. Bu teknik kılavuz, şirketimizin üretim tesislerinde devreye alınan yeni nesil IoT sensör ağlarının detaylı teknik mimarisini, veri iletişim protokollerini ve güvenlik altyapısını ayrıntılarıyla kurgulayarak açıklamaktadır.
+
+1. Sensör Katmanı ve Veri Toplama Protokolleri:
+Fabrika sahamızdaki 250 farklı noktaya yerleştirilen titreşim, sıcaklık, nem, basınç ve elektrik akım sensörleri, makinelerin anlık çalışma performansını milisaniyelik yüksek hassasiyetle kaydetmektedir. Sensörler arası veri iletişimi, düşük enerji tüketimi ve yüksek menzil sağlayan LoRaWAN ve Zigbee kablosuz haberleşme protokolleri üzerinden kesintisiz yürütülmektedir. Sahadan toplanan ham telemetry verileri, endüstriyel gateway cihazları aracılığıyla filtrelenerek merkeze güvenle iletilir.
+
+2. Bulut Veri İşleme ve Kestirimci Bakım Algoritmaları:
+Saha gateway cihazlarından aktarılan anlık veriler, şirketimizin yerel bulut sunucularında çalışan zaman serisi veri tabanlarına (TimeSeries DB) aktarılır. Sistem bünyesinde çalışan makine öğrenmesi modelleri, makinelerdeki mikro titreşim değişimlerini ve sıcaklık artışlarını analiz ederek olası rulman veya motor arızalarını henüz gerçekleşmeden 72 saat önce tespit eder. Kestirimci bakım (predictive maintenance) uyarısı üreten sistem, bakım ekiplerimize otomatik iş emri kurgulayarak doğrudan yönlendirir.
+
+3. Siber Güvenlik ve Ağ Yalıtımı Standartları:
+IoT ağımızın dış siber saldırılardan korunması amacıyla endüstriyel kontrol ağı (OT) ile kurumsal bilgi teknolojileri ağı (IT) birbirinden fiziksel ve mantıksal güvenlik duvarlarıyla (DMZ) tamamen ayrılmıştır. Sensör verilerinin iletiminde AES-256 uçtan uca kriptolama teknolojisi kullanılmakta olup yetkisiz cihazların ağa katılması tamamen engellenmektedir.
+
+Bu bütüncül teknolojik altyapı ve otomasyon yatırımı sayesinde tesisimizdeki plansız duruş oranları %85 azaltılmış, enerji verimliliği %22 artırılmış ve operasyonel üretim kalitesi en üst seviyeye çıkarılmıştır.
+
+### | Dijital Çağda Çevik Proje Yönetimi Ve Takım Liderliği
+lang: tr | cat: work | sub: growth | tags: gelişim, proje, yönetim, çevik, liderlik | level: 2
+---
+İş dünyasında dijital dönüşümün ve teknolojik değişim hızının muazzam bir ivme kazandığı günümüzde, geleneksel hiyerarşik yönetim modelleri yerini esnek, hızlı, dinamik ve müşteri odaklı Çevik (Agile) Proje Yönetimi yaklaşımına bırakmaktadır. Karmaşık projeleri daha küçük, yönetilebilir ve kısa süreli çalışma dönemlerine (Sprint) bölerek yürütmeyi hedefleyen bu metodoloji, hem ürün geliştirme kalitesini artırmakta hem de ekiplerin değişen pazar koşullarına hızla adapte olmasını sağlamaktadır. Çevik yönetim kültürünü şirket içinde benimsemek, sürdürülebilir kurumsal başarıyı yakalamak ve etkili bir takım lideri olmak isteyen profesyonellerin odaklanması gereken temel stratejiler aşağıda detaylandırılmıştır:
+
+1. Şeffaflık, Güven ve Hizmetkâr Liderlik:
+Çevik yönetim felsefesinde liderin rolü emreden veya denetleyen bir otorite olmak değil, ekibin önündeki engelleri kaldıran, rehberlik eden ve motivasyonu yüksek tutan bir hizmetkâr lider olmaktır. Şeffaf iletişim kanallarının açık tutulduğu, hataların bir suçlama sebebi değil önemli bir öğrenme fırsatı olarak görüldüğü güven odaklı çalışma ortamları, çalışanların inovatif fikirler üretmesini ve inisiyatif almasını büyük ölçüde teşvik eder.
+
+2. Günlük Değerlendirme ve İteratif İlerleme:
+Çevik projelerin kalbinde yer alan 15 dakikalık günlük değerlendirme toplantıları (Daily Stand-up), tüm ekibin dünün çıktılarından, bugünün hedeflerinden ve karşılaşılan engellerden haberdar olmasını sağlar. Her çalışma dönemi sonunda gerçekleştirilen değerlendirme oturumları (Retrospective) ise süreçlerin aksayan yönlerini dürüstçe analiz ederek sürekli iyileştirme (Kaizen) olanağı sunar.
+
+3. Müşteri Geri Bildirimi ve Değer Odaklılık:
+Projenin her aşamasında müşteriyi ve son kullanıcıyı sürecin içine dâhil etmek, gereksiz özellikler geliştirmek yerine en yüksek iş değerini üreten adımlara öncelik vermeyi sağlar. Kullanıcı geri bildirimleriyle sürekli şekillenen projeler, pazar beklentilerini eksiksiz karşılar.
+
+4. Sürekli Mesleki Gelişim ve Akademik Destek:
+Çevik liderlik yetkinliklerinizi geliştirmek, uluslararası sertifikasyon süreçlerine hazır hale gelmek, kişisel potansiyelinizi ortaya çıkarmak ve ekip dinamiklerini güçlendirmek amacıyla şirket içi eğitimlerimize katılabilir, proje yönetim akademimizin sunduğu sertifika programlarından dilediğiniz zaman faydalanabilirsiniz.
+
+Kontrol Özeti:
+İstenen Sayı: 5
+Üretilen Sayı: 5

@@ -120,3 +120,54 @@ test('service worker önbellek listesi tüm uygulama dosyalarını içerir', asy
   const missing = expected.filter((f) => !assets.includes(f));
   assert.deepEqual(missing, [], 'node tools/sw-assets.mjs çalıştırın');
 });
+
+// ---------- v5: bozuk veride kayıp önleme ----------
+function memStorage(init = {}) {
+  const m = new Map(Object.entries(init));
+  return { getItem: (k) => (m.has(k) ? m.get(k) : null), setItem: (k, v) => { m.set(k, String(v)); }, removeItem: (k) => { m.delete(k); }, key: (i) => [...m.keys()][i] ?? null, get length() { return m.size; }, _m: m };
+}
+
+test('bozuk kayıt karantinaya alınır, son sağlam yedekten devam edilir, bozuk veri ezilmez', () => {
+  const good = createStore(memStorage());
+  good.addProfile({ name: 'Ayşe', type: 'adult' });
+  const goodRaw = JSON.stringify(good.state);
+  // 1. açılış: sağlam veri → yedek alınır
+  const st = memStorage({ 'duyum.v1': goodRaw });
+  createStore(st);
+  assert.equal(st._m.get('duyum.v1.bak'), goodRaw);
+  // Veri bozulur; 2. açılış
+  st._m.set('duyum.v1', '{"profiles":[{bozuk');
+  const s2 = createStore(st);
+  assert.equal(s2.recovery.from, 'backup');
+  assert.equal(s2.state.profiles[0].name, 'Ayşe');
+  const q = s2.quarantined();
+  assert.equal(q.length, 1);
+  assert.equal(s2.quarantineData(q[0].key), '{"profiles":[{bozuk');
+  s2.save();
+  assert.equal(s2.quarantineData(q[0].key), '{"profiles":[{bozuk', 'karantina kaydı korunmalı');
+});
+
+test('yedek de yoksa boş başlar ama bozuk veri karantinada kalır; karantinaya alınamazsa kayıt durur', () => {
+  const st = memStorage({ 'duyum.v1': 'null-değil{' });
+  const s = createStore(st);
+  assert.equal(s.recovery.from, 'none');
+  assert.equal(s.quarantined().length, 1);
+  // karantina yazılamıyor (kota) → asıl anahtar ezilmemeli
+  const st2 = memStorage({ 'duyum.v1': '{bozuk' });
+  const orig = st2.setItem;
+  st2.setItem = (k, v) => { if (k.startsWith('duyum.v1.corrupt.')) { const e = new Error('q'); e.name = 'QuotaExceededError'; throw e; } orig(k, v); };
+  const s3 = createStore(st2);
+  assert.equal(s3.save(), false);
+  assert.equal(st2._m.get('duyum.v1'), '{bozuk');
+});
+
+test('kota dolunca kayıt başarısızlığı dinleyicilere bildirilir', () => {
+  const st = memStorage();
+  const s = createStore(st);
+  const seen = [];
+  s.onStatus((x) => seen.push(x.lastError));
+  st.setItem = () => { const e = new Error('q'); e.name = 'QuotaExceededError'; throw e; };
+  assert.equal(s.save(), false);
+  assert.equal(s.lastError, 'quota');
+  assert.deepEqual(seen, ['quota']);
+});

@@ -1,0 +1,116 @@
+### | Kahvaltı Tabağı Tercihi
+lang: tr | cat: dialogue | sub: restaurant | tags: restoran, kahvaltı, menü, sipariş | level: 1
+---
+Garson: Günaydın Efendim, kulübümüzün bahçe restoranına hoş geldiniz. Sizi havuz kenarındaki masamıza alabilir miyim?
+Kaan: Günaydın, çok teşekkür ederim. Sabah güneşi bahçeye çok güzel vuruyor, pencere kenarındaki ahşap masa harika olur.
+Garson: Hemen masanızı hazırlıyorum. Mutfak ekibimiz bu sabah taze fırın ürünlerini ve yöresel kahvaltılıkları özenle hazırladı.
+Kaan: Menünüze bakabilir miyim acaba? Serpme kahvaltı seçeneğiniz mi var yoksa tabağa özel seçenekler mi sunuyorsunuz?
+Garson: Hem serpme zengin kahvaltımız hem de kişiye özel hazırlanan hafif kahvaltı tabaklarımız mevcuttur.
+Kaan: Sabah vakti hafif bir kahvaltı yapmak istiyorum. Kahvaltı tabağınızın içeriğinde tam olarak neler bulunuyor?
+Garson: Tabağımızda ezine peyniri, kars eski kaşarı, yeşil ve siyah zeytin, taze domates, salatalık ve ev yapımı çilek reçeli yer alıyor.
+Kaan: Sıcak ikram olarak kahvaltı tabağına ek bir ürün dâhil mi acaba?
+Garson: İsteğinize göre kiremitte sahanda yumurta veya tereyağlı peynirli menemen ekleyebiliyoruz.
+Kaan: Menemeni tercih ederim ama içine acı biber konulmamasını rica edeceğim.
+Garson: Tabii ki, acısız ve hafif pişmiş menemeninizi hemen mutfak şefimize özel olarak iletiyorum.
+Kaan: İçecek olarak taze sıkılmış portakal suyu ve sınırsız demli çay ikramınız var mı?
+Garson: Evet Efendim, taze sıkılmış portakal suyunuz masanıza hemen servis edilir, demli çayınız da kahvaltı boyunca taze tutulur.
+Kaan: Ekmek çeşitlerinizde tam buğday veya ekşi mayalı kepekli seçenekleriniz bulunuyor mu?
+Garson: Fırınımızdan yeni çıkan taze ekşi mayalı kepekli ekmek dilimlerini ve sıcak simitleri servis edeceğiz.
+Kaan: Harika! Yanında biraz da süzme çam balı ve manda kaymağı ekleyebilir misiniz?
+Garson: Şefimizin özel porsiyon manda kaymağı ve organik çam balı tabağını da siparişinize memnuniyetle ekliyorum.
+Kaan: Siparişimiz bu kadar. Yiyeceklerin masaya servis edilmesi yaklaşık ne kadar sürer?
+Garson: Çayınız ve taze portakal suyunuz iki dakika içinde masanızda olur, sıcak menemeniniz ise en fazla sekiz dakika içinde hazır edilir.
+Kaan: İlginiz, açıklayıcı bilgileriniz ve nazik hizmetiniz için çok teşekkür ederim.
+Garson: Rica ederim Kaan Bey, afiyet olsun, iyi ve huzurlu bir sabah dilerim.
+
+### | Yöresel Kumaş Mağazasında
+lang: tr | cat: dialogue | sub: shopping | tags: alışveriş, kumaş, dokuma, esnaf | level: 2
+---
+Hasan: Hayırlı işler Usta! Dükkânınızdaki el dokuması kaliteli kumaşlar caddeden geçerken çok dikkatimi çekti.
+Kemal: Sağ olasın Beyefendi! Hoş geldiniz. Yıllardır geleneksel ahşap tezgâhlarda dokunan köklü Ege ve Denizli kumaşlarını satıyoruz.
+Hasan: Çok güzel. Özellikle masa örtüsü ve koltuk şalı yapmak için pamuklu ve keten karışımlı kumaşlar arıyorum.
+Kemal: Tam yerine geldiniz. Şu ahşap raflarda gördüğünüz top kumaşlar tamamen kök boyalı taze keten ve pamuk ipliğinden dokunmuştur.
+Hasan: Şu lacivert ve kiremit desenli kumaşın dokusu harika görünüyor. Yıkandığında çekme veya renk atma yapar mı?
+Kemal: Kesinlikle yapmaz. Üretim aşamasında iplikler ön yıkamadan geçirildiği için ölçüleri sabit kalır ve renkleri yıllarca canlılığını korur.
+Hasan: Bu kumaşın eni kaç santimetre acaba? Masa örtüsü yapımı için en az yüz elli santimetre genişlik gerekiyor.
+Kemal: Bu serideki tüm top kumaşlarımızın eni net yüz altmış santimetredir. Masa örtüsü için son derece ideal bir ölçüdür.
+Hasan: Harika. Dört metre bu lacivert desenli kumaştan kesmenizi rica edeceğim. Metre fiyatı ne kadardı acaba?
+Kemal: Bu kaliteli keten dokumanın metresi iki yüz yetmiş beş liradır. Dört metresi toplam bin yüz lira yapar.
+Hasan: Yanına koltuk örtüsü yapmak için şu düz krem renkli kumaştan da üç metre eklersek toplam ne kadar olur?
+Kemal: Krem renkli kumaşımızın metresi iki yüz liradır. İki kumaş türünü birden aldığınız için toplam fiyatı bin altı yüz liraya düzeltelim.
+Hasan: İkramınız ve kolaylığınız için çok teşekkür ederim Kemal Usta. Kumaşların kenarlarını overlok makinesinde dikme imkânınız var mı?
+Kemal: Tabii ki, dükkânımızın arka tarafındaki dikiş tezgâhında kenar temizleme dikişlerini hemen beş dakika içinde tamamlayabilirim.
+Hasan: Çok iyi olur, kumaş kenarlarının ipliklerinin sökülmesini istemiyorum.
+Kemal: Hemen dikiş makinesine alıyorum. Kumaşlarınızı özenle katlayıp sağlam bir ambalaj kâğıdına paketliyorum.
+Hasan: Ödemeyi kredi kartıyla temassız olarak yapabilir miyim acaba?
+Kemal: POS cihazımız aktiftir, kartınızı güvenle okutabilirsiniz.
+Hasan: Ödeme onaylandı. Elinize, emeğinize ve ustalığınıza sağlık Kemal Usta.
+Kemal: Güle güle kullanın, iyi ve güzel günlerde kalın Beyefendi!
+
+### | Dijital Pazarlama Uzmanı Mülakatı
+lang: tr | cat: dialogue | sub: interview | tags: mülakat, pazarlama, iş, kariyer | level: 3
+---
+Semih: Hoş geldiniz Nazlı Hanım. Şirketimizin kıdemli dijital pazarlama uzmanı pozisyonu için başvurunuzu titizlikle değerlendirdik.
+Nazlı: Hoş bulduk Semih Bey. Yenilikçi projeler üreten bu güçlü ekibin parçası olmak adına burada bulunmaktan büyük mutluluk duyuyorum.
+Semih: Öz geçmişinizde son çalıştığınız e-ticaret şirketinde organik arama trafiğini ve sosyal medya dönüşüm oranlarını artırdığınız yazıyor. Bize bu başarıyı getiren stratejinizden bahseder misiniz?
+Nazlı: Tabii ki Semih Bey. Öncelikli olarak mevcut müşteri kitlemizin arama alışkanlıklarını ve hedef pazar analizini yeniden yapılandırdık. İçerik pazarlaması tarafında kullanıcı odaklı ve arama motoru uyumlu özgün rehberler hazırladık.
+Semih: Harika bir yaklaşım. Peki performans pazarlaması bütçelerini yönetirken optimizasyon süreçlerini nasıl kurguluyorsunuz?
+Nazlı: Bütçe harcamalarında dönüşüm başına maliyet hedefimizi sürekli ön planda tutarız. A-B testleri uygulayarak en yüksek etkileşimi veren reklam görsellerine ve metinlerine bütçe ağırlığı aktarırız.
+Semih: Reklam kampanyalarında beklenmedik bir kriz veya tıklama oranlarında ani bir düşüş yaşandığında nasıl bir kriz yönetimi benimsersiniz?
+Nazlı: Panik yapmadan hızlıca analitik veri panellerini incelerim. Rakiplerin hamlelerini, teknik altyapı aksaklıklarını ve reklam kısıtlamalarını kontrol ederek olası kök nedeni tespit ederim ve alternatif senaryoyu devreye sokarım.
+Semih: Ekip çalışmasında grafik tasarımcılar ve yazılım geliştiriciler ile uyumu sağlamak adına nasıl bir iletişim dili tercih edersiniz?
+Nazlı: Açık, şeffaf ve verilere dayalı bir iletişim dili kullanırım. Tasarım ekibine hedefleri net kullanıcı deneyimi taslaklarıyla sunar, yazılım ekibine ise teknik gereksinimleri detaylandırarak iletiriz.
+Semih: Çok sistemli bir çalışma prensibiniz var. Önümüzdeki üç yıllık süreçte kariyerinizde hangi konuma ulaşmayı hedefliyorsunuz?
+Nazlı: Global pazarlarda dijital pazarlama stratejilerine yön veren veri odaklı bir pazarlama yöneticisi olmayı hedefliyorum.
+Semih: Sorularınız var mı bizim şirket kültürümüz ve pazarlama ekibimizle ilgili?
+Nazlı: Şirketinizin önümüzdeki dönemde yurt dışı pazarlara açılma hedeflerini ve pazarlama bütçesi esnekliğini merak ediyorum.
+Semih: Yılın son çeyreğinde Avrupa pazarında yeni operasyonlar başlatıyoruz. Değerlendirme sonucumuzu cuma gününe kadar e-posta ile tarafınıza ileteceğiz.
+Nazlı: Değerli zamanınız, ilginiz ve nazik kabulünüz için çok teşekkür ederim Semih Bey.
+Semih: Teşekkürler Nazlı Hanım, iyi günler dilerim.
+
+### | Lojistik Rotaları Değerlendirmesi
+lang: tr | cat: dialogue | sub: meeting | tags: toplantı, lojistik, bütçe, verimlilik | level: 2
+---
+Mert: Değerli çalışma arkadaşlarım, haftalık lojistik ve tedarik zinciri değerlendirme toplantımıza hepiniz hoş geldiniz. Gündemimizde Marmara ve Ege bölgesi sevkiyat rotalarının optimizasyonu bulunuyor.
+Selin: Günaydın Mert Bey. Saha operasyon ekibimiz son bir aylık araç yakıt tüketimlerini ve teslimat sürelerini detaylıca analiz etti.
+Mert: Harika. Analiz sonuçlarına göre en çok zaman kaybettiren ve maliyet oluşturan güzergâhlar hangileri oldu Selin Hanım?
+Selin: Cuma günleri şehir içi yoğun saatlerde yapılan dağıtımlar teslimat sürelerini ortalama iki saat uzatıyor. Ayrıca araç doluluk oranlarımız yüzde yetmiş seviyesinde kalıyor.
+Mert: Araç doluluk oranını artırmak ve şehir içi trafiğe takılmamak için depolama ve yükleme saatlerinde nasıl bir değişiklik yapabiliriz?
+Selin: Gece vardiyasında yükleme yapıp araçları sabahın ilk ışıklarında yola çıkarmayı öneriyoruz. Böylece araçlar şehir içi yoğun trafiğe girmeden ana arterleri geçmiş olurlar.
+Mert: Çok mantıklı ve pratik bir öneri. Peki bu durum vardiya çalışanlarımızın mesai saatlerini ve personel maliyetlerini nasıl etkiler?
+Selin: İki personelimizin vardiya saatlerini esneterek bu süreci ek bir personel istihdam etmeden rahatça çözebiliyoruz. Ayrıca elde edeceğimiz yakıt tasarrufu personel masrafını fazlasıyla karşılayacaktır.
+Mert: Harika. Müşteri teslimat zaman pencerelerinde herhangi bir aksama veya gecikme riski doğar mı acaba?
+Selin: Tam aksine, sabah erken teslimat yapacağımız için müşteri memnuniyet puanlarımızın daha da yükseleceğini ön görüyoruz.
+Mert: Çok güzel. Yeni rota ve sevkiyat takvimini önümüzdeki pazartesi gününden itibaren pilot bölgede denemeye başlayalım mı?
+Selin: Bursa ve Balıkesir hatlarında öncelikli olarak başlatabiliriz. İki haftalık deneme sürecinin ardından tüm bölgeye yaygınlaştırırız.
+Mert: Anlaştık Selin Hanım. Karar tutanağını hazırlayıp tüm depo ve saha sorumlularına iletmenizi rica ediyorum.
+Selin: Hemen toplantı sonrası tutanağı hazırlayıp e-posta ile tüm ekiple paylaşıyorum Mert Bey.
+Mert: Emeğiniz ve katkılarınız için çok teşekkür ederim, haftalık toplantımız sona ermiştir.
+Selin: İyi çalışmalar Mert Bey, kolay gelsin.
+
+### | Otel Rezervasyonu Teyidi
+lang: tr | cat: dialogue | sub: phone | tags: telefon, otel, rezervasyon, konaklama | level: 1
+---
+Derya: İyi günler, Ege Kıyısı Otel Müşteri Hizmetleri, ben Derya. Size nasıl yardımcı olabilirim?
+Gökhan: Merhaba Derya Hanım. Gelecek hafta sonu için otelinizden yaptırmış olduğum oda rezervasyonunu teyit etmek amacıyla aramıştım.
+Derya: Tabii ki Gökhan Bey. Rezervasyon numaranızı veya sistemde kayıtlı cep telefonu numaranızı alabilir miyim?
+Gökhan: Rezervasyon kodum EGE-804. Kayıtlı ismim Gökhan Yıldız.
+Derya: Sistemden hemen kontrol ediyorum... Evet Gökhan Bey, on beş - on yedi temmuz tarihleri arasında iki gece konaklamalı bahçe manzaralı oda rezervasyonunuz sistemde onaylı görünüyor.
+Gökhan: Harika. Odaya giriş ve çıkış saatleriniz hakkında detaylı bilgi alabilir miyim acaba?
+Derya: Odaya giriş saatimiz en erken öğleden sonra saat iki, odadan çıkış saatimiz ise en geç öğleyin saat on ikidir.
+Gökhan: Anladım. Uçağımız sabah erken saatte ineceği için otele saat on bir gibi ulaşmış olacağız. Valizlerimizi emanete bırakabilir miyiz?
+Derya: Kesinlikle Gökhan Bey. Valizlerinizi resepsiyonumuzdaki kilitli emanet odasına güvenle bırakabilir, oda hazır olana kadar otelimizin bahçesinde veya plajında vakit geçirebilirsiniz.
+Gökhan: Çok sevindim. Rezervasyonumuza sabah kahvaltısı dâhil miydi acaba?
+Derya: Evet, konaklama paketiniz açık büfe sabah kahvaltısını kapsamaktadır. Kahvaltımız sabah saat sekiz ile on otuz arasında ana restoranda servis edilmektedir.
+Gökhan: Havaalanından otele ulaşım için otelinizin özel transfer servisi bulunuyor mu?
+Derya: Evet, ek ücret karşılığında VİP transfer aracımızla sizi havalimanından alıp otele getirebiliyoruz. İsterseniz hemen transfer kaydı oluşturabilirim.
+Gökhan: Çok iyi olur. Uçuş numaramız TK-2041, iniş saatimiz sabah saat on buçuk.
+Derya: Uçuş bilgilerinizi kaydettim. Sürücümüz sizi gelen yolcu kapısında isminizin yazılı olduğu levhayla karşılayacaktır.
+Gökhan: Çok detaylı, açıklayıcı ve yardımcı bilgiler verdiniz Derya Hanım, ilgilendiğiniz için çok teşekkür ederim.
+Derya: Rica ederim Gökhan Bey, sizi otelimizde ağırlamaktan büyük memnuniyet duyacağız.
+Gökhan: Çok teşekkür ederim, iyi günler dilerim.
+Derya: İyi günler Gökhan Bey, sağlıklı yolculuklar dilerim.
+
+Kontrol Özeti:
+İstenen Sayı: 5
+Üretilen Sayı: 5

@@ -38,5 +38,5 @@ Metnin gövdesi. Paragraflar arasında boş satır.
 
 Devam paragrafı.
 
-(Bloklar arasında bir boş satır bırak. "###" ile "|" arasına numara YAZMA.)
+(Bloklar arasında bir boş satır bırak. "###" ile "|" arasına numara YAZMA. "level" ZORUNLU. Belirli bir kaynağa dayandıysan meta satırına "source: <kaynak adı/adres> | license: <lisans>" ekle; özgün metinde bu alanları yazma.)
 ```

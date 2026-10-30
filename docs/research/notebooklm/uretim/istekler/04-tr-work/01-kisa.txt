@@ -1,0 +1,20 @@
+Kaynaklardaki yazım kılavuzuna göre 5 KISA metin yaz.
+
+- Dil: Türkçe
+- Kategori: work (İş ve mesleki okuma)
+- Uzunluk: her metin 300–450 kelime. Alt sınırın altına düşme.
+- Metinler:
+  1) sub: report (Kısa rapor) · level: 2
+  2) sub: project (Proje açıklaması) · level: 1
+  3) sub: workplace (İş yerinden) · level: 2
+  4) sub: growth (Mesleki gelişim) · level: 3
+  5) sub: minutes (Toplantı notları) · level: 2
+
+Her metin TAM OLARAK şu biçimde (YAML ya da başka biçim kullanma):
+
+### | Metnin Başlığı
+lang: tr | cat: work | sub: <yukarıdaki> | tags: <3-5 etiket> | level: <yukarıdaki>
+---
+Gövde. Paragraflar arasında boş satır.
+
+"Mevcut başlıklar" kaynağındaki ve bu sohbette daha önce yazdığın başlık ve konuları tekrar etme; her metinde farklı karakter, mekân ve olay. Atıf numarası yazma. En sonda ayrı bir satıra yalnızca "Kontrol Özeti:" yaz ve altına istenen ve üretilen metin sayısını yaz.

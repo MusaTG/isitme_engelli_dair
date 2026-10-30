@@ -12,7 +12,7 @@ import os
 import sys
 
 sys.path.insert(0, os.path.dirname(__file__))
-from run import (FAKE, check, RESULTS, item, go, play_and_wait, answer_current, finish_session,  # noqa: E402
+from run import (FAKE, check, RESULTS, item, go, play_and_wait, answer_current, finish_session, AUTO_CONFIRM,  # noqa: E402
                  start_study, onboard)
 from playwright.async_api import async_playwright  # noqa: E402
 
@@ -32,7 +32,7 @@ async def main():
     async with async_playwright() as p:
         b = await p.chromium.launch()
         ctx = await b.new_context(viewport={'width': 390, 'height': 844}, device_scale_factor=2, accept_downloads=True)
-        await ctx.add_init_script(FAKE)
+        await ctx.add_init_script(FAKE); await ctx.add_init_script(AUTO_CONFIRM)
         pg = await ctx.new_page()
         errors = []
         pg.on('pageerror', lambda e: errors.append(f'pageerror: {e}'))
@@ -339,7 +339,7 @@ async def main():
 
         # ---------- 13. Çevrimdışı: service worker önbelleğinden açılış ----------
         ctx2 = await b.new_context(viewport={'width': 390, 'height': 844})
-        await ctx2.add_init_script(FAKE)
+        await ctx2.add_init_script(FAKE); await ctx2.add_init_script(AUTO_CONFIRM)
         p2 = await ctx2.new_page()
         await p2.goto(ROOT)
         await p2.wait_for_selector('h1')

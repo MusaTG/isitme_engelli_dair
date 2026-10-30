@@ -1,0 +1,194 @@
+### | Organik Gurme Peynir Alışverişi
+lang: tr | cat: dialogue | sub: shopping | tags: alışveriş, peynir, gurme, organik, şarküteri | level: 2
+---
+Uğur: Hayırlı işler Nuri Usta! Dükkânınızın vitrininde sergilenen el yapımı yöresel peynirler, doğal zeytinler ve katkısız şarküteri çeşitleri caddeden geçerken çok iştah açıcı görünüyordu.
+
+Nuri: Sağ olasın Uğur Evladım! Dükkânımıza hoş geldin. Yıllardır ülkemizin farklı yörelerindeki yerel üreticilerden doğrudan temin ettiğimiz doğal, taze, katkısız, lezzetli ve kaliteli şarküteri ürünlerini mahallemizle buluşturuyoruz.
+
+Uğur: Çok güzel, değerli, anlamlı ve güven veren bir hizmet Nuri Usta. Özellikle Ezine tam yağlı koyun peynirini, Kars eski kaşarını ve Edremit yeşil kırma zeytinini detaylıca incelemek istiyorum.
+
+Nuri: Şu ahşap kasalarda gördüğünüz Ezine peynirimiz özel koruma tenekelerinde en az dokuz ay boyunca sabırla dinlendirilmiştir, tuz oranı ise damak tadına tam uygun ideal seviyededir.
+
+Uğur: Satın almadan önce peynirin lezzetine ve kıvamına bakmak adına küçük bir tadım yapma imkânımız var mıdır acaba?
+
+Nuri: Tabii ki Uğur Evladım, hemen ahşap sunum tabağında taze kesip sana ikram edeyim, tadına bakıp kararını öyle ver.
+
+Uğur: Gerçekten lezzeti, aroması ve kıvamı mükemmel, ağızda harika bir doğal süt tadı bırakıyor. Bir kilo bu Ezine peynirinden özenle paketlemenizi rica edeceğim.
+
+Nuri: Hemen hassas terazi ile tartıp paketliyorum. Kars eski kaşarımızdan ve yeşil kırma zeytinimizden de çeşni olarak ekleyelim mi?
+
+Uğur: Evet Nuri Usta, Kars eski kaşarından yarım kilo, yeşil kırma zeytinden de yarım kilo ekleyin lütfen. Ayrıca el yapımı süzme çam balınız var mıdır?
+
+Nuri: Datça yöresine ait birinci sınıf organik süzme çam balımız mevcuttur.
+
+Uğur: Bir kavanoz çam balı da siparişime ekleyelim. Toplam borcum ne kadar tuttu Nuri Usta?
+
+Nuri: Bir kilo peynir, yarım kilo kaşar, yarım kilo zeytin ve bir kavanoz çam balı toplam dokuz yüz elli lira tutuyor Uğur Evladım.
+
+Uğur: Ödemeyi temassız kredi kartı ile yapabilir miyim acaba?
+
+Nuri: Pos cihazımız aktiftir, kartını güvenle okutabilirsin. Ürünlerini de sağlam ambalajlı alışveriş çantasına koyuyorum.
+
+Uğur: İlgilendiğiniz, taze ve kaliteli ürünler sunduğunuz için çok teşekkür ederim Nuri Usta!
+
+Nuri: Afiyetle ve sağlıkla tüketiniz Uğur Evladım, hayırlı, neşeli ve güzel günler dilerim, her zaman yine bekleriz!
+
+Uğur: Çok teşekkürler Nuri Usta, hayırlı işler!
+
+### | Kıdemli Veri Analisti Mülakatı
+lang: tr | cat: dialogue | sub: interview | tags: mülakat, veri, analist, istatistik, kariyer | level: 3
+---
+Hande: Hoş geldiniz Erdem Bey. Teknoloji şirketimizin kıdemli veri analitiği ve iş zekası uzmanı pozisyonu için gerçekleştirdiğimiz bu teknik mülakatta sizi ağırlamaktan büyük memnuniyet duyuyoruz.
+
+Erdem: Hoş bulduk Hande Hanım. Global ölçekte büyük veri işleme altyapılarına yatırım yapan yetkin, dinamik ve yenilikçi ekibinizle tanışma fırsatı bulduğum için son derece heyecanlıyım.
+
+Hande: Öz geçmişinizde son dört yıldır finansal teknoloji sektöründe büyük veri mimarileri, makine öğrenmesi modelleri ve veri görselleştirme panelleri üzerine çalıştığınız görülüyor. Bize bu süreçte yönettiğiniz en karmaşık veri projesini anlatır mısınız?
+
+Erdem: Tabii ki Hande Hanım. Anlık olarak milyonlarca müşteri işlemini analiz eden finansal dolandırıcılık tespit sistemimizin makine öğrenmesi algoritmasını ve veri akış mimarisini sıfırdan başarıyla kurguladık.
+
+Hande: Harika bir dönüşüm projesi. Peki büyük veri kümelerini işlerken veri kalitesini, eksik veri temizleme süreçlerini ve model doğruluğunu sağlamak adına nasıl bir metodoloji ve teknik yaklaşım benimsediniz?
+
+Erdem: Otomatik veri temizleme boru hatları ve istatistiksel aykırı değer tespit algoritmaları kurguladık. Modelimizin doğruluk oranını yüzde doksan dört seviyesine yükseltmeyi başardık.
+
+Hande: Mülakat sürecimizde veriye dayalı karar alma mekanizmalarını yönetim ekibine ve farklı birimlere sunarken nasıl bir iletişim stratejisi izlersiniz?
+
+Erdem: Karmaşık teknik verileri iş birimlerinin kolayca anlayabileceği görsel panellere, anlaşılır grafiklere ve somut iş çıktılarına dönüştürerek açık bir dille sunarım.
+
+Hande: Ekip içinde genç analistlere mentörlük yapma, teknik altyapıyı sürekli güncelleme ve analitik kültürü yayma konusunda yaklaşımınız nasıldır acaba?
+
+Erdem: Açık iletişimi, sürekli öğrenmeyi ve dokümantasyon kültürünü desteklerim. Ekip arkadaşlarıma teknik konularda rehberlik etmekten büyük keyif alırım.
+
+Hande: Sorularınız var mı bizim şirketimizin yeni dönem veri yatırımları ve teknoloji hedefleri hakkında Erdem Bey?
+
+Erdem: Şirketinizin bulut tabanlı veri ambarı teknolojilerine geçiş takvimini ve analitik ekip yapısını merak ediyorum.
+
+Hande: Önümüzdeki çeyrekte bulut mimarisine geçiyoruz. Değerlendirme sonucumuzu cuma gününe kadar e-posta ile detaylıca bildireceğiz.
+
+Erdem: Değerli zamanınız, nazik ilginiz, verimli sohbetiniz ve teknik değerlendirmeniz için çok teşekkür ederim Hande Hanım.
+
+Hande: Biz teşekkür ederiz Erdem Bey, çalışmalarınızda başarılar, kolaylıklar ve iyi günler dilerim!
+
+### | Yıllık Bütçe ve İnsan Kaynakları Toplantısı
+lang: tr | cat: dialogue | sub: meeting | tags: toplantı, bütçe, insan kaynakları, planlama, şirket | level: 2
+---
+Mert: Değerli birim yöneticileri, şirketimizin gelecek yıl bütçe planlaması ve insan kaynakları stratejileri konulu değerlendirme toplantımıza hepiniz hoş geldiniz.
+
+Derya: Günaydın Mert Bey. İnsan kaynakları ve mali işler ekibimiz son bir aylık personel maliyetlerini, eğitim bütçelerini ve yeni dönem istihdam ihtiyaçlarını detaylıca analiz etti.
+
+Mert: Harika Derya Hanım! Analiz raporu sonuçlarına göre yeni dönemde şirketimize katmayı hedeflediğimiz yeni personel sayısı ve departman dağılımları nasıl şekillendi?
+
+Derya: Yazılım geliştirme departmanımıza beş, dijital pazarlama ekibimize iki ve müşteri hizmetleri birimimize üç yeni çalışma arkadaşı katmayı planlıyoruz.
+
+Mert: Yeni istihdam edilecek bu arkadaşlarımızın işe alım süreçlerini ve oryantasyon programlarını ne kadarlık bir zaman diliminde tamamlamayı öngörüyorsunuz?
+
+Derya: İşe alım mülakatlarını önümüzdeki ay başlatıp, iki haftalık oryantasyon eğitimleriyle birlikte tüm süreçleri ilk çeyrek sonuna kadar başarıyla tamamlamayı hedefliyoruz.
+
+Mert: Peki personel eğitim bütçesinde ve şirket içi yetkinlik geliştirme programlarında nasıl bir bütçe esnekliği kurguladınız Derya Hanım?
+
+Derya: Çalışanlarımızın teknik ve kişisel gelişimleri için uluslararası sertifikasyon eğitim bütçemizi geçen yıla kıyasla yüzde yirmi oranında artırdık.
+
+Mert: Mükemmel bir insan kaynağı yatırımı! Eğitimlerin bir kısmını esnek online platformlar üzerinden sunma imkânımız var mı acaba?
+
+Derya: Evet Mert Bey, dijital eğitim platformu üyeliklerimiz sayesinde çalışanlarımız diledikleri zaman eğitim videolarına erişebilecekler.
+
+Mert: Peki esnek çalışma modeli ve hibrit mesai düzeninde yemek ve ulaşım ödenekleri bütçeye nasıl yansıtılacak acaba?
+
+Derya: Hibrit çalışma modelinde yemek ve ulaşım kartı yüklemelerini tam ay üzerinden kesintisiz yapmaya devam edeceğiz. Böylece çalışan motivasyonunu korumuş olacağız.
+
+Mert: Çok yerinde ve çalışan odaklı bir karar olmuş Derya Hanım. Gösterdiğiniz bu vizyoner yaklaşım, detaylı planlama ve bütçe disiplini için sizi ve ekibinizi tebrik ederim.
+
+Derya: Çok teşekkür ederim Mert Bey. Hazırladığımız bütçe taslağını ve oryantasyon takvimini toplantı sonrası e-posta ile tüm yöneticilerimize ileteceğim.
+
+Mert: Katkılarınız için teşekkürler Derya Hanım, toplantımız sona ermiştir, hepinize kolay gelsin.
+
+Derya: İyi çalışmalar Mert Bey, görüşmek üzere.
+
+Mert: Teşekkürler Derya Hanım, verimli bir hafta dilerim!
+
+### | Diş Kliniği Randevu Teyidi
+lang: tr | cat: dialogue | sub: phone | tags: telefon, randevu, diş, klinik, sağlık | level: 1
+---
+Büşra: İyi günler, Gülüş Diş Sağlığı Kliniği Randevu Merkezi, ben Büşra. Size nasıl yardımcı olabilirim?
+
+Murat: Merhaba Büşra Hanım. Yarın öğleden sonra için diş hekiminizden yaptırmış olduğum muayene randevumu teyit etmek amacıyla aramıştım.
+
+Büşra: Tabii ki Murat Bey. Randevu kaydınızı sistemimizden sorgulayabilmem için adınızı, soyadınızı ve kayıtlı telefon numaranızı alabilir miyim?
+
+Murat: İsmim Murat Kaya, kayıtlı telefon numaram sıfır beş yüz otuz iki sekiz yüz yetmiş altı kırk beş on iki.
+
+Büşra: Hemen sistemimizden kontrol ediyorum Murat Bey... Evet, yarın saat on dört otuzda Dr. Ahmet Bey ile diş muayenesi randevunuz onaylı görünmektedir.
+
+Murat: Harika! İlk kez kliniğinize geleceğim için klinik adresiniz ve otopark imkânınız hakkında kısa bilgi alabilir miyim acaba?
+
+Büşra: Kliniğimiz ana caddedeki metro istasyonunun hemen çıkışında yer almaktadır. Binamızın alt katında hastalarımıza özel ücretsiz otoparkımız mevcuttur.
+
+Murat: Çok sevindim. Muayene öncesinde herhangi bir ön hazırlık yapmam veya aç gelmem gerekiyor mu acaba?
+
+Büşra: Genel diş muayenesi ve diş temizliği için özel bir açlık şartı bulunmamaktadır Murat Bey, randevu saatinizden on dakika önce gelmeniz yeterlidir.
+
+Murat: Anladım Büşra Hanım. Randevu günü kimlik kartımı veya sigorta kartımı yanımda getirmem gerekiyor mu?
+
+Büşra: Evet Murat Bey, kabul işlemlerinizin hızlıca yapılabilmesi için kimlik kartınızı ve varsa özel sağlık sigorta kartınızı yanınızda bulundurmanızı rica ederiz.
+
+Murat: Muayene sonrasında röntgen veya dolgu dolayısıyla ekstra bir ücret ödemesi yapılıyor mu acaba?
+
+Büşra: Genel kontrol ve röntgen çekimi muayene ücretine dâhil olup ekstra dolgu veya temizlik işlemleri tarife üzerinden bilgilendirilerek yapılır.
+
+Murat: Kliniğinizde tedavi sonrası kredi kartına taksit imkânı sunuluyor mu acaba?
+
+Büşra: Evet Murat Bey, anlaşmalı banka kredi kartlarına altı taksite kadar ödeme kolaylığı sağlıyoruz.
+
+Murat: Çok detaylı, açıklayıcı, net ve yardımcı bilgiler verdiniz Büşra Hanım, ilginiz için çok teşekkür ederim.
+
+Büşra: Rica ederim Murat Bey, yarın sizi kliniğimizde ağırlamaktan büyük memnuniyet duyacağız.
+
+Murat: Çok teşekkür ederim Büşra Hanım, iyi günler dilerim.
+
+Büşra: Sağlıklı günler dileriz Murat Bey, hoşça kalın!
+
+### | Coğrafya Maketi Proje Çalışması
+lang: tr | cat: dialogue | sub: school | tags: okul, coğrafya, proje, maket, grup | level: 2
+---
+Canan: Günaydın Onur! Coğrafya dersi ödevi için hazırlamamız gereken Yanardağ ve Yer Şekilleri konulu maket projesinin malzemelerini getirdin mi?
+
+Onur: Günaydın Canan! Evet, kırtasiyeden aldığım renkli oyun hamurlarını, mukavva kartonları, yapıştırıcıları ve kili çantamda getirdim.
+
+Canan: Harika bir hazırlık Onur! Maketimizin zeminini sağlamlaştırmak için önce kalın mukavva karton üzerine dağ siluetini çizmeyle başlayalım.
+
+Onur: Çok doğru bir yöntem Canan. Dağın dış hatlarını çizdikten sonra kil ve oyun hamuru ile krater çukurunu ve magma kanallarını şekillendirebiliriz.
+
+Canan: Mükemmel! Yanardağ maketimizin üzerine kırmızı ve turuncu renkli hamurlarla akan lav akıntılarını eklersek görsel açıdan çok etkileyici olur.
+
+Onur: Kesinlikle katılıyorum Canan. Ayrıca maketin etrafına yeşil hamurdan ağaçlar ve küçük taşlar koyarak doğal çevreyi de gerçekçi bir şekilde yansıtabiliriz.
+
+Canan: Çok güzel bir fikir Onur! Maketimizin hemen yanına yer şekillerini ve coğrafi terimleri açıklayan küçük bilgi kartları da hazırlayıp yapıştıralım mı?
+
+Onur: Bilgi kartları fikri harika! Kartların üzerine krater, baca, lav ve püskürme terimlerinin kısa tanımlarını yazabiliriz.
+
+Canan: Ders öğretmenimizin projemizi değerlendirirken bu detaylı açıklama kartlarını çok beğeneceğinden emin gibiyim.
+
+Onur: Görsel maket ile teorik bilgiyi harmanlamak coğrafya projemizin kalitesini oldukça artıracaktır Canan.
+
+Canan: Maketi renklendirme ve yapıştırma işlemlerini bugün okul çıkışındaki resim atölyesinde tamamlayabiliriz.
+
+Onur: Anlaştık Canan, resim atölyesindeki geniş masalarda daha rahat ve temiz bir şekilde çalışabiliriz.
+
+Canan: Maketimize lav patlamasını simgeleyen küçük ışık düzenekleri veya fenerler de ekleyelim mi Onur?
+
+Onur: Fener düzeneği projemize muazzam bir derinlik ve dikkat çekici bir görsellik katar Canan!
+
+Canan: Proje maketimizi yarınki coğrafya dersinde sınıf arkadaşlarımıza sunmak için sabırsızlanıyorum.
+
+Onur: Gerçekten son derece uyumlu, eğlenceli, verimli ve kaliteli bir grup çalışması yürüttük Canan.
+
+Canan: Ben de seninle çalışmaktan büyük keyif aldım Onur, okul çıkışında resim atölyesinde buluşmak üzere!
+
+Onur: Görüşmek üzere Canan, sana derslerinde başarılar ve iyi dersler dilerim!
+
+Canan: Çok teşekkürler Onur, sana da iyi dersler ve iyi çalışmalar dilerim!
+
+Onur: Hoşça kal Canan!
+
+Kontrol Özeti:
+İstenen Sayı: 5
+Üretilen Sayı: 5

@@ -1,0 +1,143 @@
+### | Uluslararası Bilişim ve Teknoloji Vadisine Ulaşım Tarifi
+lang: tr | cat: dialogue | sub: directions | tags: yol tarifi, teknoloji, ulaşım, otobüs, harita | level: 3
+---
+## Karşılama ve Teknoloji Vadisinin Konumu Hakkında Genel Bilgi
+
+Ahmet: Afedersiniz Hanımefendi, sizi kentin dışındaki hızlı tren garı çıkışında rahatsız ediyorum ama uluslararası bilişim ve teknoloji vadisi kampüsüne giden ulaşım araçlarını arıyorum.
+
+Sibel: Merhaba Beyefendi! Hiç rahatsızlık değil, memnuniyetle yardımcı olurum. Şu an kentin ana hızlı tren terminalindesiniz ancak teknoloji vadisi kampüsüne ulaşım buradan son derece kolay ve rahattır.
+
+Ahmet: Çok sevindim! Şehre ilk kez geldiğim ve akıllı telefonumun kapsama alanı dışında kaldığı için otobüs hat numaralarını, metro transfer noktalarını ve yürüyüş rotalarını tam olarak netleştiremedim.
+
+Sibel: Hiç endişelenmeyin, ben size en hızlı, en pratik, en güvenli ve en konforlu ulaşım rotasını adım adım, detaylıca tarif edeyim. Öncelikle tren garının hemen önünde yer alan kapalı ana otobüs peronlarına geçmelisiniz.
+
+Ahmet: Gar binasının çıkışında görünen büyük mavi camlı otobüs peronlarının olduğu alana mı yürüyeceğim acaba?
+
+Sibel: Evet, tam olarak o peron alanına geçecesiniz. Peronlardan her on beş dakikada bir düzenli olarak geçen otuz dört numaralı 'Teknoloji Vadisi ve İnovasyon Kampüsü' otobüsüne biniş yapmalısınız.
+
+Ahmet: Teknoloji vadisine gitmek için doğrudan otobüse binmek mi yoksa metro hattına aktarma yapmak mı daha hızlı olur?
+
+Sibel: Otobüs hattı doğrudan otoban ekspres yolunu kullandığı için bu saatte trafiğe takılmadan en hızlı ve en direkt ulaşım seçeneğidir.
+
+## Ekspres Otobüs Hattı ve İnecek Durak Bilgisi
+
+Ahmet: Otobüse biniş yaptıktan sonra tam olarak hangi durakta inmem gerekiyor ve yolculuk yaklaşık kaç dakika sürer acaba?
+
+Sibel: Biniş yaptıktan yaklaşık yirmi dakika sonra, beşinci durak olan 'Teknoloji Vadisi Ana Giriş Nizamiyesi' durağında ineceksiniz.
+
+Ahmet: Otobüs şoförü durak isimlerini sesli olarak anons ediyor mu yoksa dijital ekrandan mı takip etmeliyim?
+
+Sibel: Otobüs içinde hem Türkçe hem İngilizce sesli anons sistemi mevcuttur, ayrıca şoför kabininin üstündeki dijital ekranda gelecek durak adı sürekli yayınlanmaktadır.
+
+Ahmet: Biniş ücretini temassız kredi kartımla ödeyebiliyor muyum yoksa özel şehir ulaşım kartı almak şart mıdır?
+
+Sibel: Bilişim hattındaki tüm otobüslerimizde temassız kredi kartı ve banka kartı geçerlidir, ekstra bir şehir içi ulaşım kartı satın almanıza hiç gerek yoktur.
+
+Ahmet: Otobüsten indikten sonra vadi içindeki araştırma laboratuvarları ve kuluçka merkezleri binalarına yürüyerek mi geçeceğim?
+
+Sibel: Durağın hemen yanında teknoloji vadisi kampüs içi ücretsiz otonom ring servisleri beklemektedir, onları rahatlıkla kullanabilirsiniz.
+
+## Kampüs İçi Nizamiyeden Ar-Ge Binalarına İlerleyiş
+
+Ahmet: 'Teknoloji Vadisi Ana Giriş Nizamiyesi' durağında indikten sonra vadi güvenlik kontrol noktasına ulaşmak için ne tarafa doğru yürümeliyim?
+
+Sibel: Durağın hemen sağ tarafında yer alan yüksek teknolojik cam kapılı ana nizamiye binasını ve ziyaretçi giriş turnikelerini göreceksiniz.
+
+Ahmet: Ziyaretçi giriş turnikelerinden geçmek için önceden alınmış dijital ziyaretçi QR kodunu mu okutmamız gerekiyor?
+
+Sibel: Evet Beyefendi, teknoloji vadisi yüksek güvenlikli araştırma bölgesi olduğu için cep telefonunuza gelen onaylı QR kodunu optik okuyucuya okutarak geçiş yapacaksınız.
+
+Ahmet: Ziyaretçi geçiş onayını aldıktan sonra ana araştırma ve geliştirme bloklarına ulaşım için hangi yolu takip etmeliyim?
+
+Sibel: Turnikelerden geçtikten sonra karşınıza çıkacak olan akçaağaçlı geniş bulvar boyunca dosdoğru yaklaşık iki yüz metre kadar yürüyeceksiniz.
+
+Ahmet: Bulvarın sonunda görünen büyük cam küre mimarili inovasyon merkezinin olduğu yöne doğru mu ilerleyeceğim?
+
+Sibel: Evet, o devasa cam küre binası teknoloji vadisinin tam merkezidir ve ana referans noktanız olacaktır.
+
+## İnovasyon Merkezi ve Kuluçka Binaları Yönlendirmesi
+
+Ahmet: İnovasyon merkezinin önüne geldiğimde yazılım ve yapay zekâ kuluçka merkezleri hangi tarafta kalıyor acaba?
+
+Sibel: Cam küre binasının sol tarafında yer alan bloklar yapay zekâ ve yazılım kuluçka merkezleridir, sağ tarafındakiler ise siber güvenlik laboratuvarlarıdır.
+
+Ahmet: Binaların arasında yönlendirme tabelaları ve dijital harita bilgi ekranları bulunuyor mu?
+
+Sibel: Kampüsün her noktasında dokunmatik dijital haritaya sahip bilgilendirme ekranları mevcuttur, aradığınız firmanın veya akademisyenin adını girerek rota çizebilirsiniz.
+
+Ahmet: Binalar arasında yürümek yerine kampüs içi elektrikli scooter veya bisiklet kiralama imkânı da var mıdır?
+
+Sibel: Evet Beyefendi, nizamiye girişindeki kiralama istasyonlarından mobil uygulamayla elektrikli scooter veya bisiklet kiralayıp kampüs içinde tur atabilirsiniz.
+
+Ahmet: Teknoloji vadisinin geniş yeşil alanları ve çevre dostu yapısı uzaktan bile son derece etkileyici görünüyor.
+
+Sibel: Evet, kampüsümüz tamamen güneş panelleriyle kendi enerjisini üreten ve sıfır atık belgesine sahip akıllı bir teknolojiler bölgesidir.
+
+## Konferans Salonu ve Yemekhane Alanı Rotaları
+
+Ahmet: Bugün teknoloji vadisinde düzenlenecek olan uluslararası yapay zekâ zirvesinin yapılacağı ana konferans salonuna nasıl ulaşabilirim?
+
+Sibel: Ana konferans salonu, bahsettiğim cam küre mimarili inovasyon binasının birinci katında yer almaktadır.
+
+Ahmet: Konferans salonunun ana girişinde bilet teyidi ve kayıt masaları kurulmuş mudur acaba?
+
+Sibel: Evet Beyefendi, binanın geniş fuaye alanında yaka kartı dağıtım masaları ve ikram stantları sabahtan itibaren hizmet vermektedir.
+
+Ahmet: Öğle arasında konferans katılımcıları için yemekhane ve kafe alanları nerede hizmet veriyor?
+
+Sibel: İnovasyon merkezinin zemin katında yer alan göl manzaralı restoran ve organik ürünler kafeteryası tüm ziyaretçilere açıktır.
+
+Ahmet: Kafeterya alanında ve konferans salonunda yüksek hızlı ücretsiz Wi-Fi kablosuz internet hizmeti mevcut mudur?
+
+Sibel: Kampüsün tüm açık ve kapalı alanlarında 'Tekno-Guest' ağı üzerinden yüksek hızlı ücretsiz internet erişimi sağlanmaktadır.
+
+Ahmet: Bu muazzam altyapı ve teknolojik imkânlar şehir dışından gelen bir araştırmacı olarak beni gerçekten çok etkiledi.
+
+Sibel: Şehrimiz ve ülkemiz adına gurur kaynağı olan birinci sınıf bir araştırma ve bilişim üssüdür.
+
+## Teknoloji Vadisinden Şehir Merkezine Dönüş Alternatifleri
+
+Ahmet: Akşam zirve programı bittikten sonra teknoloji vadisinden şehir merkezine ve oteller bölgesine dönüş ulaşımı nasıl sağlanıyor?
+
+Sibel: Akşam saat altıdan sonra her on dakikada bir tren garına ve şehir merkezine direkt ekspres otobüs seferleri düzenlenmektedir.
+
+Ahmet: Şehir merkezine dönen akşam otobüsleri gece saat kaça kadar hizmet vermeye devam etmektedir?
+
+Sibel: Gece saat yirmi dörde kadar otobüs seferleri kesintisiz devam eder, ayrıca nizamiye önünde yirmi dört saat taksi durağı da mevcuttur.
+
+Ahmet: Ulaşım konusunda hiçbir mağduriyet yaşamayacak olmamız gerçekten büyük bir rahatlık.
+
+Sibel: Teknoloji vadisi yönetimi ziyaretçilerin ve araştırmacıların ulaşım konforuna büyük önem vermektedir.
+
+Ahmet: Son olarak, teknoloji vadisi içinde acil sağlık durumları için revir veya tıbbi müdahale merkezi bulunuyor mu?
+
+Sibel: Nizamiye binasının hemen yanında yirmi dört saat nöbetçi doktor ve ambulansı bulunan tam teşekküllü sağlık reviri hizmet vermektedir.
+
+Ahmet: Her detay düşünülmüş mükemmel bir yerleşke planlaması yapılmış.
+
+Sibel: Evet Beyefendi, tüm altyapı uluslararası standartlara uygun olarak kurgulanmıştır.
+
+## Tarif Teşekkürü ve Ulaşım Rehberinin Tamamlanması
+
+Ahmet: Verdiğiniz bu son derece açık, net, detaylı, yönlendirici ve nazik tarif için size yürekten çok teşekkür ederim Sibel Hanım.
+
+Sibel: Rica ederim Ahmet Bey, ne demek, yardımcı olabildiysem ne mutlu bana!
+
+Ahmet: Sayenizde hiç yabancılık çekmeden ve yolumu kaybetmeden teknoloji vadisine rahatça ulaşabileceğim.
+
+Sibel: Teknoloji vadisinde katılacağınız uluslararası yapay zekâ zirvesinde verimli, ilham verici ve harika zamanlar geçirmenizi dilerim.
+
+Ahmet: Nazik dilekleriniz için çok sağ olun Sibel Hanım, size de hayırlı, neşeli, sağlıklı ve huzurlu günler dilerim!
+
+Sibel: Çok teşekkür ederim Ahmet Bey, iyi günler, yolunuz açık olsun, hoşça kalın!
+
+Ahmet: Görüşmek üzere Sibel Hanım, hoşça kalın!
+
+Kontrol Özeti:
+1092
+
+---
+
+`19-orta.txt` kaynağındaki 7 bölümlü orta uzunluktaki diyalog metni (1092 kelime) tüm kurallara ve kelime alt sınırına %100 uygun olarak üretilmiştir.
+
+Sıradaki dosya (`20-orta.txt`) ile devam etmek isterseniz **"20 ile devam"** yazmanız yeterlidir!

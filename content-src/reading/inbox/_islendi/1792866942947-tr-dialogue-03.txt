@@ -1,0 +1,109 @@
+### | Proje Takvimi ve Görev Dağılımı
+sub: meeting | tags: toplantı, proje, takvim, planlama, ekip | level: 2
+---
+Ahmet: Günaydın Banu Hanım. Yeni çeyrek dijital dönüşüm projemizin planlama toplantısı için bir araya geldik. Gündemimizde öncelikli modüllerin belirlenmesi, bütçe sınırları ve sprint takviminin netleştirilmesi var.
+Banu: Günaydın Ahmet Bey. Ekip olarak ön analiz çalışmalarımızı geçen hafta tamamladık. İlk etapta kullanıcı yetkilendirme ve veri raporlama modüllerine odaklanmayı öneriyoruz.
+Ahmet: Bu iki modül sistemin omurgasını oluşturduğu için sıralama tercihimiz son derece doğru. Peki bu iki temel modülün geliştirilme süresi için öngörünüz nedir?
+Banu: Kullanıcı yetkilendirme altyapısını iki haftalık ilk sprint içinde rahatlıkla tamamlayabiliriz. Ancak raporlama modülü farklı veri kaynaklarıyla entegre çalışacağı için en az üç haftalık bir zaman dilimine ihtiyaç duyacaktır.
+Ahmet: Anladım. Test süreçlerini ve olası hata düzeltme zamanlarını bu üç haftalık sürenin içine dâhil ettiniz mi, yoksa ayrı bir test sprinti mi planlıyorsunuz?
+Banu: Kalite güvence ekibimizle yaptığımız detaylı değerlendirmeye göre, her sprint sonunda ikişer günlük ara testler yapacağız. Tüm modüller birleştikten sonra ise beş günlük genel bir entegrasyon ve yük testi gerçekleştireceğiz.
+Ahmet: Harika bir plan. Peki sunucu altyapısı ve güvenlik sertifikalarının yenilenmesi konusunda herhangi bir teknik engel görünüyor mu?
+Banu: Sistem yönetimi ekibimiz gerekli sunucu alanlarını ve veri tabanı örneklerini tahsis etti. Güvenlik duvarı kurallarının tanımlanması için bilgi işlem biriminden onay bekliyoruz. O onay da yarın öğleye kadar elimizde olacaktır.
+Ahmet: Çok güzel. Tasarım tarafındaki kullanıcı arayüzü çizimleri ve ekran akışları hazır mı?
+Banu: Grafik tasarımcımız masaüstü ve mobil ekran taslaklarını tamamladı. Ekip içinde yaptığımız ön kullanıcı deneyimi testlerinden oldukça olumlu geri bildirimler aldık. Bugün mesai bitimine kadar tüm görsel çıktıları yazılım ekibine teslim edecek.
+Ahmet: Bütçe tarafında ilave bir yazılım lisansı almamız gerekecek mi, yoksa mevcut altyapımız yeterli mi?
+Banu: Mevcut bulut sunucu lisanslarımız bu aşama için tamamen yeterli Ahmet Bey. Herhangi bir ek bütçe talebimiz bulunmuyor.
+Ahmet: Mükemmel bir hazırlık olmuş Banu Hanım. O zaman ilk sprintimizi önümüzdeki pazartesi günü resmi olarak başlatıyoruz. Toplantı notlarını ve görev dağılım matrisini öğleden sonra tüm ekiple e-posta üzerinden paylaşacağım.
+Banu: Çok teşekkür ederim Ahmet Bey. Ekip arkadaşlarımı hemen bilgilendirip pazartesi sabahı yapılacak ilk koordinasyon toplantısını takvimlere ekliyorum.
+Ahmet: Verimli ve başarılı bir proje süreci olmasını dilerim Banu Hanım, tüm ekibe kolay gelsin.
+Banu: Teşekkürler Ahmet Bey, iyi çalışmalar.
+
+### | Sanat Kursu Kayıt Bilgisi
+sub: phone | tags: telefon, kurs, kayıt, resim, bilgi | level: 1
+---
+Merve: İyi günler, Kültür Merkezi Sanat Kursları Danışma Hattı, ben Merve. Size nasıl yardımcı olabilirim?
+Deniz: Merhaba Merve Hanım. Yetişkinler için düzenlenen akşam resim kursları hakkında detaylı bilgi almak için aramıştım.
+Merve: Tabii ki Deniz Bey. Yetişkin resim kurslarımız hafta içi salı ve perşembe günleri akşam saat altı ile sekiz arasında gerçekleşmektedir.
+Deniz: Anladım. Kurs içeriğinde hangi teknikler öğretiliyor acaba? Ben daha önce hiç resim eğitimi almadım, bu durum bir engel oluşturur mu?
+Merve: Hiç endişelenmeyin Deniz Bey, eğitimlerimiz tamamen temel seviyeden başlamaktadır. İlk dört hafta karakalem, perspektif ve ölçü alma teknikleri çalışılıyor. Ardından sulu boya ve akrilik boya uygulamalarına geçiyoruz.
+Deniz: Harika! Peki kursa katılmak için herhangi bir çizim yeteneği veya ön mülakat şartı aranıyor mu?
+Merve: Kesinlikle hayır. Kursumuzun temel amacı resim sanatını sevdirmek ve temel teknikleri sıfırdan öğretmektir. İsteyen ve ilgi duyan herkes rahatlıkla katılabilir.
+Deniz: Çok sevindim. Peki kayıt için gerekli evraklar nelerdir ve sınıf kontenjan durumunuz nedir?
+Merve: Kayıt işlemleri için sadece kimlik fotokopiniz, ikametgâh belgeniz ve iki adet vesikalık fotoğrafınız yeterlidir. Sınıf kontenjanımız on beş kişi ile sınırlıdır ve şu an için son dört kişilik boş yerimiz kaldı.
+Deniz: Anladım. Eğitim materyallerini, şövaleleri ve boyaları biz mi satın alıyoruz yoksa merkez tarafından mı karşılanıyor?
+Merve: Atölyemizdeki şövale, resim altlığı ve resim kâğıtları merkezimiz tarafından ücretsiz sağlanmaktadır. Fırça seti, karakalem takımı ve boyaları ise katılımcılarımız kendileri temin etmektedir. İlk derste eğitmenimiz kullanılacak kaliteli ve uygun fiyatlı malzeme listesini detaylıca paylaşacaktır.
+Deniz: Kurs ücreti ve ödeme kolaylıkları hakkında da bilgi verebilir misiniz?
+Merve: Aylık kurs ücretimiz son derece uygundur ve ödemeleri kredi kartına taksit veya banka havalesi ile gerçekleştirebilirsiniz. Ayrıca üç aylık toplu ödemelerde yüzde on indirim avantajımız bulunmaktadır.
+Deniz: Ulaşım açısından binanızın yakınında otopark veya metro durağı bulunuyor mu?
+Merve: Merkezimiz metro durağına yürüyerek sadece üç dakika mesafededir. Ayrıca binamızın arkasında kursiyerlerimiz için ücretsiz açık otopark alanımız mevcuttur.
+Deniz: Çok detaylı ve faydalı açıklamalar yaptınız Merve Hanım. Yarın öğleden sonra kayıt evraklarımla birlikte merkezinize bizzat geleceğim.
+Merve: Biz teşekkür ederiz Deniz Bey, yarın sizi merkezimizde ağırlamaktan mutluluk duyarız. İyi günler dilerim!
+Deniz: İyi günler Merve Hanım, hoşça kalın.
+
+### | Kütüphanede Araştırma Yöntemleri
+sub: school | tags: okul, kütüphane, araştırma, kaynak, ödev | level: 2
+---
+Selin: Merhaba Hakan Öğretmenim, tarih dersi için hazırlamam gereken dönem ödevi konusunda kütüphanede araştırma yapıyorum ama nereden başlayacağımı tam olarak bilemedim.
+Hakan: Merhaba Selin. Konun tam olarak neydi ve hangi tür kaynaklara ulaşmak istiyorsun?
+Selin: İpek Yolu üzerindeki ticaret şehirlerinin kültürel etkileşimi üzerine geniş kapsamlı bir araştırma yapmam gerekiyor. İnternette çok fazla bilgi var ama güvenilir ve akademik kaynak bulmakta zorlanıyorum.
+Hakan: Çok güzel ve derinlikli bir konu seçmişsin Selin. Öncelikle arama motorlarındaki genel ve doğrulanmamış bilgilerin ödev için yeterli olmayacağını bilmelisin. Kütüphanemizin dijital katalog sistemini kullandın mı?
+Selin: Girişteki bilgisayardan arama yaptım fakat karşıma yüzlerce kitap çıktı. Hangisinin konuma doğrudan hitap ettiğini ve güvenilir olduğunu seçemedim.
+Hakan: Katalog aramasında anahtar kelimeleri doğru seçmek ve aramayı daraltmak gerekir. Örneğin sadece 'İpek Yolu' yazmak yerine 'İpek Yolu kültürel değişim' veya 'İpek Yolu ticaret şehirleri' şeklinde spesifik aramalar yapmalısın.
+Selin: Anladım öğretmenim. Belli bir tarih aralığına göre veya belirli akademik yazarları seçerek filtreleme yapabilir miyim?
+Hakan: Kesinlikle. Sol taraftaki filtreleme menüsünden son yirmi yılda yayımlanmış akademik kitapları ve hakemli dergi makalelerini seçebilirsin. Ayrıca kütüphanemizin üye olduğu ulusal ve uluslararası çevrim içi akademik veri tabanlarına da okul numaranla erişebilirsin.
+Selin: Çevrim içi akademik veri tabanlarına evden de erişim sağlayabiliyor muyum, yoksa sadece kütüphane içinden mi kullanabilirim?
+Hakan: Okulumuzun uzaktan erişim portalına kullanıcı adın ve şifrenle giriş yaparak tüm makale, ansiklopedi ve e-kitaplara evinden de ücretsiz olarak ulaşabilirsin.
+Selin: Bu harika bir imkânmış! Peki kitaplardaki bilgileri ve alıntıları ödevimde dipnot olarak gösterirken hangi kaynak gösterme formatını kullanmalıyım?
+Hakan: Dersimizde detaylıca öğrendiğimiz akademik dipnot kuralını uygulayacaksın. Yazar adı, kitap veya makale adı, yayın evi, basım yılı ve kullandığın sayfa numarasını eksiksiz ve doğru biçimde belirtmelisin.
+Selin: Ödev teslim tarihi yaklaştığı için zaman yönetimi konusunda da küçük bir tavsiye verebilir misiniz?
+Hakan: Önce bulduğun kaynakların içindekiler ve kaynakça bölümlerine göz atarak hızlı bir ön inceleme yap. Doğrudan konunla ilgili bölümleri not alıp ödev taslağını oluştur, böylece vakit kaybetmezsin.
+Selin: Yönlendirmeniz ve değerli tavsiyeleriniz için çok teşekkür ederim Hakan Öğretmenim. Şimdi filtreli arama yaparak kaynaklarımı listelemeye başlıyorum.
+Hakan: Rica ederim Selin, takıldığın bir nokta olursa kütüphane görevlisinden veya benden her zaman yardım isteyebilirsin. Başarılar dilerim.
+Selin: Çok sağ olun öğretmenim, iyi günler dilerim.
+
+### | Mahallede Yeni Komşu ile Tanışma
+sub: intro | tags: tanışma, komşu, mahalle, çevre, sohbet | level: 1
+---
+Gül: Merhaba, iyi günler! Ben yan dairede oturan komşunuz Gül. Taşınma telaşınız biraz azaldı sanırım, apartmanımıza ve mahallemize hoş geldiniz!
+Sibel: Merhaba Gül Hanım, çok memnun oldum! Ben de Sibel. Evet, kolilerin çoğunu açtık, eşyaları yerleştirdik, ev yavaş yavaş düzene giriyor.
+Gül: Tekrar hoş geldiniz. Bir ihtiyacınız, bir eksiğiniz veya yardıma ihtiyacınız olursa lütfen çekinmeden kapımı çalın.
+Sibel: Çok naziksiniz Gül Hanım, çok teşekkür ederim. Bu mahallede yeniyiz, henüz etrafı ve çevre imkânlarını pek tanımıyoruz.
+Gül: Hiç merak etmeyin, mahallemiz son derece sakin, güvenli, huzurlu ve komşuluk ilişkileri güçlü bir yerdir. Yaklaşık sekiz yıldır bu apartmanda yaşıyorum.
+Sibel: Ne kadar güzel! Buralarda taze sebze meyve alabileceğimiz yakın bir semt pazarı veya organik ürünler satan bir yer var mı acaba?
+Gül: Evet, hemen iki sokak arkamızdaki geniş caddede her çarşamba günü büyük bir semt pazarı kurulur. Çevre köylerden gelen taze ürünler satılır, oldukça kalitelidir.
+Sibel: Harika! Peki günlük alışverişlerimiz için fırın, eczane ve süpermarket yakınlarda mevcut mu?
+Gül: Ana caddeye çıktığınızda hemen sağ tarafta harika bir mahalle fırını göreceksiniz. Her sabah taze ekmek, börek ve simit çıkarırlar. Eczane ve süpermarket de fırının hemen yanında yan yana yer alıyor.
+Sibel: Çok sevindim, her şeyin el altında olması büyük bir şans. Eşim ve ben buraya taşınmadan önce ulaşım imkânlarını araştırmıştık ama toplu taşıma durağının tam yerini kestiremedik.
+Gül: Apartman ana kapısından çıkıp sola dönün ve elli metre yürüyün. Otobüs durağını tam karşınızda göreceksiniz. Oradan metro istasyonuna ve şehir merkezine giden otobüsler her on dakikada bir geçer.
+Sibel: Ulaşım kolaylığı çalışma hayatımız için gerçekten harika bir avantaj olacak.
+Gül: Kesinlikle öyle. Ayrıca apartmanımızın arka tarafında küçük bir ortak bahçemiz de var. Yaz akşamları komşularla orada oturup çay içeriz.
+Sibel: Kulağa çok sıcak ve samimi geliyor Gül Hanım.
+Gül: Hafta sonu müsait olursanız sizi ve eşinizi evimizde bir yorgunluk çayı içmeye ve daha detaylı sohbet etmeye beklerim Sibel Hanım.
+Sibel: Çok mutlu oluruz Gül Hanım. Evdeki son yerleşme işlerini bitirince seve seve davetinize icabet ederiz.
+Gül: Anlaştık o zaman! Tekrar hoş geldiniz, kolay gelsin Sibel Hanım.
+Sibel: Çok teşekkür ederim Gül Hanım, görüşmek üzere!
+
+### | Otopark Alanı Karışıklığı
+sub: problem | tags: sorun çözme, komşu, otopark, nezaket, apartman | level: 3
+---
+Kemal: İyi akşamlar Murat Bey, sizi akşam vakti rahatsız ediyorum ama bina kapalı otoparkındaki park yeri kullanımıyla ilgili kısa bir konuyu nazikçe görüşebilir miydik?
+Murat: İyi akşamlar Kemal Bey, rica ederim ne rahatsızlığı. Bir sorun mu var acaba?
+Kemal: Akşam iş dönüşü aracımla otoparka girdiğimde bana tahsis edilen kırk beş numaralı park alanında sizin aracınızın park edilmiş olduğunu gördüm.
+Murat: Aaa, öyle mi? Ben bina yönetiminin belirlediği numaralandırma listesini yanlış hatırlıyor olabilirim. Kırk beş numara benim daireme ait değil miydi?
+Kemal: Apartman yönetim planına ve giriş kapısındaki krokiye göre kırk beş numaralı park yeri benim oturduğum on iki numaralı daireye tahsis edilmiş durumda. Sizin dairenizin park yeri ise hemen yan taraftaki kırk altı numara.
+Murat: Gerçekten çok mahcup oldum Kemal Bey, özür dilerim. Numaralar yerdeki beton zeminde biraz silindiği için akşam karanlığında fark edemedim.
+Kemal: Hiç önemli değil Murat Bey, lütfen mahcup olmayın, insanlık hali. Zaten akşam karanlığında ve yetersiz ışıklandırmada yerdeki silik numaraları seçmek gerçekten oldukça zor oluyor.
+Murat: Duyarlılığınız ve son derece anlayışlı yaklaşımınız için çok teşekkür ederim. Ben hemen üzerime rahat bir şeyler giyip aşağı iniyorum ve aracımı kendi park yerime çekiyorum.
+Kemal: Çok acele etmenize ve telaş yapmanıza hiç gerek yok Murat Bey. Ben kendi aracımı geçici olarak misafir otopark alanına bıraktım, güvende duruyor. Müsait olduğunuzda değiştirmeniz yeterli olacaktır.
+Murat: Anlayışınız için tekrar teşekkürler. Bu numara karmaşasının tekrarlanmaması için ne yapabiliriz acaba?
+Kemal: Bu çizgi ve numara silinmesi konusunu önümüzdeki hafta yapılacak apartman sakinleri olağan toplantısında yönetime dilekçe ile iletmeyi öneriyorum. Yerdeki numaralar fosforlu boyayla belirginleşirse kimse benzer bir kafa karışıklığı yaşamaz.
+Murat: Harika bir öneri Kemal Bey! Ben de toplantıda bu teklifinizi kesinlikle destekleyeceğim. Ayrıca kapalı otoparkın giriş ve orta kısmındaki yetersiz ışıklandırmanın artırılması konusunu da gündeme getirebiliriz.
+Kemal: Çok doğru bir noktaya değindiniz. Garajın giriş kısmındaki ampullerin sensörlü ve daha güçlü LED lambalarla yenilenmesi de görüş mesafesini artıracaktır.
+Murat: Ben beş dakika içinde aşağıda olup aracı kendi yerime alıyorum Kemal Bey, beklettiğim için tekrar kusura bakmayın.
+Kemal: Rica ederim Murat Bey, komşuluk anlayışınız ve yapıcı tutumunuz için çok teşekkür ederim, iyi akşamlar dilerim.
+Murat: Ben teşekkür ederim Kemal Bey, komşuluk anlayışınız için sağ olun, iyi akşamlar.
+
+Kontrol Özeti:
+- İstenen Sayı: 5
+- Üretilen Sayı: 5
+- Doğrulanamayan Noktalar: Yok

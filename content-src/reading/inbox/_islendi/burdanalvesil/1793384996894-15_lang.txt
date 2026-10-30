@@ -1,0 +1,153 @@
+### | Apartman Yönetimi Ve Isınma Sorunu
+lang: tr | cat: dialogue | sub: problem | tags: sorun, apartman, yönetim, ısınma, çözüm | level: 3
+---
+Kemal: İyi akşamlar Nevin Hanım, apartman yöneticimiz olarak müsait bir zamanınızda üst kat komşunuz ve kat maliki olarak kısa ve önemli bir konuda düşüncelerinizi, önerilerinizi ve yardımınızı rica etmek istemiştim.
+
+Nevin: İyi akşamlar Kemal Bey! Buyurun lütfen, her zaman rahatça konuşabiliriz. Apartmanımızda veya dairenizde herhangi bir teknik arıza, kalorifer sorunu veya bir rahatsızlık mı yaşandı acaba?
+
+Kemal: Aslında dairemizdeki merkezi sistem kalorifer peteklerinin üst kısımları son üç gündür tam olarak ısınmıyor ve akşam saatlerinde hava soğuduğunda dairemizin iç sıcaklığı oldukça düşüyor Nevin Hanım.
+
+Nevin: Gerçekten mi? İnanın durumun hiç ama hiç farkında değildim Kemal Bey! Kalorifer tesisatımızdaki bu bölgesel ısınma sorununun sizin dairenizi bu kadar olumsuz etkilediğini ve soğuk ortam yarattığını bilmiyordum.
+
+Kemal: Anlayışla karşılıyorum Nevin Hanım, binamızın kalorifer kazan sistemi yeni devreye girdiği için tesisat borularında hava sıkışması veya basınç düşüklüğü gibi teknik aksaklıklar yaşanması gayet doğaldır.
+
+Nevin: Yapıcı, kibar, nazik ve son derece anlayışlı yaklaşımınız için çok teşekkür ederim Kemal Bey. Kazan dairesi bakım teknik servisimizi yarın sabah ilk iş olarak binamıza çağıracağım.
+
+Kemal: Çok teşekkür ederim Nevin Hanım. Teknik servis gelene kadar kalorifer peteklerinin vanalarındaki havayı bireysel olarak tahliye etmeyi denememizin bir faydası olur mu acaba?
+
+Nevin: Evet Kemal Bey, ana vanayı kapatmadan petek anahtarı ile kısıtlı oranda hava tahliyesi yapabilirsiniz. Ancak kalıcı çözüm için teknik ekibin tesisat basıncını ayarlaması şarttır.
+
+Kemal: Anladım Nevin Hanım. Teknik ekibin yarın sabah kalorifer tesisatını ve kazan basıncını kontrol etmesi durumunda sorunun tamamen çözüleceğine inanıyorum.
+
+Nevin: Görevli arkadaşlar yarın saat sıfır dokuzda binamızda olacaklar Kemal Bey. Dairenizin petek kontrollerini de doğrudan teknik ekibe yaptıracağım.
+
+Kemal: Gösterdiğiniz yüksek yöneticilik sorumluluğu, nazik komşuluk ilgisi, hızlı çözüm yaklaşımınız ve anlayışlı tutumunuz için size çok teşekkür ederim Nevin Hanım.
+
+Nevin: Rica ederim Kemal Bey. Lütfen benzer bir ısınma veya tesisat rahatsızlığı yaşandığında bana doğrudan iletin, binamızda huzurlu ve sıcak bir ortam sağlamak ortak görevimizdir.
+
+Kemal: Çok sağ olun Nevin Hanım, size ve ailenize hayırlı, sağlıklı, sıcak ve huzurlu akşamlar dilerim!
+
+Nevin: İyi akşamlar Kemal Bey, anlayışınız ve nazik uyarınız için tekrar teşekkürler, görüşmek üzere!
+
+### | Akdeniz Lezzetleri Restoranında Öğle Yemeği
+lang: tr | cat: dialogue | sub: restaurant | tags: restoran, öğle yemeği, akdeniz, menü, sipariş | level: 2
+---
+Garson: Taze Akdeniz lezzetleri, özel zeytinyağlı meze çeşitleri ve fırınlanmış sıcak yemekleriyle ünlü gurme restoranımıza hoş geldiniz Efendim! Sizi deniz manzaralı ferah teras masamıza memnuniyetle alabilir miyim?
+
+Buse: Hoş bulduk! İlgilendiğiniz, güler yüzle karşıladığınız ve yer gösterdiğiniz için çok teşekkür ederim. Teras masanız öğle güneşinde son derece ferah, aydınlık, huzurlu ve keyifli bir ortama sahip.
+
+Garson: Masanıza taze çıkan öğle yemeği menümüzü ve serinletici içecek listemizi hemen takdim ediyorum. Mutfak şefimiz bu öğlen fırından yeni çıkan sebzeli lazanyayı ve ızgara levreği özenle hazırladı.
+
+Buse: Menünüzü dikkatlice inceledim. Makarnalarınızın ve lazanya hamurunuzun hazırlanışında mutfağınızda günlük taze malzemeler mi kullanılıyor acaba?
+
+Garson: Mutfağımızda kullandığımız tüm hamurlar şefimiz tarafından taze yumurta, durum buğday unu ve sızma zeytinyağı ile günlük olarak elde özenle hazırlanmaktadır.
+
+Buse: Fırınlanmış taze sebzeli lazanya tabağınızın içeriğinde hangi lezzetli malzemeler, özel kremalar ve soslar yer alıyor acaba?
+
+Garson: Sebzeli lazanya tabağımızda fırınlanmış kabak, patlıcan, taze fesleğen, domates sosu, napoliten sos ve eritilmiş taze mozarella peyniri yer almaktadır.
+
+Buse: Çok lezzetli ve iştah açıcı görünüyor. Lazanyamın yanında başlangıç olarak taze roka ve parmesan peynirli hafif bir Akdeniz salatası alabilir miyim acaba?
+
+Garson: Tabii ki Efendim, zeytinyağlı, limonlu ve cevizli taze roka salatamızı siparişlerinize memnuniyetle ekliyorum. İçecek olarak ne arzu edersiniz?
+
+Buse: Serinletici bir içecek olarak bol buzlu ve taze nane yapraklı ev yapımı taze limonata rica edeceğim.
+
+Garson: Siparişlerinizi detaylıca not aldım Buse Hanım. Salatanız ve limonatanız üç dakika içinde, sıcak lazanyanız ise en fazla on dakika içinde masanıza özenle servis edilecektir.
+
+Buse: Yemek sonrasında tatlı ikramı olarak dondurmalı fırın helvanız veya tiramisu seçeneğiniz mevcut mu acaba?
+
+Garson: Evet Buse Hanım, taze fırınlanmış dondurmalı sıcak helvamız ve İtalyan usulü tiramisumuz mevcuttur.
+
+Buse: Detaylı açıklamalarınız, güler yüzlü kaliteli hizmetiniz, hızlı servisiniz ve ilginiz için çok teşekkür ederim.
+
+Garson: Rica ederim Buse Hanım, şimdiden afiyet olsun, harika, huzurlu ve lezzetli bir öğleden sonra geçirmenizi dilerim!
+
+Buse: Çok teşekkürler, iyi ve kolay gelsin çalışmalar dilerim!
+
+Garson: Sağ olun Buse Hanım, afiyet olsun, her zaman yine bekleriz!
+
+### | Mahalle Fırınından Taze Ekmek Alışverişi
+lang: tr | cat: dialogue | sub: shopping | tags: market, fırın, ekmek, simit, alışveriş | level: 1
+---
+Murat: Hayırlı işler Ahmet Usta! Taş fırınınızdan yeni çıkan taze ekmeklerin, simitlerin ve poğaçaların kokusu caddeden geçerken son derece iştah açıcı görünüyordu.
+
+Ahmet: Sağ olasın Murat Evladım! Fırınımıza hoş geldin. Yıllardır geleneksel taş fırınımızda odun ateşinde pişirdiğimiz doğal, taze, katkısız, lezzetli ve kaliteli unlu mamulleri mahallemizle buluşturuyoruz.
+
+Murat: Çok güzel, değerli, anlamlı ve güven veren bir hizmet Ahmet Usta. Özellikle taş fırın ekşi mayalı kepekli ekmeğinizi, çıtır sokak simitlerinizi ve peynirli poğaçalarınızı incelemek istiyorum.
+
+Ahmet: Şu ahşap tezgâhta gördüğünüz ekşi mayalı ekmeklerimiz fırından az önce çıktı. Tamamen doğal maya ile hazırlanmış, çıtır kabuklu, için yumuşacık ve lezzetli ekmeklerdir.
+
+Murat: Harika görünüyorlar gerçekten. Ekşi mayalı kepekli ekmeğin ve taze sokak simidinin adet fiyatı ne kadardır acaba?
+
+Ahmet: Ekşi mayalı kepekli ekmeğimizin adedi otuz lira, taze sokak simidimizin adedi ise on beş liradır Evladım.
+
+Murat: İki adet taze ekşi mayalı kepekli ekmek ile dört adet taze sokak simidinden kâğıt poşete koymanızı rica edeceğim.
+
+Ahmet: Hemen fırın küreği ile taze ürünleri alıp dayanıklı kâğıdımıza özenle paketliyorum. Peynirli sıcak poğaçalarımızdan da çeşni olarak ekleyelim mi?
+
+Murat: Evet Ahmet Usta, peynirli sıcak poğaçalardan da iki adet ekler misin lütfen? Ayrıca taze fırınlanmış kıymalı böreğiniz var mıdır?
+
+Ahmet: Kıymalı tepsi böreğimiz de fırından taze çıktı Evladım, porsiyonu kırk liradır.
+
+Murat: Bir porsiyon taze kıymalı börek de ekleyelim lütfen. Toplam borcum ne kadar tuttu Ahmet Usta?
+
+Ahmet: İki ekmek, dört simit, iki poğaça ve bir porsiyon börek toplam iki yüz lira yapıyor Murat Evladım.
+
+Murat: Ekmeğin ve simitlerin sıcaklıktan hamur olmaması için poşet ağzını hafif açık bırakabilir misin Ahmet Usta?
+
+Ahmet: Tabii ki Evladım, buhar yapıp yumuşamaması için kâğıit poşetin ağzını açık tutarak fırın çantamıza yerleştiriyorum.
+
+Murat: Ödemeyi nakit olarak veriyorum, buyurun iki yüz elli lira.
+
+Ahmet: Para üstün olan elli lirayı ve alışveriş fişini hemen takdim ediyorum.
+
+Murat: İlgin, güler yüzün, taze ürünlerin ve güzel hizmetin için çok teşekkür ederim Ahmet Usta!
+
+Ahmet: Afiyetle ve sağlıkla tüketiniz Murat Evladım, hayırlı, neşeli ve güzel günler dilerim, her zaman yine bekleriz!
+
+### | Şirket İçi Operasyon Yöneticisi Mülakatı
+lang: tr | cat: dialogue | sub: interview | tags: mülakat, operasyon, yönetici, şirket, kariyer | level: 2
+---
+Deniz: Hoş geldiniz Serkan Bey. Şirketimizin saha operasyonları ve süreç yönetimi yöneticisi pozisyonu için başvurunuzu detaylıca inceledik ve sizinle yüz yüze tanışmak istedik.
+
+Serkan: Hoş bulduk Deniz Hanım. Lojistik ve süreç yönetimi alanında sektörde öncü, yenilikçi ve prestijli olan şirketinizde görev almak adına burada bulunmaktan büyük memnuniyet duyuyorum.
+
+Deniz: Öz geçmişinizde son üç yıldır uluslararası bir firmada operasyon uzmanı ve ekip lideri olarak çalıştığınız görülüyor. Bu süreçte yönettiğiniz saha operasyonlarını ve sorumluluklarınızı özetler misiniz?
+
+Serkan: Tesis içi lojistik süreçlerini planlamak, saha personelinin vardiya ve iş dağılımlarını koordine etmek, operasyonel verimliliği artırmak ve tedarik zinciri aksaklıklarını çözmek temel sorumluluklarımdı.
+
+Deniz: Peki beklenmedik hava şartları veya tedarik gecikmeleri nedeniyle sahada kriz yaşandığında süreç kontrolünü ve operasyonel hızı nasıl sağlarsınız?
+
+Serkan: B planı senaryolarımızı ve alternatif lojistik rotalarımızı anında devreye sokarım. Ekip içi iletişimi güçlü tutarak sorunları sahada en hızlı ve etkili şekilde çözerim.
+
+Deniz: Ekip yönetiminde çalışan motivasyonunu ve performansını yüksek tutmak adına ne tür bir liderlik yaklaşımı benimsersiniz?
+
+Serkan: Şeffaf iletişimi, adil görev dağılımını, başarıyı takdir etmeyi ve sürekli eğitimi ön planda tutarım. Çalışanların süreçlere katılımını teşvik ederek yüksek motivasyon sağlarım.
+
+Deniz: Şirketimize ve operasyon ekibimize katacağınız en belirgin kişisel yetkinliğiniz sizce nedir Serkan Bey?
+
+Serkan: Yüksek kriz yönetimi kabiliyetim, analitik problem çözme becerim, saha tecrübem ve sonuç odaklı çalışma disiplinimdir.
+
+Deniz: Sahadaki esnek çalışma saatlerimize ve yoğun seyahat temposuna uyum sağlama konusunda herhangi bir kısıtlamanız bulunuyor mu acaba?
+
+Serkan: Esnek çalışma saatlerine ve iş seyahatlerine tamamen uyum sağlayabilirim Deniz Hanım.
+
+Deniz: Çok güzel ve tatmin edici açıklamalar Serkan Bey. Önümüzdeki dönemde şirketimizin uluslararası lojistik merkezlerinde de kısa süreli saha görevlerinde yer alabilir misiniz?
+
+Serkan: Evet Deniz Hanım, uluslararası saha operasyonlarında görev almayı ve küresel tecrübe kazanmayı çok isterim.
+
+Deniz: Mülakat değerlendirme sonucumuzu önümüzdeki hafta içinde e-posta ile tarafınıza detaylıca bildireceğiz.
+
+Serkan: Zaman ayırdığınız, ilginiz, detaylı bilgilendirmeniz ve nazik kabulünüz için çok teşekkür ederim Deniz Hanım.
+
+Deniz: Biz teşekkür ederiz Serkan Bey, çalışmalarınızda başarılar ve iyi günler dileriz!
+
+Kontrol Özeti:
+İstenen Sayı: 4
+Üretilen Sayı: 4
+
+---
+
+`15-kisa.txt` kaynağındaki 4 kısa diyalog metni kılavuza ve kelime alt sınırlarına eksiksiz uyacak şekilde tamamlanmıştır. 
+
+Sırada orta uzunluktaki diyalog istemleri (`16-orta.txt` ile `20-orta.txt`) bulunmaktadır. "16 ile devam" yazarak sıradaki dosyaya geçebilirsiniz!

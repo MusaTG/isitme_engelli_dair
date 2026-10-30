@@ -1,0 +1,38 @@
+### 99 | Gurme Şarküteride Yöresel Ürün Alışverişi
+sub: shopping | level: 3 | tags: alışveriş, şarküteri, peynir, gurme, organik | similar: ok
+---
+Aylin: Hayırlı işler Nuri Usta! Mağazanızın vitrininde sergilenen el yapımı yöresel peynirler, doğal zeytinler ve katkısız şarküteri çeşitleri caddeden geçerken dikkatimi çekti.
+
+Nuri: Hoş geldiniz Efendim! Yıllardır ülkemizin farklı bölgelerindeki yerel üreticilerden doğrudan temin ettiğimiz doğal, taze ve katkısız ürünleri müşterilerimizle buluşturuyoruz.
+
+Aylin: Harika ve takdir edilesi bir hizmet. Özellikle Ege bölgesine ait soğuk sıkım natürel sızma zeytinyağı ve yöresel peynir çeşitlerinizi detaylıca incelemek istiyorum.
+
+Nuri: Şu cam raflarda gördüğünüz zeytinyağlarımız Kazdağları eteklerindeki asırlık zeytin ağaçlarından erken hasat döneminde soğuk sıkım yöntemiyle özenle elde edilmiştir.
+
+Aylin: Zeytinyağınızın dizem asitlik oranı ve aroma profili hakkında detaylı bilgi alabilir miyim acaba?
+
+Nuri: Zeytinyağımızın dizem asitlik oranı sıfır virgül üç seviyesindedir. Meyvemsi aroması oldukça yüksek, genizde hafif yakıcılığı olan birinci sınıf bir sızma zeytinyağıdır.
+
+Aylin: Muazzam bir kalite gerçekten. Şarküteri reyonunuzda yer alan geleneksel Kars eski kaşarı ve Ezine peynirlerinin olgunlaşma süreleri nedir acaba?
+
+Nuri: Kars eski kaşarımız doğal koyun ve keçi sütünden üretilip özel koruma mahzenlerinde en az on iki ay boyunca sabırla dinlendirilmiştir.
+
+Aylin: Peynirlerin lezzetine ve tuz oranına bakmak adına küçük bir tadım yapma imkânımız var mıdır acaba?
+
+Nuri: Tabii ki Efendim, hemen tahta sunum tabağında taze kesip size ikram edebilirim.
+
+Aylin: Harika! Peynirin lezzeti ve kıvamı gerçekten mükemmelmiş. İki litre soğuk sıkım zeytinyağı ile yarım kilo Kars eski kaşarı almak istiyorum.
+
+Nuri: İki litre zeytinyağımız sekiz yüz lira, yarım kilo eski kaşarımız iki yüz elli lira tutuyor. Toplam ödemeniz bin elli liradır.
+
+Aylin: Cam şişedeki zeytinyağının kırılmaması için paketlemeyi biraz özenli yapabilir misiniz?
+
+Nuri: Tabii ki Efendim, kalın havalı ambalaj malzemesine sarıp korumalı çantaya yerleştiriyorum.
+
+Aylin: Ödemeyi temassız kredi kartımla yapmak istiyorum.
+
+Nuri: Pos cihazımız hazırdır, kartınızı dokundurabilirsiniz. Doğal ve organik ürünlerimizi sağlıkla ve afiyetle tüketmenizi dilerim.
+
+Aylin: İlginiz, detaylı bilgilendirmeniz ve güler yüzünüz için çok teşekkür ederim Nuri Usta!
+
+Nuri: Rica ederim Efendim, iyi ve sağlıklı günler dilerim, yine bekleriz!

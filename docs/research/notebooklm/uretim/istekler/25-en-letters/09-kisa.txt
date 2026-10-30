@@ -1,0 +1,21 @@
+Kaynaklardaki yazım kılavuzuna göre 5 KISA metin yaz.
+
+- Dil: İngilizce (doğal İngilizce; Türkçeden çeviri değil)
+- Kategori: letters (Günlük ve mektup)
+- Uzunluk: her metin 350–550 kelime. Alt sınırın altına düşme.
+- Metinler:
+  1) sub: memoir (Anı) · level: 1
+  2) sub: reflection (Düşünce yazısı) · level: 2
+  3) sub: diary (Kişisel günlük) · level: 3
+  4) sub: travel (Seyahat günlüğü) · level: 2
+  5) sub: event (Bir olayın ardından) · level: 1
+- Mektup ya da günlük biçimi: hitap/tarih satırı ve kapanış olsun.
+
+Her metin TAM OLARAK şu biçimde (YAML ya da başka biçim kullanma):
+
+### | Metnin Başlığı
+lang: en | cat: letters | sub: <yukarıdaki> | tags: <3-5 etiket> | level: <yukarıdaki>
+---
+Gövde. Paragraflar arasında boş satır.
+
+"Mevcut başlıklar" kaynağındaki ve bu sohbette daha önce yazdığın başlık ve konuları tekrar etme; her metinde farklı karakter, mekân ve olay. Atıf numarası yazma. En sonda ayrı bir satıra yalnızca "Kontrol Özeti:" yaz ve altına istenen ve üretilen metin sayısını yaz.

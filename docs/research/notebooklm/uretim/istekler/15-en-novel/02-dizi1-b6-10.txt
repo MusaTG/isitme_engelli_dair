@@ -1,0 +1,16 @@
+Kaynaklardaki yazım kılavuzuna göre roman dizisi "en-dizi-01" için 6–10. bölümleri yaz.
+
+- Dil: İngilizce (doğal İngilizce; Türkçeden çeviri değil)
+- Kategori: novel · sub: adventure (Macera)
+- Her bölüm 350–550 kelime; her bölüm ayrı blok.
+- Başlık biçimi: "<Dizi Adı> — <n>. Bölüm: <Bölüm adı>"
+- Aynı dizinin devamı; karakterler ve olay örgüsü önceki bölümlerle tutarlı olsun. 10. bölümde hikâyeyi doğal biçimde bitir.
+
+Her bölüm TAM OLARAK şu biçimde (YAML kullanma):
+
+### | <Dizi Adı> — <n>. Bölüm: <Bölüm adı>
+lang: en | cat: novel | sub: adventure | series: en-dizi-01 | part: <n> | tags: <3-5 etiket> | level: 2
+---
+Gövde.
+
+Atıf numarası yazma. En sonda ayrı bir satıra yalnızca "Kontrol Özeti:" yaz ve altına istenen ve üretilen bölüm sayısını yaz.

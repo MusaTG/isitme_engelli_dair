@@ -2,7 +2,7 @@
 // paragraf/diyalog), test/pratik modları, tekrar dinleme ve süre sınırları, arka plana geçiş,
 // kaldığı yerden devam ve sonuç ekranı.
 import { t, formatDuration } from '../i18n.js';
-import { esc, icon, announce } from '../ui.js';
+import { esc, icon, announce, toast, confirmAsk } from '../ui.js';
 import { playTones, playSfx, startNoise, stopNoise, stopAllTones, audioSupported, setNoiseLevel } from '../audio.js';
 import { checkTyped, checkSequence, checkPress, checkMatrix } from '../engine/session.js';
 import { recordExposure, pruneExposure } from '../engine/exposure.js';
@@ -89,7 +89,7 @@ export async function runView(root, ctx) {
 
   async function say(text, it, my, voice) {
     if (my !== token) return;
-    await ctx.tts.speak(text, speakOpts(it, voice));
+    await ctx.tts.speak(text, { ...speakOpts(it, voice), onStart: () => S.onAudioStart?.() });
   }
 
   // Bir öğenin sesini oynatır; "token" değişirse (durdur/sonraki) yarıda kalır.
@@ -256,7 +256,7 @@ export async function runView(root, ctx) {
 
   function renderItem() {
     const it = item();
-    Object.assign(S, { plays: 0, answered: false, tries: 0, playing: false, picked: [], typed: '', pressAt: null, deadline: null, remaining: null, passageIdx: 0, passageDone: false });
+    Object.assign(S, { plays: 0, answered: false, tries: 0, playing: false, picked: [], typed: '', pressAt: null, deadline: null, remaining: null, passageIdx: 0, passageDone: false, heardOnce: false });
     a.sub = a.sub || 0;
     if (it.input === 'multi') return renderMulti(it);
     if (it.input === 'learn') return renderLearn(it);
@@ -292,9 +292,11 @@ export async function runView(root, ctx) {
     if (!btn) return;
     const lim = limit();
     const exhausted = lim && S.plays >= lim && !S.playing;
+    const core = btn.querySelector('.listen-core');
+    if (!core) return; // öğrenme kartındaki sade "Dinle" düğmesi (sayaç/durum göstermez)
     btn.classList.toggle('is-playing', S.playing);
     btn.disabled = Boolean(exhausted);
-    btn.querySelector('.listen-core').innerHTML = S.playing
+    core.innerHTML = S.playing
       ? `${icon('stop')}<span class="listen-label">${t('ex.stop')}</span>`
       : exhausted ? `${icon('cross')}<span class="listen-label">${t('ex.noMorePlays')}</span>`
         : `${icon(S.plays ? 'replay' : 'play')}<span class="listen-label">${S.plays ? t('ex.listenAgain') : t('ex.listen')}</span>`;
@@ -311,16 +313,28 @@ export async function runView(root, ctx) {
     S.plays += 1;
     setPlayUI();
     root.querySelector('#ex-error') && (root.querySelector('#ex-error').innerHTML = '');
+    // Cevaplar ses GERÇEKTEN başlayınca açılır (ses motoru hiç başlamazsa kilitli kalır ve hata gösterilir).
     // Paragraf/diyalogda sorular metnin tamamı dinlenince açılır (onPassageHeard).
-    if (!S.answered && (it.input !== 'multi' || S.passageDone)) {
+    const unlock = () => {
+      S.onAudioStart = null;
+      if (destroyed || S.answered || !(it.input !== 'multi' || S.passageDone)) return;
       lockInputs(false);
       root.querySelector('#ex-gate')?.remove();
       if (it.input === 'press') root.querySelector('[data-act=press]').disabled = false;
-    }
+    };
+    S.onAudioStart = unlock;
+    if (it.play?.type === 'tones' || S.heardOnce) unlock();
     let complete = false;
     try {
       complete = await playItem(it, { onSentence });
+      S.heardOnce = true;
+      unlock();
     } catch (err) {
+      if (!destroyed && !S.answered && !S.heardOnce) {
+        lockInputs(true);
+        root.querySelector('[data-act=press]')?.setAttribute('disabled', '');
+        S.plays = Math.max(0, S.plays - 1);
+      }
       const box = root.querySelector('#ex-error');
       if (box) box.innerHTML = `<div class="alert warn" role="alert">${icon('info')}<div><p>${esc(ttsErrorMessage(err, lang))}</p><a class="link" href="#/settings">${t('ex.goSettings')}</a></div></div>`;
     } finally {
@@ -556,11 +570,12 @@ export async function runView(root, ctx) {
         <div class="ex-next"><span></span><button class="btn primary large" data-act="next">${a.idx === a.items.length - 1 ? t('ex.finish') : t('ex.next')}</button></div>
       </section>`;
     bindCommon();
-    root.querySelector('[data-act=play]').addEventListener('click', () => { playItem(it).catch(() => {}); });
-    root.querySelector('[data-act=example]')?.addEventListener('click', () => { const my = ++token; say(c.example, it, my).catch(() => {}); });
+    const learnErr = (err) => { if (!destroyed) toast(ttsErrorMessage(err, lang)); };
+    root.querySelector('[data-act=play]').addEventListener('click', () => { playItem(it).catch(learnErr); });
+    root.querySelector('[data-act=example]')?.addEventListener('click', () => { const my = ++token; say(c.example, it, my).catch(learnErr); });
     root.querySelector('#ex-q').focus();
     if (!a.results.some((r) => r.uid === it.uid)) record(it, null, { label: c.word });
-    playItem(it).catch(() => {});
+    playItem(it).catch(learnErr);
   }
 
   // ---------- paragraf / diyalog ----------
@@ -726,14 +741,14 @@ export async function runView(root, ctx) {
     });
   }
 
-  function endEarly() {
-    if (!window.confirm(t('ex.endConfirm'))) return;
+  async function endEarly() {
+    if (!await confirmAsk(t('ex.endConfirm'))) return;
     finish();
   }
 
   function bindCommon() {
     const it = item();
-    root.querySelector('[data-act=play]')?.addEventListener('click', () => togglePlay({ onSentence: highlight }));
+    if (it.input !== 'learn') root.querySelector('[data-act=play]')?.addEventListener('click', () => togglePlay({ onSentence: highlight }));
     root.querySelector('[data-act=next]')?.addEventListener('click', next);
     root.querySelector('[data-act=skip]')?.addEventListener('click', skip);
     root.querySelector('[data-act=break]')?.addEventListener('click', () => pause());

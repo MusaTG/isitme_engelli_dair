@@ -1,0 +1,142 @@
+### | Yeni Yazılım Güncellemesi ve Kullanıcı Eğitimi Hakkında
+lang: tr | cat: work | sub: email | tags: e-posta, yazılım, eğitim, güncelleme, duyuru | level: 1
+---
+Sayın Çalışma Arkadaşlarım,
+
+Şirketimizin veri güvenliğini artırmak, günlük iş süreçlerimizi daha pratik hale getirmek, zaman kaybını önlemek ve departmanlar arası koordinasyonu güçlendirmek amacıyla uzun süredir üzerinde çalıştığımız yeni kurumsal portal yazılımımız önümüzdeki pazartesi günü itibarıyla tüm birimlerimizin kullanımına sunulacaktır.
+
+Yeni portal yazılımımız sayesinde günlük proje takip süreçlerinizi, izin taleplerinizi, masraf formlarınızı, avans isteklerinizi ve departman içi dosya paylaşımlarınızı çok daha hızlı, güvenli, şeffaf ve düzenli bir şekilde gerçekleştirebileceksiniz. Eski sistemimizdeki tüm verileriniz, geçmiş proje arşivleriniz, müşteri kayıtlarınız ve kullanıcı hesaplarınız yeni platforma eksiksiz ve hatasız bir şekilde aktarılmıştır.
+
+Sisteme sorunsuz bir geçiş sağlamak ve yeni ara yüzü tüm detaylarıyla öğrenmenize yardımcı olmak amacıyla Bilgi Teknolojileri Departmanımız tarafından interaktif bir kullanıcı eğitimi düzenlenmiştir. Tüm çalışanlarımızın katılımının zorunlu olduğu bu çevrim içi eğitim oturumları perşembe ve cuma günleri iki farklı vardiya halinde düzenlenecektir.
+
+Eğitim takvimimiz ve oturum detaylarımız şu şekilde planlanmıştır:
+- 1. Oturum: Perşembe günü saat 10.00 - 11.30 (İdari Birimler, İnsan Kaynakları ve Mali İşler)
+- 2. Oturum: Cuma günü saat 14.00 - 15.30 (Operasyon, Saha, Lojistik ve Müşteri Hizmetleri)
+
+Eğitim toplantısının katılım bağlantısı e-posta adreslerinize takvim daveti olarak iletilmiştir. Eğitime katılmadan önce şirket içi profil bilgilerinizi kontrol etmenizi, mevcut şifrelerinizi yenilemenizi ve sistem geçiş kılavuzunu dikkatlice incelemenizi rica ederiz. Yeni yazılımın kullanımına dair hazırlanan resimli kullanım rehberi dokümanına ekteki bağlantıdan dilediğiniz zaman ulaşabilirsiniz.
+
+Sistem kurulumu, şifre yenileme, mobil erişim veya oturum açma esnasında herhangi bir teknik aksaklıkla karşılaşmanız durumunda Bilgi Teknolojileri Destek Masamıza iç hat numaralarımızdan veya sistem içi canlı destek hattından anında ulaşabilirsiniz.
+
+Yeni sistemimizin şirketimize, iş süreçlerimize ve tüm çalışanlarımıza hayırlı olmasını diler, eğitim oturumlarında göstereceğiniz katılım, anlayış ve iş birliği için şimdiden çok teşekkür ederim.
+
+Saygılarımla,
+Ahmet Yılmaz
+Bilgi Teknolojileri Direktörü
+Lider Teknoloji A.Ş.
+
+### | Yıllık Dijital Dönüşüm Stratejisi Toplantı Tutanağı
+lang: tr | cat: work | sub: minutes | tags: toplantı, tutanak, dijital, dönüşüm, strateji | level: 2
+---
+Toplantı Tarihi: 24 Ekim 2026
+Toplantı Saati: 10.00 - 12.30
+Toplantı Yeri: Merkez Bina Ana Konferans Salonu
+Toplantı Başkanı: Zeynep Kaya (Genel Müdür Yardımcısı)
+Not Tutan: Mehmet Demir (Yönetim Asistanı)
+
+Katılımcılar:
+- Zeynep Kaya (Genel Müdür Yardımcısı)
+- Caner Şahin (Yazılım ve Altyapı Müdürü)
+- Selin Arslan (İnsan Kaynakları Direktörü)
+- Burak Çelik (Pazarlama ve Satış Müdürü)
+- Elif Yıldız (Mali İşler Sorumlusu)
+
+Gündem Maddeleri:
+1. Şirket içi süreçlerin dijitalleştirilmesi ve kağıtsız ofis projesinin genel değerlendirmesi
+2. Müşteri ilişkileri yönetim sisteminin (CRM) bulut altyapısına güvenli şekilde taşınması
+3. Personel dijital yetkinlik eğitim bütçesinin ve takviminin onaylanması
+4. Bir sonraki çeyrek hedeflerinin ve performans göstergelerinin belirlenmesi
+
+Görüşmeler ve Alınan Kararlar:
+Toplantı, Zeynep Kaya'nın açılış konuşması ve şirketimizin yıllık dijital dönüşüm vizyonunu detaylıca özetlemesiyle başladı. İlk gündem maddesi kapsamında, tüm idari departmanlarda kağıt kullanımını sıfıra indirmeyi hedefleyen 'Kağıtsız Ofis' projesinin pilot uygulaması incelendi. İnsan Kaynakları ve Mali İşler departmanlarında dijital imza kullanımına geçilmesiyle birlikte onay süreçlerinin %40 oranında hızlandığı ve kağıt israfının ciddi şekilde azaldığı memnuniyetle tespit edildi.
+
+İkinci gündem maddesinde Caner Şahin, Müşteri İlişkileri Yönetim Sisteminin (CRM) bulut sunuculara taşınması sürecini aktardı. Bulut altyapısına geçişin veri güvenliğini artıracağı, sunucu maliyetlerini düşüreceği ve saha ekiplerinin anlık veri erişimini kolaylaştıracağı belirtildi. Sunucu taşıma ve entegrasyon işlemlerinin önümüzdeki ayın ilk hafta sonu tamamlanması kararlaştırıldı.
+
+Üçüncü gündem maddesinde Selin Arslan, çalışanların dijital okuryazarlık, veri analitiği ve siber güvenlik seviyelerini yükseltmek amacıyla hazırlanan eğitim takvimini sundu. Yıllık eğitim bütçesi Mali İşler Sorumlusu Elif Yıldız tarafından onaylandı.
+
+Alınan Eylem Kararları:
+1. Kağıtsız ofis uygulamasının tüm bölge müdürlüklerinde yaygınlaştırılması (Sorumlu: Caner Şahin - Son Tarih: 15 Kasım)
+2. CRM bulut taşıma testlerinin tamamlanması ve veri yedeklerinin alınması (Sorumlu: Yazılım Ekibi - Son Tarih: 5 Kasım)
+3. Dijital yetkinlik eğitimlerinin takvim bazlı duyurulması (Sorumlu: Selin Arslan - Son Tarih: 1 Kasım)
+
+Bir sonraki değerlendirme toplantısının 15 Kasım tarihinde aynı saatte yapılmasına karar verilerek toplantı kapatılmıştır.
+
+### | Üçüncü Çeyrek Müşteri Memnuniyeti Analiz Raporu
+lang: tr | cat: work | sub: report | tags: rapor, müşteri, memnuniyet, analiz, performans | level: 3
+---
+Giriş ve Amaç:
+Bu rapor, şirketimizin 2026 yılı üçüncü çeyreğinde (Temmuz - Eylül) sunduğu ürün ve hizmetlere ilişkin müşteri memnuniyeti düzeyini, çağrı merkezi performans göstergelerini, kargo teslimat sürelerini ve hizmet kalitesini artırmaya yönelik stratejik önerileri detaylıca kapsamaktadır. Çalışma, 5.000 aktif müşterimizle gerçekleştirilen dijital anketler, telefon mülakatları ve destek talebi kayıtları analiz edilerek titizlikle hazırlanmıştır.
+
+Mevcut Durum ve Performans Göstergeleri:
+Genel Müşteri Memnuniyet Skoru (CSAT), geçen çeyreğe kıyasla 4,2 puandan 4,6 puana yükselmiştir. Bu memnuniyet artışındaki en temel etken, destek taleplerine ortalama ilk yanıt süresinin 15 dakikadan 4 dakikaya düşürülmesi ve 7/24 canlı destek altyapısının devreye alınmasıdır. Müşteri Sadakat Skoru (NPS) ise %68 seviyesine ulaşarak sektör ortalamasının belirgin şekilde üzerine çıkmıştır.
+
+Kategorilere Göre Memnuniyet Dağılımı:
+- Ürün Kalitesi ve Kullanım Kolaylığı: %92 memnuniyet oranı
+- Müşteri Hizmetleri ve Teknik Destek: %88 memnuniyet oranı
+- Teslimat ve Lojistik Süreçleri: %79 memnuniyet oranı
+- Fiyat ve Performans Dengesi: %84 memnuniyet oranı
+
+Lojistik ve teslimat süreçlerinde yaşanan bölgesel gecikmeler, genel memnuniyet skorunu olumsuz etkileyen ana unsur olarak öne çıkmaktadır. Özellikle yoğun kampanya dönemlerinde kargo firmalarından kaynaklanan teslimat aksaklıkları müşteri şikayetlerinin %45'ini oluşturmaktadır.
+
+Riskler ve Tespit Edilen Darboğazlar:
+1. Yoğun saatlerde çağrı merkezi bekleme sürelerinin dönemsel olarak yükselmesi
+2. Mobil uygulama üzerinden verilen siparişlerde ödeme adımı hataları
+3. Kargo kuryelerinin teslimat bilgilendirme mesajlarındaki eksiklikler
+
+Stratejik Öneriler ve Eylem Planı:
+- Lojistik Sağlayıcılarının Çeşitlendirilmesi: Tek bir kargo firmasına bağımlılığı azaltmak amacıyla iki yeni ulusal kargo şirketiyle entegrasyon sağlanmalıdır.
+- Yapay Zekâ Destekli Chatbot Kurulumu: Sıkça sorulan sorular ve kargo takibi gibi rutin taleplerin %60'ının otomatik yanıtlanması için chatbot sistemi devreye alınmalıdır.
+- Mobil Uygulama Güncellemesi: Ödeme adımlarındaki kullanıcı deneyimini iyileştirecek yazılım yaması önümüzdeki hafta canlıya alınmalıdır.
+
+Sonuç:
+Üçüncü çeyrek performansımız genel olarak başarılı seyretmiş olup, lojistik süreçlerdeki iyileştirmelerin tamamlanmasıyla dördüncü çeyrekte memnuniyet skorunun %90'ın üzerine çıkacağı öngörülmektedir.
+
+### | Akıllı Depo Yönetimi ve Otomasyon Projesi
+lang: tr | cat: work | sub: project | tags: proje, depo, otomasyon, lojistik, verimlilik | level: 2
+---
+Proje Tanımı ve Amacı:
+Akıllı Depo Yönetimi ve Otomasyon Projesi, şirketimizin hızla büyüyen e-ticaret hacmine ve artan lojistik operasyonlarına yanıt vermek amacıyla tasarlanmış kapsamlı bir teknoloji ve altyapı dönüşüm hamlesidir. Projenin temel amacı; merkez depomuzdaki stok kabul, raf yerleşimi, sipariş toplama, kalite kontrol ve paketleme süreçlerini yapay zekâ destekli otomasyon sistemleri ve barkodlu takip altyapısıyla entegre ederek operasyonel verimliliği %50 artırmaktır.
+
+Proje Kapsamı ve Uygulama Adımları:
+1. Depo İç Alan Düzenlemesi ve Raf Taraması: Depo alanının dikey kullanımını artıracak yüksek kapasiteli akıllı raf sistemlerinin kurulması ve tüm rafların karekod (QR) ve RFID etiketleriyle dijitalleştirilmesi.
+2. Yazılım Entegrasyonu (WMS): Depo Yönetim Yazılımının (WMS) mevcut ERP ve e-ticaret platformlarımızla gerçek zamanlı ve çift yönlü entegrasyonünün sağlanması.
+3. Otomatik Sipariş Toplama Sistemleri: Depo personeline en kısa toplama rotasını gösteren el terminallerinin temini ve yönlendirmeli sesli toplama (Pick-to-Voice) sisteminin kurulması.
+4. Otomatik Paketleme ve Etiketleme Hattı: Hazırlanan siparişlerin ağırlık ve hacim kontrollerini otomatik yapan konveyör bant sisteminin faaliyete geçirilmesi.
+
+Beklenen Faydalar ve Bütçe Analizi:
+Projenin tamamlanmasıyla birlikte sipariş hazırlama süreleri 45 dakikadan 12 dakikaya düşecek, hatalı ürün gönderim oranı %0,1'in altına inecektir. Ayrıca depo stok sayım süreçleri anlık olarak izlenebilecek ve kayıp-kaçak oranları tamamen sıfırlanacaktır.
+
+Projenin toplam bütçesi 3,5 milyon TL olarak belirlenmiş olup, yatırımın geri dönüş süresi (ROI) 14 ay olarak hesaplanmıştır.
+
+Proje Takvimi ve Sorumlular:
+- Faz 1 (Altyapı ve Raf Sistemleri): 1 Kasım - 15 Aralık (Sorumlu: Operasyon Müdürü)
+- Faz 2 (Yazılım ve Entegrasyon): 15 Aralık - 30 Ocak (Sorumlu: BT Proje Yöneticisi)
+- Faz 3 (Test ve Pilot Deneme): 1 Şubat - 15 Şubat (Sorumlu: Kalite Kontrol Ekibi)
+- Faz 4 (Canlıya Geçiş): 20 Şubat (Sorumlu: Tüm Depo Ekibi)
+
+Projemiz, şirketimizin sürdürülebilir büyümeyi sağlama ve yüksek müşteri memnuniyetine ulaşma hedeflerinin kilit bir parçasıdır.
+
+### | Yeni Kat Yerleşim Düzeni ve Mola Alanı Kuralları
+lang: tr | cat: work | sub: workplace | tags: iş yeri, ofis, yaşam, kurallar, yerleşim | level: 1
+---
+Değerli Mesai Arkadaşlarım,
+
+Hızla büyüyen ekibimize daha ferah, modern, konforlu, ergonomik ve verimli bir çalışma ortamı sunabilmek amacıyla merkez ofisimizin 3. ve 4. katlarında gerçekleştirilen tadilat ve yeniden düzenleme çalışmaları başarıyla tamamlanmıştır. Yeni kat yerleşim düzenimiz ve ortak alan kullanım esaslarımız aşağıda bilgilerinize sunulmuştur.
+
+Yeni Kat Dağılımı ve Birimler:
+- 3. Kat: Pazarlama, Satış, İnsan Kaynakları ve Müşteri Hizmetleri Departmanları bu katta yer alacaktır. Kat girişinde açık ofis düzeni uygulanmış olup, bireysel odaklanma kabinleri ve 4 adet sessiz toplantı odası hizmete açılmıştır.
+- 4. Kat: Yazılım, Bilgi Teknolojileri, Operasyon ve Yönetim Kurulu bu katta konumlandırılmıştır. Sunucu odası, sistem destek masası ve dijital medya stüdyosu da bu katta hizmet verecektir.
+
+Mola ve Sosyal Alan Kullanım Kuralları:
+Çalışanlarımızın gün içindeki dinlenme saatlerini daha keyifli, hijyenik ve dinlendirici koşullarda geçirebilmeleri amacıyla her iki katta da yenilenmiş mutfak ve kafeterya alanları oluşturulmuştur. Ortak alanların verimli kullanımı için dikkat edilmesi gereken hususlar şunlardır:
+
+1. Mutfak ve Yemek Alanı Hijyeni: Mutfak alanında bulunan buzdolabı, mikrodalga fırın, bulaşık makinesi ve kahve makinelerinin kullanımı sonrası temiz bırakılması rica olunur. Buzdolabındaki kişisel gıdaların üzerine isim etiketi yapıştırılması unutulmamalıdır. Her cuma akşamı saat 18.00'de buzdolabı genel temizliği yapılacağından etiketsiz ürünler imha edilecektir.
+2. Odaklanma Kabinleri ve Toplantı Odaları: Sessiz odaklanma kabinleri 30 dakikayı geçmeyen kısa telefon görüşmeleri ve bireysel çalışmalar içindir. Müşteri görüşmeleri ve grup toplantıları için rezervasyon sistemi üzerinden toplantı odaları ayırtılmalıdır.
+3. Çalışma Masası Düzeni: Temiz masa politikamız gereği, mesai bitiminde masalarda gizlilik dereceli evrak, kişisel eşya ve yiyecek maddesi bırakılmaması önemle rica olunur.
+
+Yeni çalışma alanlarımızın hepimize ilham vermesini, çalışma motivasyonumuzu artırmasını ve keyifli bir mesai ortamı sunmasını dileriz. Göstereceğiniz hassasiyet ve anlayış için teşekkür ederiz.
+
+İdari İşler ve Ofis Yönetimi
+
+Kontrol Özeti:
+İstenen Sayı: 5
+Üretilen Sayı: 5

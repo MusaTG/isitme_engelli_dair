@@ -1,7 +1,7 @@
 import { createStore } from './store.js';
 import { setLocale, t } from './i18n.js';
 import { createTTS, createWebSpeechEngine } from './tts.js';
-import { icon, esc } from './ui.js';
+import { icon, esc, download } from './ui.js';
 import { loadPack } from './content/loader.js';
 import { buildSession } from './engine/session.js';
 import { groupOf, getTask } from './engine/registry.js';
@@ -164,10 +164,25 @@ function refreshShell() {
   document.getElementById('profile-chip').innerHTML = showNav
     ? `<a href="#/guide" class="chip help-chip" data-nav="#/guide" aria-label="${esc(t('nav.guide'))}">${icon('info')}<span class="help-chip-label">${t('nav.help')}</span></a><a href="#/settings" class="chip">${icon('user')}<span>${esc(profile.name || t(`profile.${profile.type}`))}</span></a>` : '';
   document.querySelector('.brand-tag').textContent = t('app.tagline');
-  const warn = document.getElementById('storage-warn');
-  warn.hidden = store.persistent;
-  warn.textContent = t('app.storageWarning');
+  storageBanner();
   markActive();
+}
+
+// Kayıt sorunları ve bozuk veri kurtarma bildirimi (kullanıcı veriyi indirebilir; hiçbir şey sessizce silinmez).
+function storageBanner() {
+  const warn = document.getElementById('storage-warn');
+  const rec = store.recovery;
+  if (rec) {
+    const q = store.quarantined().at(-1);
+    warn.hidden = false;
+    warn.innerHTML = `<span>${esc(t(rec.from === 'backup' ? 'app.recoveredBackup' : 'app.recoveredNone'))}${rec.unsaved ? ` ${esc(t('app.recoveredUnsaved'))}` : ''}</span>
+      <span class="banner-actions">${q ? `<button class="btn small secondary" data-sb="dl">${esc(t('app.recoveredDownload'))}</button>` : ''}<button class="btn small ghost" data-sb="ok">${esc(t('app.recoveredOk'))}</button></span>`;
+    warn.querySelector('[data-sb=dl]')?.addEventListener('click', () => download(`duyum-bozuk-veri-${q.key.split('.').pop()}.json`, store.quarantineData(q.key) || '', 'application/json'));
+    warn.querySelector('[data-sb=ok]').addEventListener('click', () => { store.acceptRecovery(); storageBanner(); });
+    return;
+  }
+  warn.hidden = store.persistent;
+  warn.textContent = t(store.lastError === 'quota' ? 'app.storageFull' : 'app.storageWarning');
 }
 
 function markActive() {
@@ -275,6 +290,7 @@ function registerSW() {
 
 setLocale(store.state.settings.uiLang);
 applyPrefs();
+store.onStatus(() => storageBanner());
 refreshShell();
 offlineBanner();
 registerSW();

@@ -1,9 +1,9 @@
 # İstem — TR · Şiir ve edebî metinler (poetry)
 
-**Durum:** 0 metin var, **100 eksik** (hedef 100). Orta: 0/5, uzun: 0/1.
+**Durum:** 98 metin var, **2 eksik** (hedef 100). Orta: 5/5, uzun: 1/1.
 **Kaydedilecek yer:** her yanıtı bir `.txt` dosyası olarak `content-src/reading/inbox/tr/poetry/` klasörüne koyun (dosya adı serbest, ör. `parti-01.txt`). Sonra `npm run reading:import` (ya da GitHub'a yükleyin; yayın iş akışı aktarır). Numaraları araç verir.
 
-**Parti planı:** 10 parti × 10 kısa metin + 3 parti × 2 orta metin + 1 parti × 1 uzun metin Her partide aşağıdaki istemi gönderin, sonra "Devam et, sonraki 10 metin; öncekilerle aynı konu/başlık olmasın." deyin.
+**Parti planı:** 1 parti × 10 kısa metin Her partide aşağıdaki istemi gönderin, sonra "Devam et, sonraki 10 metin; öncekilerle aynı konu/başlık olmasın." deyin.
 
 ---
 
@@ -26,6 +26,7 @@ KURALLAR
 - Metinler birbirinin tekrarı olmasın: farklı konu, karakter, mekân, başlık. Aynı cümleyi tekrar etme.
 - Şiddet, korku, nefret, cinsellik, uyuşturucu içeren öğe yok. Herkesin okuyabileceği dil.
 - Uygulamada mikrofon/ses kaydı yok; metinler yalnızca okunacak.
+- Şu başlıklar ZATEN VAR, tekrar etme: Yaylada İkindi Serinliği · Geçmişin Kıyısında İçsel Sükûnet · Metinde Ritmin Ve Anlam Katmanlarının İnşası · Sevginin Ve Umudun Şarkısı · Sahaf Dükkânındaki Eski Cilt Bezleri · Tarihi Külliyenin Taş Avlusu Ve Şadırvan · Karadeniz Yaylasında Sık Orman Ve Sis · Kalpte Uyanan Taze Umut · Şiirsel Dilde İmgelerin Derinliği · Gecenin Kanatlarında Sonsuzluk · Mavi Körfezdeki Taş Deniz Feneri · Yüksek Dağ Ormanında Sonbahar · Ruhun Sessiz Ve Duru Limanı · Sevginin Ve Işığın Şarkısı · Eski Marangozun Ahşap Sehpa Atölyesi · Sarp Vadideki Taş Köprü Ve Şelale · Baharda Çam Ormanı Ve Çiğ Taneleri · İçsel Huzur Ve Gönül Ferahlığı · Cümle Yapısında Ahenk Ve Vurgu Dengesi · Rüzgârın Sesi Ve Gece Yolculuğu · Taş Köprünün Yaşlı Bekçisi · Eski Çay Bahçesinin İkindi Vakti · Yağmur Sonrası Ceviz Bahçesi · Sessiz Kabulleniş Ve Zihinsel Arınma · Tarihi Çeşmenin Taş Havuzu Ve Mahalle · Sarp Kaya Yarığındaki Gizemli Mağara · Sisli Gölet Ve Nilüfer Çiçekleri · İçimdeki Şefkatli Sevinç · Anlatımda Ritim Ve Katmanlı İmgeler · Ufkun Ardındaki Mavi Şarkı · Tarihi Taş Hanın Gölgesindeki Bakırcı · Tarihi Saat Kulesi Ve Küçük Meydan · Yüksek Yaylada Gölet Ve Ladinler · Ruhun Derinliklerindeki Duru Barış · Anlatımda Denge Ve Sözcük Mimarisi · Halı Tamircisinin Eski Atölyesi · Kanyondaki Asırlık Su Değirmeni · Sahaf Çırağının Eski Defteri · Kıyı Kasabasındaki Ahşap İskele · Baharda Ihlamur Korusu · Sessiz Sokağın Şarkısı · Eski Sahafın Ahşap Tezgahı · Sisli Vadi Ve Taş Köprü · Sonbaharda Orman İçi Göleti · İçimdeki Durgun Deniz · Yüreğin Kuytu İskelesinde Bağışlama Ve Huzur · Edebi Anlatımda Sözcük Mimarisi Ve Üslup Arayışı · Dağların Sonsuz Ezgisi Ve Gece Yolculuğu · Tarihi Kütüphanedeki Nadir Eserler Ve Restorasyon Masalı · Dağ Geçidindeki Asırlık Taş Han Ve Kanyon Vadisi · Kelimelerin Büyülü Dansı · Yalnızlığın Derin Ufukları · Eski Değirmenin Masalı · Küçük Kasabanın Taş Sokakları · Baharda Çam Ormanı · Güz Yanılsaması Ve İçsel Kabulleniş · Kelimelerin Mimarisi Ve Üslup Arayışı · Gece Ve Yıldızların Fısıltısı · Eski Limandaki Ahşap Kulübe · Yüksek Yaylada Sisli Gece · Kuytu Vadide İlkbahar Sabahı · Çocukluk Günlerine Duyulan Şefkatli Özlem · Anlatıda Ses Ve Ahenk Arayışı · Kırık Aynada Zamanın İzleri · Dağ Kasabasındaki Marangoz Atölyesi · Kayalıktaki Eski Gözetleme Kulesi · Yağmur Sonrası Ladin Ormanı · Berrak Bir Kabulleniş · Anlatıda Ahenk Ve Estetik Denge · Aydınlık Günün Muştusu · Yaşlı Heykeltıraşın Atölyesi · Sarp Kayalıktaki Tarihi Deniz Feneri · Kuytu Vadide Sonbahar · İçsel Minnet Ve Huzur · Anlatımda Özgünlük Ve İmgelerin Gücü · Unutulmuş Şehrin Şarkısı · Zamanın İşlendiği Ahşap Atölye · Sakin Balıkçı Kasabası · Sonbaharda Çam Ormanı Ve Dere · Kalpteki Şükran Ve Şefkat · Söylemde Derinlik Ve Simgelem · Sabahın İlk Işıkları · Eski Saat Tamircisinin Çırağı · Sisli Dağ Geçidi Ve Taş Kemer · Sonbaharda Nehir Kıyısı · İçsel Huzur Ve Kalbin Dinginliği · Metinde Ses Ahengi Ve Anlatım Ritimleri · Gece Vaktinin Sessiz Ezgisi · Eski Ahşap Cilthanenin Gizemi · Kuytu Balıkçı Limanında İkindi · Sarp Vadilerin Ve Yüce Dağların Kadim Doğa Masalı · Eski Ahşap Ciltli Kitapların Sırrı · Edebi Metinlerde İmgelerin Derinliği · Anlatımda Derinlik Ve Simge Katmanları · Baharın Ve Neşenin Türküsü · Sonbaharda Ulu Meşe Ormanı · Kalpteki Kabulleniş Ve Yaşama Sevgisi · Anlatımda Üslup Olgunluğu Ve İmgeler
 
 ÇIKTI BİÇİMİ — yalnızca bloklar, başka açıklama yazma. Her metin:
 
@@ -38,5 +39,5 @@ Metnin gövdesi. Paragraflar arasında boş satır.
 
 Devam paragrafı.
 
-(Bloklar arasında bir boş satır bırak. "###" ile "|" arasına numara YAZMA.)
+(Bloklar arasında bir boş satır bırak. "###" ile "|" arasına numara YAZMA. "level" ZORUNLU. Belirli bir kaynağa dayandıysan meta satırına "source: <kaynak adı/adres> | license: <lisans>" ekle; özgün metinde bu alanları yazma.)
 ```

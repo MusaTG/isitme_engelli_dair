@@ -1,0 +1,188 @@
+### | Antik Kent Ören Yeri Yol Tarifi
+lang: tr | cat: dialogue | sub: directions | tags: yol tarifi, antik kent, müze, otobüs, harita | level: 3
+---
+Serdar: Afedersiniz Hanımefendi, sizi akşamüstü vakti sahil kordonunda rahatsız ediyorum ama kentin tarihi merkezinde yer alan antik kent ören yerine ve arkeoloji müzesine giden toplu taşıma araçlarını arıyorum.
+
+Pınar: Merhaba Beyefendi! Hiç rahatsızlık değil, memnuniyetle yardımcı olurum. Şu an kentin yeni liman bölgesindesiniz ancak antik kent ören yerine ve müzeye ulaşım buradan son derece kolay ve rahattır.
+
+Serdar: Harika bir haber! Akıllı telefonumun internet bağlantısı kesildiği ve harita uygulamam çalışmadığı için otobüs hat numaralarını, durak isimlerini ve yürüme güzergâhını tam olarak netleştiremedim.
+
+Pınar: Hiç endişelenmeyin, ben size en hızlı, en pratik, en güvenli ve en anlaşılır rotayı detaylıca tarif edeyim. Öncelikle caddenin karşı tarafında yer alan ışıklı büyük durağa geçmeniz gerekiyor.
+
+Serdar: Caddenin karşısındaki tarihi palmiye ağaçlarının altında bulunan üstü kapalı camlı otobüs durağından mı otobüse bineceğim acaba?
+
+Pınar: Evet, tam olarak o duraktan bineceksiniz. Duraktan her on beş dakikada bir düzenli olarak geçen otuz beş numaralı 'Tarihi Merkez ve Ören Yeri' otobüsüne biniş yapmalısınız.
+
+Serdar: Otobüse biniş yaptıktan sonra tam olarak hangi durakta inmem gerekiyor ve otobüs yolculuğu yaklaşık kaç dakika sürer acaba?
+
+Pınar: Biniş yaptıktan yaklaşık on beş dakika sonra, altıncı durak olan 'Eski Taş Surlar ve Ören Yeri' durağında ineceksiniz. Otobüs şoförü zaten durağı sesli olarak anons etmektedir.
+
+Serdar: 'Eski Taş Surlar' durağında indikten sonra antik kent ören yeri girişine ulaşmak için tam olarak ne tarafa doğru yürümeliyim?
+
+Pınar: Durağın hemen sağ tarafında yer alan tarihi kemerli kapıdan içeri girip, zeytin ağaçlarıyla çevrili taş döşeli yürüyüş yolunu takip ederek yaklaşık üç yüz metre kadar yürüyeceksiniz.
+
+Serdar: Yürüyüş yolunun sonunda antik kent bilet gişelerini ve müze girişini kolayca görebilir miyim acaba?
+
+Pınar: Yürüyüş yolunun tam sonunda devasa anıtsal tiyatro yapısı, bilet gişeleri ve yönlendirme tabelaları tüm görkemiyle karşınıza çıkacaktır, kaçırmanız kesinlikle imkânsızdır.
+
+Serdar: Şehir içi otobüslerde biniş ücretini temassız kredi kartıyla ödeyebiliyor muyuz yoksa özel ulaşım kartı almak şart mıdır?
+
+Pınar: Otobüslerimizde temassız kredi kartı veya banka kartı geçerlidir, ekstra bir şehir ulaşım kartı satın almanıza hiç gerek yoktur.
+
+Serdar: Detaylı, son derece açık, net, yönlendirici ve yardımcı tarifiniz için size çok teşekkür ederim Pınar Hanım.
+
+Pınar: Rica ederim Serdar Bey, şimdiden keyifli, harika, kültür dolu ve unutulmaz bir antik kent gezisi dilerim!
+
+Serdar: Çok teşekkür ederim Pınar Hanım, size de hayırlı, neşeli ve iyi günler dilerim!
+
+Pınar: Sağ olun Serdar Bey, iyi günler, hoşça kalın!
+
+### | Fotoğrafçılık Kulübünde Tanışma
+lang: tr | cat: dialogue | sub: intro | tags: tanışma, fotoğraf, kulüp, sanat, hobi | level: 2
+---
+Hakan: Merhaba! Galiba siz de kent kültür merkezinin hafta sonu düzenlediği doğa ve sokak fotoğrafçılığı kulüp toplantısına ilk kez katılıyorsunuz?
+
+Ebru: Merhaba! Evet, çok doğru bir tahmin. Ben Ebru. Kulübün sosyal medya sayfasındaki duyuruyu görüp bu haftaki ilk tanışma toplantısına katılmaya karar verdim.
+
+Hakan: Çok memnun oldu Ebru Hanım, ben de Hakan. Yaklaşık iki yıldır bu güzel, dinamik ve üretken fotoğrafçılık topluluğunun aktif bir üyesiyim.
+
+Ebru: Ben de tanıştığıma çok memnun oldu Hakan Bey. İlk kez katıldığım için kulübün haftalık etkinlik programını, fotoğraf çekim gezilerini ve atölye çalışmalarını merak ediyordum.
+
+Hakan: Kulübümüz son derece sıcak, samimi, seviyeli, eğlenceli ve paylaşımcı bir ortama sahiptir. Her ayın başında farklı bir tema belirler ve hafta sonları doğa gezileri düzenleriz.
+
+Ebru: Anladım. Ay boyunca çekilen doğa ve şehir fotoğrafları kulüp salonunda toplanıp hep birlikte değerlendiriliyor ve analiz ediliyor sanırım?
+
+Hakan: Tam olarak öyle! Herkes çektiği en başarılı fotoğraflarını getirir; kadraj, ışık kullanımı, kompozisyon ve renk dengesi üzerine dostça sohbet ederiz.
+
+Ebru: Gerçekten harika, geliştirici ve ufuk açıcı bir konseptmiş. Peki bu ay için belirlenen fotoğraf teması nedir acaba?
+
+Hakan: Bu ayki ana temamız 'Sonbahar Renkleri ve Kentte Mimari Detaylar' olarak belirlendi. Çevredeki tarihi konakları ve parkları fotoğraflıyoruz.
+
+Ebru: Çok etkileyici ve ilham verici bir tema seçimi olmuş. Gelecek haftaki fotoğraf çekim gezisine yeni üyeler de katılabiliyor mu?
+
+Hakan: Kesinlikle evet! Önümüzdeki cumartesi günü Şirince ve çevresindeki doğa parkuruna fotoğraf gezisi düzenliyoruz, siz de davetlisiniz.
+
+Ebru: Böyle katılımcı ve samimi bir yapının olması gerçekten harika. Ben de manzaralar ve sokak portreleri çekmeyi çok severim.
+
+Hakan: O zaman aramıza tam zamanında ve çok doğru bir adrese katıldınız Ebru Hanım. Birazdan başkanımız açılış konuşmasını yapacak.
+
+Ebru: İlginiz, içten karşılamanız, detaylı bilgilendirmeniz ve misafirperverliğiniz için çok teşekkür ederim Hakan Bey.
+
+Hakan: Rica ederim Ebru Hanım, fotoğrafçılık kulübümüze tekrar hoş geldiniz!
+
+Ebru: Hoş bulduk Hakan Bey, çok teşekkürler!
+
+### | Yanlış Sipariş Getirilmesi Sorunu
+lang: tr | cat: dialogue | sub: problem | tags: sorun, restoran, sipariş, garson, çözüm | level: 1
+---
+Bülent: Afedersiniz Garson Bey, masamıza az önce getirdiğiniz yemek tabağı ile ilgili küçük bir hususu size iletmek istemiştim.
+
+Sinan: Merhaba Efendim! Hemen yardımcı olayım, masadaki yemeklerde bir eksiklik veya bir yanlışlık mı yaşandı acaba?
+
+Bülent: Evet Sinan Bey, ben sipariş verirken domates soslu ve acısız tavuk ızgara tabağı istemiştim ancak masamıza acılı mantar soslu et tabağı getirildi.
+
+Sinan: İnanın çok ama çok özür dilerim Bülent Bey! Yoğun akşam servisi esnasında mutfak ekibimizin ve bizim küçük bir karıştırmamız yaşanmış olmalı.
+
+Bülent: Anlıyorum Sinan Bey, akşam saatinin yoğunluğunda ve müşteri kalabalığında bu tür insani karışıklıklar gayet doğal ve anlaşılabilir bir durumdur.
+
+Sinan: Nazik anlayışınız, kibar tutumunuz ve yapıcı yaklaşımınız için çok teşekkür ederim Bülent Bey. Masanızdaki tabağı hemen mutfağa geri götürüyorum.
+
+Bülent: Çok teşekkür ederim Sinan Bey. Mutfakta sıcak, domates soslu ve acısız tavuk ızgara tabağımın yeniden hazırlanması çok uzun sürer mi acaba?
+
+Sinan: Mutfak şefimize durumu hemen acil kodlu olarak iletiyorum, doğru tabağınız en fazla altı dakika içinde masanıza taze ve sıcak olarak servis edilecektir.
+
+Bülent: Harika bir çözüm yaklaşımı Sinan Bey. Tabağımın yanında sürpriz olarak acı biber veya baharat bulunmamasına tekrar dikkat edilebilir mi?
+
+Sinan: Kesinlikle Bülent Bey! Şefimize özel olarak belirteceğim, tamamen acısız ve taze domates sosuyla hazırlanacaktır.
+
+Bülent: Ayrıca yanına serinletici bir içecek olarak buzlu ve taze limonata ekleyebilir misiniz acaba?
+
+Sinan: Ev yapımı nane aromalı taze limonatanızı da ikramımız olarak masanıza hemen getiriyorum Bülent Bey.
+
+Bülent: İlginiz, hızlı çözümünüz, ikramınız, güler yüzünüz ve kibar hizmetiniz için çok teşekkür ederim Sinan Bey.
+
+Sinan: Yaşanan bu küçük gecikme ve aksaklık için tekrar özür diler, taze yemeğinizi hemen masanıza ulaştıracağımı belirtmek isterim.
+
+Bülent: Hiç önemli değil Sinan Bey, kolay gelsin, iyi ve başarılı çalışmalar dilerim.
+
+Sinan: Sağ olun Bülent Bey, taze yemeğiniz ve limonatanız birkaç dakika içinde masanızda olacaktır!
+
+### | Balık Restoranında Akşam Yemeği
+lang: tr | cat: dialogue | sub: restaurant | tags: restoran, balık, akşam yemeği, menü, sipariş | level: 2
+---
+Garson: Taze deniz ürünleri, zeytinyağlı meze çeşitleri ve taze balıklarıyla ünlü Ege restoranımıza hoş geldiniz Efendim! Sizi deniz manzaralı teras masamıza memnuniyetle alabilir miyim?
+
+Selin: Hoş bulduk! İlgilendiğiniz, güler yüzle karşıladığınız ve yer gösterdiğiniz için çok teşekkür ederim. Teras masanız akşam serinliğinde son derece keyifli, sakin ve huzurlu görünüyor.
+
+Garson: Masanıza taze Ege mezelerimizi, meze dolabımızı ve akşam balık menümüzü hemen takdim ediyorum. Şefimiz bu akşam halden taze gelen günlük çipura ve levreği özenle hazırladı.
+
+Selin: Menünüzü dikkatlice inceledim. Başlangıç ve ara sıcak olarak taze kalamar tavası ve tereyağlı sarımsaklı karides güveç alabilir miyiz acaba?
+
+Garson: Tabii ki Efendim. Kalamarlarımız taze çıtır kaplamalı ve özel tarator sosla servis edilir, karideslerimiz ise taze tereyağı ve sarımsak aromasıyla sahanda pişirilir.
+
+Selin: Harika! Ana yemek olarak porsiyon ızgara deniz levreği tercih edeceğiz. Balıkların yanında ne tür taze garnitürler ve salatalar servis ediyorsunuz?
+
+Garson: Izgara deniz levreğimizin yanında taze roka yaprakları, fırınlanmış baharatlı patates dilimleri, kırmızı soğan halkaları ve taze limon dilimleri özenle servis edilmektedir.
+
+Selin: Çok lezzetli ve dengeli bir tabağa benziyor. Başlangıçta masamıza zeytinyağlı ve nar ekşili Ege otları salatası da ekler misiniz?
+
+Garson: İçinde sızma zeytinyağı, taze limon suyu ve Bergama tulum peyniri bulunan özel Ege otları salatamızı siparişlerinize memnuniyetle ekliyorum. İçecek olarak ne arzu edersiniz?
+
+Selin: Serinletici içecek olarak ev yapımı bol buzlu nane aromalı taze limonata rica ediyoruz.
+
+Garson: Siparişlerinizi detaylıca not aldım Selin Hanım. Mezeleriniz ve salatanız beş dakika içinde, sıcak balığınız ise en fazla on iki dakika içinde masanıza özenle servis edilecektir.
+
+Selin: Tatlı olarak yemek sonrasında fırınlanmış helva veya tiramisu seçeneğiniz mevcut mu acaba?
+
+Garson: Evet Selin Hanım, fırınlanmış sıcak helvamız ve taze tiramisumuz mevcuttur.
+
+Selin: Detaylı açıklamalarınız, güler yüzlü kaliteli hizmetiniz ve ilginiz için çok teşekkür ederim.
+
+Garson: Rica ederim Selin Hanım, şimdiden afiyet olsun, harika, lezzetli ve huzurlu bir akşam geçirmenizi dilerim!
+
+### | Gurme Şarküteride Yöresel Ürün Alışverişi
+lang: tr | cat: dialogue | sub: shopping | tags: alışveriş, şarküteri, peynir, gurme, organik | level: 3
+---
+Aylin: Hayırlı işler Nuri Usta! Mağazanızın vitrininde sergilenen el yapımı yöresel peynirler, doğal zeytinler ve katkısız şarküteri çeşitleri caddeden geçerken dikkatimi çekti.
+
+Nuri: Hoş geldiniz Efendim! Yıllardır ülkemizin farklı bölgelerindeki yerel üreticilerden doğrudan temin ettiğimiz doğal, taze ve katkısız ürünleri müşterilerimizle buluşturuyoruz.
+
+Aylin: Harika ve takdir edilesi bir hizmet. Özellikle Ege bölgesine ait soğuk sıkım natürel sızma zeytinyağı ve yöresel peynir çeşitlerinizi detaylıca incelemek istiyorum.
+
+Nuri: Şu cam raflarda gördüğünüz zeytinyağlarımız Kazdağları eteklerindeki asırlık zeytin ağaçlarından erken hasat döneminde soğuk sıkım yöntemiyle özenle elde edilmiştir.
+
+Aylin: Zeytinyağınızın dizem asitlik oranı ve aroma profili hakkında detaylı bilgi alabilir miyim acaba?
+
+Nuri: Zeytinyağımızın dizem asitlik oranı sıfır virgül üç seviyesindedir. Meyvemsi aroması oldukça yüksek, genizde hafif yakıcılığı olan birinci sınıf bir sızma zeytinyağıdır.
+
+Aylin: Muazzam bir kalite gerçekten. Şarküteri reyonunuzda yer alan geleneksel Kars eski kaşarı ve Ezine peynirlerinin olgunlaşma süreleri nedir acaba?
+
+Nuri: Kars eski kaşarımız doğal koyun ve keçi sütünden üretilip özel koruma mahzenlerinde en az on iki ay boyunca sabırla dinlendirilmiştir.
+
+Aylin: Peynirlerin lezzetine ve tuz oranına bakmak adına küçük bir tadım yapma imkânımız var mıdır acaba?
+
+Nuri: Tabii ki Efendim, hemen tahta sunum tabağında taze kesip size ikram edebilirim.
+
+Aylin: Harika! Peynirin lezzeti ve kıvamı gerçekten mükemmelmiş. İki litre soğuk sıkım zeytinyağı ile yarım kilo Kars eski kaşarı almak istiyorum.
+
+Nuri: İki litre zeytinyağımız sekiz yüz lira, yarım kilo eski kaşarımız iki yüz elli lira tutuyor. Toplam ödemeniz bin elli liradır.
+
+Aylin: Cam şişedeki zeytinyağının kırılmaması için paketlemeyi biraz özenli yapabilir misiniz?
+
+Nuri: Tabii ki Efendim, kalın havalı ambalaj malzemesine sarıp korumalı çantaya yerleştiriyorum.
+
+Aylin: Ödemeyi temassız kredi kartımla yapmak istiyorum.
+
+Nuri: Pos cihazımız hazırdır, kartınızı dokundurabilirsiniz. Doğal ve organik ürünlerimizi sağlıkla ve afiyetle tüketmenizi dilerim.
+
+Aylin: İlginiz, detaylı bilgilendirmeniz ve güler yüzünüz için çok teşekkür ederim Nuri Usta!
+
+Nuri: Rica ederim Efendim, iyi ve sağlıklı günler dilerim, yine bekleriz!
+
+Kontrol Özeti:
+İstenen Sayı: 5
+Üretilen Sayı: 5
+
+---
+
+`11-kisa.txt` kaynağındaki 5 kısa diyalog metni eksiksiz olarak üretilmiştir. Sonraki dosya (`12-kisa.txt` vb.) ile devam etmek isterseniz "devam et" demeniz yeterlidir!

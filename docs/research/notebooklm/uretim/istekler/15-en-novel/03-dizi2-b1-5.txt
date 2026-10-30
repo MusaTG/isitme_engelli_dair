@@ -1,0 +1,16 @@
+Kaynaklardaki yazım kılavuzuna göre roman dizisi "en-dizi-02" için 1–5. bölümleri yaz.
+
+- Dil: İngilizce (doğal İngilizce; Türkçeden çeviri değil)
+- Kategori: novel · sub: scifi (Bilim kurgu)
+- Her bölüm 350–550 kelime; her bölüm ayrı blok.
+- Başlık biçimi: "<Dizi Adı> — <n>. Bölüm: <Bölüm adı>"
+- Yeni bir dizi başlat: önceki dizilerden farklı karakterler, mekân ve konu.
+
+Her bölüm TAM OLARAK şu biçimde (YAML kullanma):
+
+### | <Dizi Adı> — <n>. Bölüm: <Bölüm adı>
+lang: en | cat: novel | sub: scifi | series: en-dizi-02 | part: <n> | tags: <3-5 etiket> | level: 2
+---
+Gövde.
+
+Atıf numarası yazma. En sonda ayrı bir satıra yalnızca "Kontrol Özeti:" yaz ve altına istenen ve üretilen bölüm sayısını yaz.

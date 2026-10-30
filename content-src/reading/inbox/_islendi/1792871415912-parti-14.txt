@@ -1,0 +1,91 @@
+### | Apartman Gürültü Sorununun Çözümü
+lang: tr | cat: dialogue | sub: problem | tags: sorun, gürültü, komşu, apartman, çözüm | level: 2
+---
+Erkan: İyi akşamlar Sinan Bey, müsait bir vaktinizde üst kat komşunuz olarak kısa ve önemli bir konuda düşüncelerinizi, önerilerinizi ve anlayışınızı rica etmek istemiştim.
+Sinan: İyi akşamlar Erkan Bey! Buyurun lütfen, her zaman rahatça konuşabiliriz. Apartmanda veya dairenizde herhangi bir sıkıntı, teknik arıza veya rahatsızlık mı vardı acaba?
+Erkan: Aslında çok büyük bir sorun veya anlaşmazlık değil ancak son zamanlarda özellikle akşamları geç saatlerde salon ve koridor tarafında yürürken çıkan ayak topuk sesleri ve ağır ahşap sandalyelerin çekilme gürültüleri alt kattaki çocuk odasına biraz fazla yoğun şekilde yansıyor ve yankılanıyor.
+Sinan: Gerçekten mi? İnanın durumun hiç ama hiç farkında değildik Erkan Bey, çıkardığımız seslerin alt kattaki çocukların uyku saatine denk geldiğini ve bu kadar rahatsızlık verdiğini asla düşünememişiz.
+Erkan: Yapıcı ve samimi anlayışınız için çok teşekkür ederim Sinan Bey. Küçük çocuklarımız akşam saat dokuzdan sonra uykuya geçtiği için o saatten sonra biraz daha dikkatli ve özenli davranabilirseniz ailece çok mutlu oluruz.
+Sinan: Kesinlikle Erkan Bey! Bu konuda son derece haklısınız. Masadaki tüm sandalye ayaklarına yarın sabah hemen koruyucu keçe pedler yapıştıracağım ve akşam geç saatlerde daire içinde daha yumuşak tabanlı ev terlikleri kullanacağız. Ayrıca çocukların koşma saatlerini de akşam erken saatlere çekeceğiz.
+Erkan: Gösterdiğiniz yüksek komşuluk nezaketi, içten duyarlılık, hızlı çözüm yaklaşımınız ve son derece anlayışlı tutumunuz için size ve ailenize çok teşekkür ederim Sinan Bey.
+Sinan: Rica ederim Erkan Bey. Lütfen benzer bir durum veya rahatsızlık yaşandığında hiç çekinmeden bana doğrudan iletin, huzurlu, mutlu ve karşılıklı saygıya dayalı bir apartman ortamı hepimizin ortak arzusu ve dileğidir.
+Erkan: Çok sağ olun Sinan Bey, size ve ailenize hayırlı, sağlıklı ve huzurlu akşamlar dilerim.
+Sinan: İyi akşamlar Erkan Bey, anlayışınız ve nazik uyarınız için tekrar teşekkürler, görüşmek üzere.
+
+### | Gurme Balık Restoranında Aile Yemeği
+lang: tr | cat: dialogue | sub: restaurant | tags: restoran, balık, akşam yemeği, gurme, sipariş | level: 3
+---
+Şef: Taze deniz ürünleri, zeytinyağlı meze çeşitleri ve günlük balıklarıyla ünlü lezzet restoranımıza hoş geldiniz Efendim! Sizi deniz manzaralı geniş teras masamıza memnuniyetle alabilir miyim?
+Bülent: Hoş bulduk Şefim! Ailemizle birlikte özel bir akşam yemeği kutlaması için geldik. Teras masanızın ferah konumu, deniz manzarası ve masanın yerleşimi gerçekten büyüleyici görünüyor.
+Şef: Masanıza taze Ege mezelerimizi, meze dolabımızı ve akşam balık menümüzü hemen takdim ediyorum. Bu akşam halden taze gelen günlük deniz levreği, çipura ve lüfer çeşitlerimiz son derece öne çıkıyor.
+Bülent: Başlangıç ve ara sıcak olarak taze kalamar tavası, tereyağlı sarımsaklı karides güveç ve ızgara ahtapot tabağı alabilir miyiz?
+Şef: Tabii ki Efendim. Kalamarlarımız taze çıtır kaplamalı ve özel tarator sosla servis edilir, karideslerimiz ise taze tereyağı, sarımsak ve hafif pul biber aromasıyla bakır sahanda pişirilir.
+Bülent: Harika! Ana yemek olarak porsiyon ızgara deniz levreği ve fırınlanmış lüfer tercih edeceğiz. Balıkların yanında ne tür taze garnitürler ve salatalar servis ediyorsunuz?
+Şef: Izgara balıklarımızın yanında taze roka yaprakları, fırınlanmış baharatlı patates dilimleri, kütür kütür kırmızı soğan halkaları ve taze sıkılmış limon dilimleri özenle eşlik eder.
+Bülent: Çok lezzetli ve dengeli bir tabağa benziyor. Başlangıçta masamıza zeytinyağlı ve nar ekşili Ege otları salatası da ekler misiniz?
+Şef: İçinde sızma zeytinyağı, taze limon suyu ve Bergama tulum peyniri bulunan özel Ege otları salatamızı siparişlerinize memnuniyetle ekliyorum. İçecek olarak ne arzu edersiniz?
+Bülent: Serinletici içecek olarak soğuk taze sıkılmış koruk suyu ve ev yapımı bol buzlu nane aromalı limonata rica ediyoruz.
+Şef: Siparişlerinizi detaylıca not aldım Bülent Bey. Mezeleriniz ve salatanız beş dakika içinde, sıcak balıklarınız ise en fazla on sekiz dakika içinde masanıza özenle servis edilecektir.
+Bülent: Detaylı ilginiz, açıklayıcı bilgileleriniz ve kaliteli hizmetiniz için çok teşekkür ederim Şefim.
+Şef: Afiyet olsun Efendim, ailenizle birlikte harika ve lezzetli bir akşam geçirmenizi dilerim!
+
+### | Şarküteri ve Yöresel Ürünler Alışverişi
+lang: tr | cat: dialogue | sub: shopping | tags: alışveriş, şarküteri, peynir, zeytin, gurme | level: 2
+---
+Osman: Hayırlı işler Usta! Dükkânınızın vitrininde sergilenen el yapımı yöresel peynirler, doğal zeytinler ve katkısız kahvaltılık çeşitleri caddeden geçerken çok iştah açıcı görünüyor.
+Nuri: Sağ olasın Beyefendi! Hoş geldiniz. Yıllardır Anadolu'nun farklı köylerindeki yerel üreticilerden doğrudan temin ettiğimiz doğal, taze ve katkısız şarküteri ürünlerini müşterilerimizle buluşturuyoruz.
+Osman: Çok güzel ve güven veren bir hizmet. Özellikle Ezine tam yağlı beyaz peyniri, Kars eski kaşarını ve Edremit yeşil kırma zeytinini detaylıca incelemek istiyorum. Peynirlerinizin tuz oranı ve olgunlaşma süresi nasıldır?
+Nuri: Ezine tam yağlı koyun peynirimiz özel koruma tenekelerinde en az sekiz ay boyunca dinlendirilmiştir, tuz oranı ise damak tadına tam uygun ideal seviyededir.
+Osman: Satın almadan önce peynirin lezzetine ve kıvamına bakmak adına küçük bir tadım yapma imkânımız var mıdır acaba?
+Nuri: Tabii ki Beyefendi, hemen tahta sunum tabağında taze kesip size ikram edeyim, tadına bakıp kararınızı öyle verin.
+Osman: Gerçekten lezzeti ve kıvamı mükemmel, ağızda harika bir doğal süt aroması bırakıyor. Bir kilo bu Ezine peynirinden özenle paketlemenizi rica edeceğim.
+Nuri: Hemen hassas terazi ile tartıp paketliyorum. Yeşil kırma zeytinimizden ve eski kaşarımızdan da çeşni olarak ekleyelim mi?
+Osman: Evet, zeytinden yarım kilo, Kars eski kaşarından da yarım kilo ekleyin lütfen. Ayrıca el yapımı organik süzme çam balınız var mıdır?
+Nuri: Marmaris ve Datça yöresine ait birinci sınıf organik süzme çam balımız mevcuttur.
+Osman: Bir kavanoz çam balı da siparişime ekleyelim. Toplam borcum ne kadar tuttu Nuri Usta?
+Nuri: Bir kilo peynir, yarım kilo kaşar, yarım kilo zeytin ve bir kavanoz çam balı toplam sekiz yüz elli lira tutuyor Beyefendi.
+Osman: Ödemeyi kredi kartı ile temassız olarak yapabilir miyim?
+Nuri: Pos cihazımız aktiftir, kartınızı okutabilirsiniz. Ürünlerinizi de sağlam ambalajlı alışveriş çantasına koyuyorum.
+Osman: İlgilendiğiniz, kaliteli ve lezzetli ürünler sunduğunuz için çok teşekkür ederim Nuri Usta.
+Nuri: Sağlıklı, huzurlu ve afiyetle tüketiniz Beyefendi, hayırlı günler dilerim, yine bekleriz!
+
+### | Mağaza Satış Danışmanı Mülakatı
+lang: tr | cat: dialogue | sub: interview | tags: mülakat, satış, mağaza, müşteri, kariyer | level: 1
+---
+Leyla: Hoş geldiniz Burak Bey. Mağazamızın müşteri ilişkileri, ürün tanıtımı ve satış danışmanı pozisyonu için başvurunuzu detaylıca inceledik ve sizinle yüz yüze tanışmak istedik.
+Burak: Hoş bulduk Leyla Hanım. Perakende ve mağazacılık sektöründe öncü, yenilikçi ve prestijli olan markanızda görev almak ve hedeflere katkı sağlamak adına burada bulunmaktan büyük memnuniyet duyuyorum.
+Leyla: Öz geçmişinizde daha önce iki yıl boyunca kurumsal bir giyim mağazasında satış danışmanı olarak çalıştığınız görülüyor. Bu süreçte edindiğiniz tecrübeleri ve sorumlulukları özetler misiniz?
+Burak: Müşterileri güler yüzle karşılamak, ihtiyaçlarını doğru analiz edip en uygun ürünleri önermek, reyon düzenini sağlamak ve kasa işlemlerini eksiksiz yürütmek temel sorumluluklarımdı.
+Leyla: Peki hafta sonları yaşanan yoğun ve kalabalık alışveriş saatlerinde yüksek stres altında çalışırken müşteri memnuniyetini nasıl korursunuz?
+Burak: Sakinliğimi, profesyonelliğimi ve güler yüzümü koruyarak her müşteriye eşit ilgi göstermeye, sorularını sabırla yanıtlamaya ve hızlı çözümler sunmaya özen gösteririm.
+Leyla: Ekip çalışmasında arkadaşlarınızla uyumu sağlamak ve mağaza satış hedeflerine ulaşmak adına ne tür bir yaklaşım benimsersiniz?
+Burak: Yardımlaşmayı, açık iletişimi ve pozitif enerjiyi ön planda tutarım. Ekip hedeflerine ulaşmak için üzerime düşen görevi zamanında ve eksiksiz yerine getiririm.
+Leyla: Mağazamıza ve ekibimize katacağınız en önemli kişisel yetkinliğiniz sizce nedir Burak Bey?
+Burak: Yüksek iletişim becerim, müşteri odaklı ikna kabiliyetim, dinamik yapım ve çözüm odaklı çalışma disiplinimdir.
+Leyla: Vardiyalı çalışma saatlerimize ve hafta sonu esnek mesaileşme takvimimize uyum sağlama konusunda herhangi bir kısıtlamanız bulunuyor mu acaba?
+Burak: Esnek çalışma saatlerine ve yoğun tempoya tamamen uyum sağlayabilirim Leyla Hanım.
+Leyla: Çok güzel ve tatmin edici açıklamalar Burak Bey. Mülakat değerlendirme sonucumuzu iki gün içinde telefon ve e-posta yoluyla tarafınıza detaylıca bildireceğiz.
+Burak: Zaman ayırdığınız, ilginiz ve nazik kabulünüz için çok teşekkür ederim Leyla Hanım.
+Leyla: Biz teşekkür ederiz Burak Bey, kariyerinizde başarılar ve iyi günler dilerim.
+
+### | Yazılım Projesi İlerleme Toplantısı
+lang: tr | cat: dialogue | sub: meeting | tags: toplantı, yazılım, proje, takım, planlama | level: 2
+---
+Tarkan: Değerli ekip arkadaşlarım, haftalık mobil uygulama geliştirme projesi ilerleme ve performans değerlendirme toplantımıza hepiniz hoş geldiniz.
+Seda: Günaydın Tarkan Bey. Tasarım ve yazılım ekibimiz geçen hafta belirlenen tüm kullanıcı arayüzü testlerini, ekran uyumlandırmalarını ve veri tabanı entegrasyonlarını başarıyla tamamladı.
+Tarkan: Harika bir haber Seda Hanım! Peki uygulama içi ödeme adımlarında, veri güvenliğinde ve kullanıcı yetkilendirme protokollerinde herhangi bir teknik aksaklık veya performans kaybı tespit edildi mi?
+Seda: Ödeme entegrasyonu ve güvenlik testlerimizde performans değerleri gayet yüksek çıktı. Şimdilik herhangi bir güvenlik açığı, veri sızıntısı veya sistem yavaşlaması bulunmuyor.
+Tarkan: Mükemmel bir çalışma! Peki önümüzdeki hafta uygulamamızı canlı ortama alma, uygulama mağazalarına yükleme ve kullanıcı erişimine açma aşamasına geçebilir miyiz?
+Seda: Son bir güvenlik ve performans kural test kontrolünün ardından cuma günü uygulamayı mağaza onayına sunmaya tamamen hazır olacağız. Ayrıca pazarlama ekibine de tanıtım görsellerini ilettik.
+Tarkan: Uygulamanın mağaza lansmanı öncesinde pazarlama ve halkla ilişkiler tarafında yürütülecek reklam kampanyası bütçesi ve hedef kitlesi netleşti mi acaba?
+Seda: Evet Tarkan Bey, dijital pazarlama ekibimiz sosyal medya reklam tasarımlarını ve bütçe dağılım planını dün itibarıyla tamamlayıp onayımıza sundu.
+Tarkan: Çok güzel! Kullanıcı geri bildirimlerini anlık olarak takip edeceğimiz destek hattı ve uygulama içi bildirim sistemimiz de lansman gününe kadar hazır olacak mı?
+Seda: Müşteri hizmetleri entegrasyonumuz ve anlık bildirim altyapımız tamamlandı, lansman anında sorunsuz çalışacaktır.
+Tarkan: Ekip olarak gösterdiğiniz yüksek performans, teknik nitelik, uyum ve zaman disiplini için hepinize ayrı ayrı yürekten teşekkür ederim Seda Hanım.
+Seda: Biz teşekkür ederiz Tarkan Bey. Hazırladığım haftalık proje ilerleme raporunu ve yeni dönem teknik iş takvimini toplantı hemen sonrası tüm ekiple e-posta üzerinden detaylıca paylaşacağım.
+Tarkan: Harika bir çalışma ve planlama oldu Seda Hanım. Katkılarınız için tekrar teşekkür eder, hepinize kolaylıklar ve başarılı çalışmalar dilerim.
+Seda: Çok teşekkürler Tarkan Bey, iyi çalışmalar dilerim.
+
+Kontrol Özeti:
+İstenen Sayı: 5
+Üretilen Sayı: 5

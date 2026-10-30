@@ -1,0 +1,127 @@
+### | Uluslararası Tedarik Zinciri ve Lojistik Yönetimi Güncellemesi
+lang: tr | cat: work | sub: email | tags: e-posta, tedarik, lojistik, yönetim, duyuru | level: 3
+---
+Sayın Bölge Müdürleri, Kıdemli Operasyon Sorumluları ve Değerli Mesai Arkadaşlarım,
+
+Şirketimizin küresel pazarlardaki büyüme hedefleri, operasyonel esnekliği, sürdürülebilirlik ilkeleri, iş süreçleri kalitesi, kurumsal verimliliği, yüksek hizmet standartları, müşteri memnuniyet ilkeleri ve güçlü rekabet yapısını koruma vizyonu doğrultusunda, uluslararası tedarik zinciri ve lojistik yönetimi süreçlerimizi uluslararası standartlara tam uyumlu hale getirmek amacıyla Kapsamlı Tedarik Zinciri Politika ve Prosedür Güncellemesi gerçekleştirilmiştir. İşbu bilgilendirme e-postası, yönetim kurulumuzun oy birliğiyle aldığı karar doğrultusunda yürürlüğe giren yeni çalışma ilkelerini, risk yönetim esaslarını, tedarikçi değerlendirme kriterlerini, kalite standartlarını ve tüm birimlerin uymakla yükümlü olduğu operasyonel süreçleri detaylandırmak üzere kaleme alınmıştır.
+
+Son dönemde küresel lojistik hatlarında yaşanan bölgesel dalgalanmalar, gümrük mevzuatı değişiklikleri, liman yoğunlukları ve hammadde tedarik aksamaları, şirketimizin lojistik altyapısını daha esnek, çok merkezli, dayanıklı ve proaktif bir yapıda yeniden kurgulamasını zorunlu kılmaktadır. Bu doğrultuda, kritik hammadde ve yedek parça tedarikinde tek bir coğrafi bölgeye veya tedarikçiye bağımlılığı azaltmak amacıyla 'Çoklu Kaynak Stratejisi' (Multi-Sourcing) devreye alınmıştır. Her bir ana hammadde kalemi için en az iki alternatif yerel veya bölgesel tedarikçi ile çerçeve sözleşmeler imzalanması hedeflenmektedir.
+
+Yeni politika kapsamında tüm birimlerimizin takip etmesi gereken acil eylem adımları aşağıda sırasıyla belirtilmiştir:
+- Risk Haritasının Güncellenmesi: Tüm bölge müdürlükleri, mevcut tedarikçilerinin finansal dayanıklılık, lojistik kapasite, üretim kalitesi ve jeopolitik risk analizlerini kapsayan değerlendirme raporlarını önümüzdeki 15 gün içinde sistem üzerinden güncellenmelidir.
+- Emniyet Stok Seviyelerinin Revizyonu: Bölgesel depolarımızda tutulan kritik malzeme emniyet stok miktarları, iki haftalık üretim ihtiyacını kesintisiz karşılayacak seviyeye yükseltilmelidir.
+- Dijital Takip ve Erken Uyarı Entegrasyonu: Lojistik sevkiyatlarının anlık konum ve durum takibi için yeni geliştirdiğimiz uydu destekli takip yazılımı tüm sevkiyat hatlarında aktif kullanılacaktır.
+
+Yeni politika dokümanının tamamına ve detaylı uygulama rehberine kurumsal intranet portalımız üzerinden dilediğiniz zaman kolayca ulaşabilirsiniz. Tüm yöneticilerimizin ekiplerini bu kurallar hususında bilgilendirmesini ve süreçleri titizlikle takip etmesini önemle rica ederiz.
+
+Saygılarımla,
+Ahmet Yılmaz
+Tedarik Zinciri ve Lojistik Direktörü
+Lider Endüstri A.Ş.
+
+### | Şirket İçi Bilişim Altyapısı Yenileme Toplantı Tutanağı
+lang: tr | cat: work | sub: minutes | tags: toplantı, tutanak, bilişim, altyapı, teknoloji | level: 2
+---
+Toplantı Tarihi: 25 Ekim 2026
+Toplantı Saati: 10.00 - 12.30
+Toplantı Yeri: A Blok 2 Nolu Konferans Salonu
+Toplantı Başkanı: Mehmet Demir (Bilgi Teknolojileri Müdürü)
+Not Tutan: Zeynep Kaya (Sistem Analisti)
+
+Katılımcılar:
+- Mehmet Demir (Bilgi Teknolojileri Müdürü)
+- Caner Şahin (Ağ ve Siber Güvenlik Uzmanı)
+- Elif Yıldız (Veri Tabanı Yöneticisi)
+- Burak Çelik (Yazılım Geliştirme Takım Lideri)
+- Selin Arslan (İdari İşler Sorumlusu)
+
+Gündem Maddeleri:
+1. Şirket ana sunucu odasının iklimlendirme, yangın söndürme, kablolama ve kesintisiz güç altyapısının yenilenmesi
+2. Kullanım ömrünü tamamlamış personel bilgisayarlarının, tabletlerinin ve mobil cihazların değişim takvimi
+3. Veri tabanı felaket kurtarma merkezinin yıllık simülasyon test sonuçlarının ve veri yedeklerinin incelenmesi
+4. Bulut depolama alanları erişim yetkilerinin, kullanıcı şifrelerinin ve güvenlik duvarı kurallarının gözden geçirilmesi
+
+Görüşmeler ve Alınan Kararlar:
+Toplantı, Mehmet Demir'in açılış konuşması ve şirketimizin yıllık teknoloji altyapı yatırımlarını detaylıca özetlemesiyle resmi olarak başladı. İlk gündem maddesi kapsamında, merkez bina sunucu odasındaki hassas iklimlendirme cihazlarının ve kesintisiz güç kaynaklarının (UPS) yenilenmesi projesi ele alındı. Yeni nesil iklimlendirme ünitelerinin kurulmasıyla sunucu arıza riskinin %45 azalacağı ve enerji verimliliğinin artacağı tespit edilerek ihale sürecinin başlatılmasına oy birliğiyle karar verildi.
+
+İkinci gündem maddesinde, saha ve ofis çalışanlarına tahsis edilen bilgisayarların performans durumları değerlendirildi. 3 yılı doldurmuş olan 80 adet dizüstü bilgisayarın önümüzdeki ay içinde yeni nesil güvenli cihazlarla değiştirilmesi uygun bulundu.
+
+Üçüncü gündem maddesinde Elif Yıldız, felaket kurtarma merkezinde gerçekleştirilen simülasyon test verilerini sundu. Olası bir veri kaybı anında sistemlerin 10 dakika içinde tamamen kesintisiz devreye girebildiği teyit edildi.
+
+Alınan Eylem Kararları:
+1. İklimlendirme ihale şartnamesinin hazırlanması (Sorumlu: Selin Arslan - Son Tarih: 5 Kasım)
+2. Yeni bilgisayar dağıtım takviminin yayınlanması (Sorumlu: Caner Şahin - Son Tarih: 1 Kasım)
+3. Bulut erişim yetki listelerinin güncellenmesi (Sorumlu: Burak Çelik - Son Tarih: 10 Kasım)
+
+Bir sonraki takip toplantısının 10 Kasım tarihinde aynı salonda yapılması oy birliğiyle kararlaştırılmıştır.
+
+### | Haftalık Tesis Yönetimi ve Saha Operasyon Raporu
+lang: tr | cat: work | sub: report | tags: rapor, tesis, operasyon, bakım, yönetim | level: 1
+---
+Giriş ve Genel Değerlendirme:
+Bu kısa haftalık faaliyet ve performans raporu, şirketimizin merkez üretim tesislerinde, idari binalarında, depolama alanlarında, tesis birimlerinde ve saha ofislerinde yürütülen idari operasyon durumunu, bina yönetim faaliyetlerini, teknik bakım süreçlerini, çevre düzenlemelerini, iş sağlığı emniyet standartlarını, yangın güvenliği önlemlerini ve genel çalışma ortamı kalitesini detaylıca ve açıklıkla özetlemektedir.
+
+Operasyonel Gelir ve Maliyet Özeti:
+Hafta boyunca merkez binamızda, fabrika sahasında, teknik birimlerimizde ve bölge depolarımızda yürütülen idari hizmetler planlanan çeyreklik bütçe sınırları dahilinde eksiksiz ve başarıyla tamamlanmıştır. Uygulanan akıllı bina otomasyonu ve enerji tasarrufu önlemleri sayesinde elektrik ve su tüketim maliyetlerimizde geçen haftaya kıyasla %6 oranında somut bir düşüş sağlanmıştır. Ayrıca bina geri dönüşüm ve ambalaj atık yönetimi çalışmalarından kurumumuza ek çevre katkısı ve finansal gelir elde edilmiştir.
+
+Tamamlanan Başlıca Faaliyetler ve Bakım Çalışmaları:
+- Merkez bina iklimlendirme ve havalandırma santrallerinin periyodik üç aylık filtre değişimleri yapılmış, tüm hava kanalları hijyenik standartlara uygun olarak dezenfekte edilmiştir.
+- Fabrika içi acil durum aydınlatma armatürleri ve yangın algılama sensörleri teknik destek ekibimiz tarafından detaylıca test edilmiş, tüm sistemlerin eksiksiz çalıştığı teyit edilmiştir.
+- Yemekhane hizmetlerinde başlatılan hijyen ve menü kalitesi anketine 280 çalışan katılmış, genel memnuniyet oranı %88 olarak ölçülmüştür. Elde edilen yapıcı geri bildirimler doğrultusunda diyet ve vejetaryen menü alternatifleri artırılmıştır.
+- Otopark giriş kontrol sistemleri ve plaka tanıma kameraları güncellenerek erişim güvenliği en üst seviyeye çıkarılmıştır.
+
+Tespit Edilen Aksaklıklar ve Alınan Önlemler:
+- A Blok zemin kat mutfak alanında su tesisatı sızıntısı yaşanmış, teknik ekibimiz 1 saat içinde müdahale ederek boru hattını tümüyle yenilemiş ve alan hijyenini eksiksiz sağlamıştır.
+- Şirket araç filosundaki üç binek aracın periyodik bakımı tamamlanarak araçlar tekrar operasyona güvenle verilmiştir.
+
+Sonuç ve Önümüzdeki Hafta Planı:
+Gelecek hafta merkez bina asansörlerinin yıllık resmi muayenesi gerçekleştirileceğinden, mesai saatleri içinde dönüşümlü servis dışı kalma durumu yaşanacaktır. Tüm personelin önceden bilgilendirilmesi ve gerekli güvenlik tedbirlerinin eksiksiz alınması planlanmıştır.
+
+### | Yapay Zekâ Destekli Müşteri İlişkileri Otomasyon Projesi
+lang: tr | cat: work | sub: project | tags: proje, otomasyon, müşteri, yapay zekâ, yazılım | level: 2
+---
+Proje Tanımı ve Amacı:
+Yapay Zekâ Destekli Müşteri İlişkileri Otomasyon Projesi, şirketimizin hızla büyüyen e-ticaret müşteri ağında çağrı merkezi yoğunluğunu azaltmak, müşteri taleplerine anlık, kesintisiz ve doğru yanıtlar vermek, destek süreçlerini 7/24 aktif ve kesintisiz hale getirmek, dijital hizmet kalitesini güçlendirmek, kurumsal imajı yükseltmek ve genel müşteri memnuniyet skorlarını (CSAT) artırmak amacıyla tasarlanmış kapsamlı bir teknoloji dönüşüm hamlesidir. Projenin temel amacı; rutin müşteri sorularının, kargo takip taleplerinin, ürün iade süreçlerinin ve bilgi isteklerinin yapay zekâ tabanlı doğal dil işleme (NLP) algoritmalarıyla otomatik olarak yanıtlanmasını, müşteri bağlılığının güçlendirilmesini, hizmet kalitesinin standartlaştırılmasını ve operasyonel verimliliğin yükseltilmesini sağlamaktır.
+
+Proje Kapsamı ve Uygulama Adımları:
+1. Doğal Dil İşleme Modeli Eğitimi: Şirketimizin geçmiş müşteri mesajları, e-posta kayıtları, destek çağrıları ve sıkça sorulan sorular veri tabanı kullanılarak Türkçe dil yapısına uygun yapay zekâ sohbet botunun (Chatbot) eğitilmesi.
+2. Çok Kanallı Yazılım Entegrasyonu: Akıllı sohbet asistanının web sitemize, mobil uygulamamıza, WhatsApp destek hattımıza ve sosyal medya kanallarımıza eşzamanlı entegre edilmesi.
+3. Canlı Destek Temsilcisi Yönlendirme Mimarisi: Karmaşık şikâyetlerin veya özel kargo taleplerinin yapay zekâ tarafından tespit edilerek anında ilgili müşteri temsilcisine güvenle ve hızla aktarılması.
+4. Anlık Analiz ve Raporlama Paneli: Müşteri duygudurum analizlerini, performans metriklerini ve çözüm sürelerini canlı gösteren yönetim panelinin kurulması.
+
+Beklenen Faydalar ve Bütçe Analizi:
+Projenin faaliyete geçmesiyle birlikte rutin müşteri taleplerinin %65'i yapay zekâ tarafından insan müdahalesi olmadan çözülecek, çağrı merkezi bekleme süreleri 12 dakikadan 30 saniyeye düşecektir. Müşteri memnuniyet skorumuzun %82'den %94 seviyesine çıkması öngörülmektedir.
+
+Projenin toplam yatırım bütçesi 950.000 TL olarak belirlenmiş olup, yatırımın geri dönüş süresi (ROI) 12 ay olarak hesaplanmıştır.
+
+Proje Takvimi:
+- Faz 1 (Model Eğitimi ve Analiz): 1 Kasım - 30 Kasım (Sorumlu: Yapay Zekâ Ekibi)
+- Faz 2 (Yazılım Entegrasyonu): 1 Aralık - 31 Aralık (Sorumlu: BT Proje Müdürü)
+- Faz 3 (Test ve Canlıya Geçiş): 1 Ocak - 15 Ocak (Sorumlu: Müşteri İlişkileri Ekibi)
+
+### | Şirket İçi Gizlilik Politikalı Bilgi ve Cihaz Güvenliği
+lang: tr | cat: work | sub: workplace | tags: iş yeri, güvenlik, gizlilik, cihaz, kural | level: 3
+---
+Sayın Mesai Arkadaşlarım, Kıdemli Birim Sorumlularımız ve Değerli Ekip Üyelerimiz,
+
+Şirketimizin merkez binasında, bölge temsilciliklerimizde, saha ofislerimizde, üretim tesislerimizde ve uzaktan çalışma alanlarımızda kurumsal bilgi güvenliğini sağlamak, ticari sır niteliğindeki verileri korumak, olası siber tehditleri engellemek, fiziksel çalışma ortamı düzenini ve disiplinini sürdürmek ve müşteri veri gizliliğine (KVKK) tam uyum sağlamak amacıyla güncellenen Bilgi ve Cihaz Güvenliği Yönetmeliği bilgilerinize sunulmuştur. Tüm çalışanlarımızın iş yerinde uymakla yükümlü olduğu temel kurallar, cihaz kullanım esasları, erişim sınırları, şifreleme yöntemleri, bilgi güvenliği kuralları ve emniyet protokolleri aşağıda detaylarıyla sıralanmıştır:
+
+1. Bilgisayar ve Dijital Cihaz Güvenliği Standartları:
+- Çalışanlar kendilerine tahsis edilen bilgisayar, tablet ve mobil cihazları şirket dışından yetkisiz kişilerin erişimine kesinlikle ve hiçbir koşulda açmamalıdır.
+- Çalışma masasından kısa süreliğine dahi ayrılınırken 'Windows + L' kısayolu kullanılarak bilgisayar ekranı mutlaka kilitli konuma getirilmelidir.
+- Şirket bilgisayarlarına onaylanmamış üçüncü taraf yazılımlar, lisanssız programlar veya kişisel oyun uygulamaları yüklenmesi kesinlikle ve tamamen yasaktır.
+- Kurumsal e-posta hesaplarına ve iç ağa erişimde kullanılan şifreler kâğıt notlara yazılmamalı, başkalarıyla paylaşılmamalı ve en geç 90 günde bir düzenli olarak değiştirilmelidir.
+
+2. Temiz Masa, Fiziksel Alan Düzeni ve Doküman Emniyeti:
+- Mesai bitiminde çalışma masalarında müşteri dosyası, finansal rapor, proje taslağı veya gizlilik dereceli kâğıt evrak bırakılmamalı; tüm dokümanlar kilitli çekmecelerde emniyetle saklanmalıdır.
+- Yazıcı tepsilerinde unutulan basılı evraklar yetkisiz kişilerin erişimini engellemek adına derhal alınmalı veya imha kutularına atılmalıdır.
+- Şirket içi toplantı odalarında kişisel eşya, dizüstü bilgisayar veya gizli evrak bırakılmaması hususunda gerekli özen, hassasiyet ve dikkat gösterilmelidir.
+
+3. Taşınabilir Medya ve Veri Transfer Kısıtlamaları:
+- Kurumsal veri ve dokümanların kişisel e-posta hesaplarına, onaylanmamış harici bulut depolama alanlarına veya kişisel USB belleklere aktarılması siber güvenlik yazılımları tarafından otomatik olarak engellenmiştir.
+
+Güvenli, huzurlu, düzenli ve profesyonel bir çalışma ortamını birlikte yaşatmak adına göstereceğiniz özen, hassasiyet ve değerli iş birliği için içtenlikle teşekkür ederiz.
+
+İdari İşler ve Bilgi Güvenliği Kurulu
+
+Kontrol Özeti:5

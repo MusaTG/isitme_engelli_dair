@@ -1,0 +1,133 @@
+### | Yeni Ürün Lansmanı ve Satış Ekibi Saha Eğitimi
+lang: tr | cat: work | sub: email | tags: e-posta, lansman, eğitim, satış, duyuru | level: 1
+---
+Değerli Satış ve Pazarlama Ekibi Çalışma Arkadaşlarım,
+
+Şirketimizin uzun süredir büyük bir titizlikle, emekle ve heyecanla üzerinde çalıştığı yeni nesil akıllı ev güvenlik ve otomasyon sistemlerinin resmi pazara sunulma lansman tarihi ve bu kapsamda gerçekleştirilecek olan kapsamlı saha satış eğitimi takvimi belirlenmiştir. Yeni ürün yelpazemiz, kullanıcı dostu mobil arayüzü, üstün güvenlik protokolleri, düşük enerji tüketimi, uzun pil ömrü ve yapay zekâ destekli sensör teknolojileriyle sektörde önemli bir fark yaratmaya son derece adaydır.
+
+Müşterilerimize yeni ürün grubumuzu tüm teknik detaylarıyla, doğru vurgularla, ikna edici yöntemlerle ve etkili bir iletişim diliyle sunabilmeniz amacıyla Satış Akademimiz tarafından kapsamlı bir saha eğitimi programı hazırlanmıştır. Tüm saha satış temsilcilerimizin, bölge müdürlerimizin, acente sorumlularımızın ve müşteri ilişkileri uzmanlarımızın katılımının zorunlu olduğu bu eğitim oturumu önümüzdeki salı günü merkez binamızın ana konferans salonında gerçekleştirilecektir.
+
+Eğitim Programı İçeriği ve Günlük Zaman Planı:
+- 09.30 - 10.30: Yeni Ürün Ailesi Teknik Özellikleri, Donanım Detayları ve Rakip Analizi
+- 10.45 - 12.00: Hedef Kitle Analizi, Müşteri İtirazlarını Karşılama ve İkna Teknikleri
+- 13.30 - 15.00: Canlı Ürün Demo Uygulaması, Kullanım Senaryoları ve Rol Yapma Çalışmaları
+- 15.15 - 16.30: Fiyatlandırma, Kampanya Paketleri, Sözleşme Süreçleri ve Soru-Cevap Oturumu
+
+Eğitim toplantısına katılmadan önce şirket içi akademimizdeki yeni ürün tanıtım videolarını dikkatlice izlemenizi, ürün teknik dokümanlarını incelemenizi ve merak ettiğiniz konuları not alarak toplantıya hazırlıklı gelmenizi rica ederiz. Katılım onaylarınızı ve servis ihtiyacınızı pazartesi günü saat 12.00'ye kadar e-posta yanıtı olarak İnsan Kaynakları birimimize iletmeniz gerekmektedir.
+
+Yeni ürün serimizin şirketimize, satış ekibimize, pazarlama birimimize ve tüm değerli müşterilerimize hayırlı olmasını diler, eğitim programında göstereceğiniz aktif katılım, ilgi ve değerli iş birliği için şimdiden çok teşekkür ederim.
+
+Saygılarımla,
+Hakan Yıldız
+Satış ve Pazarlama Direktörü
+Lider Akıllı Teknolojiler A.Ş.
+
+### | Yıllık Bilişim Altyapısı ve Siber Güvenlik Toplantı Tutanağı
+lang: tr | cat: work | sub: minutes | tags: toplantı, tutanak, güvenlik, altyapı, teknoloji | level: 2
+---
+Toplantı Tarihi: 25 Ekim 2026
+Toplantı Saati: 10.00 - 12.30
+Toplantı Yeri: Merkez Bina 4. Kat Bilişim Toplantı Salonu
+Toplantı Başkanı: Murat Arslan (Bilgi Teknolojileri Direktörü)
+Not Tutan: Elif Şahin (Sistem Asistanı)
+
+Katılımcılar:
+- Murat Arslan (Bilgi Teknolojileri Direktörü)
+- Erdem Kaya (Siber Güvenlik Uzmanı)
+- Ayşe Demir (Veri Tabanı Yöneticisi)
+- Tolga Öztürk (Ağ ve Sistem Sorumlusu)
+- Selin Yılmaz (Yazılım Geliştirme Takım Lideri)
+
+Gündem Maddeleri:
+1. Şirket sunucularının bulut mimarisine taşınma sürecinin ilk aşama sonuçları
+2. Kurumsal ağ güvenliği, güvenlik duvarı güncellemeleri ve sızma testi raporları
+3. Personel veri güvenliği bilincini artırmaya yönelik phishing (olta) simülasyonları
+4. Veri tabanı felaket kurtarma ve yedekleme merkezi entegrasyon takvimi
+
+Görüşmeler ve Alınan Kararlar:
+Toplantı, Murat Arslan'ın açılış konuşması ve bilişim altyapımızın yıllık yenilenme hedeflerini özetlemesiyle başladı. İlk gündem maddesinde Tolga Öztürk, şirketimizin ana uygulama sunucularının güvenli bulut altyapısına taşınma sürecini aktardı. Taşınma işlemlerinin %70 oranında tamamlandığı, sistem performansında ve yanıt sürelerinde %30'luk bir hızlanma elde edildiği memnuniyetle tespit edildi.
+
+İkinci gündem maddesinde Erdem Kaya, bağımsız siber güvenlik firması tarafından gerçekleştirilen yıllık sızma (penetrasyon) testi sonuçlarını paylaştı. Dış ağdan gelebilecek olası siber saldırılara karşı mevcut güvenlik duvarlarının başarılı performans sergilediği ancak iç ağ yetkilendirmelerinde kısıtlamalara gidilmesi gerektiği vurgulandı.
+
+Üçüncü gündem maddesinde Ayşe Demir, felaket kurtarma merkezinin anlık veri eşleşme testlerini sundu. Olası bir veri kaybı durumunda sistemlerin 15 dakika içinde kesintisiz devreye girebileceği doğrulandı.
+
+Alınan Eylem Kararları:
+1. İç ağ kullanıcı erişim yetkilerinin 'en az yetki' ilkesine göre güncellenmesi (Sorumlu: Erdem Kaya - Son Tarih: 10 Kasım)
+2. Bulut sunucu taşıma işlemlerinin son fazının tamamlanması (Sorumlu: Tolga Öztürk - Son Tarih: 5 Kasım)
+3. Tüm çalışanlara yönelik siber güvenlik online eğitiminin başlatılması (Sorumlu: Murat Arslan - Son Tarih: 1 Kasım)
+
+Bir sonraki değerlendirme toplantısının 15 Kasım tarihinde yapılmasına karar verilmiştir.
+
+### | Şirket İçi Enerji Verimliliği ve Sürdürülebilirlik Raporu
+lang: tr | cat: work | sub: report | tags: rapor, enerji, verimlilik, sürdürülebilirlik, çevre | level: 3
+---
+Giriş ve Stratejik Amaç:
+Bu rapor, şirketimizin 2026 yılı ilk sekiz ayında merkez fabrika ve idari binalarında uyguladığı enerji yönetimi, karbon ayak izi azaltımı, yeşil dönüşüm projeleri ve sürdürülebilirlik faaliyetlerinin sonuçlarını detaylıca analiz etmek amacıyla hazırlanmıştır. Çalışma, Tesis Yönetimi, Enerji Verimliliği Komitesi ve Çevre Yönetim Birimi tarafından toplanan anlık tüketim verileri ve bağımsız denetim raporları doğrultusunda titizlikle kurgulanmıştır.
+
+Mevcut Durum ve Tüketim Analizi:
+Yılın ilk yarısında faaliyete geçirilen akıllı bina otomasyonu, LED aydınlatma dönüşümü ve üretim hatlarındaki frekans invertörlü motor değişimleri sayesinde toplam elektrik enerjisi tüketimimizde geçen yılın aynı dönemine kıyasla %18,5 oranında somut ve önemli bir düşüş sağlanmıştır. Doğal gaz tüketiminde ısı geri kazanım sistemlerinin devreye alınmasıyla %14'lük tasarruf elde edilmiş, su tüketimi ise sensörlü armatürler ve gri su geri kullanım ünitesi sayesinde %22 oranında azaltılmıştır.
+
+Sürdürülebilirlik Göstergeleri ve Çevresel Etkiler:
+- Karbon Emisyon Azaltımı: Yıllık bazda 1.250 ton karbondioksit eşdeğeri sera gazı emisyonu engellenmiştir.
+- Yenilenebilir Enerji Payı: Fabrika çatımıza kurulan güneş panelleri toplam elektrik ihtiyacımızın %32'sini karşılamıştır.
+- Atık Geri Dönüşüm Oranı: Üretim atıklarımızın %94'ü lisanslı geri dönüşüm tesislerine gönderilerek sıfır atık belgelendirmesi yenilenmiştir.
+
+Riskler ve İyileştirme Alanları:
+1. Eski üretim hatlarında enerji yoğunluğunun dönemsel olarak yüksek seyretmesi
+2. Bölge müdürlüklerinde enerji tasarruf bilincinin merkez kadar yüksek olmaması
+3. Lojistik filomuzdaki fosil yakıtlı araçların karbon salınımındaki yüksek payı
+
+Stratejik Öneriler ve Eylem Planı:
+- Lojistik Araç Filosunun Elektriklendirilmesi: Dağıtım araçlarımızın ilk etapta %25'inin elektrikli modellerle yenilenmesi.
+- Güneş Enerjisi Kapasite Artırımı: Yan depo çatılarının da güneş panelleriyle kaplanarak yenilenebilir enerji payının %50'ye çıkarılması.
+
+Sonuç:
+Enerji verimliliği projelerimiz hem çevresel ayak izimizi azaltmakta hem de operasyonel giderlerimizde önemli tutarda finansal tasarruf sağlamaktadır. Planlanan yeni yatırımlarla yeşil dönüşüm hedeflerimize kararlılıkla ilerlenmektedir.
+
+### | Bilişim Altyapısında Bulut Veri Depolama ve Arşivleme Projesi
+lang: tr | cat: work | sub: project | tags: proje, bulut, depolama, arşiv, teknoloji | level: 2
+---
+Proje Tanımı ve Amacı:
+Bulut Veri Depolama ve Dijital Arşivleme Projesi, şirketimizin hızla büyüyen veri hacmine, artan dijital doküman trafiğine ve genişleyen müşteri veri tabanına yüksek performanslı, esnek, ölçeklenebilir ve güvenli bir altyapı sunmak amacıyla tasarlanmıştır. Projenin temel amacı; şirketimizin fiziksel sunucularında yerel olarak tutulan tüm kurumsal verileri, arşiv belgelerini, yedekleme dosyalarını ve proje dokümanlarını yüksek güvenlikli, yedekli ve felaket korumalı bulut veri depolama mimarisine güvenle taşımaktır.
+
+Proje Kapsamı ve Uygulama Adımları:
+1. Veri Sınıflandırması ve Envanter Analizi: Şirket içi tüm dijital verilerin kritiklik derecelerine göre sınıflandırılması, aktif kullanılan veriler ile arşivlik pasif verilerin birbirinden ayrılması.
+2. Bulut Mimarisi Tasarımı ve Güvenlik Duvarı: Uluslararası ISO 27001 standartlarına uygun, uçtan uca şifrelemeli (AES-256) ve hibrit bulut depolama mimarisinin kurgulanması.
+3. Veri Taşıma ve Senkronizasyon Testleri: Yerel sunuculardaki verilerin bant genişliği kısıtlaması yaşanmadan, mesai saatleri dışında kademeli olarak bulut ortama aktarılması.
+4. Yetkilendirme ve Erişim Kontrolü: Departman bazlı erişim yetkilerinin tanımlanması ve İki Faktörlü Kimlik Doğrulama (2FA) entegrasyonunun tamamlanması.
+
+Beklenen Faydalar ve Bütçe Analizi:
+Projenin tamamlanmasıyla birlikte veri erişim hızları %40 artacak, fiziksel sunucu bakım, donanım yenileme ve iklimlendirme maliyetlerimiz yıllık bazda %50 oranında azalacaktır. Ayrıca herhangi bir donanım arızası veya doğal afet durumında veri kaybı riski tamamen ortadan kalkacaktır.
+
+Projenin toplam yatırım bütçesi 1.200.000 TL olarak belirlenmiş olup, yatırımın geri dönüş süresi (ROI) 18 ay olarak hesaplanmıştır.
+
+Proje Takvimi:
+- Faz 1 (Analiz ve Sınıflandırma): 1 Kasım - 20 Kasım (Sorumlu: Veri Yönetişim Ekibi)
+- Faz 2 (Bulut Kurulum ve Taşıma): 20 Kasım - 31 Aralık (Sorumlu: Sistem ve Ağ Ekibi)
+- Faz 3 (Test ve Canlıya Geçiş): 1 Ocak - 15 Ocak (Sorumlu: BT Proje Yöneticisi)
+
+Projemiz, şirketimizin dijital dönüşüm vizyonunun en kritik ve stratejik yapı taşlarından birini oluşturmaktadır.
+
+### | Ofis İçi Ortak Yaşam Kültürü ve Esnek Çalışma Düzeni
+lang: tr | cat: work | sub: workplace | tags: iş yeri, ofis, yaşam, kültür, esnek | level: 1
+---
+Değerli Çalışma Arkadaşlarım,
+
+Şirketimizin sürekli gelişen ve büyüyen organizasyon yapısında tüm çalışanlarımıza daha sağlıklı, huzurlu, samimi, verimli, ilham verici, düzenli ve konforlu bir çalışma ortamı sunabilmek amacıyla güncellenen Ofis İçi Ortak Yaşam İlkeleri ve Esnek Çalışma Düzeni kılavuzumuz bilgilerinize sunulmıştır. Birlikte çalıştığımız ortak mekânlarda karşılıklı saygıyı, iletişimi, güveni ve yüksek iş motivasyonunu korumak hepimizin ortak sorumluluğudur.
+
+Esnek Çalışma Düzeni ve Mesai Saatleri:
+Şirketimizde uygulanan hibrit ve esnek çalışma modeli kapsamında, çalışanlarımız haftanın belirli günlerinde yöneticilerinin bilgisi dahilinde evden (uzaktan) çalışma imkânına sahiptir. Müşteri toplantıları, proje lansmanları ve ortak beyin fırtınası oturumlarının olduğu günlerde ise ofiste fiziki katılım gösterilmesi büyük önem taşımaktadır. Ofis içi çalışma saatlerimiz 08.30 - 17.30 olarak belirlenmiş olup, esnek giriş-çıkış saatleri departman yöneticilerinin onayıyla düzenlenmektedir.
+
+Ortak Çalışma Alanları ve Odaklanma Odaları Kullanımı:
+1. Açık Ofis Düzeni ve Ses Seviyesi: Açık ofis alanlarında telefon görüşmeleri yaparken ve mesai arkadaşlarıyla konuşurken ses tonuna özen gösterilmeli, uzun süren kişisel veya teknik görüşmeler için katlarda bulunan özel telefon kulübeleri veya küçük toplantı odaları tercih edilmelidir.
+2. Toplantı Odası Rezervasyonları: Ortak toplantı odaları şirket içi portal üzerinden önceden rezerve edilmeli, toplantı sürelerine titizlikle uyulmalı ve toplantı bitiminde masa, tahta ve teknolojik ekipmanlar temiz bırakılmalıdır.
+3. Mutfak ve Dinlenme Alanı Kullanımı: Kat mutfaklarında bulunan kahve makineleri, mikrodalga fırınlar ve buzdolapları kişisel kullanım sonrası temiz tutulmalıdır. Buzdolabına konulan yiyecek kaplarının üzerine isim yazılması unutulmamalıdır.
+4. Çevre Temizliği ve Masa Düzeni: Mesai bitiminde çalışma masalarında gizli evrak ve yiyecek atığı bırakılmaması, geri dönüşüm kutularının doğru kullanılması gerekmektedir.
+
+Daha keyifli, konforlu, verimli, samimi ve saygılı bir çalışma atmosferini birlikte yaşatmak adına göstereceğiniz özen, hassasiyet ve iş birliği için tüm ekibimize içtenlikle teşekkür eder, başarılı, sağlıklı ve huzurlu çalışmalar dileriz.
+
+İdari İşler ve İnsan Kaynakları Yönetimi
+
+Kontrol Özeti:
+İstenen Sayı: 5
+Üretilen Sayı: 5

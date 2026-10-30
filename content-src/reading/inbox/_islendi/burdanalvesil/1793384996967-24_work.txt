@@ -1,0 +1,48 @@
+### | Kurumsal Veri Tabanı Mimarisi Ve Bulut Tabanlı Yazılım Altyapıları
+lang: tr | cat: work | sub: tech | tags: teknoloji, yazılım, veri tabanı, bulut, mimari | level: 2
+---
+
+## 1. Giriş Ve Modern Yazılım Mimarilerinde Veri Yönetiminin Önemi
+
+Modern iş dünyasında teknolojinin ivmeyle gelişmesi, dijital veri hacminin katlanarak artması ve kurumsal sistemlerin karmaşıklaşması, şirketlerin veri tabanı mimarilerini ve yazılım altyapılarını yeniden kurgulamalarını zorunlu kılmaktadır. Veri, günümüz kurumları için en kıymetli stratejik varlık ve pazardaki rekabet gücünü belirleyen temel unsur haline gelmiştir. Büyük veri kürelerinin işlenmesi, yüksek erişilebilirlik standartlarının sağlanması, veri güvenliğinin korunması, kesintisiz hizmet sunulması ve performans kayıplarının önlenmesi, yalnızca donanım kapasitesiyle değil, doğru tasarlanmış yazılım ve veri tabanı mimarileriyle mümkündür.
+
+İş süreçlerinin dijitalleştiği, uzaktan çalışma modellerinin yaygınlaştığı ve e-ticaret hacimlerinin büyüdüğü günümüzde, milisaniyelik veri gecikmeleri dahi ciddi finansal kayıplara, itibar zedelenmesine ve müşteri memnuniyetsizliğine yol açabilmektedir. Bu doğrultuda şirketimiz, mevcut veri tabanı altyapısını modernize ederek esnek, ölçeklenebilir, yüksek performanslı, sürdürülebilir, güvenli ve bulut yerel (Cloud-Native) bir yazılım mimarisine geçiş sürecini kararlılıkla başlatmıştır. İşbu teknik doküman, yeni veri tabanı mimarimizin temel ilkelerini, bulut entegrasyon protokollerini, güvenlik katmanlarını, felaket kurtarma senaryolarını, yedekleme standartlarını ve performans optimizasyon stratejilerini detaylıca ve açıklıkla sunmaktadır.
+
+## 2. İlişkisel Ve İlişkisel Olmayan (NoSQL) Veri Tabanı Hibrit Mimarisi
+
+Yazılım sistemlerimizin veri depolama gereksinimleri tek bir veri tabanı türüyle karşılanamayacak kadar çeşitlilik, esneklik ve karmaşıklık göstermektedir. Finansal işlemler, muhasebe kayıtları, sipariş yönetimi, envanter takibi, faturalandırma ve kullanıcı yetkilendirme gibi yüksek veri tutarlılığı (ACID) gerektiren kritik süreçlerde PostgreSQL ve MySQL tabanlı ilişkisel veri tabanları (RDBMS) tercih edilmektedir. İlişkisel yapımız, veri bütünlüğünü mükemmel seviyede korurken karmaşık relational sorguların son derece hızlı, verimli ve güvenle çalıştırılmasına olanak tanır.
+
+Diğer taraftan, anlık kullanıcı hareketleri, canlı sistem logları, esnek ürün katalogları, oturum yönetimi, mobil bildirimler ve yüksek hızlı önbellek (cache) gereksinimleri için MongoDB ve Redis gibi ilişkisel olmayan NoSQL veri tabanı çözümleri mimarimize entegre edilmiştir. Hibrit veri tabanı mimarimiz (Polyglot Persistence), her bir veri türünün kendi yapısına en uygun depolama motorunda işlenmesini ve arşivlenmesini sağlar. Bu sayede ana ilişkisel veri tabanlarımız üzerindeki okuma ve yazma yükü %60 oranında hafifletilerek sistemlerin genel yanıt süreleri optimize edilmekte ve uygulama performansı en üst seviyeye çıkarılmaktadır.
+
+## 3. Bulut Tabanlı Mikroservis Mimarisi Ve Konteyner Orkestrasyonu
+
+Geleneksel tek parça (Monolithic) yazılım mimarileri, şirketimizin hızlı büyüyen müşteri ağının ihtiyaçlarına, yüksek veri trafiğine ve esnek güncellenme gereksinimlerine zamanla yanıt veremez hale gelmiştir. Bu kısıtlamayı aşmak amacıyla, tüm kurumsal uygulamalarımız bağımsız çalışan mikroservis yapılarına dönüştürülmüştür. Her bir mikroservis; kendi iş mantığına, bağımsız veri tabanı dizinine, özel API arayüzüne, yüksek güvenlik katmanına ve esnek ölçeklenme kapasitesine sahip modüler bir birim olarak yeniden kurgulanmıştır.
+
+Mikroservislerin dağıtımı ve yönetimi Docker konteyner teknolojisi ve Kubernetes orkestrasyon platformu üzerinden sürdürülebilir bir disiplinle yürütülmektedir. Otomatik ölçeklenme (Auto-Scaling) kuralları sayesinde, sistem trafiğinin yoğunlaştığı kampanya dönemlerinde ilgili mikroservis konteynerleri saniyeler içinde kopyalanarak artan yükü başarıyla dengeler. Trafik normale döndüğünde ise fazla kaynaklar otomatik olarak serbest bırakılır. Bu esnek yapay zekâ destekli altyapı sayesinde sunucu donanım maliyetlerimizde %35 oranında somut bir tasarruf elde edilirken, sistem çökme ve hizmet dışı kalma riskleri tamamen ortadan kaldırılmıştır.
+
+## 4. Veri Güvenliği, Kriptolama Standartları Ve Uyum Protokolleri
+
+Kurumsal veri altyapımızın siber tehditlere, zararlı yazılımlara, yetkisiz erişimlere, veri sızıntılarına ve dış müdahalelere karşı korunması şirketimizin en temel birincil önceliğidir. Tüm veri tabanlarımız ve depolama ünitelerimiz hem iletim esnasında (In-Transit) hem de durağan halde (At-Rest) uluslararası AES-256 ve TLS 1.3 şifreleme standartlarıyla tam koruma altına alınmıştır. Hassas müşteri bilgileri, finansal kayıtlar, sözleşme detayları, e-posta adresleri ve kimlik verileri veri tabanına yazılmadan önce dinamik olarak maskelenmekte ve şifreli kolonlarda son derece emniyetle saklanmaktadır.
+
+Veri erişim yetkileri 'En Az Yetki İlkesi' (Principle of Least Privilege) ve Rol Tabanlı Erişim Kontrolü (RBAC) çerçevesinde kısıtlanmıştır. Veri tabanı yöneticileri ve yazılım geliştiriciler dâhil tüm kullanıcıların sistem erişimlerinde İki Faktörlü Kimlik Doğrulama (2FA) kullanımı tamamen zorunlu kılınmıştır. Kişisel Verilerin Korunması Kanunu (KVKK) ve uluslararası veri güvenliği standartlarına (ISO 27001) tam uyum sağlanmış olup, tüm veri tabanı sorguları, yetki değişiklikleri ve dosya aktarımları merkezi SIEM sistemimiz üzerinden anlık olarak denetlenmekte ve izole log sunucularında kayıt altına alınmaktadır.
+
+## 5. Otomatik Yedekleme, Felaket Kurtarma Ve Yüksek Erişilebilirlik
+
+Veri kaybı riskini sıfıra indirmek, veri bütünlüğünü korumak, siber tehditleri engellemek ve beklenmedik sistem arızalarında hizmet devamlılığını sağlamak amacıyla multi-region felaket kurtarma (Disaster Recovery) mimarisi kurulmuştur. Ana veri tabanlarımız farklı coğrafi bölgelerde bulunan iki bağımsız bulut veri merkezinde senkron ve asenkron kopyalama (Replication) yöntemleriyle eşzamanlı olarak yedeklenmektedir.
+
+Otomatik artımlı (Incremental) yedekleme prosedürlerimiz her saat başı kesintisiz çalışmakta, tam sistem yedekleri ise her gece izole bulut depolama alanlarına şifreli olarak aktarılmaktadır. Olası bir donanım arızası, siber saldırı veya veri merkezi kesintisi durumunda, otomatik anahtarlama (Failover) mekanizmaları 30 saniye içinde devreye girerek yedek veri tabanını aktif konuma getirir. Bu sayede 'Sıfır Veri Kaybı' (RPO=0) ve minimum kesinti süresi (RTO<1 dk) hedeflerimiz başarıyla yakalanmış ve kurumsal iş sürekliliğimiz güvence altına alınmıştır.
+
+## 6. Performans Optimizasyonu, İndeksleme Ve İzleme Mekanizmaları
+
+Yazılım altyapımızın yüksek hızda, güvenle ve kesintisiz çalışmasını sürdürmek adına sürekli performans izleme, yük testleri, güvenlik taramaları ve veritabanı optimizasyonu çalışmaları yürütülmektedir. Veri tabanı sorgularının çalışma süreleri mantıksal indeksleme stratejileri, sorgu planı analizleri ve önbellekleme (Caching) katmanları ile sürekli olarak iyileştirilmektedir. Yavaş çalışan sorgular (Slow Queries) yapay zekâ destekli analiz araçlarıyla anında tespit edilerek kod seviyesinde yeniden yapılandırılmaktadır.
+
+Sistemlerimizin anlık sağlık durumları, işlemci ve bellek kullanımları, saniye başına düşen sorgu sayıları (QPS) Prometheus ve Grafana panelleri üzerinden 7/24 esasıyla canlı izlenmektedir. Belirlenen kritik eşik değerler aşıldığında veya sıra dışı bir veri trafiği algılandığında nöbetçi sistem mühendislerimize anlık SMS ve e-posta uyarıları gönderilmektedir. Bu proaktif izleme yaklaşımı, sorunların kullanıcılara yansımadan önce kaynağında tespit edilerek hızlıca çözülmesini sağlamaktadır.
+
+## 7. Sonuç Ve Geleceğin Yazılım Altyapısına Uyum Stratejisi
+
+Sonuç olarak, şirketimizin faaliyete geçirdiği yeni nesil veri tabanı mimarisi ve bulut tabanlı yazılım altyapısı, kurumsal dijitalleşme vizyonumuzun en güçlü ve güvenilir taşıyıcı sütununu oluşturmaktadır. Esnek, ölçeklenebilir, yüksek güvenlikli, hızlı ve sürdürülebilir bu altyapı sayesinde şirketimiz, gelecekteki büyüyme hedeflerini ve yeni pazar gereksinimlerini sorunsuz bir şekilde karşılayabilecek yüksek bir teknolojik olgunluğa ulaşmıştır.
+
+Yazılım geliştirme ekiplerimiz, veri analistlerimiz, siber güvenlik uzmanlarımız, test mühendislerimiz ve sistem mimarlarımız yeni altyapının sunduğu gelişmiş imkânlardan faydalanarak müşteri odaklı yenilikçi projeler geliştirmeye kararlılıkla devam edecektir. Sürekli iyileştirme ve teknoloji yenileme felsefemiz doğrultusunda, yazılım altyapımızı yeni nesil yapay zekâ, makine öğrenmesi ve büyük veri işleme teknolojileriyle zenginleştirmeyi sürdüreceğiz. Emeği geçen tüm bilişim ekibimize, sistem analistlerimize, yazılım mimarlarımıza ve desteklerini esirgemeyen birim yöneticilerimize içtenlikle teşekkür ederiz.
+
+Kontrol Özeti:
+1035

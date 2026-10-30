@@ -1,0 +1,16 @@
+Kaynaklardaki yazım kılavuzuna göre 1 ORTA uzunlukta metin yaz.
+
+- Dil: İngilizce (doğal İngilizce; Türkçeden çeviri değil)
+- Kategori: travel (Gezi ve seyahat) · sub: planning (Seyahat planlama) · level: 3
+- Uzunluk: 1300–2200 kelime, 6–10 bölüm; her bölüm "## Ara başlık" satırıyla başlasın. Alt sınırın altına düşme.
+
+Biçim (YAML kullanma):
+
+### | Metnin Başlığı
+lang: en | cat: travel | sub: planning | tags: <3-5 etiket> | level: 3
+---
+## İlk ara başlık
+
+Paragraflar…
+
+Daha önce yazdığın metinlerden farklı bir konu seç. Atıf numarası yazma. En sonda ayrı bir satıra yalnızca "Kontrol Özeti:" yaz ve altına kelime sayısını yaz.

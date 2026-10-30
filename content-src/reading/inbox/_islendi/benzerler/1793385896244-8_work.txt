@@ -1,0 +1,67 @@
+### | Kurumsal Sosyal Medya Hizmet Cihazları Kullanım Talimatnamesi
+lang: tr | cat: work | sub: instructions | level: 1 | tags: talimat, sosyal medya, güvenlik, şirket, kural
+---
+Amaç ve Kapsam:
+Bu talimatname, şirketimiz bünyesinde görev yapan tüm personelin kurumsal sosyal medya hesaplarını yönetirken, kurumsal içerik paylaşımları yaparken, dijital kanallarda iletişim kurarken ve kendilerine tahsis edilen mobil cihazları kullanırken uymakla yükümlü olduğu temel kuralları, güvenlik prosedürlerini, etik ilkeleri, kurumsal sorumlulukları ve yayın standartlarını belirlemek amacıyla hazırlanmıştır. Kurumsal imajımızın, marka itibarımızın, ticari sırlarımızın ve veri güvenliğimizin korunması adına tüm çalışanların bu talimatnameye eksiksiz, zamanında, eksiksiz ve büyük bir hassasiyetle uyması zorunludur.
+
+1. Kurumsal İçerik Paylaşım ve İletişim İlkeleri:
+- Şirketimizin resmi sosyal medya hesaplarında yapılacak tüm paylaşımlar, Kurumsal İletişim Departmanı tarafından onaylanmış metinler, görsel materyaller ve video içerikleri doğrultusunda gerçekleştirilmelidir.
+- Yetkisiz personel tarafından şirket adına resmi açıklama yapılması, onaylanmamış duyuruların paylaşılması veya ticari sır niteliğindeki iç bilgilerin yayınlanması kesinlikle yasaktır.
+- Paylaşımlarda ve müşteri yorumlarına verilen yanıtlarda kullanılan dil her zaman profesyonel, saygılı, tarafsız, doğru, net ve kurumsal üsluba tamamen uygun olmalıdır.
+
+2. Cihaz Güvenliği ve Erişim Hakları Yönetimi:
+- Kurumsal sosyal medya hesaplarının tanımlı olduğu cep telefonları, tabletler ve bilgisayarlar üçüncü şahısların kullanımına hiçbir koşulda verilmemelidir.
+- Cihazlarda biyometrik kilit veya güçlü şifre kullanımı zorunlu olup, tüm uygulama girişlerinde İki Faktörlü Kimlik Doğrulama (2FA) her zaman aktif tutulmalıdır.
+- Halka açık, şifresiz kablosuz ağlar (Wi-Fi) üzerinden kurumsal sosyal medya yönetim panellerine doğrudan giriş yapılması siber güvenlik riskleri sebebiyle tamamen ve kesinlikle yasaklanmıştır.
+
+3. Kriz Yönetimi, Denetim ve İhlal Bildirimi:
+- Sosyal medya hesaplarında şüpheli bir hareket, yetkisiz erişim veya siber tehdit fark edildiğinde derhal Bilgi Teknolojileri ve Siber Güvenlik Birimine bildirim yapılmalıdır.
+- Şirket hakkında olumsuz bir kampanya başlatıldığında personel bireysel yanıt vermekten kaçınmalı ve konuyu Kurumsal İletişim ekibine iletmelidir. Bu talimatnameye aykırı hareket eden personel hakkında Disiplin Yönetmeliği hükümleri doğrultusunda gerekli idari işlemler uygulanacaktır.
+
+Kurumsal itibarımızı koruma, siber tehditleri engelleme ve bilgi güvenliğini sağlama hususunda göstereceğiniz özen ve hassasiyet için teşekkür ederiz.
+
+İdari İşler ve Kurumsal İletişim Yönetimi
+
+### | Özel Teknik Servis Gecikmesi Bilgilendirme ve Özür Mektubu
+lang: tr | cat: work | sub: customer | level: 2 | tags: müşteri, iletişim, servis, özür, bilgilendirme
+---
+Sayın Ahmet Şahin,
+
+Şirketimizden 19 Ekim 2026 tarihinde satın almış olduğunuz sanayi tipi üretim tezgahının yetkili servis kurulumu, teknik montajı ve performans test süreçleriyle ilgili tarafımıza iletmiş olduğunuz haklı şikâyet başvurusu ve bilgilendirme talebi Müşteri İlişkileri Departmanımız tarafından büyük bir dikkat, hassasiyet, ciddiyet, özen ve titizlikle detaylıca incelemeye alınmıştır.
+
+Öncelikle, cihazınızın teknik servis montaj ekibimiz tarafından belirlenen randevu saatinde kurulamaması ve yaşanan iletişim aksaklığı sebebiyle işletmenizde meydana gelen dönemsel üretim kaybı ve mağduriyetten ötürü şirketimiz adına sizden ve ekibinizden içtenlikle ve yürekten özür dileriz. Müşterilerimize yüksek standartlarda, hızlı, güvenilir, kesintisiz, sorunsuz, şeffaf ve kaliteli hizmet sunmak en temel kurumsal önceliğimiz ve vazgeçilmez varlık ilkemizdir.
+
+Gerçekleştirilen iç inceleme sonucunda, teknik servis ekibimizin intikal güzergahında meydana gelen beklenmedik araç arızası ve bölgesel trafik yoğunluğu sebebiyle randevu saatinize gecikme yaşandığı tespit edilmiştir. Yaşanan bu iletişim kopukluğuyla ilgili sorumlu birimler uyarılmış ve benzer aksaklıkların tekrar etmemesi adına teknik servis takip sistemimizde ve müşteri bilgilendirme süreçlerimizde gerekli düzeltici ve önleyici tedbirler derhal ve kararlılıkla alınmıştır.
+
+Yaşadığınız mağduriyeti telafi etmek ve cihazınızdan maksimum verimi almanızı sağlamak amacıyla şirketimiz tarafından şu adımlar atılmıştır:
+1. Ürününüzün yetkili servis kurulumu ve tüm teknik performans testleri başteknisyenimiz yönetiminde bugün itibarıyla eksiksiz ve ücretsiz olarak tamamlanmıştır.
+2. Cihazınızın standart 2 yıllık garanti süresi, şirketimizin ikramı olarak hiçbir ekstra ücret alınmaksızın 1 yıl süreyle uzatılarak toplam 3 yıla çıkarılmıştır.
+3. Önümüzdeki 12 ay boyunca cihazınızın periyodik ilk iki teknik bakımı şirketimiz tarafından tamamen ücretsiz, kapsamlı ve öncelikli olarak gerçekleştirilecektir.
+4. Tesisinizdeki diğer cihazların genel kontrolü için uzman mühendisimiz önümüzdeki hafta özel bir inceleme ve bakım ziyareti gerçekleştirecektir.
+
+Müşteri memnuniyetini her şeyin üzerinde tutan kurumsal anlayışımızla, sizlere hizmet vermekten büyük onur duyuyoruz. Süreçle ilgili sorularınız için müşteri hizmetlerimize dilediğiniz zaman kolayca ulaşabilirsiniz.
+
+Anlayışınız, sabrınız, değerli iş birliğiniz, güveniniz ve desteğiniz için teşekkür ederiz.
+
+Saygılarımla,
+Elif Arslan
+Müşteri İlişkileri Yöneticisi
+Lider Endüstriyel Sistemler A.Ş.
+
+### | Derin Öğrenme Tabanlı Biyomedikal Görüntü Analiz Platformu
+lang: tr | cat: work | sub: tech | level: 3 | tags: teknoloji, yazılım, biyomedikal, yapay zekâ, analiz
+---
+Giriş ve Mimari Tasarım:
+Sağlık teknolojilerinde yapay zekâ, evrişimli sinir ağları ve derin öğrenme algoritmalarının kullanımı, teşhis süreçlerinin hızlandırılması, erken tanı başarısının artırılması, hasta bakımı standartlarının yükseltilmesi ve klinik karar destek sistemlerinin güçlendirilmesi açısından devrim niteliğinde bir dönüşüm sağlamaktadır. Bu teknik doküman, tıp fakülteleri, araştırma hastaneleri, tanı laboratuvarları ve radyoloji merkezleri için geliştirdiğimiz Derin Öğrenme Tabanlı Biyomedikal Görüntü Analiz Platformunun yazılım mimarisini, evrişimli sinir ağı (CNN) algoritmalarını, klinik doğrulama süreçlerini ve veri güvenliği protokollerini detaylıca açıklamaktadır.
+
+1. Görüntü İşleme ve Derin Öğrenme Mimarisi:
+Platformumuz; manyetik rezonans (MR), bilgisayarlı tomografi (BT) ve dijital röntgen görüntülerindeki mikro doku lezyonlarını saniyeler içinde yüksek hassasiyetle tespit eden evrişimli derin sinir ağı modelleri (Convolutional Neural Networks) üzerine kurgulanmıştır. Tıbbi görüntüler sisteme aktarıldığında ilk olarak gürültü azaltma, kontrast dengeleme, kenar belirginleştirme ve veri normalleştirme aşamalarından geçer. Eğitilmiş yapay zekâ modellerimiz, lezyon sınırlarını mikron düzeyinde segmentlere ayırarak radyoloji uzmanlarına otomatik ön değerlendirme raporu sunar.
+
+2. Veri Gizliliği, Siber Güvenlik ve DICOM Standartları:
+Tıbbi görüntü verilerinin işlenmesinde, aktarılmasında ve saklanmasında uluslararası DICOM ve PACS standartlarına tam uyum sağlanmıştır. Hasta mahremiyetini korumak amacıyla tüm kişisel kimlik verileri (Anonymization) görüntü dosyalarından otomatik olarak temizlenmekte ve veriler AES-256 şifreleme protokolü ile bulut sunucularda son derece güvenle saklanmaktadır.
+
+3. Klinik Entegrasyon ve Karar Destek Arayüzü:
+Platform, hastane bilgi yönetim sistemleriyle (HBYS) çift yönlü API entegrasyonuna sahiptir. Radyologlar, web tabanlı sezgisel arayüz üzerinden yapay zekâ tahminlemelerini anlık olarak inceleyebilir, ısı haritaları (Heatmap) üzerinden lezyon yoğunluklarını ve doku değişimlerini detaylıca analiz edebilirler.
+
+4. Sürekli Model Eğitimi, Doğrulama ve Klinik Performans Metrikleri:
+Sistem, yeni klinik verilerle kendini sürekli eğiten esnek, ölçeklenebilir ve dinamik bir altyapıya sahiptir. Yapılan geniş kapsamlı klinik testlerde teşhis doğruluk oranı %96,8 olarak ölçülmüş olup, uzman hekimlerin görüntü inceleme süreleri %60 oranında belirgin şekilde kısalmıştır. Bu teknolojik platform, erken tanı, doğru müdahale, zaman tasarrufu ve tedavi planlamasında hekimlerimize güçlü bir bilimsel destek sunmaktadır.

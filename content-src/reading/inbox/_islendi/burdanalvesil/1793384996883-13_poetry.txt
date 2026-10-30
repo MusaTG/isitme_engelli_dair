@@ -1,0 +1,64 @@
+### | Sevginin Ve Işığın Şarkısı
+lang: tr | cat: poetry | sub: poem | kind: poem | tags: şiir, sevgi, ışık, bahar, neşe | level: 1
+---
+Işıklar süzülür taze sabahın bağrından,
+Kuşlar şakır yeşil ağaç dallarında neşeyle.
+Umut dolup taşar kırılgan yüreğimizden,
+Gülümser yeryüzü doğan güne sevgiyle.
+
+Rüzgâr fısıldar taze bahar müjdesini,
+Çiçekler açar mavi dağ yamaçlarında.
+Serin dereler akar coşkuyla vadilerden,
+Huzur birikir neşeli çocuk çığlıklarında.
+
+Yollar uzanır aydınlık ve güzel ufuklara,
+Toprak kucaklar gelen taze ve neşeli günü.
+Gece teslim eder yerini aydınlık ışığa,
+Mutluluk sarar bütün dünyayı ve evreni.
+
+Adımlar atılır heyecanla yarınlara doğru,
+Gözlerde parıldar tatlı ve güzel bir iz.
+Her yeni gün taze bir başlangıçtır bize,
+Coşkuyla uyanır masmavi berrak deniz.
+
+Güneş ısıtır kırların o neşeli yüzünü,
+Sessizce söylenir doğanın tatlı türküleri.
+Tazelenir içimizde yaşamanın derin gücü,
+Sevgiyle selamlarız doğan taze sabahı.
+
+Aydınlık günün muştusu okunur her gözde,
+Umutla bakarız geleceğin aydınlık izine.
+Yıldızlar selamlar doğan taze ve güzel günü,
+Huzur dolar insanın kırılgan ve hassas ruhuna.
+
+### | Eski Marangozun Ahşap Sehpa Atölyesi
+lang: tr | cat: poetry | sub: prose | tags: düzyazı, marangoz, ahşap, zanaat, emek | level: 2
+---
+Tarihi kasabanın kıyısındaki küçük ahşap atölyesinde Marangoz Kerim Usta, yarım asırlık emektar tezgahının başında bir ceviz ağacı sehpayı incelikle işliyordu. Atölyenin kapısından sokağa yayılan taze çam ve meşe talaşı kokusu, geçen yolculara zanaatın ve emeğin o hürmet dolu sıcaklığını hissettirirdi. Yaşlı marangoz, elindeki keski ve zımparayla ağacın damarlarını takip ederken, her dokunuşunda cansız odun parçasına adeta yeniden hayat veriyordu. Atölye duvarında asılı duran paslı testereler, rendeler ve ahşap oymacılık aletleri, usta bir zanaatkârın yıllar süren alın terini ve meslek aşkını sessizce sergiliyordu.
+
+Ahşap rendelenirken yere dökülen sarı talaşlar, zemini yumuşak bir halı gibi kaplamıştı. Kerim Usta için ağaç sadece bir hammadde değil, şekil verilmeyi bekleyen canlı bir ruhtu. Ağacın doğal dokusuna saygı duyarak yapılan her kesim, nesiller boyu sevgiyle kullanılacak sağlam ve estetik bir esere dönüşürdü. Atölyedeki eski radyo alaturka şarkılar çalarken, dışarıdaki dağ rüzgârı ahşap kokulu bu sıcak mekanı neşeyle selamlardı.
+
+### | Sarp Vadideki Taş Köprü Ve Şelale
+lang: tr | cat: poetry | sub: description | tags: betimleme, vadi, taş köprü, şelale, doğa | level: 3
+---
+Dik kaya duvarlarının arasında gizlenmiş sarp vadide, gürültüyle köpürerek akan şelale ve iki yamaç arasına kurulmuş tarihi taş köprü büyüleyici bir görsel heybet sunuyordu. Şelaleden dökülen coşkun suların kayalara çarpmasıyla havaya saçılan minik su damlacıkları, güneş ışınlarının açısıyla gökkuşağının tüm renklerini vadinin üzerine düşürüyordu. Köprünün aşınmış kesme taşları üzerinde boy veren yeşil yosunlar ve yabani sarmaşıklar, yapının zamana karşı direnen anıtsal gövdesine mistik bir estetik kazandırmaktaydı.
+
+Vadinin nemli havasını kaplayan taze reçine, yaban nanesi ve toprak kokusu, buraya gelen ziyaretçilerin ruhunu ferahlatıcı bir dinginlikle dolduruyordu. Köprünün kavisli kemeri altından süzülerek geçen buz gibi derede yüzen alabalıklar, suyun berraklığında gümüş pırıltılar saçarak hızla gözden kayboluyordu. Vadideki kayın ve gürgen ağaçlarının rüzgârda salınan dalları, suyun ritmik gürültüsüne tatlı bir fısıltıyla eşlik ediyordu. Bu el değmemiş doğa harikası, vakur duruşuyla zamansız bir masal diyarını andırmaktaydı.
+
+### | Baharda Çam Ormanı Ve Çiğ Taneleri
+lang: tr | cat: poetry | sub: nature | tags: doğa, orman, bahar, çam, çeşme | level: 2
+---
+Ulu dağların eteklerinde uzanan sık çam ormanı, ilkbaharın gelişiyle birlikte taze ve canlı bir uyanışa ev sahipliği yapıyordu. Erken sabah saatlerinde çam iğneleri ve meşe yaprakları üzerinde biriken şeffaf çiğ taneleri, yükselen güneş ışıklarıyla birlikte elmas gibi pırıl pırıl parıldıyordu. Ormanın ortasındaki tarihi taş çeşmeden gürül gürül akan buz gibi pınar suyu, tahta yalağa dökülürken etrafa ferahlatıcı bir soğukluk ve tatlı bir su sesi yayıyordu.
+
+Hafif esen dağ rüzgârı, çam reçinesinin keskin kokusunu ve mor menekşelerin aromatik rayihasını orman boyunca dağıtmaktaydı. Ağaç dallarında cıvıldaşan kır kuşlarının şarkıları, doğanın bu taze uyanışını coşkuyla selamlıyordu. Yosun kaplı patikalarda yürürken toprağın sunduğu taze yaşam enerjisi, doğanın bağrında huzur arayan yolculara tükenmez bir ferahlık bahşediyordu. Ormandaki bu masalsı ve dingin atmosfer, baharın gelişini kutlayan eşsiz bir cennet köşesi gibiydi.
+
+### | İçsel Huzur Ve Gönül Ferahlığı
+lang: tr | cat: poetry | sub: feeling | tags: duygu, huzur, ferahlık, şükran, sevgi | level: 1
+---
+Bazen insanın iç dünyasına aniden çöken ılık ve katıksız bir huzur duygusu, ruhu taze bir ışık gibi çepeçevre sarar. Günlük koşuşturmacaların, kaygıların ve zihni yoran karmaşaların ötesinde beliren bu gönül ferahlığı, var olmanın ne kadar kıymetli bir armağan olduğunu insana hissettirir. Bir akşamüstü penceremizden içeri giren hafif esintiyi hissetmek ya da sevdiklerimizin içten tebessümüne şahit olmak, kalbimizi taze bir sevinç ve minnet dalgasıyla doldurmaya yeterlidir.
+
+İçsel huzur, hayatın tüm fırtınalarına ve belirsizliklerine rağmen kendi merkezimizde dengede durabilme olgunluğudur. Yürekteki eski kırgınlıklar ve keşkeler eriyip gittiğinde, geriye yalnız berrak bir farkındalık ve tükenmeyen bir insan sevgisi kalır. Kalbimizde yeşeren bu sessiz ve derin dinginlik, geleceğe çok daha güvenle, umutla ve güleryüzle bakmamıza imkan tanır. İnsan kendi iç dünyasıyla barıştığında, yaşamın her anı derin bir anlam ve güzellik kazanır.
+
+Kontrol Özeti:
+İstenen Sayı: 5
+Üretilen Sayı: 5

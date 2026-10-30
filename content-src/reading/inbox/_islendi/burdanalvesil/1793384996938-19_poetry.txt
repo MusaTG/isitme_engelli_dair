@@ -1,0 +1,55 @@
+### | Yıldızlı Gecenin Mavi Masalı
+lang: tr | cat: poetry | sub: poem | kind: poem | tags: şiir, gece, deniz, rüzgâr, umut | level: 3
+---
+Işıklar süzülür gece maviliğinin bağrından,
+Yıldızlar parıldar karanlık denizin üstünde.
+Rüzgâr fısıldar eski bir masalı yalnızlığıma,
+Bir kuş kanat çırpar ufkun serin derinliğinde.
+
+Sessizlik büyür her saniye yüreğin kıyısında,
+Dalgalar vurur sakince ıslak kayalıklara.
+Uzaklardan gelir bir derenin şırıltılı sesi,
+Umut birikir taze sabahın aydınlık şafağına.
+
+Zaman akar gider sonsuzluğun derin kucağında,
+Gecenin karanlığı teslim eder yerini ışığa.
+Sussam da konuşur duygular kalbimin derininde,
+Huzur dolar ruhuma maviliklerin bağrında.
+
+Işıklar süzülür pencerelerden sakince ve teker teker,
+Sessizce silinir geçmişin tüm acı kederleri.
+Aydınlık bir gülüşle başlar yeniden hayat ve kader,
+Sevgiyle selamlarız doğan yeni günü ve yarınları.
+
+Maviliklerde kaybolur dünün tüm acı kederleri,
+Umutla uyanır yeryüzü taze sabahın bağrında.
+
+Derin bir sükûnet sarar gecenin gizemli koynunu,
+Her adımda birikir toprağın ve göğün kadim sesi.
+Aydınlık günlerin coşkusu kaplar ruhumuzu,
+Tazelenir içimizde yaşamın o ilahi tatlı nefesi.
+
+### | Sahaf Çırağının Eski Defteri
+lang: tr | cat: poetry | sub: prose | tags: düzyazı, sahaf, çırak, defter, zaman | level: 2
+---
+Tarihi çarşının arka sokağında yer alan küçük sahaf dükkânında çırak Murat, yaşlı ustasının yanında kitapların büyülü dünyasını keşfediyordu. Tezgahın üzerine serilmiş sararmış sayfalar, deri ciltler ve tutkal kokusu, dükkânın ahşap duvarlarına geçmiş zamanların hürmet dolu ve gizemli atmosferini katıyordu. Murat, ince fırçasıyla asırlık bir kitabın tozunu alırken, yaprakların arasında saklanan eski el yazısı notları ve kurutulmuş kır çiçeklerini merakla inceliyordu.
+
+Yaşlı usta, gözlüğünün üstünden çırağına bakarken, kitapların sadece kâğıttan ibaret olmadığını, her birinin insan ruhundan izler taşıyan canlı birer hafıza kutusu olduğunu tebessümle anlatırdı. Çarşıdan yükselen taze çay kokusu ve dükkândaki ahşap kokusu birleşerek insanı sakinleştiren huzurlu bir hava yaratıyordu. Murat için bu küçük dükkân, geçmiş zaman hikâyelerinin, sabrın ve zanaat sevgisinin harmanlandığı köklü bir okul haline gelmişti. Onarılan her kitap geleceğe uzanan bir köprüydü.
+
+### | Kıyı Kasabasındaki Ahşap İskele
+lang: tr | cat: poetry | sub: description | tags: betimleme, iskele, deniz, kasaba, ikindi | level: 1
+---
+Şirin kıyı kasabasının ucunda yer alan eski ahşap iskele, ikindi vakti denizden süzülen ılık esinti eşliğinde sakin bir huzura bürünmüştü. İskelenin yosun tutmuş ahşap kazıklarına bağlı duran renkli balıkçı tekneleri, kıyıya vuran hafif dalgalarla ritmik bir şekilde beşik gibi sallanıyordu. İskelenin başındaki ahşap banklarda oturan emektar denizciler, demli çaylarını yudumlarken körfeze doğru açılan martıları tebessümle izliyorlardı.
+
+Güneşin turuncu ışıkları deniz yüzeyinde altın pırıltılar düşürürken, kasabanın beyaz badanalı evlerinden yükselen taze ekmek ve iyot kokusu etrafa yayılmaktaydı. İskelenin taş basamaklarında oynayan çocuklar, berrak suda süzülen minik balıkları neşeyle seyrediyorlardı. Bu huzurlu deniz kasabası, sakinliğiyle tüm ziyaretçilerine masalsı bir dinginlik ve ferahlık sunmaktaydı. Denizin ritmik şırıltısı, günün yorgunluğunu unutturan dinlendirici bir atmosfer yaratıyordu. Taş sokaklardan geçen yolcular, bu güzel manzaranın tadını tebessümle çıkarıyordu.
+
+### | Baharda Ihlamur Korusu
+lang: tr | cat: poetry | sub: nature | tags: doğa, koru, ıhlamur, bahar, rüzgâr | level: 2
+---
+Vadi yamaçlarında uzanan asırlık ıhlamur korusu, baharın gelişiyle birlikte büyüleyici bir koku ve canlılıkla dolup taşmıştı. Yeşil yaprakların arasından süzülen ılık güneş ışınları, nemli orman tabanındaki taze çimlerin ve sarı kır çiçeklerinin üzerinde elmas gibi parıldıyordu. Korunun ortasından sakince akan küçük dağ deresinin berrak suları, pürüzsüz taşların üzerinden aşarak etrafa tatlı bir su sesi yayıyordu.
+
+Ihlamur çiçeklerinden yükselen aromatik ve tatlı koku, hafif rüzgârla birlikte tüm vadiye yayılarak insanı tazeleyen bir ferahlık bahşetmekteydi. Ağaç dallarında cıvıldaşan bülbüller ve arıların neşeli vızıltıları, doğanın uyanışını müjdeleyen huzurlu bir senfoni oluşturuyordu. Koruda yürüyüşe çıkan insanlar, ıhlamur kokulu bu serin gölgelikte doğanın sunduğu dinginliği ve yaşama sevincini iliklerine kadar hissetmekteydi. Doğanın bu büyüleyici uyanışı zihne tükenmez bir huzur veriyor, ruhu taze bir yaşam enerjisiyle dolduruyordu.
+
+Kontrol Özeti:
+İstenen Sayı: 4
+Üretilen Sayı: 4

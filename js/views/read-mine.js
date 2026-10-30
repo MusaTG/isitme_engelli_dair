@@ -1,11 +1,12 @@
 // Kendi metinlerim: ekle, düzenle (sürümlü), arşivle, sil; okuma paketi içe/dışa aktar.
 import { t } from '../i18n.js';
-import { esc, icon, helpLink, toast, toastAction, download } from '../ui.js';
+import { esc, icon, helpLink, toast, toastAction, download, confirmAsk } from '../ui.js';
 import { saveUserText, wordsOf } from '../reading/state.js';
 import { userMeta } from '../reading/data.js';
 import { shingles, jaccard, fnv, packFromSource } from '../reading/core.js';
 import { rctx, readNav, fmtMin, fmtNum, dateLabel } from './read-common.js';
 import { proposeToLibrary } from './read-ai.js';
+import { openImportDialog, pasteDialog } from './read-import.js';
 import { loadGhConfig, ghReady } from '../reading/github.js';
 
 const MIN_WORDS = 20;
@@ -38,11 +39,11 @@ export async function readMineView(root, ctx, params) {
   root.innerHTML = `<div class="page-head"><div><h1 tabindex="-1">${t('rd.mineTitle')}</h1><p class="muted">${t('rd.mineIntro')}</p></div>${helpLink('reading', t('guide.helpHere'))}</div>
     ${readNav('#/read/mine')}
     <div class="actions"><a class="btn primary" href="#/read/mine/new">${icon('plus')}${t('rd.newText')}</a><a class="btn secondary" href="#/read/ai">${icon('spark')}${t('rd.ai.ctaTitle')}</a>
-      <label class="btn secondary file-btn">${icon('download')}${t('rd.importPack')}<input type="file" id="pack" accept="application/json,.json,.txt,.md,text/plain,text/markdown"></label>
+      <label class="btn secondary file-btn">${icon('download')}${t('rd.importPack')}<input type="file" id="pack" multiple accept=".json,.txt,.md,.csv,application/json,text/plain,text/markdown,text/csv"></label><button type="button" class="btn secondary" data-act="paste">${icon('pencil')}${t('rd.imp.pasteBtn')}</button>
       ${R.userTexts.length ? `<button class="btn ghost" data-act="export">${t('rd.exportPack')}</button>` : ''}</div>
     <p class="hint">${t('rd.packHint')}</p>
     <p class="hint">${t('rd.mineStoreHint')}</p>
-    <div class="tabbar" role="tablist"><a class="tab${tab === 'active' ? ' on' : ''}" href="#/read/mine" role="tab" aria-selected="${tab === 'active'}">${t('rd.mine.active')} <span class="count">${R.userTexts.filter((u) => !u.archived).length}</span></a><a class="tab${tab === 'archived' ? ' on' : ''}" href="#/read/mine?tab=archived" role="tab" aria-selected="${tab === 'archived'}">${t('rd.mine.archived')} <span class="count">${R.userTexts.filter((u) => u.archived).length}</span></a></div>
+    <div class="tabbar" role="group"><a class="tab${tab === 'active' ? ' on' : ''}" href="#/read/mine"${(tab === 'active') ? ' aria-current="page"' : ''}>${t('rd.mine.active')} <span class="count">${R.userTexts.filter((u) => !u.archived).length}</span></a><a class="tab${tab === 'archived' ? ' on' : ''}" href="#/read/mine?tab=archived"${(tab === 'archived') ? ' aria-current="page"' : ''}>${t('rd.mine.archived')} <span class="count">${R.userTexts.filter((u) => u.archived).length}</span></a></div>
     ${list.length ? `<ul class="marks-list">${list.map((u) => { const m = userMeta(u); return `<li class="mark-item">
       <p class="small muted">${u.ai ? `<span class="rbadge">${icon('spark')}${t('rd.ai.badge')}</span> ` : ''}${esc(t(`lang.${m.lang}`))} · ${esc(rc.catName(m.cat))} · ${esc(t('rd.versionN', { n: m.version }))} · ${esc(dateLabel(u.updatedAt))}</p>
       <h2 class="h4">${esc(m.title)}</h2>
@@ -65,8 +66,8 @@ export async function readMineView(root, ctx, params) {
     toast(t(u.archived ? 'rd.archived' : 'rd.unarchived'));
     ctx.rerender();
   }));
-  root.querySelectorAll('[data-del]').forEach((b) => b.addEventListener('click', () => {
-    if (!window.confirm(t('rd.deleteTextConfirm'))) return;
+  root.querySelectorAll('[data-del]').forEach((b) => b.addEventListener('click', async () => {
+    if (!await confirmAsk(t('rd.deleteTextConfirm'))) return;
     const i = R.userTexts.findIndex((x) => x.id === b.dataset.del);
     const [removed] = R.userTexts.splice(i, 1);
     ctx.store.save();
@@ -82,33 +83,11 @@ export async function readMineView(root, ctx, params) {
     }
   });
   root.querySelector('#pack').addEventListener('change', async (e) => {
-    const file = e.target.files?.[0];
-    if (!file) return;
-    try {
-      const raw = await file.text();
-      const packs = /^\s*[[{]/.test(raw) ? [JSON.parse(raw)] : packFromSource(raw, { lang: rc.lang, license: t('rd.importedLicense') });
-      if (!packs.length) throw new Error('empty');
-      const existing = new Set(R.userTexts.map((u) => fnv(`${u.title}\n${u.versions[u.versions.length - 1]?.body}`)));
-      let added = 0;
-      let dup = 0;
-      const problems = [];
-      for (const json of packs) {
-      const r = validatePack(json, rc.cats);
-      problems.push(...r.problems);
-      for (const x of r.texts) {
-        if (existing.has(fnv(`${x.title}\n${x.body}`))) { dup += 1; continue; }
-        saveUserText(R, { title: x.title.trim(), lang: json.lang, cat: x.cat, sub: x.sub && rc.catById[x.cat]?.subs[x.sub] ? x.sub : Object.keys(rc.catById[x.cat].subs)[0], aud: ['all', 'child', 'adult'].includes(x.aud) ? x.aud : 'all', tags: Array.isArray(x.tags) ? x.tags.slice(0, 10) : [], author: x.author || '', source: x.source || '', license: x.license, kind: 'user', body: x.body });
-        added += 1;
-      }
-      }
-      if (!ctx.store.save()) { toast(t('rd.storageFull')); return; }
-      toast(t('rd.packResult', { added, dup, bad: problems.length }));
-      if (problems.length) console.warn('Okuma paketi sorunları:', problems);
-      ctx.rerender();
-    } catch {
-      toast(t('rd.pack.badFormat'));
-    }
+    const files = [...(e.target.files || [])];
+    e.target.value = '';
+    if (files.length) await openImportDialog(ctx, rc, { files });
   });
+  root.querySelector('[data-act=paste]').addEventListener('click', () => pasteDialog(ctx, rc));
 }
 
 export async function readMineEditView(root, ctx, id) {
@@ -147,9 +126,9 @@ export async function readMineEditView(root, ctx, id) {
   count();
   $('#tb').addEventListener('input', () => { count(); st.confirmDup = false; $('#dup').hidden = true; });
   $('#tc').addEventListener('change', (e) => { st.cat = e.target.value; $('#ts').innerHTML = subOpts(st.cat); });
-  root.querySelectorAll('[data-restore]').forEach((b) => b.addEventListener('click', () => {
+  root.querySelectorAll('[data-restore]').forEach((b) => b.addEventListener('click', async () => {
     const v = u.versions.find((x) => String(x.version) === b.dataset.restore);
-    if (!v || !window.confirm(t('rd.restoreConfirm', { n: v.version }))) return;
+    if (!v || !await confirmAsk(t('rd.restoreConfirm', { n: v.version }))) return;
     saveUserText(R, { body: v.body }, u.id);
     ctx.store.save();
     toast(t('rd.restoredVersion'));

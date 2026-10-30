@@ -1,0 +1,16 @@
+Kaynaklardaki yazım kılavuzuna göre 1 ORTA uzunlukta metin yaz.
+
+- Dil: Türkçe
+- Kategori: critical (Eleştirel düşünme ve karşılaştırma) · sub: views (İki görüş) · level: 3
+- Uzunluk: 1000–1800 kelime, 6–10 bölüm; her bölüm "## Ara başlık" satırıyla başlasın. Alt sınırın altına düşme.
+
+Biçim (YAML kullanma):
+
+### | Metnin Başlığı
+lang: tr | cat: critical | sub: views | tags: <3-5 etiket> | level: 3
+---
+## İlk ara başlık
+
+Paragraflar…
+
+Daha önce yazdığın metinlerden farklı bir konu seç. Atıf numarası yazma. En sonda ayrı bir satıra yalnızca "Kontrol Özeti:" yaz ve altına kelime sayısını yaz.

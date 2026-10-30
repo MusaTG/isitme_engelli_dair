@@ -1,4 +1,5 @@
 // Küçük arayüz yardımcıları.
+import { t } from './i18n.js';
 
 export function esc(value) {
   return String(value ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]);
@@ -105,6 +106,27 @@ export function toastAction(message, actionLabel, onAction, ms = 8000) {
   btn.addEventListener('click', () => { clearTimeout(actionTimer); el.hidden = true; onAction(); });
   btn.focus({ preventScroll: true });
   actionTimer = setTimeout(() => { el.hidden = true; }, ms);
+}
+
+// Uygulama içi onay penceresi (window.confirm yerine). Bazı ortamlar (gömülü sayfalar, bazı uygulama içi
+// tarayıcılar) tarayıcı onay penceresini engeller ve her zaman "hayır" döndürür; bu pencere her yerde çalışır.
+// Esc / Vazgeç → false. Sonuç: Promise<boolean>.
+export function confirmAsk(message, { ok = t('common.confirmOk'), cancel = t('common.confirmCancel'), danger = true } = {}) {
+  return new Promise((resolve) => {
+    const dlg = document.createElement('dialog');
+    dlg.className = 'r-dlg confirm-dlg';
+    dlg.setAttribute('aria-labelledby', 'cfm-msg');
+    dlg.innerHTML = `<form method="dialog" class="dlg-form"><p id="cfm-msg">${esc(message)}</p>
+      <div class="actions"><button type="button" class="btn ghost" data-v="0">${esc(cancel)}</button><button type="submit" class="btn ${danger ? 'danger' : 'primary'}" data-v="1">${esc(ok)}</button></div></form>`;
+    document.body.append(dlg);
+    let result = false;
+    const done = () => { dlg.remove(); resolve(result); };
+    dlg.addEventListener('close', done, { once: true });
+    dlg.querySelector('[data-v="0"]').addEventListener('click', () => { result = false; dlg.close(); });
+    dlg.querySelector('form').addEventListener('submit', (e) => { e.preventDefault(); result = true; dlg.close(); });
+    if (typeof dlg.showModal === 'function') dlg.showModal(); else { dlg.setAttribute('open', ''); }
+    dlg.querySelector('[data-v="0"]').focus();
+  });
 }
 
 // Bulunulan ekrana göre kılavuzdaki ilgili konuya bağlantı.

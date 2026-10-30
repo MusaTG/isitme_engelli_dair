@@ -1,6 +1,6 @@
 // Okuma geçmişi, favoriler, ayraçlar/vurgular/notlar.
 import { t } from '../i18n.js';
-import { esc, icon, helpLink, toastAction, announce } from '../ui.js';
+import { esc, icon, helpLink, toastAction, announce, confirmAsk } from '../ui.js';
 import { metaResolver } from '../reading/data.js';
 import { removeMark, updateMark } from '../reading/state.js';
 import { estimateMinutes, lengthClass } from '../reading/core.js';
@@ -15,9 +15,9 @@ export async function readHistoryView(root, ctx, params) {
 
   root.innerHTML = `<div class="page-head"><div><h1 tabindex="-1">${t('rd.historyTitle')}</h1><p class="muted">${t('rd.historyIntro')}</p></div>${helpLink('reading', t('guide.helpHere'))}</div>
   ${readNav('#/read/history')}
-  <div class="tabbar" role="tablist">
-    <button class="tab${st.tab === 'texts' ? ' on' : ''}" role="tab" aria-selected="${st.tab === 'texts'}" data-tab="texts">${t('rd.hist.texts')}</button>
-    <button class="tab${st.tab === 'sessions' ? ' on' : ''}" role="tab" aria-selected="${st.tab === 'sessions'}" data-tab="sessions">${t('rd.hist.sessions')}</button>
+  <div class="tabbar" role="group">
+    <button class="tab${st.tab === 'texts' ? ' on' : ''}" aria-pressed="${st.tab === 'texts'}" data-tab="texts">${t('rd.hist.texts')}</button>
+    <button class="tab${st.tab === 'sessions' ? ' on' : ''}" aria-pressed="${st.tab === 'sessions'}" data-tab="sessions">${t('rd.hist.sessions')}</button>
   </div>
   <div class="filters read-filters">
     <div class="field"><label for="h-from">${t('rd.f.from')}</label><input type="date" id="h-from" value="${esc(st.from)}"></div>
@@ -104,7 +104,7 @@ export async function readHistoryView(root, ctx, params) {
   bindF('#h-fav', 'fav', 'checked', (c) => (c ? '1' : ''));
   root.querySelectorAll('[data-tab]').forEach((b) => b.addEventListener('click', () => {
     st.tab = b.dataset.tab;
-    root.querySelectorAll('[data-tab]').forEach((x) => { x.classList.toggle('on', x === b); x.setAttribute('aria-selected', String(x === b)); });
+    root.querySelectorAll('[data-tab]').forEach((x) => { x.classList.toggle('on', x === b); x.setAttribute('aria-pressed', String(x === b)); });
     sync(); draw();
   }));
   draw();
@@ -135,7 +135,7 @@ export async function readMarksView(root, ctx, params) {
 
   root.innerHTML = `<div class="page-head"><div><h1 tabindex="-1">${t('rd.marksTitle')}</h1><p class="muted">${t('rd.marksIntro')}</p></div>${helpLink('reading', t('guide.helpHere'))}</div>
     ${readNav('#/read/marks')}
-    <div class="tabbar" role="tablist">${TABS.map((x) => `<button class="tab${st.tab === x ? ' on' : ''}" role="tab" aria-selected="${st.tab === x}" data-tab="${x}">${t(`rd.marks.${x}`)} <span class="count">${R.marks.filter((m) => (x === 'bookmark' ? (m.type === 'bookmark' || m.type === 'here') : x === 'highlight' ? m.type === 'highlight' : Boolean(m.note))).length}</span></button>`).join('')}</div>
+    <div class="tabbar" role="group">${TABS.map((x) => `<button class="tab${st.tab === x ? ' on' : ''}" aria-pressed="${st.tab === x}" data-tab="${x}">${t(`rd.marks.${x}`)} <span class="count">${R.marks.filter((m) => (x === 'bookmark' ? (m.type === 'bookmark' || m.type === 'here') : x === 'highlight' ? m.type === 'highlight' : Boolean(m.note))).length}</span></button>`).join('')}</div>
     <div class="field"><label for="mq" class="sr-only">${t('rd.marksSearch')}</label><input id="mq" type="search" placeholder="${esc(t('rd.marksSearch'))}"></div>
     <div id="m-list"></div>`;
   const $ = (s) => root.querySelector(s);
@@ -179,8 +179,8 @@ export async function readMarksView(root, ctx, params) {
       announce(t('common.saved'));
       root.querySelector(`[data-id="${mid}"] [data-edit]`)?.focus();
     }));
-    $('#m-list').querySelectorAll('[data-del]').forEach((b) => b.addEventListener('click', () => {
-      if (!window.confirm(t('rd.deleteMarkConfirm'))) return;
+    $('#m-list').querySelectorAll('[data-del]').forEach((b) => b.addEventListener('click', async () => {
+      if (!await confirmAsk(t('rd.deleteMarkConfirm'))) return;
       const removed = removeMark(R, b.dataset.del);
       ctx.store.save();
       draw();
@@ -190,7 +190,7 @@ export async function readMarksView(root, ctx, params) {
   $('#mq').addEventListener('input', (e) => { st.q = e.target.value; draw(); });
   root.querySelectorAll('[data-tab]').forEach((b) => b.addEventListener('click', () => {
     st.tab = b.dataset.tab;
-    root.querySelectorAll('[data-tab]').forEach((x) => { x.classList.toggle('on', x === b); x.setAttribute('aria-selected', String(x === b)); });
+    root.querySelectorAll('[data-tab]').forEach((x) => { x.classList.toggle('on', x === b); x.setAttribute('aria-pressed', String(x === b)); });
     history.replaceState(null, '', `#/read/marks?tab=${st.tab}`);
     draw();
   }));

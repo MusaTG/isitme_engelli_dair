@@ -1,0 +1,20 @@
+Kaynaklardaki yazım kılavuzuna göre 5 KISA metin yaz.
+
+- Dil: İngilizce (doğal İngilizce; Türkçeden çeviri değil)
+- Kategori: language (Dil ve telaffuz odaklı)
+- Uzunluk: her metin 350–550 kelime. Alt sınırın altına düşme.
+- Metinler:
+  1) sub: long (Uzun cümleler) · level: 3
+  2) sub: punctuation (Noktalama ve duraklama) · level: 2
+  3) sub: questions (Soru ve ünlem) · level: 1
+  4) sub: sounds (Benzer sesler) · level: 2
+  5) sub: syllables (Hece uzunlukları) · level: 3
+
+Her metin TAM OLARAK şu biçimde (YAML ya da başka biçim kullanma):
+
+### | Metnin Başlığı
+lang: en | cat: language | sub: <yukarıdaki> | tags: <3-5 etiket> | level: <yukarıdaki>
+---
+Gövde. Paragraflar arasında boş satır.
+
+"Mevcut başlıklar" kaynağındaki ve bu sohbette daha önce yazdığın başlık ve konuları tekrar etme; her metinde farklı karakter, mekân ve olay. Atıf numarası yazma. En sonda ayrı bir satıra yalnızca "Kontrol Özeti:" yaz ve altına istenen ve üretilen metin sayısını yaz.

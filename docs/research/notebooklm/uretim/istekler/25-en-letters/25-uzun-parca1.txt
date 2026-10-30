@@ -1,0 +1,17 @@
+Kaynaklardaki yazım kılavuzuna göre 1 UZUN metin yazacağız; 4 parçada tamamlanacak (toplam 12 bölüm).
+
+- Dil: İngilizce (doğal İngilizce; Türkçeden çeviri değil)
+- Kategori: letters (Günlük ve mektup) · sub: letter (Mektup) · level: 3
+- Bu parça: başlık bloğu + ilk 3 bölüm, 1100–1500 kelime. Her bölüm "## Ara başlık" ile başlasın.
+- Mektup ya da günlük biçimi: hitap/tarih satırı ve kapanış olsun.
+
+Biçim (YAML kullanma):
+
+### | Metnin Başlığı
+lang: en | cat: letters | sub: letter | tags: <3-5 etiket> | level: 3
+---
+## İlk ara başlık
+
+Paragraflar…
+
+Metni bu parçada BİTİRME. Atıf numarası ve kontrol özeti yazma.

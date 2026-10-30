@@ -4,3 +4,5 @@ site/
 *.log
 e2e-shots/
 e2e-shots-reading/
+e2e-shots-v3/
+__pycache__/

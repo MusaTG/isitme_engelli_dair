@@ -1,0 +1,1361 @@
+{
+  "at": "2026-10-30T18:44:56.248Z",
+  "applied": true,
+  "summary": {
+    "add": 57,
+    "update": 0,
+    "skip": 26,
+    "error": 0,
+    "total": 83,
+    "dist": {
+      "tr": {
+        "dialogue": 1,
+        "language": 33,
+        "poetry": 7,
+        "work": 15,
+        "kids": 1
+      }
+    }
+  },
+  "fileErrors": [],
+  "written": [
+    "tr/dialogue-import-06.txt: 1 metin eklendi (99–99)",
+    "tr/language-import-02.txt: 33 metin eklendi (30–62)",
+    "tr/poetry-import-02.txt: 7 metin eklendi (92–98)",
+    "tr/work-import-02.txt: 15 metin eklendi (69–83)",
+    "tr/kids-import-02.txt: 1 metin eklendi (100–100)"
+  ],
+  "rows": [
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-dialogue-039 ile çok benzer (benzerlik %78); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "dialogue",
+      "title": "Gurme Şarküteride Yöresel Ürün Alışverişi",
+      "file": "benzerler\\11_lang.txt",
+      "where": "benzerler\\11_lang.txt",
+      "id": "tr-dialogue-099",
+      "num": 99,
+      "words": 302,
+      "contentHash": "27329449"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-language-001 ile çok benzer (benzerlik %97); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "language",
+      "title": "İletişimde Yalın Dil Kullanımı Ve Açık İfadelerin Anlatım Gücü",
+      "file": "benzerler\\11_language.txt",
+      "where": "benzerler\\11_language.txt",
+      "id": "tr-language-030",
+      "num": 30,
+      "words": 338,
+      "contentHash": "773dc44b"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-language-002 ile çok benzer (benzerlik %60); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Sanat Ve Kültür Metinlerinde Uzun Cümlelerin Estetik Ritim Gücü",
+      "file": "benzerler\\12_language.txt",
+      "where": "benzerler\\12_language.txt",
+      "id": "tr-language-031",
+      "num": 31,
+      "words": 321,
+      "contentHash": "83c0dd24"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-language-004 ile çok benzer (benzerlik %100); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Soru Ve Ünlem Cümlelerinin Anlatımdaki İkna Gücü Ve Duygusal Derinliği",
+      "file": "benzerler\\12_language.txt",
+      "where": "benzerler\\12_language.txt",
+      "id": "tr-language-032",
+      "num": 32,
+      "words": 332,
+      "contentHash": "3d995f4e"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-language-006 ile çok benzer (benzerlik %69); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Metin Okumalarında Hece Yapısı Ve Ritmin Doğru Telaffuzdaki Rolü",
+      "file": "benzerler\\12_language.txt",
+      "where": "benzerler\\12_language.txt",
+      "id": "tr-language-033",
+      "num": 33,
+      "words": 313,
+      "contentHash": "65944381"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-poetry-005 ile çok benzer (benzerlik %79); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "poetry",
+      "title": "Eski Ahşap Ciltli Kitapların Sırrı",
+      "file": "benzerler\\12_poetry.txt",
+      "where": "benzerler\\12_poetry.txt",
+      "id": "tr-poetry-092",
+      "num": 92,
+      "words": 136,
+      "contentHash": "cf38af3a"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-poetry-003 ile çok benzer (benzerlik %53); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "poetry",
+      "title": "Edebi Metinlerde İmgelerin Derinliği",
+      "file": "benzerler\\12_poetry.txt",
+      "where": "benzerler\\12_poetry.txt",
+      "id": "tr-poetry-093",
+      "num": 93,
+      "words": 122,
+      "contentHash": "6e14363f"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-work-001 ile çok benzer (benzerlik %60); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "work",
+      "title": "Şirket İçi Yenilikçi Tedarik Zinciri Ve Lojistik Stratejileri Sunumu",
+      "file": "benzerler\\12_work.txt",
+      "where": "benzerler\\12_work.txt",
+      "id": "tr-work-069",
+      "num": 69,
+      "words": 300,
+      "contentHash": "297513b4"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-language-008 ile çok benzer (benzerlik %66); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Tekerleme Egzersizleriyle Diksiyon Ve Artikülasyon Becerisi",
+      "file": "benzerler\\13_language.txt",
+      "where": "benzerler\\13_language.txt",
+      "id": "tr-language-034",
+      "num": 34,
+      "words": 314,
+      "contentHash": "884fca5a"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-language-001 ile çok benzer (benzerlik %71); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "language",
+      "title": "İletişimde Yalın Dil Kullanımı Ve Açık Cümlelerin Etkisi",
+      "file": "benzerler\\13_language.txt",
+      "where": "benzerler\\13_language.txt",
+      "id": "tr-language-035",
+      "num": 35,
+      "words": 321,
+      "contentHash": "5dcfc427"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "aynı başlıkta başka bir metin var (tr-work-006); içerik farklı olduğu için ayrı kayıt",
+        "tr-work-006 ile çok benzer (benzerlik %98); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "work",
+      "title": "Uluslararası Tedarik Zinciri ve Lojistik Yönetimi Güncellemesi",
+      "file": "benzerler\\13_work.txt",
+      "where": "benzerler\\13_work.txt",
+      "id": "tr-work-070",
+      "num": 70,
+      "words": 301,
+      "contentHash": "feef6fc2"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-language-003 ile çok benzer (benzerlik %98); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Yazılı Metinlerde Noktalama İşaretlerinin Ritmik Ve Anlamsal İşlevi",
+      "file": "benzerler\\14_language.txt",
+      "where": "benzerler\\14_language.txt",
+      "id": "tr-language-036",
+      "num": 36,
+      "words": 327,
+      "contentHash": "9dac6e07"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-language-005 ile çok benzer (benzerlik %53); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Türkçe Kelimelerde Akıcı Ünsüzlerin Fonetik Dengesi Ve Ahengi",
+      "file": "benzerler\\14_language.txt",
+      "where": "benzerler\\14_language.txt",
+      "id": "tr-language-037",
+      "num": 37,
+      "words": 305,
+      "contentHash": "ef633b2b"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-language-006 ile çok benzer (benzerlik %63); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Telaffuz Ve Okuma Çalışmalarında Hece Yapısının Temel Rolü",
+      "file": "benzerler\\14_language.txt",
+      "where": "benzerler\\14_language.txt",
+      "id": "tr-language-038",
+      "num": 38,
+      "words": 300,
+      "contentHash": "b2e00635"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-language-007 ile çok benzer (benzerlik %100); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Tarihsel Kronoloji Ve Sayısal İfadelerin Metindeki Kesinlik Derecesi",
+      "file": "benzerler\\14_language.txt",
+      "where": "benzerler\\14_language.txt",
+      "id": "tr-language-039",
+      "num": 39,
+      "words": 325,
+      "contentHash": "8665e66a"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-language-008 ile çok benzer (benzerlik %64); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "language",
+      "title": "İleri Düzey Tekerlemelerle Diksiyon Ve Artikülasyon Çalışmaları",
+      "file": "benzerler\\15_language.txt",
+      "where": "benzerler\\15_language.txt",
+      "id": "tr-language-040",
+      "num": 40,
+      "words": 322,
+      "contentHash": "76fb84c2"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-language-009 ile çok benzer (benzerlik %98); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Doğru Diksiyon Ve Diyafram Nefesiyle Etkili Konuşma Becerisi",
+      "file": "benzerler\\15_language.txt",
+      "where": "benzerler\\15_language.txt",
+      "id": "tr-language-041",
+      "num": 41,
+      "words": 307,
+      "contentHash": "72166d38"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-language-001 ile çok benzer (benzerlik %77); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Günlük İletişimde Yalın Dil Kullanımı Ve Açık İfadeler",
+      "file": "benzerler\\15_language.txt",
+      "where": "benzerler\\15_language.txt",
+      "id": "tr-language-042",
+      "num": 42,
+      "words": 307,
+      "contentHash": "a3c738fc"
+    },
+    {
+      "status": "skip",
+      "reasons": [
+        "aynı içerik zaten var (tr-language-036)"
+      ],
+      "warnings": [],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Noktalama İşaretlerinin Metin İçi Ritim Ve Anlam Dengesindeki Rolü",
+      "file": "benzerler\\15_language.txt",
+      "where": "benzerler\\15_language.txt",
+      "id": "tr-language-036",
+      "num": 43,
+      "words": 327,
+      "contentHash": "9dac6e07"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-poetry-003 ile çok benzer (benzerlik %58); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "poetry",
+      "title": "Anlatımda Derinlik Ve Simge Katmanları",
+      "file": "benzerler\\15_poetry.txt",
+      "where": "benzerler\\15_poetry.txt",
+      "id": "tr-poetry-094",
+      "num": 94,
+      "words": 150,
+      "contentHash": "010b9cc8"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-poetry-014 ile çok benzer (benzerlik %92); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "poetry",
+      "title": "Baharın Ve Neşenin Türküsü",
+      "file": "benzerler\\15_poetry.txt",
+      "where": "benzerler\\15_poetry.txt",
+      "id": "tr-poetry-095",
+      "num": 95,
+      "words": 155,
+      "contentHash": "c03453d9"
+    },
+    {
+      "status": "skip",
+      "reasons": [
+        "aynı içerik zaten var (tr-language-032)"
+      ],
+      "warnings": [],
+      "lang": "tr",
+      "cat": "language",
+      "title": "İletişimde Soru Ve Ünlem Cümlelerinin Vurgu Gücü",
+      "file": "benzerler\\16_language.txt",
+      "where": "benzerler\\16_language.txt",
+      "id": "tr-language-032",
+      "num": 43,
+      "words": 332,
+      "contentHash": "3d995f4e"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-language-005 ile çok benzer (benzerlik %52); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Türkçe Sözcüklerde Benzer Seslerin Ahengi Ve Diksiyon Katkısı",
+      "file": "benzerler\\16_language.txt",
+      "where": "benzerler\\16_language.txt",
+      "id": "tr-language-043",
+      "num": 43,
+      "words": 300,
+      "contentHash": "76f16ca0"
+    },
+    {
+      "status": "skip",
+      "reasons": [
+        "aynı içerik zaten var (tr-language-033)"
+      ],
+      "warnings": [],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Metin Okumalarında Hece Yapısı Ve Ritmin Doğru Telaffuzdaki Rolü",
+      "file": "benzerler\\16_language.txt",
+      "where": "benzerler\\16_language.txt",
+      "id": "tr-language-033",
+      "num": 44,
+      "words": 313,
+      "contentHash": "65944381"
+    },
+    {
+      "status": "skip",
+      "reasons": [
+        "aynı içerik zaten var (tr-language-039)"
+      ],
+      "warnings": [],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Tarihsel Kronoloji Ve Sayısal İfadelerin Metindeki Kesinlik Rolü",
+      "file": "benzerler\\16_language.txt",
+      "where": "benzerler\\16_language.txt",
+      "id": "tr-language-039",
+      "num": 44,
+      "words": 325,
+      "contentHash": "8665e66a"
+    },
+    {
+      "status": "skip",
+      "reasons": [
+        "aynı içerik zaten var (tr-language-034)"
+      ],
+      "warnings": [],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Tekerleme Egzersizleriyle Diksiyon Ve Artikülasyon Becerisi",
+      "file": "benzerler\\16_language.txt",
+      "where": "benzerler\\16_language.txt",
+      "id": "tr-language-034",
+      "num": 44,
+      "words": 314,
+      "contentHash": "884fca5a"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-work-015 ile çok benzer (benzerlik %93); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "work",
+      "title": "Biyomedikal Cihaz Sektöründe Küresel Ar-Ge Stratejileri Sunumu",
+      "file": "benzerler\\16_work.txt",
+      "where": "benzerler\\16_work.txt",
+      "id": "tr-work-071",
+      "num": 71,
+      "words": 328,
+      "contentHash": "d24fbd7c"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-work-017 ile çok benzer (benzerlik %88); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "work",
+      "title": "Özel Taşımacılık Ve Kargo Gecikmesi Bilgilendirme Mektubu",
+      "file": "benzerler\\16_work.txt",
+      "where": "benzerler\\16_work.txt",
+      "id": "tr-work-072",
+      "num": 72,
+      "words": 306,
+      "contentHash": "2eb706e2"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-kids-004 ile çok benzer (benzerlik %84); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "kids",
+      "title": "Gece Gökyüzünde Yıldızların Parıltısı",
+      "file": "benzerler\\17_kids.txt",
+      "where": "benzerler\\17_kids.txt",
+      "id": "tr-kids-100",
+      "num": 100,
+      "words": 205,
+      "contentHash": "430c3631"
+    },
+    {
+      "status": "skip",
+      "reasons": [
+        "aynı içerik zaten var (tr-language-035)"
+      ],
+      "warnings": [],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Anlatımda Yalınlık Ve Kısa Cümle Yapılarının Etkisi",
+      "file": "benzerler\\17_language.txt",
+      "where": "benzerler\\17_language.txt",
+      "id": "tr-language-035",
+      "num": 44,
+      "words": 321,
+      "contentHash": "5dcfc427"
+    },
+    {
+      "status": "skip",
+      "reasons": [
+        "aynı içerik zaten var (tr-language-036)"
+      ],
+      "warnings": [],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Noktalama İşaretlerinin Metin İçi Ritim Ve Anlam Dengesindeki Etkisi",
+      "file": "benzerler\\17_language.txt",
+      "where": "benzerler\\17_language.txt",
+      "id": "tr-language-036",
+      "num": 44,
+      "words": 327,
+      "contentHash": "9dac6e07"
+    },
+    {
+      "status": "skip",
+      "reasons": [
+        "aynı içerik zaten var (tr-poetry-095)"
+      ],
+      "warnings": [],
+      "lang": "tr",
+      "cat": "poetry",
+      "title": "Işığın Ve Ümidin Türküsü",
+      "file": "benzerler\\17_poetry.txt",
+      "where": "benzerler\\17_poetry.txt",
+      "id": "tr-poetry-095",
+      "num": 96,
+      "words": 155,
+      "contentHash": "c03453d9"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-work-021 ile çok benzer (benzerlik %51); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "work",
+      "title": "Müşteri Deneyimi ve Satış Sonrası Hizmetler Komitesi Toplantı Tutanağı",
+      "file": "benzerler\\17_work.txt",
+      "where": "benzerler\\17_work.txt",
+      "id": "tr-work-073",
+      "num": 73,
+      "words": 322,
+      "contentHash": "36d2487f"
+    },
+    {
+      "status": "skip",
+      "reasons": [
+        "aynı içerik zaten var (tr-language-039)"
+      ],
+      "warnings": [],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Tarihsel Kronoloji Ve Sayısal İfadelerin Metindeki Kesinlik Derecesi",
+      "file": "benzerler\\18_language.txt",
+      "where": "benzerler\\18_language.txt",
+      "id": "tr-language-039",
+      "num": 44,
+      "words": 325,
+      "contentHash": "8665e66a"
+    },
+    {
+      "status": "skip",
+      "reasons": [
+        "aynı içerik zaten var (tr-language-041)"
+      ],
+      "warnings": [],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Doğru Diksiyon Ve Diyafram Nefesiyle Etkili Konuşma Becerisi",
+      "file": "benzerler\\18_language.txt",
+      "where": "benzerler\\18_language.txt",
+      "id": "tr-language-041",
+      "num": 44,
+      "words": 307,
+      "contentHash": "72166d38"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-poetry-012 ile çok benzer (benzerlik %59); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "poetry",
+      "title": "Sonbaharda Ulu Meşe Ormanı",
+      "file": "benzerler\\18_poetry.txt",
+      "where": "benzerler\\18_poetry.txt",
+      "id": "tr-poetry-096",
+      "num": 96,
+      "words": 120,
+      "contentHash": "b15111ed"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-poetry-013 ile çok benzer (benzerlik %88); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "poetry",
+      "title": "Kalpteki Kabulleniş Ve Yaşama Sevgisi",
+      "file": "benzerler\\18_poetry.txt",
+      "where": "benzerler\\18_poetry.txt",
+      "id": "tr-poetry-097",
+      "num": 97,
+      "words": 127,
+      "contentHash": "5e23ba34"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-poetry-003 ile çok benzer (benzerlik %53); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "poetry",
+      "title": "Anlatımda Üslup Olgunluğu Ve İmgeler",
+      "file": "benzerler\\18_poetry.txt",
+      "where": "benzerler\\18_poetry.txt",
+      "id": "tr-poetry-098",
+      "num": 98,
+      "words": 126,
+      "contentHash": "655b64f8"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-work-001 ile çok benzer (benzerlik %90); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "work",
+      "title": "Şirket İçi Dijital Dönüşüm Ve Müşteri Deneyimi Stratejileri Sunumu",
+      "file": "benzerler\\18_work.txt",
+      "where": "benzerler\\18_work.txt",
+      "id": "tr-work-074",
+      "num": 74,
+      "words": 304,
+      "contentHash": "2843c78b"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-work-002 ile çok benzer (benzerlik %49); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "work",
+      "title": "Kurumsal Bilgi Güvenliği Ve Cihaz Erişim Standartları Talimatnamesi",
+      "file": "benzerler\\18_work.txt",
+      "where": "benzerler\\18_work.txt",
+      "id": "tr-work-075",
+      "num": 75,
+      "words": 293,
+      "contentHash": "d4ca5b63"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-work-012 ile çok benzer (benzerlik %88); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "work",
+      "title": "Özel Teknik Destek Ve Cihaz Kurulum Gecikmesi Özür Mektubu",
+      "file": "benzerler\\18_work.txt",
+      "where": "benzerler\\18_work.txt",
+      "id": "tr-work-076",
+      "num": 76,
+      "words": 303,
+      "contentHash": "ca0df79c"
+    },
+    {
+      "status": "skip",
+      "reasons": [
+        "aynı içerik zaten var (tr-language-030)"
+      ],
+      "warnings": [],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Şehir Hayatında Yalın İletişimin Ve Kısa Cümlelerin Gücü",
+      "file": "benzerler\\19_language.txt",
+      "where": "benzerler\\19_language.txt",
+      "id": "tr-language-030",
+      "num": 44,
+      "words": 338,
+      "contentHash": "773dc44b"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-language-002 ile çok benzer (benzerlik %82); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Tarihi Çarşının Derinliklerinde Zamanın Ve Mekânın Katmanlı Anlatımı",
+      "file": "benzerler\\19_language.txt",
+      "where": "benzerler\\19_language.txt",
+      "id": "tr-language-044",
+      "num": 44,
+      "words": 303,
+      "contentHash": "4c7f02b3"
+    },
+    {
+      "status": "skip",
+      "reasons": [
+        "aynı içerik zaten var (tr-language-036)"
+      ],
+      "warnings": [],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Sahne Sanatlarında Noktalama İşaretlerinin Duraklama Dengesi",
+      "file": "benzerler\\19_language.txt",
+      "where": "benzerler\\19_language.txt",
+      "id": "tr-language-036",
+      "num": 45,
+      "words": 327,
+      "contentHash": "9dac6e07"
+    },
+    {
+      "status": "skip",
+      "reasons": [
+        "aynı içerik zaten var (tr-language-032)"
+      ],
+      "warnings": [],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Yayıncılık Dünyasında Soru Ve Ünlem Cümlelerinin Dinamik Yapısı",
+      "file": "benzerler\\19_language.txt",
+      "where": "benzerler\\19_language.txt",
+      "id": "tr-language-032",
+      "num": 45,
+      "words": 332,
+      "contentHash": "3d995f4e"
+    },
+    {
+      "status": "skip",
+      "reasons": [
+        "aynı içerik zaten var (tr-work-073)"
+      ],
+      "warnings": [],
+      "lang": "tr",
+      "cat": "work",
+      "title": "Müşteri Deneyimi ve Satış Sonrası Hizmetler Komitesi Toplantı Tutanağı",
+      "file": "benzerler\\19_work.txt",
+      "where": "benzerler\\19_work.txt",
+      "id": "tr-work-073",
+      "num": 77,
+      "words": 322,
+      "contentHash": "36d2487f"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-language-001 ile çok benzer (benzerlik %63); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Anlatımda Yalınlık Ve Kısa Cümlelerin İletişimsel Gücü",
+      "file": "benzerler\\2_language.txt",
+      "where": "benzerler\\2_language.txt",
+      "id": "tr-language-045",
+      "num": 45,
+      "words": 311,
+      "contentHash": "8e077e6c"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-language-002 ile çok benzer (benzerlik %93); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Karmaşık Cümle Yapılarında Sözcük Dizilimi Ve Anlam Bütünlüğü",
+      "file": "benzerler\\3_language.txt",
+      "where": "benzerler\\3_language.txt",
+      "id": "tr-language-046",
+      "num": 46,
+      "words": 302,
+      "contentHash": "a750d362"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-language-003 ile çok benzer (benzerlik %100); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Noktalama İşaretlerinin Konuşma Ve Okuma Ritmindeki Rolü",
+      "file": "benzerler\\3_language.txt",
+      "where": "benzerler\\3_language.txt",
+      "id": "tr-language-047",
+      "num": 47,
+      "words": 323,
+      "contentHash": "265b70db"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-language-006 ile çok benzer (benzerlik %50); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Metin Okumalarında Hece Uzunlukları Ve Vurgu Dengesi",
+      "file": "benzerler\\3_language.txt",
+      "where": "benzerler\\3_language.txt",
+      "id": "tr-language-048",
+      "num": 48,
+      "words": 304,
+      "contentHash": "29dfae74"
+    },
+    {
+      "status": "skip",
+      "reasons": [
+        "aynı içerik zaten var (tr-language-039)"
+      ],
+      "warnings": [],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Tarihsel Veriler Ve Sayısal İfadelerin Anlatımdaki Kesinliği",
+      "file": "benzerler\\4_language.txt",
+      "where": "benzerler\\4_language.txt",
+      "id": "tr-language-039",
+      "num": 49,
+      "words": 325,
+      "contentHash": "8665e66a"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-language-008 ile çok benzer (benzerlik %98); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Diksiyon Gelişiminde Tekerlemelerin Pratik Faydaları",
+      "file": "benzerler\\4_language.txt",
+      "where": "benzerler\\4_language.txt",
+      "id": "tr-language-049",
+      "num": 49,
+      "words": 302,
+      "contentHash": "e82b763d"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-language-001 ile çok benzer (benzerlik %86); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "language",
+      "title": "İletişimde Yalınlık Ve Kısa Cümlelerin Anlatım Yapısındaki Netlik Gücü",
+      "file": "benzerler\\4_language.txt",
+      "where": "benzerler\\4_language.txt",
+      "id": "tr-language-050",
+      "num": 50,
+      "words": 316,
+      "contentHash": "dd79351e"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-language-002 ile çok benzer (benzerlik %100); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Karmaşık Düşüncelerin Aktarımında Uzun Cümlelerin Sentaktik Mimarisi",
+      "file": "benzerler\\4_language.txt",
+      "where": "benzerler\\4_language.txt",
+      "id": "tr-language-051",
+      "num": 51,
+      "words": 306,
+      "contentHash": "64eb22d5"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-work-023 ile çok benzer (benzerlik %100); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "work",
+      "title": "Nesnelerin İnterneti Tabanlı Akıllı Tesis Otomasyonu",
+      "file": "benzerler\\4_work.txt",
+      "where": "benzerler\\4_work.txt",
+      "id": "tr-work-077",
+      "num": 77,
+      "words": 282,
+      "contentHash": "99d01f8a"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-language-010 ile çok benzer (benzerlik %98); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Yazılı Anlatımda Noktalama İşaretlerinin Temel İşlevleri Ve Duraklama Ritmi",
+      "file": "benzerler\\5_language.txt",
+      "where": "benzerler\\5_language.txt",
+      "id": "tr-language-052",
+      "num": 52,
+      "words": 330,
+      "contentHash": "4ded30e5"
+    },
+    {
+      "status": "skip",
+      "reasons": [
+        "aynı içerik zaten var (tr-language-032)"
+      ],
+      "warnings": [],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Soru Ve Ünlem Cümlelerinin Anlatımdaki İkna Gücü Ve Duygusal Derinliği",
+      "file": "benzerler\\5_language.txt",
+      "where": "benzerler\\5_language.txt",
+      "id": "tr-language-032",
+      "num": 53,
+      "words": 332,
+      "contentHash": "3d995f4e"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-language-005 ile çok benzer (benzerlik %100); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Türkçe Sözcüklerde Sert Ve Yumuşak Seslerin Müzikal Ahengi Ve Diksiyondaki Rolü",
+      "file": "benzerler\\5_language.txt",
+      "where": "benzerler\\5_language.txt",
+      "id": "tr-language-053",
+      "num": 53,
+      "words": 320,
+      "contentHash": "7ee65329"
+    },
+    {
+      "status": "skip",
+      "reasons": [
+        "aynı içerik zaten var (tr-language-033)"
+      ],
+      "warnings": [],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Metin Okumalarında Hece Yapısı Ve Ritmin Doğru Telaffuzdaki Önemi",
+      "file": "benzerler\\5_language.txt",
+      "where": "benzerler\\5_language.txt",
+      "id": "tr-language-033",
+      "num": 54,
+      "words": 313,
+      "contentHash": "65944381"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-language-008 ile çok benzer (benzerlik %70); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Tekerleme Egzersizleriyle Diksiyon Ve Artikülasyon Becerilerinin Geliştirilmesi",
+      "file": "benzerler\\6_language.txt",
+      "where": "benzerler\\6_language.txt",
+      "id": "tr-language-054",
+      "num": 54,
+      "words": 313,
+      "contentHash": "597f981c"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-language-012 ile çok benzer (benzerlik %95); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Üst Düzey Diksiyon Teknikleri Ve Profesyonel İletişimde Ses Büyüsü",
+      "file": "benzerler\\6_language.txt",
+      "where": "benzerler\\6_language.txt",
+      "id": "tr-language-055",
+      "num": 55,
+      "words": 314,
+      "contentHash": "4f4f8019"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-language-001 ile çok benzer (benzerlik %74); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "language",
+      "title": "İletişimde Yalın Dil Ve Açık Cümlelerin Bilgi Aktarımındaki Gücü",
+      "file": "benzerler\\6_language.txt",
+      "where": "benzerler\\6_language.txt",
+      "id": "tr-language-056",
+      "num": 56,
+      "words": 310,
+      "contentHash": "60dff1aa"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "aynı başlıkta başka bir metin var (tr-language-013); içerik farklı olduğu için ayrı kayıt",
+        "tr-language-013 ile çok benzer (benzerlik %96); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Uzun Cümle Yapılarında Akıcılık Ve Temel Anlatım Kuralları",
+      "file": "benzerler\\6_language.txt",
+      "where": "benzerler\\6_language.txt",
+      "id": "tr-language-057",
+      "num": 57,
+      "words": 313,
+      "contentHash": "172d9ffa"
+    },
+    {
+      "status": "skip",
+      "reasons": [
+        "aynı içerik zaten var (tr-language-047)"
+      ],
+      "warnings": [],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Noktalama İşaretlerinin Metin İçi Ritim Ve Anlam Üzerindeki Etkisi",
+      "file": "benzerler\\6_language.txt",
+      "where": "benzerler\\6_language.txt",
+      "id": "tr-language-047",
+      "num": 58,
+      "words": 323,
+      "contentHash": "265b70db"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "aynı başlıkta başka bir metin var (tr-work-022); içerik farklı olduğu için ayrı kayıt",
+        "tr-work-022 ile çok benzer (benzerlik %100); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "work",
+      "title": "Şirket İçi Bilgisayar Ağ Güvenliği ve Cihaz Kullanım Talimatı",
+      "file": "benzerler\\6_work.txt",
+      "where": "benzerler\\6_work.txt",
+      "id": "tr-work-078",
+      "num": 78,
+      "words": 302,
+      "contentHash": "aadb5486"
+    },
+    {
+      "status": "skip",
+      "reasons": [
+        "aynı içerik zaten var (tr-language-037)"
+      ],
+      "warnings": [],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Sözcüklerde Ses Uyumları Ve Akıcı Ünsüzlerin Fonetik Ahengi",
+      "file": "benzerler\\7_language.txt",
+      "where": "benzerler\\7_language.txt",
+      "id": "tr-language-037",
+      "num": 58,
+      "words": 305,
+      "contentHash": "ef633b2b"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-language-006 ile çok benzer (benzerlik %63); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Okuma Ve Telaffuzda Hece Yapısının Temel İşlevleri",
+      "file": "benzerler\\7_language.txt",
+      "where": "benzerler\\7_language.txt",
+      "id": "tr-language-058",
+      "num": 58,
+      "words": 300,
+      "contentHash": "e8715277"
+    },
+    {
+      "status": "skip",
+      "reasons": [
+        "aynı içerik zaten var (tr-language-039)"
+      ],
+      "warnings": [],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Tarihsel Kronoloji Ve Sayısal İfadelerin Metindeki Kesinlik Rolü",
+      "file": "benzerler\\7_language.txt",
+      "where": "benzerler\\7_language.txt",
+      "id": "tr-language-039",
+      "num": 59,
+      "words": 325,
+      "contentHash": "8665e66a"
+    },
+    {
+      "status": "skip",
+      "reasons": [
+        "aynı içerik zaten var (tr-language-040)"
+      ],
+      "warnings": [],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Zorlu Tekerleme Alıştırmalarıyla İleri Düzey Artikülasyon Becerisi",
+      "file": "benzerler\\7_language.txt",
+      "where": "benzerler\\7_language.txt",
+      "id": "tr-language-040",
+      "num": 59,
+      "words": 322,
+      "contentHash": "76fb84c2"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-work-006 ile çok benzer (benzerlik %59); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "work",
+      "title": "Uluslararası Tedarik Zinciri Risk Yönetimi ve Politika Güncellemesi",
+      "file": "benzerler\\7_work.txt",
+      "where": "benzerler\\7_work.txt",
+      "id": "tr-work-079",
+      "num": 79,
+      "words": 300,
+      "contentHash": "0d21cf71"
+    },
+    {
+      "status": "skip",
+      "reasons": [
+        "aynı içerik zaten var (tr-language-042)"
+      ],
+      "warnings": [],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Günlük İletişimde Yalın Dille İfade Kolaylığı",
+      "file": "benzerler\\8_language.txt",
+      "where": "benzerler\\8_language.txt",
+      "id": "tr-language-042",
+      "num": 59,
+      "words": 307,
+      "contentHash": "a3c738fc"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-language-013 ile çok benzer (benzerlik %96); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Düşünce Derinliğini Sağlayan Katmanlı Cümle Mimarisi",
+      "file": "benzerler\\8_language.txt",
+      "where": "benzerler\\8_language.txt",
+      "id": "tr-language-059",
+      "num": 59,
+      "words": 308,
+      "contentHash": "c758ff2f"
+    },
+    {
+      "status": "skip",
+      "reasons": [
+        "aynı içerik zaten var (tr-language-047)"
+      ],
+      "warnings": [],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Metin Okumalarında Noktalama İşaretlerinin Ritmik Rolü",
+      "file": "benzerler\\8_language.txt",
+      "where": "benzerler\\8_language.txt",
+      "id": "tr-language-047",
+      "num": 60,
+      "words": 323,
+      "contentHash": "265b70db"
+    },
+    {
+      "status": "skip",
+      "reasons": [
+        "aynı içerik zaten var (tr-language-032)"
+      ],
+      "warnings": [],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Soru Ve Ünlem Cümlelerinin İletişimdeki Canlılığı Ve Vurgu Gücü",
+      "file": "benzerler\\8_language.txt",
+      "where": "benzerler\\8_language.txt",
+      "id": "tr-language-032",
+      "num": 60,
+      "words": 332,
+      "contentHash": "3d995f4e"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-work-011 ile çok benzer (benzerlik %94); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "work",
+      "title": "Kurumsal Sosyal Medya Hizmet Cihazları Kullanım Talimatnamesi",
+      "file": "benzerler\\8_work.txt",
+      "where": "benzerler\\8_work.txt",
+      "id": "tr-work-080",
+      "num": 80,
+      "words": 295,
+      "contentHash": "1b5e5f7c"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-work-012 ile çok benzer (benzerlik %91); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "work",
+      "title": "Özel Teknik Servis Gecikmesi Bilgilendirme ve Özür Mektubu",
+      "file": "benzerler\\8_work.txt",
+      "where": "benzerler\\8_work.txt",
+      "id": "tr-work-081",
+      "num": 81,
+      "words": 301,
+      "contentHash": "3e517679"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-work-013 ile çok benzer (benzerlik %55); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "work",
+      "title": "Derin Öğrenme Tabanlı Biyomedikal Görüntü Analiz Platformu",
+      "file": "benzerler\\8_work.txt",
+      "where": "benzerler\\8_work.txt",
+      "id": "tr-work-082",
+      "num": 82,
+      "words": 303,
+      "contentHash": "443612f3"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-language-005 ile çok benzer (benzerlik %51); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Türkçe Sözcüklerde Benzer Seslerin Müzikal Ahengi Ve Diksiyona Katkısı",
+      "file": "benzerler\\9_language.txt",
+      "where": "benzerler\\9_language.txt",
+      "id": "tr-language-060",
+      "num": 60,
+      "words": 306,
+      "contentHash": "5150a993"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-language-006 ile çok benzer (benzerlik %62); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Okuma Ve Telaffuzda Hece Yapısının Temel İşlevleri Ve Ritmin Rolü",
+      "file": "benzerler\\9_language.txt",
+      "where": "benzerler\\9_language.txt",
+      "id": "tr-language-061",
+      "num": 61,
+      "words": 306,
+      "contentHash": "9e4bc2e9"
+    },
+    {
+      "status": "skip",
+      "reasons": [
+        "aynı içerik zaten var (tr-language-039)"
+      ],
+      "warnings": [],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Tarihsel Kronoloji Ve Sayısal İfadelerin Metindeki Kesinlik Rolü",
+      "file": "benzerler\\9_language.txt",
+      "where": "benzerler\\9_language.txt",
+      "id": "tr-language-039",
+      "num": 62,
+      "words": 325,
+      "contentHash": "8665e66a"
+    },
+    {
+      "status": "skip",
+      "reasons": [
+        "aynı içerik zaten var (tr-language-040)"
+      ],
+      "warnings": [],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Zorlu Tekerleme Alıştırmalarıyla İleri Düzey Artikülasyon Becerisi",
+      "file": "benzerler\\9_language.txt",
+      "where": "benzerler\\9_language.txt",
+      "id": "tr-language-040",
+      "num": 62,
+      "words": 322,
+      "contentHash": "76fb84c2"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-language-015 ile çok benzer (benzerlik %97); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "language",
+      "title": "Temel Diksiyon Becerileri Ve Etkili Konuşmanın İlkeleri",
+      "file": "benzerler\\9_language.txt",
+      "where": "benzerler\\9_language.txt",
+      "id": "tr-language-062",
+      "num": 62,
+      "words": 313,
+      "contentHash": "efa10221"
+    },
+    {
+      "status": "add",
+      "reasons": [],
+      "warnings": [
+        "tr-work-021 ile çok benzer (benzerlik %72); benzerliğe izin verildi (similar: ok)"
+      ],
+      "lang": "tr",
+      "cat": "work",
+      "title": "Müşteri Deneyimi ve Kalite Güvence Komitesi Toplantı Tutanağı",
+      "file": "benzerler\\9_work.txt",
+      "where": "benzerler\\9_work.txt",
+      "id": "tr-work-083",
+      "num": 83,
+      "words": 308,
+      "contentHash": "d7e62f66"
+    }
+  ]
+}

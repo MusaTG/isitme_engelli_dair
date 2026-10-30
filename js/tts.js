@@ -63,8 +63,9 @@ export function createWebSpeechEngine(win = globalThis) {
 
   // Boş/çok kısa çıktı algılama: ses motoru hiçbir şey okumadan "bitti" derse sessizce geçilmez.
   const MIN_MS = 60;
+  const START_MS = 3000;
   let cancelled = false;
-  function speakOnce(text, voice, rate, volume = 1) {
+  function speakOnce(text, voice, rate, volume = 1, { onStart, onBoundary } = {}) {
     cancelled = false;
     return new Promise((resolve, reject) => {
       const u = new Utterance(text);
@@ -74,22 +75,40 @@ export function createWebSpeechEngine(win = globalThis) {
       u.pitch = 1;
       u.volume = Math.min(1, Math.max(0, volume));
       let started = 0;
-      u.onstart = () => { started = (globalThis.performance || Date).now(); };
-      // Bazı tarayıcılar "end" olayını kaçırabilir; metin uzunluğuna göre güvenlik zaman aşımı.
-      const safety = setTimeout(resolve, Math.max(4000, (text.length * 180) / rate));
+      u.onstart = () => { started = (globalThis.performance || Date).now(); onStart?.(); };
+      // Kelime sınırı (okuma ekranında kelime vurgusu için); her ses göndermez.
+      if (onBoundary) u.onboundary = (e) => { if (!e.name || e.name === 'word') onBoundary(e.charIndex); };
+      // Ses hiç başlamazsa (Chrome'da ses motorunun takılması bilinen bir sorundur) sessizce "okundu" sayılmaz:
+      // START_MS içinde başlamazsa hata verilir; speak() bir kez sıfırlayıp yeniden dener.
+      const startGuard = setTimeout(() => { if (!started && !cancelled) { clearTimeout(safety); clearInterval(keep); reject(new TTSError('no-start', text)); } }, START_MS);
+      // Chrome uzun konuşmaları ~15 sn sonra kendiliğinden duraklatabilir; konuşurken düzenli "resume".
+      const keep = setInterval(() => { try { if (synth.speaking) synth.resume(); } catch { /* yok */ } }, 5000);
+      // Bazı tarayıcılar "end" olayını kaçırabilir; metin uzunluğuna göre güvenlik zaman aşımı (yalnızca başlamışsa).
+      const safety = setTimeout(() => { clearInterval(keep); clearTimeout(startGuard); if (started || cancelled) resolve(); else reject(new TTSError('no-start', text)); }, Math.max(4000, (text.length * 180) / rate));
       u.onend = () => {
-        clearTimeout(safety);
+        clearTimeout(safety); clearTimeout(startGuard); clearInterval(keep);
         const now = (globalThis.performance || Date).now();
         if (!cancelled && started && now - started < MIN_MS && text.trim().length > 1) reject(new TTSError('empty-output', text));
         else resolve();
       };
       u.onerror = (e) => {
-        clearTimeout(safety);
+        clearTimeout(safety); clearTimeout(startGuard); clearInterval(keep);
         if (e.error === 'interrupted' || e.error === 'canceled') resolve();
         else reject(new TTSError('synthesis-failed', e.error));
       };
+      try { synth.resume(); } catch { /* yok */ }
       synth.speak(u);
     });
+  }
+  // Başlamayan konuşmayı bir kez sıfırlayıp yeniden dener.
+  async function speakRetry(text, voice, rate, volume, hooks) {
+    try { return await speakOnce(text, voice, rate, volume, hooks); } catch (err) {
+      if (err?.code !== 'no-start' || cancelled) throw err;
+      synth.cancel();
+      await new Promise((r) => setTimeout(r, 150));
+      if (cancelled) return undefined;
+      return speakOnce(text, voice, rate, volume, hooks);
+    }
   }
 
   return {
@@ -104,11 +123,11 @@ export function createWebSpeechEngine(win = globalThis) {
       if (!voices.length) throw new TTSError('no-voice', lang);
       return voices.find((v) => v.voiceURI === voiceURI) || voices[0];
     },
-    async speak(text, { lang, voiceURI, accent, rate = 1, voice, volume = 1 } = {}) {
+    async speak(text, { lang, voiceURI, accent, rate = 1, voice, volume = 1, onStart, onBoundary } = {}) {
       if (!this.isSupported()) throw new TTSError('unsupported');
       const v = voice || (await this.resolveVoice(lang, { voiceURI, accent }));
       synth.cancel();
-      await speakOnce(text, v, rate, volume);
+      await speakRetry(text, v, rate, volume, { onStart, onBoundary });
       return v;
     },
     async speakSequence(texts, opts = {}, gapMs = 700) {
@@ -116,7 +135,7 @@ export function createWebSpeechEngine(win = globalThis) {
       synth.cancel();
       for (let i = 0; i < texts.length; i++) {
         if (opts.signal?.aborted) return v;
-        await speakOnce(texts[i], v, opts.rate || 1, opts.volume ?? 1);
+        await speakRetry(texts[i], v, opts.rate || 1, opts.volume ?? 1);
         if (i < texts.length - 1) await sleep(gapMs);
       }
       return v;

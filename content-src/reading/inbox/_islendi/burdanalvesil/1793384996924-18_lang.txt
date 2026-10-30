@@ -1,0 +1,193 @@
+### | Liseler Arası Bilim Projesi Yarışması Hazırlığı
+lang: tr | cat: dialogue | sub: school | tags: okul, bilim, proje, yarışma, grup | level: 2
+---
+## Yarışma İlanı ve Proje Konusunun Belirlenmesi
+
+Kaan: Günaydın Zeynep! Okul panosuna yeni asılan Liseler Arası Araştırma ve Bilim Projeleri Yarışması duyuru afişini inceledin mi?
+
+Zeynep: Günaydın Kaan! Evet, sabah ilk derse girmeden önce duyuru panosundaki detaylı şartnameyi büyük bir heyecanla dikkatlice okudum.
+
+Kaan: Birlikte ortak bir grup oluşturarak yarışmaya katılsak harika bir deneyim olur. Sen ne düşünüyorsun bu konuda Zeynep?
+
+Zeynep: Kesinlikle muazzam bir fikir Kaan! İkimizin de fen bilimlerine, çevre teknolojilerine ve yenilikçi projelere ilgisi oldukça yüksek.
+
+Kaan: Peki yarışma için odaklanacağımız ana bilimsel alanı ve proje konusunu ne olarak seçmeliyiz acaba?
+
+Zeynep: Şehirlerdeki su israfını önleyecek, akıllı sensörlerle çalışan otomatik yağmur suyu arıtma ve depolama sistemi tasarlayabiliriz.
+
+Kaan: Mükemmel bir proje fikri Zeynep! Hem çevre dostu, hem sürdürülebilir hem de günümüz kent içi su krizine somut bir çözüm sunuyor.
+
+Zeynep: O zaman zaman kaybetmeden proje detaylarımızı şekillendirmeye ve teorik araştırma takvimimizi kurgulamaya başlayalım Kaan.
+
+## Teorik Literatür Tarama ve Veri Toplama Aşaması
+
+Kaan: Proje fikrimizi somut bir bilimsel altyapıya oturtmak için önce kütüphanedeki akademisyen makalelerini ve çevre mühendisliği kitaplarını incelemeliyiz.
+
+Zeynep: Çok haklısın Kaan. Bugün okul çıkışında kütüphaneye gidip akıllı filtreleme sistemleri ve mikrobiyolojik su arıtma yöntemleri üzerine kaynak araştırması yapalım.
+
+Kaan: Harika! Ben ayrıca belediyemizin son üç yıllık kent içi yağmur suyu miktar istatistiklerini ve iklim verilerini de sistemden indireceğim.
+
+Zeynep: Verilere dayalı bir sunum hazırlamak proje jürisinin değerlendirme aşamasında bize çok büyük bir avantaj sağlayacaktır Kaan.
+
+Kaan: Topladığımız tüm teorik bilgileri, makale özetlerini ve istatistiksel verileri ortak dijital dosyamızda düzenli bir şekilde arşivleyelim.
+
+Zeynep: Evet Kaan, literatör özetini hazırladıktan sonra projemizin yöntembilim kısmını ve matematiksel modelleme adımlarını netleştireceğiz.
+
+Kaan: Bu teorik araştırma safhasını önümüzdeki hafta ortasına kadar eksiksiz bir şekilde tamamlamayı hedefleyelim mi Zeynep?
+
+Zeynep: Kesinlikle Kaan, teorik altyapı ne kadar sağlam olursa maket ve prototip üretimi safhasında o kadar rahat hareket ederiz.
+
+## Prototip Tasarımı ve Malzeme Seçimi
+
+Kaan: Teorik araştırmalarımızı başarıyla tamamladığımıza göre artık akıllı arıtma sistemimizin çalışan prototip maketini tasarlamaya geçebiliriz Zeynep.
+
+Zeynep: Evet Kaan! Bilişim ve teknoloji öğretmenimizden destek alarak Arduino mikrodenetleyici kartı, su seviye sensörleri ve akış ölçerler kullanabiliriz.
+
+Kaan: Harika! Filtreleme kademesinde ise doğal aktif karbon, kuvars kumu, çakıl taşları ve biyolojik sünger katmanları yer almalı.
+
+Zeynep: Tasarlayacağımız bu çok katmanlı doğal filtre suyun bulanıklığını ve katı parçacıkları en az yüzde doksan oranında temizleyecektir Kaan.
+
+Kaan: Prototipin dış gövdesi için şeffaf pleksiglas malzeme kullanalım, böylece suyun filtrelerden geçiş anı dışarıdan net olarak görülebilir.
+
+Zeynep: Çok estetik ve dikkat çekici bir görsel sunum fikri Kaan! Malzeme listesini çıkartıp okul bütçesinden veya kendi imkânlarımızla temin edelim.
+
+Kaan: Kırtasiye ve elektronikçiden alacağımız malzemelerin listesini hazırladım, öğle arasında fen laboratuvarı öğretmenimize onaylatalım.
+
+Zeynep: Mükemmel! Malzemeleri tamamladıktan sonra fen laboratuvarındaki hobi masasında montaj çalışmalarına hemen başlayabiliriz Kaan.
+
+## Laboratuvarda Prototip Montajı ve Yazılım Kodu
+
+Kaan: Zeynep, malzemelerimizi aldık ve fen laboratuvarımızdaki çalışma masasına yerleştirdik. İlk olarak sensör bağlantılarını ve devre şemasını kuralım.
+
+Zeynep: Tamam Kaan! Ben dijital su seviye sensörünü ve otomatik motor vanasını mikrodenetleyici karta kablolarla dikkatlice bağlıyorum.
+
+Kaan: Ben de bilgisayarda vananın su seviyesine göre otomatik açılıp kapanmasını sağlayacak kontrol yazılım kodunu yazıyorum.
+
+Zeynep: Kodlama bittikten sonra ilk deneysel su akış testini gerçekleştireceğiz Kaan. Bakalım sensörlerimiz vanayı zamanında tetikleyecek mi?
+
+Kaan: Yazılım yüklemesini karta aktardım Zeynep. Depoya bir miktar su döküyorum, sensör değerlerini seri port ekranından anlık izleyelim.
+
+Zeynep: Bak Kaan! Su seviyesi belirlenen eşik değere ulaşır ulaşmaz motor vana otomatik olarak açıldı ve filtreleme süreci başladı!
+
+Kaan: Harika! Yazılım kodumuz ve elektronik devre şemamız sorunsuz bir şekilde tıkır tıkır çalışıyor Zeynep.
+
+Zeynep: Şimdi de doğal filtre katmanlarından geçen suyun arıtma kalitesini ve berraklığını kimyasal test kitiyle ölçelim Kaan.
+
+## Deneysel Ölçümler ve Arıtma Verim Analizi
+
+Kaan: Laboratuvarımızdaki pH metre ve su sertliği ölçüm cihazlarını kullanarak arıtılmış su numunemizin değerlerini ölçelim Zeynep.
+
+Zeynep: Giriş suyu olarak topladığımız çamurlu ve bulanık yağmur suyu örneğinin başlangıç pH değerini ve bulanıklık oranını teste kaydettim.
+
+Kaan: Filtremizden geçen arıtılmış suyun pH değeri nötr seviye olan yedi virgül ikiye ulaştı ve bulanıklık tamamen yok oldu!
+
+Zeynep: Muazzam bir arıtma verimi! Aktif karbon ve kuvars kumu katmanlarımız sudaki yabancı koku ve tortuyu tamamen temizlemiş görünüyor.
+
+Kaan: Elde ettiğimiz bu deneysel verileri, grafik çizimlerini ve kimyasal analiz tablolarını proje raporumuza detaylıca işleyelim.
+
+Zeynep: Evet Kaan, bu somut laboratuvar verileri projemizin sadece bir maket değil, gerçek hayatta uygulanabilir bilimsel bir sistem olduğunu kanıtlıyor.
+
+Kaan: Jüri üyelerine sunum yaparken bu deneysel su analiz sonuçlarını içeren renkli grafik panolarımızı gururla sergileyeceğiz.
+
+Zeynep: Gerçekten son derece disiplinli, bilimsel standartlara uygun ve kaliteli bir deneysel analiz çalışması yürüttük Kaan.
+
+## Proje Raporunun Yazımı ve Görsel Materyaller
+
+Kaan: Deneysel analizlerimiz bittiğine göre yarışma şartnamesinde istenen yirmi sayfalık detaylı proje raporumuzu yazmaya başlayabiliriz Zeynep.
+
+Zeynep: Proje raporunun özet, giriş, literatör taraması, yöntem, bulgular ve sonuç bölümlerini aramızda eşit olarak paylaştıralım Kaan.
+
+Kaan: Giriş ve literatör taraması bölümlerini ben kaleme alayım, sen de yöntem ve deneysel bulgular kısmını yaz Zeynep.
+
+Zeynep: Harika bir görev dağılımı! Ayrıca raporun sonuna sistemin devre şemasını, fotoğraflarını ve malzeme maliyet tablosunu da ekleyelim.
+
+Kaan: Proje posterimizi hazırlarken de büyük boy kuşe kâğıda sistem şemasını ve grafikleri anlaşılır başlıklarla yerleştirmeliyiz.
+
+Zeynep: Görsel posterin üst kısmına projemizin adını ve amacını vurucu bir dille yazarsak inceleyenlerin ilgisini anında çekeriz Kaan.
+
+Kaan: Rapor yazımını ve poster tasarımını üç gün içinde bitirip fen bilimleri zümre öğretmenlerimizin kontrolüne sunalım.
+
+Zeynep: Anlaştık Kaan, öğretmenlerimizin geri bildirimleri doğrultusunda son düzeltmeleri yapıp raporumuzu yarışma sistemine yükleriz.
+
+## Sınıf İçi Prova Sunumu ve Zaman Yönetimi
+
+Kaan: Yarışma jürisinin karşısına çıkmadan önce okulumuzun konferans salonunda sınıf arkadaşlarımıza ve öğretmenlerimize sunum provası yapalım mı?
+
+Zeynep: Çok mantıklı bir düşünce Kaan! Sunum provası yapmak konuşma heyecanımızı yenmemizi ve on dakikalık sunum süresini doğru yönetmemizi sağlar.
+
+Kaan: Sunumun ilk beş dakikasında ben projenin amacını, problemini ve geliştirdiğimiz akıllı donanım altyapısını anlatayım Zeynep.
+
+Zeynep: Kalan beş dakikalık sürede de ben deneysel analiz verilerini, arıtma sonuçlarını ve sistemin kent ölçeğindeki faydalarını aktarırım.
+
+Kaan: Sunum sonrasında öğretmenlerimizden ve arkadaşlarımızdan gelebilecek olası eleştirel sorulara da hazırlıklı olmalıyız.
+
+Zeynep: Zaten tüm laboratuvar ölçümlerimizi ve yazılım kodlarımızı bildiğimiz için her soruya kendimizden emin bir şekilde cevap verebiliriz Kaan.
+
+Kaan: Prova sunumumuz sırasında ses tonumuza, beden dilimize, jest ve mimiklerimize de özen göstermeliyiz.
+
+Zeynep: Evet Kaan, özgüvenli ve anlaşılır bir konuşma dili jüri üzerindeki olumlu etkiyi katbekat artıracaktır.
+
+## Jüri Sunumu ve Yarışma Günü Heyecanı
+
+Kaan: Zeynep, bugün beklediğimiz büyük gün geldi! Bilim sergisi fuar alanındaki standımızı kurduk ve prototipimizi sergi masasına yerleştirdik.
+
+Zeynep: Evet Kaan, standımız renkli posterimiz, çalışan akıllı maketimiz ve deney tüplerimizle son derece profesyonel görünüyor.
+
+Kaan: Bak, yarışma jürisindeki akademisyen hocalarımız bizim standımıza doğru yaklaşıyorlar, heyecanlanmadan güler yüzle karşılayalım.
+
+Zeynep: Hoş geldiniz değerli jüri üyelerimiz! Bugün sizlere kent içi su tasarrufunda devrim yaratacak akıllı arıtma projemizi sunmaktan gurur duyuyoruz.
+
+Kaan: Projemiz, yağmur suyunu anlık sensörlerle algılayıp otomatik olarak doğal filtre katmanlarından geçirerek kullanıma sunan akıllı bir sistemdir.
+
+Zeynep: Laboratuvar ortamında yaptığımız kimyasal testlerde suyun bulanıklığını yüzde doksan beş oranında gidermeyi başardık.
+
+Kaan: Sistemin canlı çalışmasını şeffaf maketimiz üzerinden şu an sizlere deneyle anlık olarak göstermek istiyoruz.
+
+Zeynep: Jüri üyelerimizin ilgiyle notlar aldığını ve prototipimizin çalışma mekanizmasını çok beğendiğini gözlerinden anlayabiliyorum Kaan!
+
+## Ödül Töreni ve Başarının Gururu
+
+Kaan: Bütün stant sunumları ve değerlendirmeler sona erdi Zeynep. Birazdan konferans salonunda dereceye giren projeler ilan edilecek.
+
+Zeynep: Kalbim küt küt çarpıyor Kaan! Aylardır verdiğimiz emeğin, geceli gündüzlü laboratuvar çalışmalarımızın karşılığını almayı çok arzuluyorum.
+
+Kaan: Sunucu sahneye çıktı Zeynep! Çevre ve Mühendislik Kategorisi Birincilik Ödülü kazanan projeyi açıklamak üzere mikrofona yaklaşıyor.
+
+Zeynep: Birincilik Ödülü... Bizim okulumuzun ve akıllı yağmur suyu arıtma projemizin adı okundu Kaan! Başardık, birinci olduk!
+
+Kaan: İnanılmaz bir mutluluk ve gurur anı Zeynep! Emeklerimizin, bilimsel çalışmalarımızın karşılığını birincilik kupasıyla aldık!
+
+Zeynep: Şu an hissettiğim gururu ve sevinci tarif edemem Kaan! Kupamızı ve ödülümüzü almak üzere alkışlar eşliğinde sahneye çıkalım.
+
+Kaan: Sahneye çıkıp ödülümüzü alırken bizi destekleyen ailelerimize, okul müdürümüze ve rehber öğretmenlerimize yürekten teşekkür edelim.
+
+Zeynep: Bu birincilik başarısı gelecek akademik hayatımızda ve bilimsel araştırmalarımızda bize muazzam bir ilham ve özgüven verecektir Kaan.
+
+## Projenin Geleceği ve Kapanış
+
+Kaan: Yarışma sonrasında belediye yetkililerinin ve sanayi temsilcilerinin standımıza gelip projemizle ilgilenmesi muazzam bir gelişmeydi Zeynep.
+
+Zeynep: Evet Kaan, prototipimizin patent başvurusunu yapmamız ve kent parklarında pilot uygulama olarak kurulması yönünde destek teklif ettiler.
+
+Kaan: Bilimsel bir fikrin sadece kâğıt üzerinde kalmayıp gerçek hayatta kentimize fayda sağlayacak olması bizim için en büyük ödüldür.
+
+Zeynep: Gelecek yıl düzenlenecek uluslararası genç bilim insanları yarışmasına da projemizi daha geliştirerek katılmayı hedefleyelim mi Kaan?
+
+Kaan: Kesinlikle Zeynep! Sisteme güneş panelleri ve uzaktan mobil takip yazılımı ekleyerek projemizi uluslararası seviyeye taşıyacağız.
+
+Zeynep: Seninle böyle uyumlu, disiplinli, verimli ve başarılı bir takım arkadaşlığı yürütmek benim için büyük bir şanstı Kaan.
+
+Kaan: Ben de senin gibi zeki, çalışkan ve üretken bir arkadaşla bu projeyi yürütmekten büyük gurur duydum Zeynep.
+
+Zeynep: Bilim yolundaki yeni projelerimizde, araştırmalarımızda ve başarılarımızda tekrar buluşmak üzere Kaan!
+
+Kaan: Çok teşekkürler Zeynep, bilimle ve başarıyla kal, iyi günler dilerim!
+
+Kontrol Özeti:
+1454
+
+---
+
+`18-orta.txt` kaynağındaki 10 bölümlü orta uzunluktaki diyalog metni (1454 kelime) kılavuz kurallarına ve kelime alt sınırına tam uyumlu olarak üretilmiştir.
+
+Sıradaki dosya (`19-orta.txt`) ile devam etmek isterseniz "19 ile devam" yazmanız yeterlidir!

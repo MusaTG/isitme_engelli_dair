@@ -13,6 +13,7 @@ export function ttsErrorMessage(err, lang) {
   if (err?.code === 'no-voice') return t('ex.ttsError.noVoice', { lang: langName(lang) });
   if (err?.code === 'unsupported') return t('ex.ttsError.unsupported');
   if (err?.code === 'empty-output') return t('ex.ttsError.empty');
+  if (err?.code === 'no-start') return t('ex.ttsError.noStart');
   return t('ex.ttsError.failed', { detail: err?.detail || err?.message || '?' });
 }
 

@@ -30,11 +30,12 @@ jobs:
         with:
           node-version: 22
       - name: Gelen okuma metinlerini aktar (inbox)
-        run: node tools/import-reading.mjs --no-build
+        run: node tools/import-reading.mjs --yes --no-build
       - name: Okuma kütüphanesini derle ve eksik listesini güncelle
         run: |
           node tools/build-reading.mjs --quiet
           node tools/reading-status.mjs
+          node tools/notebooklm-pack.mjs
           node tools/sw-assets.mjs
       - name: Aktarılan metinleri ve derlenmiş dosyaları depoya geri yaz
         if: github.event_name == 'push'

@@ -1,0 +1,87 @@
+### | Okul Tiyatro Kulübü Rol Dağılımı
+lang: tr | cat: dialogue | sub: school | tags: okul, tiyatro, kulüp, sahne, prova | level: 2
+---
+Tarık: Günaydın Selin! Okul tiyatro kulübümüzün bu dönem sahneleyeceği geleneksel komedi oyunu için rol dağılımı listesi panoda ilan edildi mi?
+Selin: Günaydın Tarık! Evet, kulüp danışman öğretmenimiz liste metnini az önce tiyatro salonunun girişindeki ana duyuru panosuna astı.
+Tarık: Büyüleyici bir haber! Gerçekten günlerdir büyük bir merak ve heyecanla bu liste içeriğini bekliyorduk. Hangi roller kime verilmiş detaylıca inceleyebildin mi?
+Selin: İnceledim Tarık! Oyunun başrolündeki sevecen ve komik ihtiyar konağın sahibi karakterini öğretmenimiz sana vermiş!
+Tarık: Harika bir sürpriz! Bu rolü almayı çok ama çok istiyordum. Oyun boyunca sahnede olmak ve o karakteri canlandırmak benim için muazzam bir deneyim olacak.
+Selin: Seni yürekten tebrik ederim Tarık, bu rolün hakkını sahnede en iyi ve en yetkin şekilde vereceğinden hiç şüphem yok.
+Tarık: Çok teşekkür ederim Selin. Peki sen hangi karakteri canlandıracaksın, sana hangi rol uygun görülmüş acaba?
+Selin: Ben de konağın bilgili, akıllı ve her olayı tatlıya bağlayan hanımefendisi rolünü üstleneceğim.
+Tarık: Mükemmel bir seçim olmuş Selin! Sahnede karşılıklı diyaloglarımızın ve ortak oyun sahnelerimizin sayısı oldukça fazla olacak demektir.
+Selin: Evet Tarık, bu yüzden ezber çalışmalarına ve sahne provalarına şimdiden son derece disiplinli bir şekilde başlamamız gerekiyor.
+Tarık: Haftalık prova takvimimiz ve tiyatro salonundaki çalışma saatlerimiz tam olarak nasıl belirlenmiş acaba?
+Selin: Salı ve perşembe günleri ders bitiminde ikişer saat boyunca tiyatro salonunda sahne provası yapacak ekibimiz.
+Tarık: Prova saatleri son derece uygun. İlk provamıza kadar repliklerimizi ve senaryo metnimizi tamamen eksiksiz ezberlemeyi hedefleyelim mi?
+Selin: Kesinlikle katılıyorum Tarık. Metni iyi ezberlersek sahnede jest, mimik ve sahne duruşumuza daha çok odaklanabiliriz.
+Tarık: O zaman öğle arasında okulumuzun kütüphanesinde buluşup ilk okuma provamızı birlikte yapalım mı Selin?
+Selin: Çok iyi bir fikir Tarık, öğle arasında kütüphanede görüşmek üzere!
+Tarık: Görüşmek üzere Selin, sabırsızlıkla bekliyorum, iyi dersler dilerim.
+
+### | Botanik Parkına Ulaşım Yolu
+lang: tr | cat: dialogue | sub: directions | tags: yol tarifi, park, otobüs, cadde, şehir | level: 1
+---
+Derya: Afedersiniz Kadir Amca, sizi rahatsız ediyorum ama kentin en büyük botanik parkına giden belediye otobüsü durağını ve yürüyüş yolunu arıyorum.
+Kadir: Merhaba Kızım! Hiç rahatsızlık değil, memnuniyetle yardımcı olurum. Botanik parkına gitmek için son derece doğru bir caddedesin, buradan ulaşım çok kolay ve rahattır.
+Derya: Çok sevindim Kadir Amca. Tam olarak hangi otobüs hattına binmem gerekiyor ve durağın yeri buraya ne kadar uzaklıkta acaba?
+Kadir: Şu an üzerinde bulunduğumuz ana geniş cadde boyunca hiç sapmadan dosdoğru iki yüz metre kadar ileriye doğru yürümelisin.
+Derya: İleride görünen büyük mavi taksi durağının ve trafik ışıklarının olduğu tarafa doğru mu yürüyeceğim Kadir Amca?
+Kadir: Evet Kızım, taksi durağının hemen yanında üstü kapalı büyük camlı belediye otobüs durağını göreceksin.
+Derya: O duraktan hangi otobüs hattına binmem gerekiyor botanik parkının ana kapısına doğrudan ulaşmak için?
+Kadir: Duraktan her on dakikada bir geçen on iki numaralı yeşil belediye otobüsüne bindiğinde otobüs seni doğrudan parkın ana giriş kapısında indirir.
+Derya: Yolculuk otobüsle yaklaşık kaç dakika sürer acaba Kadir Amca?
+Kadir: Trafik yoğunluğuna bağlı olarak en fazla ten ila fifteen dakika içinde botanik parkında olursun Kızım.
+Derya: Otobüsten indikten sonra park girişini ve bilet gişelerini bulmak için ekstra bir sokak yürümeme gerek var mı?
+Kadir: Hayır Kızım, otobüs durağı zaten botanik parkının ana giriş kapısının ve bilet gişelerinin tam karşısındadır.
+Derya: Otobüs biniş ücretini temassız kredi kartımla ödeyebilir miyim acaba?
+Kadir: Evet Kızım, tüm belediye otobüslerinde temassız banka ve kredi kartları geçerlidir.
+Derya: Verdiğin net, açık, detaylı ve nazik tarif için çok teşekkür ederim Kadir Amca.
+Kadir: Rica ederim Kızım, botanik parkında sana çok güzel, huzurlu ve keyifli bir gezi dilerim!
+Derya: Sağ olasın Kadir Amca, hayırlı ve güzel günler dilerim.
+
+### | Resim Kursunda Yeni Sınıf Arkadaşı ile Tanışma
+lang: tr | cat: dialogue | sub: intro | tags: tanışma, resim, kurs, sanat, atölye | level: 2
+---
+Gökhan: Merhaba! Galiba siz de belediyenin halk eğitimi merkezinde açılan hafta sonu yağlı boya resim kursuna yeni kayıt yaptırdınız?
+Nilay: Merhaba! Evet, çok doğru bir tahmin. Ben Nilay. Bu sabah ilk dersimiz için Atölyeye heyecanla geldim.
+Gökhan: Çok memnun oldu Nilay Hanım, ben de Gökhan. Geçen dönem başlangıç seviyesi sulu boya kursuna katılmıştım, bu dönem yağlı boya tekniğine geçmeye karar verdim.
+Nilay: Ben de tanıştığıma çok memnun oldu Gökhan Bey. Ben ömrümde ilk kez resim eğitimi alıyorum, o yüzden biraz heyecanlıyım.
+Gökhan: Hiç heyecanlanmayın Nilay Hanım, atölye hocamız Zafer Bey son derece sabırlı, anlayışlı ve alanında uzman bir eğitmendir.
+Nilay: Bunu duyduğuma çok sevindim Gökhan Bey. İlk derste şövale kurulumu ve tuval hazırlığı mı yapılıyor acaba?
+Gökhan: Evet, Zafer Hocamız ilk derste tuval germe, tuval yüzeyini zımparalama ve temel fırça tekniklerini detaylıca anlatır.
+Nilay: Resim malzemeleri olarak tuval, şövale, fırça seti ve yağlı boya tüplerini nereden temin ettiniz acaba?
+Gökhan: Kurs binamızın hemen karşı sokağındaki sanat malzemeleri dükkânından uygun fiyatlı kaliteli resim setlerini temin edebilirsiniz.
+Nilay: Derslerden sonra tuvalimizi ve boya fırçalarımızı atölyedeki kilitli dolaplarda saklama imkânımız var mı acaba?
+Gökhan: Evet, her kursiyere özel bir kilitli malzeme dolabı tahsis ediliyor, eşyalarınızı emniyetle bırakabilirsiniz.
+Nilay: Muazzam bir kolaylık gerçekten. Sizin en çok yapmayı sevdiğiniz resim tarzı ve konusu nedir Gökhan Bey?
+Gökhan: Ben doğa manzaraları, deniz kıyıları ve dağ manzaraları çalışmayı çok seviyorum Nilay Hanım.
+Nilay: Ben de soyut kompozisyonlar ve canlı renkli çiçek natürmortları üzerine çalışmayı hayal ediyorum.
+Gökhan: Harika bir sanatsal vizyon! Dersimiz başlamak üzere, şövalelerimizin başına geçelim isterseniz.
+Nilay: İlginiz, samimi sohbetiniz ve verdiğiniz faydalı bilgiler için çok teşekkür ederim Gökhan Bey.
+Gökhan: Rica ederim Nilay Hanım, kursumuzda harika ve verimli zamanlar geçirmenizi dilerim!
+
+### | Otel Odasındaki Isınma ve Klima Arızası Çözümü
+lang: tr | cat: dialogue | sub: problem | tags: sorun, otel, klima, arıza, müşteri | level: 3
+---
+Volkan: İyi akşamlar Burcu Hanım, resepsiyondan arıyorum. Tarafımıza tahsis edilen üç yüz dört numaralı odada konaklamaktayım.
+Burcu: İyi akşamlar Volkan Bey! Size ve ailenize nasıl yardımcı olabilirim acaba? Konaklamanızla ilgili bir talebiniz mi vardı?
+Volkan: Evet Burcu Hanım, odadaki merkezi iklimlendirme ve klima sistemimiz maalesef yeterli sıcaklığı sağlamıyor ve odamız oldukça soğuk.
+Burcu: Bu durum için çok özür dilerim Volkan Bey. Odadaki dijital termostat kumandasını yirmi dört derece sıcaklık moduna ayarlamayı denediniz mi acaba?
+Volkan: Evet Burcu Hanım, dereceyi yükselttik ve yaklaşık kırk beş dakika bekledik ancak klima ünitesinden sadece soğuk hava üflemeye devam ediyor.
+Burcu: Yaşadığınız bu teknik mağduriyet ve soğuk ortam rahatsızlığı için otelimiz adına sizden içtenlikle özür dilerim Volkan Bey.
+Volkan: Anlayışınız için teşekkür ederim Burcu Hanım. Akşam vakti hava sıcaklığı oldukça düştüğü için küçük çocuğumuz soğuktan olumsuz etkileniyor.
+Burcu: Sizi çok iyi anlıyorum Volkan Bey. Teknik ekibimiz şu an nöbette, hemen odaya bir teknisyen yönlendirip klima ünitesini kontrol ettirebilirim.
+Volkan: Teknisyenin arızayı gidermesi uzun sürecekse ailenin mağdur olmaması adına odamızın değiştirilmesi mümkün müdür acaba?
+Burcu: Kesinlikle Volkan Bey! Teknisyenimizin kontrolünü beklemeden, sizi hemen bir üst kategoride yer alan deniz manzaralı süit odamıza aktaralım.
+Volkan: Gösterdiğiniz bu hızlı, müşteri odaklı ve yapıcı çözüm yaklaşımı için size çok teşekkür ederim Burcu Hanım.
+Burcu: Rica ederim Volkan Bey, müşteri memnuniyeti ve konforu bizim için her zaman ilk sıradadır.
+Volkan: Yeni odanın anahtarını resepsiyondan ben mi alayım yoksa görevli mi getirecek?
+Burcu: Bellboy arkadaşımız yeni odanızın kart anahtarını hemen odanıza getirecek ve valizlerinizi yeni odaya emniyetle taşıyacaktır.
+Volkan: Harika bir hizmet Burcu Hanım, hassasiyetiniz için minnettarım.
+Burcu: Rahatınız bizim için esastır Volkan Bey, yeni odanızda huzurlu ve sıcak bir gece geçirmenizi dilerim!
+Volkan: Çok teşekkür ederim Burcu Hanım, iyi çalışmalar dilerim.
+
+Kontrol Özeti:
+İstenen Sayı: 5
+Üretilen Sayı: 5

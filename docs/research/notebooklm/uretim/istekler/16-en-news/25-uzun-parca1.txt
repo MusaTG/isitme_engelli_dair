@@ -1,0 +1,17 @@
+Kaynaklardaki yazım kılavuzuna göre 1 UZUN metin yazacağız; 4 parçada tamamlanacak (toplam 12 bölüm).
+
+- Dil: İngilizce (doğal İngilizce; Türkçeden çeviri değil)
+- Kategori: news (Gazete ve dergi tarzı) · sub: science (Bilim ve teknoloji) · level: 3
+- Bu parça: başlık bloğu + ilk 3 bölüm, 1100–1500 kelime. Her bölüm "## Ara başlık" ile başlasın.
+- Kurgusal haber: hayalî yer ve kişiler; gerçek bir olay gibi sunma.
+
+Biçim (YAML kullanma):
+
+### | Metnin Başlığı
+lang: en | cat: news | sub: science | tags: <3-5 etiket> | level: 3
+---
+## İlk ara başlık
+
+Paragraflar…
+
+Metni bu parçada BİTİRME. Atıf numarası ve kontrol özeti yazma.

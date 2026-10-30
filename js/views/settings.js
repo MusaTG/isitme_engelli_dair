@@ -1,6 +1,6 @@
 // Ayarlar: basit görünüm varsayılan; gelişmiş ayarlar isteğe bağlı açılır.
 import { t, setLocale } from '../i18n.js';
-import { esc, icon, selectOptions, toast, download, helpLink } from '../ui.js';
+import { esc, icon, selectOptions, toast, download, helpLink, confirmAsk } from '../ui.js';
 import { guideSettingsSection } from './guide.js';
 import { levelName } from '../engine/levels.js';
 import { setMasterVolume } from '../audio.js';
@@ -144,6 +144,11 @@ export async function settingsView(root, ctx) {
       <button class="btn secondary" data-act="export">${icon('download')}${t('set.export')}</button>
       <label class="btn secondary file-btn">${t('set.import')}<input type="file" id="importFile" accept="application/json,.json"></label>
       <button class="btn danger" data-act="wipe">${icon('trash')}${t('set.wipe')}</button>
+    </div>
+    <div class="persist-box" id="persist" ${navigator.storage?.persist ? '' : 'hidden'}>
+      <p class="small"><strong>${t('set.persistTitle')}</strong> <span id="persist-st" role="status"></span></p>
+      <p class="small muted">${t('set.persistBody')}</p>
+      <button class="btn secondary small" data-act="persist">${t('set.persistBtn')}</button>
     </div></section>
 
   <section class="panel" aria-labelledby="s-ab"><h2 id="s-ab" class="h3">${t('set.about')}</h2>
@@ -222,8 +227,8 @@ export async function settingsView(root, ctx) {
     ctx.refreshShell();
     ctx.go('#/home');
   }));
-  on('[data-act=removeProfile]', 'click', () => {
-    if (!window.confirm(t('set.removeConfirm'))) return;
+  on('[data-act=removeProfile]', 'click', async () => {
+    if (!await confirmAsk(t('set.removeConfirm'))) return;
     store.removeProfile(p.id);
     ctx.applyPrefs();
     ctx.refreshShell();
@@ -256,6 +261,21 @@ export async function settingsView(root, ctx) {
     ctx.rerender();
   }));
 
+  // Kalıcı depolama: tarayıcıdan verinin kendiliğinden silinmemesini ister. İzin tarayıcıya bağlıdır; reddedilirse
+  // yalnızca durum gösterilir (veri yine bu cihazda kalır, yedek almak önerilir).
+  const persistState = async () => {
+    const el = $('#persist-st');
+    if (!el || !navigator.storage?.persisted) return;
+    const granted = await navigator.storage.persisted().catch(() => false);
+    el.textContent = t(granted ? 'set.persistOn' : 'set.persistOff');
+    $('[data-act=persist]').hidden = granted;
+  };
+  persistState();
+  on('[data-act=persist]', 'click', async () => {
+    const ok = await navigator.storage.persist().catch(() => false);
+    await persistState();
+    toast(t(ok ? 'set.persistOn' : 'set.persistDenied'));
+  });
   on('[data-act=export]', 'click', () => download(`duyum-yedek-${new Date().toISOString().slice(0, 10)}.json`, store.exportJSON()));
   on('#importFile', 'change', async (e) => {
     const file = e.target.files?.[0];
@@ -271,8 +291,8 @@ export async function settingsView(root, ctx) {
       toast(t('set.importFail'));
     }
   });
-  on('[data-act=wipe]', 'click', () => {
-    if (!window.confirm(t('set.wipeConfirm'))) return;
+  on('[data-act=wipe]', 'click', async () => {
+    if (!await confirmAsk(t('set.wipeConfirm'))) return;
     store.wipe();
     ctx.clearPacks();
     setLocale('tr');

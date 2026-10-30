@@ -4,11 +4,12 @@
 //   node tools/build-reading.mjs            derle + rapor
 //   node tools/build-reading.mjs --check    derlenmiş dosyalar kaynakla aynı mı? (CI)
 //   node tools/build-reading.mjs --strict   her kategoride en az 100 metin yoksa hata
+import { fileURLToPath } from 'node:url';
 import { readdir, readFile, writeFile, mkdir } from 'node:fs/promises';
 import { join } from 'node:path';
 import { parseSourceFile, makeText, sectionsText, shingles, tokenSet, sentences, fold, DEFAULT_WPM, estimateMinutes, lengthClass } from '../js/reading/core.js';
 
-const ROOT = new URL('..', import.meta.url).pathname;
+const ROOT = fileURLToPath(new URL('..', import.meta.url));
 const SRC = join(ROOT, 'content-src/reading');
 const OUT = join(ROOT, 'content/reading');
 const args = new Set(process.argv.slice(2));
@@ -47,7 +48,7 @@ export async function buildLang(lang, cats) {
   const byHash = new Map();
   for (const t of texts) {
     const k = fold(t.title, lang);
-    if (byTitle.has(k)) errors.push(`${t.id}: başlık ${byTitle.get(k)} ile aynı`); else byTitle.set(k, t.id);
+    if (byTitle.has(k)) warnings.push(`${t.id}: başlık ${byTitle.get(k)} ile aynı (içerik farklı; ayrı metin sayıldı)`); else byTitle.set(k, t.id);
     const h = fold(sectionsText(t.sections), lang);
     if (byHash.has(h)) errors.push(`${t.id}: içerik ${byHash.get(h)} ile birebir aynı`); else byHash.set(h, t.id);
   }
@@ -68,6 +69,7 @@ export async function buildLang(lang, cats) {
     const [a, b] = key.split('|').map(Number);
     const j = n / (sh[a].size + sh[b].size - n);
     const contain = n / Math.min(sh[a].size, sh[b].size);
+    if ((j >= NEAR_DUP || contain >= 0.5) && (texts[a].similar || texts[b].similar)) { warnings.push(`${texts[a].id} ~ ${texts[b].id}: çok benzer, izinli (similar: ok; kapsama ${contain.toFixed(2)})`); continue; }
     if (j >= NEAR_DUP || contain >= 0.5) { errors.push(`${texts[a].id} ~ ${texts[b].id}: çok benzer (Jaccard ${j.toFixed(2)}, kapsama ${contain.toFixed(2)})`); similar.push([texts[a].id, texts[b].id, j]); }
   }
   // Seri bütünlüğü
@@ -87,6 +89,9 @@ function catalogEntry(t) {
     id: t.id, n: t.n, cat: t.cat, sub: t.sub, title: t.title, kind: t.kind, aud: t.aud, level: t.level, tags: t.tags,
     ...(t.series ? { series: t.series, part: t.part } : {}), version: t.version, hash: t.hash, words: t.words,
     stages: t.sections.length, heads: t.sections.filter((s) => s.h).map((s) => s.h), preview: t.preview, ...(t.summary ? { summary: t.summary } : {}),
+    ...(t.levelAuto ? { levelAuto: true } : {}), ch: t.contentHash, ...(t.readability != null ? { rs: t.readability } : {}),
+    ...(t.source ? { source: t.source } : {}), ...(t.license ? { license: t.license } : {}), ...(t.author ? { author: t.author } : {}),
+    ...(t.origin ? { origin: t.origin } : {}), ...(t.reviewed ? { reviewed: true } : {}),
   };
 }
 
@@ -168,4 +173,4 @@ function inventory(cats, summary) {
   return `${lines.join('\n')}\n`;
 }
 
-if (process.argv[1] === new URL(import.meta.url).pathname) await main();
+if (process.argv[1] === fileURLToPath(import.meta.url)) await main();

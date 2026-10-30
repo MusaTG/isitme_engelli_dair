@@ -1,0 +1,104 @@
+### | Biyomedikal Cihaz Sektöründe Küresel Ar-Ge Stratejileri Sunumu
+lang: tr | cat: work | sub: presentation | tags: sunum, biyomedikal, ar-ge, sağlık, strateji | level: 2
+---
+Değerli yönetim kurulu üyelerimiz, kıdemli araştırma direktörlerimiz, değerli yatırımcılarımız, ana paydaşlarımız ve biyomedikal araştırma merkezimize yön veren değerli çalışma arkadaşlarım, bugün gerçekleştireceğimiz bu stratejik sunumda şirketimizin önümüzdeki iki yıllık dönemde benimseyeceği küresel Ar-Ge stratejilerini, dijital sağlık entegrasyonu adımlarımızı ve klinik verimliliği artırmaya yönelik dinamik projelerimizi tüm detaylarıyla detaylı şekilde paylaşmaktan büyük bir onur duyuyorum.
+
+Günümüzün hızla değişen küresel sağlık pazar koşullarında, dijital dönüşüm rüzgârında ve yüksek rekabet ortamında, geleneksel tıbbi cihaz üretim yöntemleriyle pazarda kalıcı üstünlük sağlamak ne yazık ki tek başına yeterli olmamaktadır. Sağlık kurumları ve uzman hekimler artık teşhis ve tedavi süreçlerinin her bir adımında şeffaf, hızlı, güvenilir, ölçülebilir, hassas ve entegre bir teknolojik altyapı kurgulamayı arzulamaktadır. Yapılan son bağımsız araştırmalar, yapay zekâ destekli biyomedikal cihazları benimseyen sağlık kuruluşlarının klinik teşhis doğruluğunda %40 artış sağladığını ve hasta bakım süreçlerini iki kat daha hızlı tamamladığını net şekilde ortaya koymaktadır.
+
+Bu doğrultuda kurguladığımız yeni sağlık teknolojileri vizyonumuz üç ana temel sütun üzerine inşa edilmiştir: Birinci sütunumuz, tüm hasta takip cihazlarımızı ve laboratuvar analiz ünitelerimizi tek bir merkezde birleştiren bütünleşik klinik veri yönetimidir. Hastaneler arası tıbbi veri akışını kesintisiz hale getirerek tanı süreçlerındaki zaman kayıplarını tamamen ortadan kaldırıyoruz.
+
+İkinci sütunumuz, yapay zekâ destekli giyilebilir biyosensörler ve uzaktan hasta izleme sistemleridir. Hastaların hayati bulgularını ve biyokimyasal değerlerini anlık olarak analiz ederek, henüz klinik semptomlar gelişmeden önce önleyici tedavi protokolleri geliştireceğiz.
+
+Üçüncü sütunumuz ise sağlık personeline yönelik düzenlenecek sürekli teknik eğitim programlarıdır. Hekim ve hemşirelerimizin yeni nesil cihazlara uyum yetkinliklerini artırarak sağlık hizmeti kalitemizi en üst seviyeye taşımayı hedefliyoruz.
+
+Ayrıca Ar-Ge bütçemizin verimli kullanımı amacıyla her ay ürün klinik performans göstergelerini anlık takip edecek ve yönetim kuruluna sunacak esnek analiz panelleri kuracağız. Bu paneller sayesinde araştırma bütçesi sapmaları erken aşamada tespit edilecek ve gerekli iyileştirmeler hızla yapılacaktır.
+
+Sunumumuzun son bölümünde yer alan uygulama takvimi doğrultusunda, ilk çeyrekte klinik test hazırlıklarımızı tamamlayarak ikinci çeyrek itibarıyla yeni biyomedikal ürün serimizi tüm uluslararası pazarlarda canlıya alacağız. Şirketimizi geleceğe taşıyacak bu vizyoner projeye verdiğiniz güçlü destek için hepinize ayrı ayrı yürekten teşekkür ederim.
+
+### | Şirket İçi Bilgisayar Ağ Güvenliği ve Cihaz Kullanım Talimatı
+lang: tr | cat: work | sub: instructions | tags: talimat, güvenlik, ağ, cihaz, şirket | level: 1
+---
+Amaç ve Kapsam:
+Bu talimatname, şirketimiz bünyesinde kullanılan tüm masaüstü bilgisayarların, dizüstü cihazların, kurumsal mobil telefonların ve ağ altyapısının siber tehditlere, zararlı yazılımlara, yetkisiz veri erişimlerine ve fiziksel güvenlik risklerine karşı korunmasını sağlamak amacıyla hazırlanmıştır. Şirket ağımıza kablolu veya kablosuz olarak bağlanan tüm personel, stajyer ve dış kaynak hizmet sağlayıcıları bu talimatnamede belirtilen teknik güvenlik kurallarına, erişim protokollerine, şifreleme kriterlerine ve kurumsal gizlilik politikalarına eksiksiz ve amansızca uymakla mükellef ve sorumlu yükümlüdür.
+
+1. Kablosuz Ağ (Wi-Fi) ve Uzaktan Erişim Standartları:
+- Şirket personeline tahsis edilen cihazların kurumsal kablosuz ağa bağlantısı yalnızca Kişisel Sertifika ve İki Faktörlü Kimlik Doğrulama (2FA) ile sağlanacaktır.
+- Şirket dışındayken veya evden uzaktan çalışma esnasında kurumsal sistemlere ve ortak sunuculara erişimde yalnızca Bilgi Teknolojileri birimi tarafından tanımlanmış Sanal Özel Ağ (VPN) bağlantısı kullanılmalıdır.
+- Kafe, havalimanı ve otel gibi alanlardaki şifresiz veya güvensiz halka açık kablosuz ağlar üzerinden kurumsal e-posta ve sistemlere doğrudan giriş yapılması kesinlikle ve hiçbir koşulda yasaktır.
+
+2. Cihaz Güvenliği ve Yazılım Güncellemeleri:
+- Çalışanlar kendilerine tahsis edilen bilgisayarlarda yerel yönetici (Administrator) yetkisi talep edemez; lisanssız, korsan veya onaylanmamış üçüncü taraf yazılımları cihazlara yükleyemez.
+- İşletim sistemi ve антиvirüs yazılımı güncellemeleri sistem tarafından otomatik olarak yüklenecektir. Güncelleme bildirimleri ertelenmemeli ve cihazlar haftada en az bir kez tamamen yeniden başlatılmalıdır.
+- Şirket cihazlarının çalınması, kaybedilmesi, hasar görmesi veya fiziksel zarara uğraması durumunda derhal Bilgi Teknolojileri birimine yazılı bildirim yapılmalıdır.
+
+3. Taşınabilir Medya ve Harici Cihaz Kısıtlamaları:
+- Kurumsal bilgisayarlara kaynağı belirsiz USB bellek, harici disk veya kişisel telefon bağlantısı yapılması güvenlik yazılımları tarafından otomatik olarak engellenecektir.
+- Dosya aktarımı yalnızca onaylı kurumsal bulut depolama alanları üzerinden güvenli şekilde gerçekleştirilmelidir.
+
+4. İhlal Bildirimi ve Yaptırımlar:
+- Cihazlarda şüpheli bir yavaşlama, garip açılır pencereler veya virüs uyarısı görüldüğünde derhal Siber Güvenlik Olay Müdahale Ekibine bildirim yapılmalıdır. Bu talimatnameye aykırı hareket eden personel hakkında Disiplin Yönetmeliği hükümleri doğrultusunda gerekli idari, idari takibat ve hukuki yaptırımlar uygulanacaktır. Tüm çalışanlarımızın gerekli özeni göstermesini önemle rica ederiz.
+
+### | Özel Taşımacılık Ve Kargo Gecikmesi Bilgilendirme Mektubu
+lang: tr | cat: work | sub: customer | tags: müşteri, iletişim, kargo, özür, bilgilendirme | level: 2
+---
+Sayın Turgut Yıldız,
+
+Şirketimizden 20 Ekim 2026 tarihinde satın almış olduğunuz hassas laboratuvar ekipmanlarının kargo ve lojistik teslimat süreçleriyle ilgili tarafımıza iletmiş olduğunuz haklı şikâyet başvurusu ve bilgilendirme talebi Müşteri İlişkileri Departmanımız tarafından büyük bir dikkat, hassasiyet, ciddiyet, özen ve titizlikle detaylıca incelemeye alınmıştır.
+
+Öncelikle, siparişinizin lojistik tedarik zinciri sürecinde belirlenen teslimat tarihinde adresinize ulaştırılamaması ve yaşanan iletişim aksaklığı sebebiyle merkezinizde meydana gelen dönemsel araştırma gecikmesi ve mağduriyetten ötürü şirketimiz adına sizden ve ekibinizden içtenlikle ve yürekten özür dileriz. Müşterilerimize yüksek standartlarda, hızlı, güvenilir, kesintisiz, sorunsuz, şeffaf, sürdürülebilir ve kaliteli hizmet sunmak en temel kurumsal önceliğimiz ve vazgeçilmez varlık ilkemizdir.
+
+Gerçekleştirilen iç inceleme sonucında, bölgesel aktarma depomuzdaki otomasyon bandında meydana gelen beklenmedik teknik arıza ve olumsuz hava koşulları sebebiyle sevkiyat saatinizde gecikme yaşandığı tespit edilmiştir. Yaşanan bu iletişim kopukluğuyla ilgili sorumlu birimler uyarılmış ve benzer aksaklıkların tekrar etmemesi adına lojistik takip sistemimizde ve müşteri bilgilendirme süreçlerimizde gerekli düzeltici ve önleyici tedbirler derhal ve kararlılıkla alınmıştır.
+
+Yaşadığınız mağduriyeti telafi etmek ve şirketinizle olan uzun vadeli iş birliğimizi güçlendirmek amacıyla şirketimiz tarafından şu adımlar atılmıştır:
+1. Siparişinizin nakliye ve kargo teslimat ücretinin tamamı şirketimizin ikramı olarak tarafınıza tamamen iade edilmiştir.
+2. Gelecekteki ilk iki cihaz siparişinizde uygulanmak üzere hesabınıza %15 oranında özel indirim tanımlanmıştır.
+3. Şirketinize özel kıdemli bir lojistik operasyon temsilcisi atanmış olup 7/24 doğrudan iletişim imkânı sağlanmıştır.
+4. Lojistik ekibimiz önümüzdeki hafta merkezinize gelerek gelecekteki sevkiyat takvimini yerinde detaylıca planlayacaktır.
+5. Önümüzdeki 6 ay boyunca tüm sevkiyatlarınız için anlık konum takip raporları e-posta adresinize düzenli iletilecektir.
+6. Şirketinizin tüm lojistik talepleri öncelikli müşteri statüsünde doğrudan işleme alınacaktır.
+
+Müşteri memnuniyetini her şeyin üzerinde tutan kurumsal anlayışımızla, sizlere hizmet vermekten büyük onur duyuyoruz. Süreçle ilgili sorularınız için müşteri hizmetlerimize dilediğiniz zaman kolayca ulaşabilirsiniz.
+
+Anlayışınız, sabrınız, değerli iş birliğiniz, güveniniz ve desteğiniz için teşekkür ederiz.
+
+Saygılarımla,
+Burcu Arslan
+Müşteri İlişkileri Yöneticisi
+Lider Lojistik ve Cihaz A.Ş.
+
+### | Nesnelerin İnterneti Tabanlı Akıllı Tesis Otomasyon Platformu
+lang: tr | cat: work | sub: tech | tags: teknoloji, yazılım, otomasyon, sensör, mimari | level: 3
+---
+Giriş ve Mimari Tasarım:
+Endüstri 4.0 dönüşüm sürecinin en kritik bileşenlerinden biri olan Nesnelerin İnterneti (IoT) tabanlı akıllı tesis otomasyon sistemleri, üretim sahalarındaki fiziki cihazların, makine parkurlarının, iklimlendirme ünitelerinin ve enerji hatlarının kablosuz sensör ağları üzerinden anlık olarak izlenmesini, analiz edilmesini ve uzaktan yönetilmesini sağlayan ileri düzey bir teknolojik mimaridir. Bu teknik kılavuz, şirketimizin üretim tesislerinde devreye alınan yeni nesil IoT sensör ağlarının detaylı teknik mimarisini, veri iletişim protokollerini ve güvenlik altyapısını ayrıntılarıyla kurgulayarak açıklamaktadır.
+
+1. Sensör Katmanı ve Veri Toplama Protokolleri:
+Fabrika sahamızdaki 250 farklı noktaya yerleştirilen titreşim, sıcaklık, nem, basınç ve elektrik akım sensörleri, makinelerin anlık çalışma performansını milisaniyelik yüksek hassasiyetle kaydetmektedir. Sensörler arası veri iletişimi, düşük enerji tüketimi ve yüksek menzil sağlayan LoRaWAN ve Zigbee kablosuz haberleşme protokolleri üzerinden kesintisiz yürütülmektedir. Sahadan toplanan ham telemetry verileri, endüstriyel gateway cihazları aracılığıyla filtrelenerek merkeze güvenle iletilir.
+
+2. Bulut Veri İşleme ve Kestirimci Bakım Algoritmaları:
+Saha gateway cihazlarından aktarılan anlık veriler, şirketimizin yerel bulut sunucularında çalışan zaman serisi veri tabanlarına (TimeSeries DB) aktarılır. Sistem bünyesinde çalışan makine öğrenmesi modelleri, makinelerdeki mikro titreşim değişimlerini ve sıcaklık artışlarını analiz ederek olası rulman veya motor arızalarını henüz gerçekleşmeden 72 saat önce tespit eder. Kestirimci bakım (predictive maintenance) uyarısı üreten sistem, bakım ekiplerimize otomatik iş emri kurgulayarak doğrudan yönlendirir.
+
+3. Siber Güvenlik ve Ağ Yalıtımı Standartları:
+IoT ağımızın dış siber saldırılardan korunması amacıyla endüstriyel kontrol ağı (OT) ile kurumsal bilgi teknolojileri ağı (IT) birbirinden fiziksel ve mantıksal güvenlik duvarlarıyla (DMZ) tamamen ayrılmıştır. Sensör verilerinin iletiminde AES-256 uçtan uca kriptolama teknolojisi kullanılmakta olup yetkisiz cihazların ağa katılması tamamen engellenmektedir.
+
+Bu bütüncül teknolojik altyapı ve otomasyon yatırımı sayesinde tesisimizdeki plansız duruş oranları %85 azaltılmış, enerji verimliliği %22 artırılmış ve operasyonel üretim kalitesi en üst seviyeye çıkarılmıştır. Tüm teknik personelin bu rehberde belirtilen güvenlik, veri yalıtımı ve otomasyon esaslarına eksiksiz uymasını önemle rica eder, çalışmalarınızda başarılar dileriz.
+
+### | Mesleki Duygusal Dayanıklılık Ve Zaman Yönetimi Yetkinlikleri
+lang: tr | cat: work | sub: growth | tags: gelişim, kariyer, zaman, yönetim, başarı | level: 2
+---
+Hızla gelişen, dijitalleşen, rekabetçi, yoğun ve yüksek tempolu günümüz iş dünyasında sürdürülebilir bir kariyer başarısı elde etmek, sadece teknik uzmanlık ve mesleki bilgi birikimiyle değil, aynı zamanda yoğun iş yükü altında stresi doğru yönetebilmek, zamanı etkili planlamak, zihinsel dengeyi korumak ve duygusal dayanıklılık (Resilience) geliştirmekle mümkündür. İş hayatında karşılaşılan beklenmedik aksaklıklar, sıkışık proje teslim tarihleri, yüksek sorumluluklar, performans hedefleri ve pazar dalgalanmaları karşısında zihinsel ve duygusal dengesini koruyabilen profesyoneller, hem bireysel sağlıklarını korumakta hem de uzun vadeli yüksek performans, üretkenlik, motivasyon, iş tatmini ve verimlilik sergilemektedir. Bireysel zaman yönetimi ve duygusal dayanıklılık yetkinliklerini geliştirmeye yönelik temel adımlar aşağıda detaylıca sıralanmıştır:
+
+1. Önceliklendirme ve Zaman Planlama Disiplini:
+Yoğun iş temposu altında stresi engellemenin en etkili yolu zamanı doğru yönetmektir. Günlük görevleri önem ve aciliyet derecelerine göre sınıflandıran Eisenhower Matrisi gibi zaman yönetimi tekniklerini kullanmak, yüksek odaklanma gerektiren işlere günün ilk saatlerinde vakit ayırmak verimliliği belirgin şekilde artırır.
+
+2. Bilişsel Esneklik ve Çözüm Odaklı Yaklaşım:
+Kriz anlarında olaylara verilen ilk tepkiler genelde kaygı odaklı olabilmektedir. Zorluklarla karşılaşıldığında "Bu sorunu nasıl çözebilirim?" sorusuna odaklanmak bilişsel esneklik kazandırır. Hataları bir başarısızlık olarak değil, önemli bir öğrenme, gelişim, tecrübe edinme ve olgunlaşma fırsatı olarak görmek duygusal direnci güçlendirir.
+
+3. Öz Bakım, Sınır Koyma ve Zihinsel Tazelenme:
+İş ve özel hayat arasındaki sağlıklı dengeyi korumak tükenmişliği engeller. Gün içinde kısa zihinsel molalar vermek, düzenli spor yapmak ve uyku kalitesine özen göstermek stres seviyesini düşürür.
+
+4. Akademi, Mentörlük ve Sürekli Eğitim Desteği:
+Şirketimizin sunduğu 'Zaman Yönetimi Ve Duygusal Dayanıklılık' akademisine katılarak, mentörlük programlarımızdan faydalanarak bireysel yetkinliklerinizi güçlendirebilir, kişisel gelişiminizi destekleyebilir, kriz anlarında soğukkanlılığınızı koruyabilir, stres seviyenizi kontrol altında tutabilir, çalışma alanınızda verimliliği yükseltebilir ve kariyer yolculuğunuzda çok daha emin, kararlı, huzurlu, başarılı ve güçlü adımlarla ilerleyebilirsiniz. Çalışanlarımızın psikolojik sağlığı, zihinsel dengesi, beden bütünlüğü ve iş-yaşam dengesi şirketimiz için her zaman en kıymetli, en hassas ve en öncelikli kurumsal değerdir.
+
+Kontrol Özeti:
+5

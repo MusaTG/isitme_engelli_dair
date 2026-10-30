@@ -1,0 +1,185 @@
+### | Butik Pastanede Çay ve Tatlı Molası
+lang: tr | cat: dialogue | sub: restaurant | tags: restoran, pastane, tatlı, çay, mola | level: 2
+---
+Garson: Taze hamur işleri, gurme tatlı çeşitleri ve özel çay harmanlarıyla ünlü fırın pastanemize hoş geldiniz Efendim! Sizi pencereli bahçe masamıza memnuniyetle alabilir miyim?
+
+Nalân: Hoş bulduk! İlgilendiğiniz, güler yüzle karşıladığınız ve yer gösterdiğiniz için çok teşekkür ederim. Pencere kenarındaki ahşap masa gerçekten son derece huzurlu, aydınlık, ferah ve keyifli bir ortama sahip.
+
+Garson: Masanıza taze çıkan tatlı menümüzü ve özel çay çeşitlerimizi hemen takdim ediyorum. Şefimiz bu öğleden sonra fırından yeni çıkan taze meyveli tartları ve özel çikolatalı sufleyi özenle hazırladı.
+
+Nalân: Menünüzü dikkatlice inceledim. Tatlılarınızın hamuru ve kreması mutfağınızda günlük olarak taze mi hazırlanıyor yoksa dondurulmuş ürünler mi kullanıyorsunuz acaba?
+
+Garson: Mutfağımızda kullandığımız tüm tatlılarımızın hamuru ve kreması şefimiz tarafından taze günlük süt, tereyağı ve gerçek çikolata ile günlük olarak elde özenle hazırlanmaktadır.
+
+Nalân: Taze çilekli ve badem kremalı tart tabağınızın içeriğinde hangi lezzetli malzemeler, özel kremalar ve soslar yer alıyor acaba?
+
+Garson: Taze çilekli tart tabağımızda fırınlanmış çıtır badem tabanı, özel vanilyalı pastacı kreması, taze çilek dilimleri, çikolata sosu ve hafif toz fıstık süslemesi yer almaktadır.
+
+Nalân: Çok lezzetli ve iştah açıcı görünüyor. Tartımın yanında başlangıç olarak taze demlenmiş aromatik bitki çayı alabilir miyim acaba?
+
+Garson: Tabii ki Efendim, porselen demlikte taze adaçayı ve ıhlamur harmanımızı siparişlerinize memnuniyetle ekliyorum. İçeceğinize bal veya limon ister misiniz?
+
+Nalân: Yanında küçük bir porsiyon süzme çam balı ve taze limon dilimi rica edeceğim.
+
+Garson: Özel isteğinizi şefe hemen not aldım Nalân Hanım. İçeceğiniz porselen demlikte masanıza servis edilecektir.
+
+Nalân: Tatlımın ve çayımın hazırlanıp masaya servis edilmesi yaklaşık kaç dakika sürer acaba?
+
+Garson: Bitki çayınız üç dakika içinde porselen demlikte masanızda olur, taze çilekli tartınız ise en fazla altı dakika içinde özenle dilimlenip sıcak servis edilir.
+
+Nalân: Detaylı açıklamalarınız, güler yüzlü kaliteli hizmetiniz, hızlı servisiniz ve ilginiz için çok teşekkür ederim.
+
+Garson: Rica ederim Nalân Hanım, şimdiden afiyet olsun, harika, huzurlu ve tatlı bir öğleden sonra geçirmenizi dilerim!
+
+### | Mahalle Manavından Taze Meyve Alışverişi
+lang: tr | cat: dialogue | sub: shopping | tags: market, manav, meyve, sebze, alışveriş | level: 1
+---
+Oğuz: Hayırlı işler Hüseyin Amca! Manav tezgâhındaki taze meyve ve sebzeler caddeden geçerken son derece renkli, taze, kaliteli ve iştah açıcı görünüyordu.
+
+Hüseyin: Sağ olasın Oğuz Evladım! Dükkânımıza hoş geldin. Yıllardır yerli üreticilerden doğrudan temin ettiğimiz taze, katıksız, kaliteli, lezzetli ve doğal ürünleri mahallemizle buluşturuyoruz.
+
+Oğuz: Çok güzel, değerli, anlamlı ve güven veren bir hizmet Hüseyin Amca. Özellikle taze Amasya elmaları, Deveci armutları ve çekirdeksiz sultani üzümleri detaylıca incelemek istiyorum.
+
+Hüseyin: Şu ahşap kasalarda gördüğünüz elma ve armutlar dün sabah bahçeden taze toplandı. Tamamen doğal, sulu, taze, lezzetli ve çıtır çıtır ürünlerdir.
+
+Oğuz: Harika görünüyorlar gerçekten. Amasya elmasının, Deveci armudunun ve sultani üzümün kilo fiyatı ne kadardır acaba?
+
+Hüseyin: Amasya elmamızın kilosu kırk lira, Deveci armudumuzun kilosu elli lira, sultani üzümümüzün kilosu ise altmış liradır Evladım.
+
+Oğuz: Bir kilo Amasya elması ile bir kilo Deveci armudundan tartıp kese kâğıdına koymanızı rica edeceğim.
+
+Hüseyin: Hemen hassas terazi ile tartıp dayanıklı bez poşetine özenle yerleştiriyorum. Çekirdeksiz sultani üzümümüzden de ekleyelim mi?
+
+Oğuz: Evet Hüseyin Amca, tatlı sultani üzümden de yarım kilo tartıp özenle ekler misin lütfen?
+
+Hüseyin: Üzümümüzün yarım kilosu otuz lira tutar. Toplam borcun yüz yirmi lira yapıyor Oğuz Evladım.
+
+Oğuz: Meyvelerin ezilmemesi, zedelenmemesi, sıkışmaması ve zarar görmemesi için poşetlemeyi biraz özenli ve dikkatli yapabilir misin Hüseyin Amca?
+
+Hüseyin: Tabii ki Evladım, sert elma ve armutları alt tarafa, hassas üzümü üst tarafa gelecek şekilde özenle ve dikkatle yerleştiriyorum.
+
+Oğuz: Ödemeyi nakit olarak veriyorum, buyurun iki yüz lira.
+
+Hüseyin: Para üstün olan seksen lirayı ve alışveriş fişini hemen takdim ediyorum.
+
+Oğuz: İlgin, güler yüzün, kaliteli hizmetin, samimi sohbetin ve taze ürünlerin için çok teşekkür ederim Hüseyin Amca!
+
+Hüseyin: Rica ederim Oğuz Evladım, afiyetle ve sağlıkla tüketiniz, iyi, sağlıklı, huzurlu, neşeli ve bereketli günler dilerim!
+
+Oğuz: Çok teşekkürler Hüseyin Amca, hayırlı ve bereketli işler dilerim!
+
+Hüseyin: Güle güle Oğuz Evladım, her zaman yine bekleriz, kendine çok iyi bak!
+
+### | Grafik Tasarım Uzmanı Mülakatı
+lang: tr | cat: dialogue | sub: interview | tags: mülakat, tasarım, grafik, reklam, kariyer | level: 2
+---
+Sinem: Hoş geldiniz Koray Bey. Ajansımızın kıdemli grafik tasarım ve görsel iletişim uzmanı pozisyonu için başvurunuzu detaylıca inceledik ve sizinle yüz yüze tanışmak istedik.
+
+Koray: Hoş bulduk Sinem Hanım. Sektörde yenilikçi projeleri, yaratıcı yaklaşımı ve güçlü görsel kimlik tasarımlarıyla öne çıkan ajansınızda bulunmaktan büyük memnuniyet duyuyorum.
+
+Sinem: Portfolyonuzda yer alan marka kimliği, ambalaj tasarımı, sosyal medya içerikleri ve dijital reklam projelerinizi son derece başarılı, özgün, kaliteli ve etkileyici bulduk. Bize tasarım sürecinde izlediğiniz yaratıcı metottan bahseder misiniz?
+
+Koray: Tabii ki Sinem Hanım. Tasarıma başlamadan önce markanın hedef kitlesini, pazar konumunu, rakip analizlerini ve görsel trendleri detaylıca incelerim. Ardından özgün konsept taslakları oluşturup markanın görsel dilini kurgularım.
+
+Sinem: Peki yoğun kampanya dönemlerinde aynı anda birden fazla tasarım projesini yönetirken zaman disiplinini, stres yönetimini, motivasyonu ve iş kalitesini nasıl sağlarsınız?
+
+Koray: Projeleri öncelik sırasına göre kategorize eder, iş takvimine sadık kalarak her aşama için net teslim süreleri belirlerim.
+
+Sinem: Müşteri geri bildirimleri doğrultusunda tasarımda revizyon yapılması gerektiğinde nasıl bir profesyonel yaklaşım sergilersiniz?
+
+Koray: Müşterinin taleplerini ve marka ihtiyaçlarını yapıcı bir şekilde anlamaya odaklanırım. Görsel estetikten ödün vermeden markanın hedeflerine uygun kaliteli ve kalıcı çözümler üretirim.
+
+Sinem: Ekip çalışmasında metin yazarları, yazılımcılar ve dijital pazarlama uzmanlarıyla iletişimi nasıl kurgularsınız?
+
+Koray: Açık, sürekli, yapıcı, şeffaf, dinamik ve iş birliğine dayalı bir iletişim dili kullanırım. Görsel ve metin uyumunu yakalamak adına her aşamada fikir alışverişinde bulunurum.
+
+Sinem: Önümüzdeki üç yıllık süreçte tasarım kariyerinizde hangi konuma ulaşmayı hedefliyorsunuz acaba?
+
+Koray: Uluslararası ödüllü projelere imza atan ve kreatif ekibe liderlik eden sanat yönetmeni konumuna ulaşmayı hedefliyorum.
+
+Sinem: Mülakat değerlendirme sonucumuzu önümüzdeki hafta içinde e-posta ile tarafınıza detaylıca bildireceğiz.
+
+Koray: Değerli zamanınız, ilginiz, nazik kabulünüz, misafirperverliğiniz ve samimi sohbetiniz için çok teşekkür ederim Sinem Hanım.
+
+Sinem: Biz teşekkür ederiz Koray Bey, çalışmalarınızda başarılar, kolaylıklar ve iyi günler dileriz!
+
+Koray: Çok teşekkürler Sinem Hanım, iyi ve verimli çalışmalar dilerim!
+
+### | Kalite Yönetimi ve Sertifikasyon Toplantısı
+lang: tr | cat: dialogue | sub: meeting | tags: toplantı, kalite, standart, sertifika, üretim | level: 3
+---
+Cemil: Değerli birim yöneticileri ve sevgili çalışma arkadaşlarım, tesisimizin uluslararası kalite yönetim sistemi, ISO sertifikasyon süreçleri ve genel üretim verimliliği konulu haftalık değerlendirme toplantımıza hepiniz hoş geldiniz.
+
+Gözde: Günaydın Cemil Bey. Kalite güvence, üretim kontrol ve iç denetim ekibimiz son iki ay boyunca tüm üretim hatlarımızda, laboratuvarlarımızda ve depolama alanlarımızda son derece kapsamlı ön denetimler gerçekleştirdi.
+
+Cemil: Çok güzel Gözde Hanım. Gerçekleştirilen bu detaylı ön denetim sonuçlarına göre kalite standartlarımızda ve dokümantasyon altyapımızda tespit edilen eksiklikler, aksaklıklar nelerdir?
+
+Gözde: Üretim süreçlerimiz genel olarak yüksek uluslararası standarttadır. Ancak hammadde kabul aşamasındaki test kayıtlarının dijitalleştirilmesi, laboratuvar veri tabanına aktarılması ve kalibrasyon takip sürelerinin güncellenmesi gerekmektedir.
+
+Cemil: Bu tespit edilen eksiklikleri hızlıca gidermek ve dış denetim öncesinde uluslararası sertifikasyon şartlarını eksiksiz karşılamak adına hangi adımları ve çözümleri atmayı planlıyorsunuz?
+
+Gözde: Tüm kalibrasyon süreçlerini anlık takip eden dijital otomasyon yazılımını hemen devreye sokuyoruz. Ayrıca tüm vardiya personeline süreç içi kalite kontrol ve hijyen eğitimi vereceğiz.
+
+Cemil: Planlanan bu dijital otomasyon yazılımının kurulum maliyeti, yazılım lisans bedeli ve personelin eğitim takvimi ne şekilde kurgulandı Gözde Hanım?
+
+Gözde: Yazılım kurulum ve lisans maliyetimiz yıllık kalite bütçemiz dâhilindedir. Personel eğitimlerimizi ise üretimi aksatmayacak şekilde hafta içi kısa oturumlar halinde başarıyla tamamlayacağız.
+
+Cemil: Mükemmel bir planlama ve zaman yönetimi! Peki resmi dış denetim heyetinin tesisimizi ziyaret tarihi ve denetim süresi tam olarak netleşti mi acaba?
+
+Gözde: Dış denetim heyeti önümüzdeki ayın ilk haftasında tesisimizde üç günlük detaylı, kapsamlı ve resmi inceleme gerçekleştirecektir.
+
+Cemil: Ekip olarak gösterdiğiniz yüksek sorumluluk, titizlik, profesyonel yaklaşım ve kaliteli çalışma disiplini için hepinize ayrı ayrı yürekten teşekkür ederim Gözde Hanım.
+
+Gözde: Biz teşekkür ederiz Cemil Bey. Hazırladığımız iç denetim raporunu, eylem planını ve önlem haritasını toplantı sonrası tüm birimlerle e-posta üzerinden paylaşıyorum.
+
+Cemil: Harika bir çalışma oldu Gözde Hanım, haftalık değerlendirme toplantımız sona ermiştir, hepinize kolaylıklar ve başarılı çalışmalar dilerim.
+
+Gözde: İyi ve verimli çalışmalar Cemil Bey, kolay gelsin!
+
+Cemil: Çok teşekkürler Gözde Hanım, verimli bir hafta dilerim.
+
+### | Sigorta Aentesi İle Poliçe Yenileme
+lang: tr | cat: dialogue | sub: phone | tags: telefon, sigorta, poliçe, araç, kasko | level: 2
+---
+Umut: İyi günler, Lider Sigorta Acentesi Müşteri Hizmetleri, ben Umut. Size bugün nasıl yardımcı olabilirim?
+
+Ebru: Merhaba Umut Bey. Gelecek hafta süresi dolacak olan otomobilimin kasko ve zorunlu trafik sigortası poliçesini yenilemek için aramıştım.
+
+Umut: Tabii ki Ebru Hanım. Mevcut poliçe bilgilerinizi ve kayıtlarınızı sistemden sorgulayabilmem için TC kimlik numaranızı veya araç plakanızı alabilir miyim?
+
+Ebru: Araç plakam otuz dört EBR sekiz yüz altmış, sistemdeki kayıtlarda yer alan ismim Ebru Şahin.
+
+Umut: Sistemimizden hemen gerekli sorgulamaları yapıyorum Ebru Hanım... Evet, araç kasko ve trafik sigortası poliçenizin süresi yirmi dokuz ekim tarihinde sona eriyor.
+
+Ebru: Anladım Umut Bey. Geçen bir yıllık süreçte aracımda herhangi bir hasar, kaza veya tramer kaydı yaşanmadı. Hasarsızlık indirim hakkım yeni poliçeye yansıyacak mı?
+
+Umut: Kesinlikle Ebru Hanım! Kazasız geçen bir yılın ardından kasko poliçenizde yüzde otuz oranında maksimum hasarsızlık indirimi kazanmış durumdasınız.
+
+Ebru: Çok sevindim! Yenilenen kasko poliçemin teminat kapsamına yol yardım, ikame araç, çekici hizmeti ve cam kırılması teminatları dâhil mi acaba?
+
+Umut: Evet Ebru Hanım, hazırladığımız genişletilmiş VIP kasko paketinde yedi yirmi dört yol yardım, muadili ikame araç, orijinal cam değişimi ve sınırsız çekici teminatı standart olarak yer almaktadır.
+
+Ebru: Mükemmel! Peki kasko ve zorunlu trafik sigortası toplam yenileme bedeli ne kadar tutuyor ve kredi kartına taksit imkânınız var mı?
+
+Umut: Hasarsızlık indiriminiz düşüldükten sonra kasko ve trafik sigortası toplam bedeliniz dokuz bin beş yüz liradır. Kredi kartına altı taksit yapabiliyoruz.
+
+Ebru: Taksit imkânı çok iyiymiş. Ödemeyi telefon üzerinden kredi kartımla hemen gerçekleştirebilir miyiz acaba?
+
+Umut: Evet Ebru Hanım, güvenli sesli yanıt sistemimiz üzerinden kart bilgilerinizi girerek ödemenizi saniyeler içinde tamamlayabilirsiniz.
+
+Ebru: Harika! Sesli yanıt sistemine hemen yönlendirmenizi rica ediyorum Umut Bey.
+
+Umut: Hemen yönlendiriyorum Ebru Hanım. Ödeme sonrası yeni poliçe belgeleriniz e-posta adresinize ve cep telefonunuza anında gönderilecektir.
+
+Ebru: Detaylı, açıklayıcı, hızlı ve yardımcı bilgileriniz için çok teşekkür ederim Umut Bey.
+
+Umut: Rica ederim Ebru Hanım, kazasız, emniyetli ve güvenli sürüşler dilerim, iyi günler!
+
+Ebru: Sağ olun Umut Bey, iyi ve kolay gelsin çalışmalar dilerim.
+
+Umut: Teşekkürler Ebru Hanım, hoşça kalın!
+
+Kontrol Özeti:
+İstenen Sayı: 5
+Üretilen Sayı: 5
+

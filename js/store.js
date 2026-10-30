@@ -95,22 +95,57 @@ export function normalize(raw) {
   return state;
 }
 
+export const BACKUP_KEY = 'duyum.v1.bak';
+export const QUARANTINE_PREFIX = 'duyum.v1.corrupt.';
+
+// Kayıtlı veriyi güvenle okur. Bozuk veri SİLİNMEZ: ayrı bir anahtara karantinaya alınır, son sağlam kopya
+// (önceki açılışta alınan yedek) varsa ondan devam edilir. Kullanıcıya ne olduğu `recovery` ile bildirilir.
 export function createStore(storage = globalThis.localStorage) {
   let persistent = true;
+  let lastError = null; // 'quota' | 'blocked' | null
+  let recovery = null; // { from: 'backup' | 'none', quarantineKey, at }
+  const listeners = new Set();
   let state;
-  try {
-    state = normalize(JSON.parse(storage.getItem(STORAGE_KEY) || 'null'));
-  } catch {
-    persistent = false;
+  const read = (key) => { try { return storage.getItem(key); } catch { return undefined; } };
+  const parse = (raw) => { const v = JSON.parse(raw); if (!v || typeof v !== 'object' || Array.isArray(v)) throw new Error('not-object'); return normalize(v); };
+  const raw = read(STORAGE_KEY);
+  if (raw === undefined) {
+    persistent = false; lastError = 'blocked';
     state = defaultState();
+  } else if (raw === null) {
+    state = defaultState();
+  } else {
+    try {
+      state = parse(raw);
+      // Sağlam veri: bir sonraki açılışta bozulma olursa dönülecek yedek.
+      try { storage.setItem(BACKUP_KEY, raw); } catch { /* yer yoksa yedek alınmaz */ }
+    } catch {
+      const quarantineKey = `${QUARANTINE_PREFIX}${Date.now()}`;
+      let quarantined = false;
+      try { storage.setItem(quarantineKey, raw); quarantined = true; } catch { /* yer yoksa ham veri asıl anahtarda kalır */ }
+      let restored = null;
+      const bak = read(BACKUP_KEY);
+      if (bak) { try { restored = parse(bak); } catch { restored = null; } }
+      state = restored || defaultState();
+      recovery = { from: restored ? 'backup' : 'none', quarantineKey, at: new Date().toISOString() };
+      // Karantinaya alınamadıysa bozuk veriyi ezmemek için kaydı durdur (kullanıcı önce indirebilsin).
+      if (!quarantined) { persistent = false; lastError = 'quarantine'; recovery.unsaved = true; }
+    }
   }
 
+  function emit() { for (const fn of listeners) { try { fn({ persistent, lastError, recovery }); } catch { /* dinleyici hatası */ } } }
+
   function save() {
+    if (recovery?.unsaved) return false;
     try {
       storage.setItem(STORAGE_KEY, JSON.stringify(state));
-      persistent = true;
-    } catch {
+      const was = lastError;
+      persistent = true; lastError = null;
+      if (was) emit();
+    } catch (e) {
       persistent = false;
+      lastError = e && (e.name === 'QuotaExceededError' || e.code === 22 || e.code === 1014) ? 'quota' : 'blocked';
+      emit();
     }
     return persistent;
   }
@@ -118,6 +153,18 @@ export function createStore(storage = globalThis.localStorage) {
   return {
     get state() { return state; },
     get persistent() { return persistent; },
+    get lastError() { return lastError; },
+    get recovery() { return recovery; },
+    onStatus(fn) { listeners.add(fn); return () => listeners.delete(fn); },
+    // Karantinadaki ham veri (kullanıcı indirebilsin) ve kurtarma bildirimini kapatma.
+    quarantined() {
+      const out = [];
+      try { for (let i = 0; i < storage.length; i++) { const k = storage.key(i); if (k && k.startsWith(QUARANTINE_PREFIX)) out.push({ key: k, size: (storage.getItem(k) || '').length }); } } catch { /* yok */ }
+      return out.sort((a, b) => a.key.localeCompare(b.key));
+    },
+    quarantineData(key) { return read(key); },
+    dropQuarantine(key) { try { storage.removeItem(key); } catch { /* yok */ } },
+    acceptRecovery() { if (recovery) { recovery.unsaved = false; recovery = null; save(); emit(); } },
     save,
     activeProfile() {
       return state.profiles.find((p) => p.id === state.activeProfileId) || null;
@@ -160,11 +207,18 @@ export function createStore(storage = globalThis.localStorage) {
       if (!parsed || parsed.app !== 'duyum') throw new Error('invalid-file');
       const { app, exportedAt, ...rest } = parsed;
       state = normalize(rest);
+      if (recovery) recovery.unsaved = false;
       save();
     },
     wipe() {
-      try { storage.removeItem(STORAGE_KEY); storage.removeItem(PACKS_KEY); } catch { /* yok say */ }
+      try {
+        for (const k of [STORAGE_KEY, PACKS_KEY, BACKUP_KEY]) storage.removeItem(k);
+        const keys = [];
+        for (let i = 0; i < (storage.length || 0); i++) { const k = storage.key(i); if (k && k.startsWith(QUARANTINE_PREFIX)) keys.push(k); }
+        for (const k of keys) storage.removeItem(k);
+      } catch { /* yok say */ }
       state = defaultState();
+      recovery = null;
     },
   };
 }

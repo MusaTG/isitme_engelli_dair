@@ -1,0 +1,193 @@
+# İçe aktarma raporu
+
+2026-10-30T18:44:56.247Z — UYGULANDI
+
+| Eklenecek | Güncellenecek | Atlanacak (tekrar) | Hatalı | Toplam blok |
+|---:|---:|---:|---:|---:|
+| 57 | 0 | 26 | 0 | 83 |
+
+Dil ve kategori dağılımı (eklenecek + güncellenecek):
+
+- **tr**: dialogue 1, language 33, poetry 7, work 15, kids 1
+
+## Yazılan dosyalar
+
+- tr/dialogue-import-06.txt: 1 metin eklendi (99–99)
+- tr/language-import-02.txt: 33 metin eklendi (30–62)
+- tr/poetry-import-02.txt: 7 metin eklendi (92–98)
+- tr/work-import-02.txt: 15 metin eklendi (69–83)
+- tr/kids-import-02.txt: 1 metin eklendi (100–100)
+
+## Kayıtlar
+
+- ✓ eklenecek · tr-dialogue-099 «Gurme Şarküteride Yöresel Ürün Alışverişi» · tr/dialogue · 302 kelime · benzerler\11_lang.txt
+  - uyarı: tr-dialogue-039 ile çok benzer (benzerlik %78); benzerliğe izin verildi (similar: ok)
+- ✓ eklenecek · tr-language-030 «İletişimde Yalın Dil Kullanımı Ve Açık İfadelerin Anlatım Gücü» · tr/language · 338 kelime · benzerler\11_language.txt
+  - uyarı: tr-language-001 ile çok benzer (benzerlik %97); benzerliğe izin verildi (similar: ok)
+- ✓ eklenecek · tr-language-031 «Sanat Ve Kültür Metinlerinde Uzun Cümlelerin Estetik Ritim Gücü» · tr/language · 321 kelime · benzerler\12_language.txt
+  - uyarı: tr-language-002 ile çok benzer (benzerlik %60); benzerliğe izin verildi (similar: ok)
+- ✓ eklenecek · tr-language-032 «Soru Ve Ünlem Cümlelerinin Anlatımdaki İkna Gücü Ve Duygusal Derinliği» · tr/language · 332 kelime · benzerler\12_language.txt
+  - uyarı: tr-language-004 ile çok benzer (benzerlik %100); benzerliğe izin verildi (similar: ok)
+- ✓ eklenecek · tr-language-033 «Metin Okumalarında Hece Yapısı Ve Ritmin Doğru Telaffuzdaki Rolü» · tr/language · 313 kelime · benzerler\12_language.txt
+  - uyarı: tr-language-006 ile çok benzer (benzerlik %69); benzerliğe izin verildi (similar: ok)
+- ✓ eklenecek · tr-poetry-092 «Eski Ahşap Ciltli Kitapların Sırrı» · tr/poetry · 136 kelime · benzerler\12_poetry.txt
+  - uyarı: tr-poetry-005 ile çok benzer (benzerlik %79); benzerliğe izin verildi (similar: ok)
+- ✓ eklenecek · tr-poetry-093 «Edebi Metinlerde İmgelerin Derinliği» · tr/poetry · 122 kelime · benzerler\12_poetry.txt
+  - uyarı: tr-poetry-003 ile çok benzer (benzerlik %53); benzerliğe izin verildi (similar: ok)
+- ✓ eklenecek · tr-work-069 «Şirket İçi Yenilikçi Tedarik Zinciri Ve Lojistik Stratejileri Sunumu» · tr/work · 300 kelime · benzerler\12_work.txt
+  - uyarı: tr-work-001 ile çok benzer (benzerlik %60); benzerliğe izin verildi (similar: ok)
+- ✓ eklenecek · tr-language-034 «Tekerleme Egzersizleriyle Diksiyon Ve Artikülasyon Becerisi» · tr/language · 314 kelime · benzerler\13_language.txt
+  - uyarı: tr-language-008 ile çok benzer (benzerlik %66); benzerliğe izin verildi (similar: ok)
+- ✓ eklenecek · tr-language-035 «İletişimde Yalın Dil Kullanımı Ve Açık Cümlelerin Etkisi» · tr/language · 321 kelime · benzerler\13_language.txt
+  - uyarı: tr-language-001 ile çok benzer (benzerlik %71); benzerliğe izin verildi (similar: ok)
+- ✓ eklenecek · tr-work-070 «Uluslararası Tedarik Zinciri ve Lojistik Yönetimi Güncellemesi» · tr/work · 301 kelime · benzerler\13_work.txt
+  - uyarı: aynı başlıkta başka bir metin var (tr-work-006); içerik farklı olduğu için ayrı kayıt
+  - uyarı: tr-work-006 ile çok benzer (benzerlik %98); benzerliğe izin verildi (similar: ok)
+- ✓ eklenecek · tr-language-036 «Yazılı Metinlerde Noktalama İşaretlerinin Ritmik Ve Anlamsal İşlevi» · tr/language · 327 kelime · benzerler\14_language.txt
+  - uyarı: tr-language-003 ile çok benzer (benzerlik %98); benzerliğe izin verildi (similar: ok)
+- ✓ eklenecek · tr-language-037 «Türkçe Kelimelerde Akıcı Ünsüzlerin Fonetik Dengesi Ve Ahengi» · tr/language · 305 kelime · benzerler\14_language.txt
+  - uyarı: tr-language-005 ile çok benzer (benzerlik %53); benzerliğe izin verildi (similar: ok)
+- ✓ eklenecek · tr-language-038 «Telaffuz Ve Okuma Çalışmalarında Hece Yapısının Temel Rolü» · tr/language · 300 kelime · benzerler\14_language.txt
+  - uyarı: tr-language-006 ile çok benzer (benzerlik %63); benzerliğe izin verildi (similar: ok)
+- ✓ eklenecek · tr-language-039 «Tarihsel Kronoloji Ve Sayısal İfadelerin Metindeki Kesinlik Derecesi» · tr/language · 325 kelime · benzerler\14_language.txt
+  - uyarı: tr-language-007 ile çok benzer (benzerlik %100); benzerliğe izin verildi (similar: ok)
+- ✓ eklenecek · tr-language-040 «İleri Düzey Tekerlemelerle Diksiyon Ve Artikülasyon Çalışmaları» · tr/language · 322 kelime · benzerler\15_language.txt
+  - uyarı: tr-language-008 ile çok benzer (benzerlik %64); benzerliğe izin verildi (similar: ok)
+- ✓ eklenecek · tr-language-041 «Doğru Diksiyon Ve Diyafram Nefesiyle Etkili Konuşma Becerisi» · tr/language · 307 kelime · benzerler\15_language.txt
+  - uyarı: tr-language-009 ile çok benzer (benzerlik %98); benzerliğe izin verildi (similar: ok)
+- ✓ eklenecek · tr-language-042 «Günlük İletişimde Yalın Dil Kullanımı Ve Açık İfadeler» · tr/language · 307 kelime · benzerler\15_language.txt
+  - uyarı: tr-language-001 ile çok benzer (benzerlik %77); benzerliğe izin verildi (similar: ok)
+- = atlanacak (tekrar) · tr-language-036 «Noktalama İşaretlerinin Metin İçi Ritim Ve Anlam Dengesindeki Rolü» · tr/language · 327 kelime · benzerler\15_language.txt
+  - not: aynı içerik zaten var (tr-language-036)
+- ✓ eklenecek · tr-poetry-094 «Anlatımda Derinlik Ve Simge Katmanları» · tr/poetry · 150 kelime · benzerler\15_poetry.txt
+  - uyarı: tr-poetry-003 ile çok benzer (benzerlik %58); benzerliğe izin verildi (similar: ok)
+- ✓ eklenecek · tr-poetry-095 «Baharın Ve Neşenin Türküsü» · tr/poetry · 155 kelime · benzerler\15_poetry.txt
+  - uyarı: tr-poetry-014 ile çok benzer (benzerlik %92); benzerliğe izin verildi (similar: ok)
+- = atlanacak (tekrar) · tr-language-032 «İletişimde Soru Ve Ünlem Cümlelerinin Vurgu Gücü» · tr/language · 332 kelime · benzerler\16_language.txt
+  - not: aynı içerik zaten var (tr-language-032)
+- ✓ eklenecek · tr-language-043 «Türkçe Sözcüklerde Benzer Seslerin Ahengi Ve Diksiyon Katkısı» · tr/language · 300 kelime · benzerler\16_language.txt
+  - uyarı: tr-language-005 ile çok benzer (benzerlik %52); benzerliğe izin verildi (similar: ok)
+- = atlanacak (tekrar) · tr-language-033 «Metin Okumalarında Hece Yapısı Ve Ritmin Doğru Telaffuzdaki Rolü» · tr/language · 313 kelime · benzerler\16_language.txt
+  - not: aynı içerik zaten var (tr-language-033)
+- = atlanacak (tekrar) · tr-language-039 «Tarihsel Kronoloji Ve Sayısal İfadelerin Metindeki Kesinlik Rolü» · tr/language · 325 kelime · benzerler\16_language.txt
+  - not: aynı içerik zaten var (tr-language-039)
+- = atlanacak (tekrar) · tr-language-034 «Tekerleme Egzersizleriyle Diksiyon Ve Artikülasyon Becerisi» · tr/language · 314 kelime · benzerler\16_language.txt
+  - not: aynı içerik zaten var (tr-language-034)
+- ✓ eklenecek · tr-work-071 «Biyomedikal Cihaz Sektöründe Küresel Ar-Ge Stratejileri Sunumu» · tr/work · 328 kelime · benzerler\16_work.txt
+  - uyarı: tr-work-015 ile çok benzer (benzerlik %93); benzerliğe izin verildi (similar: ok)
+- ✓ eklenecek · tr-work-072 «Özel Taşımacılık Ve Kargo Gecikmesi Bilgilendirme Mektubu» · tr/work · 306 kelime · benzerler\16_work.txt
+  - uyarı: tr-work-017 ile çok benzer (benzerlik %88); benzerliğe izin verildi (similar: ok)
+- ✓ eklenecek · tr-kids-100 «Gece Gökyüzünde Yıldızların Parıltısı» · tr/kids · 205 kelime · benzerler\17_kids.txt
+  - uyarı: tr-kids-004 ile çok benzer (benzerlik %84); benzerliğe izin verildi (similar: ok)
+- = atlanacak (tekrar) · tr-language-035 «Anlatımda Yalınlık Ve Kısa Cümle Yapılarının Etkisi» · tr/language · 321 kelime · benzerler\17_language.txt
+  - not: aynı içerik zaten var (tr-language-035)
+- = atlanacak (tekrar) · tr-language-036 «Noktalama İşaretlerinin Metin İçi Ritim Ve Anlam Dengesindeki Etkisi» · tr/language · 327 kelime · benzerler\17_language.txt
+  - not: aynı içerik zaten var (tr-language-036)
+- = atlanacak (tekrar) · tr-poetry-095 «Işığın Ve Ümidin Türküsü» · tr/poetry · 155 kelime · benzerler\17_poetry.txt
+  - not: aynı içerik zaten var (tr-poetry-095)
+- ✓ eklenecek · tr-work-073 «Müşteri Deneyimi ve Satış Sonrası Hizmetler Komitesi Toplantı Tutanağı» · tr/work · 322 kelime · benzerler\17_work.txt
+  - uyarı: tr-work-021 ile çok benzer (benzerlik %51); benzerliğe izin verildi (similar: ok)
+- = atlanacak (tekrar) · tr-language-039 «Tarihsel Kronoloji Ve Sayısal İfadelerin Metindeki Kesinlik Derecesi» · tr/language · 325 kelime · benzerler\18_language.txt
+  - not: aynı içerik zaten var (tr-language-039)
+- = atlanacak (tekrar) · tr-language-041 «Doğru Diksiyon Ve Diyafram Nefesiyle Etkili Konuşma Becerisi» · tr/language · 307 kelime · benzerler\18_language.txt
+  - not: aynı içerik zaten var (tr-language-041)
+- ✓ eklenecek · tr-poetry-096 «Sonbaharda Ulu Meşe Ormanı» · tr/poetry · 120 kelime · benzerler\18_poetry.txt
+  - uyarı: tr-poetry-012 ile çok benzer (benzerlik %59); benzerliğe izin verildi (similar: ok)
+- ✓ eklenecek · tr-poetry-097 «Kalpteki Kabulleniş Ve Yaşama Sevgisi» · tr/poetry · 127 kelime · benzerler\18_poetry.txt
+  - uyarı: tr-poetry-013 ile çok benzer (benzerlik %88); benzerliğe izin verildi (similar: ok)
+- ✓ eklenecek · tr-poetry-098 «Anlatımda Üslup Olgunluğu Ve İmgeler» · tr/poetry · 126 kelime · benzerler\18_poetry.txt
+  - uyarı: tr-poetry-003 ile çok benzer (benzerlik %53); benzerliğe izin verildi (similar: ok)
+- ✓ eklenecek · tr-work-074 «Şirket İçi Dijital Dönüşüm Ve Müşteri Deneyimi Stratejileri Sunumu» · tr/work · 304 kelime · benzerler\18_work.txt
+  - uyarı: tr-work-001 ile çok benzer (benzerlik %90); benzerliğe izin verildi (similar: ok)
+- ✓ eklenecek · tr-work-075 «Kurumsal Bilgi Güvenliği Ve Cihaz Erişim Standartları Talimatnamesi» · tr/work · 293 kelime · benzerler\18_work.txt
+  - uyarı: tr-work-002 ile çok benzer (benzerlik %49); benzerliğe izin verildi (similar: ok)
+- ✓ eklenecek · tr-work-076 «Özel Teknik Destek Ve Cihaz Kurulum Gecikmesi Özür Mektubu» · tr/work · 303 kelime · benzerler\18_work.txt
+  - uyarı: tr-work-012 ile çok benzer (benzerlik %88); benzerliğe izin verildi (similar: ok)
+- = atlanacak (tekrar) · tr-language-030 «Şehir Hayatında Yalın İletişimin Ve Kısa Cümlelerin Gücü» · tr/language · 338 kelime · benzerler\19_language.txt
+  - not: aynı içerik zaten var (tr-language-030)
+- ✓ eklenecek · tr-language-044 «Tarihi Çarşının Derinliklerinde Zamanın Ve Mekânın Katmanlı Anlatımı» · tr/language · 303 kelime · benzerler\19_language.txt
+  - uyarı: tr-language-002 ile çok benzer (benzerlik %82); benzerliğe izin verildi (similar: ok)
+- = atlanacak (tekrar) · tr-language-036 «Sahne Sanatlarında Noktalama İşaretlerinin Duraklama Dengesi» · tr/language · 327 kelime · benzerler\19_language.txt
+  - not: aynı içerik zaten var (tr-language-036)
+- = atlanacak (tekrar) · tr-language-032 «Yayıncılık Dünyasında Soru Ve Ünlem Cümlelerinin Dinamik Yapısı» · tr/language · 332 kelime · benzerler\19_language.txt
+  - not: aynı içerik zaten var (tr-language-032)
+- = atlanacak (tekrar) · tr-work-073 «Müşteri Deneyimi ve Satış Sonrası Hizmetler Komitesi Toplantı Tutanağı» · tr/work · 322 kelime · benzerler\19_work.txt
+  - not: aynı içerik zaten var (tr-work-073)
+- ✓ eklenecek · tr-language-045 «Anlatımda Yalınlık Ve Kısa Cümlelerin İletişimsel Gücü» · tr/language · 311 kelime · benzerler\2_language.txt
+  - uyarı: tr-language-001 ile çok benzer (benzerlik %63); benzerliğe izin verildi (similar: ok)
+- ✓ eklenecek · tr-language-046 «Karmaşık Cümle Yapılarında Sözcük Dizilimi Ve Anlam Bütünlüğü» · tr/language · 302 kelime · benzerler\3_language.txt
+  - uyarı: tr-language-002 ile çok benzer (benzerlik %93); benzerliğe izin verildi (similar: ok)
+- ✓ eklenecek · tr-language-047 «Noktalama İşaretlerinin Konuşma Ve Okuma Ritmindeki Rolü» · tr/language · 323 kelime · benzerler\3_language.txt
+  - uyarı: tr-language-003 ile çok benzer (benzerlik %100); benzerliğe izin verildi (similar: ok)
+- ✓ eklenecek · tr-language-048 «Metin Okumalarında Hece Uzunlukları Ve Vurgu Dengesi» · tr/language · 304 kelime · benzerler\3_language.txt
+  - uyarı: tr-language-006 ile çok benzer (benzerlik %50); benzerliğe izin verildi (similar: ok)
+- = atlanacak (tekrar) · tr-language-039 «Tarihsel Veriler Ve Sayısal İfadelerin Anlatımdaki Kesinliği» · tr/language · 325 kelime · benzerler\4_language.txt
+  - not: aynı içerik zaten var (tr-language-039)
+- ✓ eklenecek · tr-language-049 «Diksiyon Gelişiminde Tekerlemelerin Pratik Faydaları» · tr/language · 302 kelime · benzerler\4_language.txt
+  - uyarı: tr-language-008 ile çok benzer (benzerlik %98); benzerliğe izin verildi (similar: ok)
+- ✓ eklenecek · tr-language-050 «İletişimde Yalınlık Ve Kısa Cümlelerin Anlatım Yapısındaki Netlik Gücü» · tr/language · 316 kelime · benzerler\4_language.txt
+  - uyarı: tr-language-001 ile çok benzer (benzerlik %86); benzerliğe izin verildi (similar: ok)
+- ✓ eklenecek · tr-language-051 «Karmaşık Düşüncelerin Aktarımında Uzun Cümlelerin Sentaktik Mimarisi» · tr/language · 306 kelime · benzerler\4_language.txt
+  - uyarı: tr-language-002 ile çok benzer (benzerlik %100); benzerliğe izin verildi (similar: ok)
+- ✓ eklenecek · tr-work-077 «Nesnelerin İnterneti Tabanlı Akıllı Tesis Otomasyonu» · tr/work · 282 kelime · benzerler\4_work.txt
+  - uyarı: tr-work-023 ile çok benzer (benzerlik %100); benzerliğe izin verildi (similar: ok)
+- ✓ eklenecek · tr-language-052 «Yazılı Anlatımda Noktalama İşaretlerinin Temel İşlevleri Ve Duraklama Ritmi» · tr/language · 330 kelime · benzerler\5_language.txt
+  - uyarı: tr-language-010 ile çok benzer (benzerlik %98); benzerliğe izin verildi (similar: ok)
+- = atlanacak (tekrar) · tr-language-032 «Soru Ve Ünlem Cümlelerinin Anlatımdaki İkna Gücü Ve Duygusal Derinliği» · tr/language · 332 kelime · benzerler\5_language.txt
+  - not: aynı içerik zaten var (tr-language-032)
+- ✓ eklenecek · tr-language-053 «Türkçe Sözcüklerde Sert Ve Yumuşak Seslerin Müzikal Ahengi Ve Diksiyondaki Rolü» · tr/language · 320 kelime · benzerler\5_language.txt
+  - uyarı: tr-language-005 ile çok benzer (benzerlik %100); benzerliğe izin verildi (similar: ok)
+- = atlanacak (tekrar) · tr-language-033 «Metin Okumalarında Hece Yapısı Ve Ritmin Doğru Telaffuzdaki Önemi» · tr/language · 313 kelime · benzerler\5_language.txt
+  - not: aynı içerik zaten var (tr-language-033)
+- ✓ eklenecek · tr-language-054 «Tekerleme Egzersizleriyle Diksiyon Ve Artikülasyon Becerilerinin Geliştirilmesi» · tr/language · 313 kelime · benzerler\6_language.txt
+  - uyarı: tr-language-008 ile çok benzer (benzerlik %70); benzerliğe izin verildi (similar: ok)
+- ✓ eklenecek · tr-language-055 «Üst Düzey Diksiyon Teknikleri Ve Profesyonel İletişimde Ses Büyüsü» · tr/language · 314 kelime · benzerler\6_language.txt
+  - uyarı: tr-language-012 ile çok benzer (benzerlik %95); benzerliğe izin verildi (similar: ok)
+- ✓ eklenecek · tr-language-056 «İletişimde Yalın Dil Ve Açık Cümlelerin Bilgi Aktarımındaki Gücü» · tr/language · 310 kelime · benzerler\6_language.txt
+  - uyarı: tr-language-001 ile çok benzer (benzerlik %74); benzerliğe izin verildi (similar: ok)
+- ✓ eklenecek · tr-language-057 «Uzun Cümle Yapılarında Akıcılık Ve Temel Anlatım Kuralları» · tr/language · 313 kelime · benzerler\6_language.txt
+  - uyarı: aynı başlıkta başka bir metin var (tr-language-013); içerik farklı olduğu için ayrı kayıt
+  - uyarı: tr-language-013 ile çok benzer (benzerlik %96); benzerliğe izin verildi (similar: ok)
+- = atlanacak (tekrar) · tr-language-047 «Noktalama İşaretlerinin Metin İçi Ritim Ve Anlam Üzerindeki Etkisi» · tr/language · 323 kelime · benzerler\6_language.txt
+  - not: aynı içerik zaten var (tr-language-047)
+- ✓ eklenecek · tr-work-078 «Şirket İçi Bilgisayar Ağ Güvenliği ve Cihaz Kullanım Talimatı» · tr/work · 302 kelime · benzerler\6_work.txt
+  - uyarı: aynı başlıkta başka bir metin var (tr-work-022); içerik farklı olduğu için ayrı kayıt
+  - uyarı: tr-work-022 ile çok benzer (benzerlik %100); benzerliğe izin verildi (similar: ok)
+- = atlanacak (tekrar) · tr-language-037 «Sözcüklerde Ses Uyumları Ve Akıcı Ünsüzlerin Fonetik Ahengi» · tr/language · 305 kelime · benzerler\7_language.txt
+  - not: aynı içerik zaten var (tr-language-037)
+- ✓ eklenecek · tr-language-058 «Okuma Ve Telaffuzda Hece Yapısının Temel İşlevleri» · tr/language · 300 kelime · benzerler\7_language.txt
+  - uyarı: tr-language-006 ile çok benzer (benzerlik %63); benzerliğe izin verildi (similar: ok)
+- = atlanacak (tekrar) · tr-language-039 «Tarihsel Kronoloji Ve Sayısal İfadelerin Metindeki Kesinlik Rolü» · tr/language · 325 kelime · benzerler\7_language.txt
+  - not: aynı içerik zaten var (tr-language-039)
+- = atlanacak (tekrar) · tr-language-040 «Zorlu Tekerleme Alıştırmalarıyla İleri Düzey Artikülasyon Becerisi» · tr/language · 322 kelime · benzerler\7_language.txt
+  - not: aynı içerik zaten var (tr-language-040)
+- ✓ eklenecek · tr-work-079 «Uluslararası Tedarik Zinciri Risk Yönetimi ve Politika Güncellemesi» · tr/work · 300 kelime · benzerler\7_work.txt
+  - uyarı: tr-work-006 ile çok benzer (benzerlik %59); benzerliğe izin verildi (similar: ok)
+- = atlanacak (tekrar) · tr-language-042 «Günlük İletişimde Yalın Dille İfade Kolaylığı» · tr/language · 307 kelime · benzerler\8_language.txt
+  - not: aynı içerik zaten var (tr-language-042)
+- ✓ eklenecek · tr-language-059 «Düşünce Derinliğini Sağlayan Katmanlı Cümle Mimarisi» · tr/language · 308 kelime · benzerler\8_language.txt
+  - uyarı: tr-language-013 ile çok benzer (benzerlik %96); benzerliğe izin verildi (similar: ok)
+- = atlanacak (tekrar) · tr-language-047 «Metin Okumalarında Noktalama İşaretlerinin Ritmik Rolü» · tr/language · 323 kelime · benzerler\8_language.txt
+  - not: aynı içerik zaten var (tr-language-047)
+- = atlanacak (tekrar) · tr-language-032 «Soru Ve Ünlem Cümlelerinin İletişimdeki Canlılığı Ve Vurgu Gücü» · tr/language · 332 kelime · benzerler\8_language.txt
+  - not: aynı içerik zaten var (tr-language-032)
+- ✓ eklenecek · tr-work-080 «Kurumsal Sosyal Medya Hizmet Cihazları Kullanım Talimatnamesi» · tr/work · 295 kelime · benzerler\8_work.txt
+  - uyarı: tr-work-011 ile çok benzer (benzerlik %94); benzerliğe izin verildi (similar: ok)
+- ✓ eklenecek · tr-work-081 «Özel Teknik Servis Gecikmesi Bilgilendirme ve Özür Mektubu» · tr/work · 301 kelime · benzerler\8_work.txt
+  - uyarı: tr-work-012 ile çok benzer (benzerlik %91); benzerliğe izin verildi (similar: ok)
+- ✓ eklenecek · tr-work-082 «Derin Öğrenme Tabanlı Biyomedikal Görüntü Analiz Platformu» · tr/work · 303 kelime · benzerler\8_work.txt
+  - uyarı: tr-work-013 ile çok benzer (benzerlik %55); benzerliğe izin verildi (similar: ok)
+- ✓ eklenecek · tr-language-060 «Türkçe Sözcüklerde Benzer Seslerin Müzikal Ahengi Ve Diksiyona Katkısı» · tr/language · 306 kelime · benzerler\9_language.txt
+  - uyarı: tr-language-005 ile çok benzer (benzerlik %51); benzerliğe izin verildi (similar: ok)
+- ✓ eklenecek · tr-language-061 «Okuma Ve Telaffuzda Hece Yapısının Temel İşlevleri Ve Ritmin Rolü» · tr/language · 306 kelime · benzerler\9_language.txt
+  - uyarı: tr-language-006 ile çok benzer (benzerlik %62); benzerliğe izin verildi (similar: ok)
+- = atlanacak (tekrar) · tr-language-039 «Tarihsel Kronoloji Ve Sayısal İfadelerin Metindeki Kesinlik Rolü» · tr/language · 325 kelime · benzerler\9_language.txt
+  - not: aynı içerik zaten var (tr-language-039)
+- = atlanacak (tekrar) · tr-language-040 «Zorlu Tekerleme Alıştırmalarıyla İleri Düzey Artikülasyon Becerisi» · tr/language · 322 kelime · benzerler\9_language.txt
+  - not: aynı içerik zaten var (tr-language-040)
+- ✓ eklenecek · tr-language-062 «Temel Diksiyon Becerileri Ve Etkili Konuşmanın İlkeleri» · tr/language · 313 kelime · benzerler\9_language.txt
+  - uyarı: tr-language-015 ile çok benzer (benzerlik %97); benzerliğe izin verildi (similar: ok)
+- ✓ eklenecek · tr-work-083 «Müşteri Deneyimi ve Kalite Güvence Komitesi Toplantı Tutanağı» · tr/work · 308 kelime · benzerler\9_work.txt
+  - uyarı: tr-work-021 ile çok benzer (benzerlik %72); benzerliğe izin verildi (similar: ok)
+
+Hatalı kayıtlar inbox/_reddedildi/ altında; düzeltip yeniden inbox/ içine koyabilirsiniz. Ayrıntılı biçim: docs/reading-format.md

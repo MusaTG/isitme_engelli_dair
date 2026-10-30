@@ -1,0 +1,1087 @@
+{
+  "generatedAt": "2026-10-30T18:45:04.980Z",
+  "target": {
+    "total": 100,
+    "medium": 5,
+    "long": 1
+  },
+  "totals": {
+    "tr": 1034,
+    "en": 0,
+    "missing": 1768
+  },
+  "categories": [
+    {
+      "lang": "tr",
+      "cat": "daily",
+      "catName": "Günlük yaşam hikâyeleri",
+      "have": 101,
+      "target": 100,
+      "need": 0,
+      "cls": {
+        "short": 94,
+        "medium": 6,
+        "long": 1
+      },
+      "levels": {
+        "1": 8,
+        "2": 87,
+        "3": 6
+      },
+      "autoLevel": 101,
+      "missingSource": 0,
+      "noLicense": 0,
+      "broken": 0,
+      "reviewed": 0,
+      "nextNum": 102,
+      "missingSourceIds": [],
+      "brokenIds": []
+    },
+    {
+      "lang": "tr",
+      "cat": "stories",
+      "catName": "Öykü ve kısa hikâye",
+      "have": 100,
+      "target": 100,
+      "need": 0,
+      "cls": {
+        "short": 98,
+        "medium": 1,
+        "long": 1
+      },
+      "levels": {
+        "1": 14,
+        "2": 77,
+        "3": 9
+      },
+      "autoLevel": 100,
+      "missingSource": 0,
+      "noLicense": 0,
+      "broken": 0,
+      "reviewed": 0,
+      "nextNum": 101,
+      "missingSourceIds": [],
+      "brokenIds": []
+    },
+    {
+      "lang": "tr",
+      "cat": "novel",
+      "catName": "Roman tarzı uzun okumalar",
+      "have": 101,
+      "target": 100,
+      "need": 0,
+      "cls": {
+        "short": 98,
+        "medium": 2,
+        "long": 1
+      },
+      "levels": {
+        "1": 23,
+        "2": 72,
+        "3": 6
+      },
+      "autoLevel": 100,
+      "missingSource": 0,
+      "noLicense": 0,
+      "broken": 0,
+      "reviewed": 0,
+      "nextNum": 102,
+      "missingSourceIds": [],
+      "brokenIds": []
+    },
+    {
+      "lang": "tr",
+      "cat": "news",
+      "catName": "Gazete ve dergi tarzı",
+      "have": 100,
+      "target": 100,
+      "need": 0,
+      "cls": {
+        "short": 98,
+        "medium": 1,
+        "long": 1
+      },
+      "levels": {
+        "1": 0,
+        "2": 21,
+        "3": 79
+      },
+      "autoLevel": 98,
+      "missingSource": 44,
+      "noLicense": 0,
+      "broken": 0,
+      "reviewed": 0,
+      "nextNum": 101,
+      "missingSourceIds": [
+        "tr-news-004",
+        "tr-news-006",
+        "tr-news-008",
+        "tr-news-010",
+        "tr-news-092",
+        "tr-news-094",
+        "tr-news-096",
+        "tr-news-098",
+        "tr-news-100",
+        "tr-news-014",
+        "tr-news-016",
+        "tr-news-018",
+        "tr-news-022",
+        "tr-news-025",
+        "tr-news-028",
+        "tr-news-030",
+        "tr-news-033",
+        "tr-news-035",
+        "tr-news-038",
+        "tr-news-040",
+        "tr-news-042",
+        "tr-news-044",
+        "tr-news-047",
+        "tr-news-050",
+        "tr-news-052",
+        "tr-news-054",
+        "tr-news-056",
+        "tr-news-058",
+        "tr-news-060",
+        "tr-news-063",
+        "tr-news-065",
+        "tr-news-067",
+        "tr-news-069",
+        "tr-news-070",
+        "tr-news-072",
+        "tr-news-074",
+        "tr-news-076",
+        "tr-news-078",
+        "tr-news-080",
+        "tr-news-082",
+        "tr-news-084",
+        "tr-news-086",
+        "tr-news-088",
+        "tr-news-090"
+      ],
+      "brokenIds": []
+    },
+    {
+      "lang": "tr",
+      "cat": "info",
+      "catName": "Bilgilendirici ve öğretici",
+      "have": 100,
+      "target": 100,
+      "need": 0,
+      "cls": {
+        "short": 98,
+        "medium": 1,
+        "long": 1
+      },
+      "levels": {
+        "1": 0,
+        "2": 18,
+        "3": 82
+      },
+      "autoLevel": 97,
+      "missingSource": 100,
+      "noLicense": 0,
+      "broken": 0,
+      "reviewed": 0,
+      "nextNum": 101,
+      "missingSourceIds": [
+        "tr-info-001",
+        "tr-info-002",
+        "tr-info-003",
+        "tr-info-004",
+        "tr-info-005",
+        "tr-info-006",
+        "tr-info-007",
+        "tr-info-008",
+        "tr-info-009",
+        "tr-info-010",
+        "tr-info-011",
+        "tr-info-012",
+        "tr-info-013",
+        "tr-info-014",
+        "tr-info-015",
+        "tr-info-016",
+        "tr-info-017",
+        "tr-info-018",
+        "tr-info-019",
+        "tr-info-020",
+        "tr-info-021",
+        "tr-info-022",
+        "tr-info-023",
+        "tr-info-024",
+        "tr-info-025",
+        "tr-info-026",
+        "tr-info-027",
+        "tr-info-028",
+        "tr-info-029",
+        "tr-info-030",
+        "tr-info-031",
+        "tr-info-032",
+        "tr-info-033",
+        "tr-info-034",
+        "tr-info-035",
+        "tr-info-036",
+        "tr-info-037",
+        "tr-info-038",
+        "tr-info-039",
+        "tr-info-040",
+        "tr-info-041",
+        "tr-info-042",
+        "tr-info-043",
+        "tr-info-044",
+        "tr-info-045",
+        "tr-info-046",
+        "tr-info-047",
+        "tr-info-048",
+        "tr-info-049",
+        "tr-info-050",
+        "tr-info-051",
+        "tr-info-052",
+        "tr-info-053",
+        "tr-info-054",
+        "tr-info-055",
+        "tr-info-056",
+        "tr-info-057",
+        "tr-info-058",
+        "tr-info-059",
+        "tr-info-060",
+        "tr-info-061",
+        "tr-info-062",
+        "tr-info-063",
+        "tr-info-064",
+        "tr-info-065",
+        "tr-info-066",
+        "tr-info-067",
+        "tr-info-068",
+        "tr-info-069",
+        "tr-info-070",
+        "tr-info-071",
+        "tr-info-072",
+        "tr-info-073",
+        "tr-info-074",
+        "tr-info-075",
+        "tr-info-076",
+        "tr-info-077",
+        "tr-info-078",
+        "tr-info-079",
+        "tr-info-080",
+        "tr-info-081",
+        "tr-info-082",
+        "tr-info-083",
+        "tr-info-084",
+        "tr-info-085",
+        "tr-info-086",
+        "tr-info-087",
+        "tr-info-088",
+        "tr-info-089",
+        "tr-info-090",
+        "tr-info-091",
+        "tr-info-092",
+        "tr-info-093",
+        "tr-info-094",
+        "tr-info-095",
+        "tr-info-096",
+        "tr-info-097",
+        "tr-info-098",
+        "tr-info-099",
+        "tr-info-100"
+      ],
+      "brokenIds": []
+    },
+    {
+      "lang": "tr",
+      "cat": "travel",
+      "catName": "Gezi ve seyahat",
+      "have": 90,
+      "target": 100,
+      "need": 10,
+      "cls": {
+        "short": 85,
+        "medium": 5,
+        "long": 0
+      },
+      "levels": {
+        "1": 10,
+        "2": 34,
+        "3": 46
+      },
+      "autoLevel": 50,
+      "missingSource": 79,
+      "noLicense": 0,
+      "broken": 0,
+      "reviewed": 0,
+      "nextNum": 91,
+      "missingSourceIds": [
+        "tr-travel-001",
+        "tr-travel-002",
+        "tr-travel-004",
+        "tr-travel-005",
+        "tr-travel-006",
+        "tr-travel-007",
+        "tr-travel-008",
+        "tr-travel-009",
+        "tr-travel-011",
+        "tr-travel-012",
+        "tr-travel-014",
+        "tr-travel-015",
+        "tr-travel-016",
+        "tr-travel-017",
+        "tr-travel-018",
+        "tr-travel-020",
+        "tr-travel-021",
+        "tr-travel-022",
+        "tr-travel-024",
+        "tr-travel-025",
+        "tr-travel-026",
+        "tr-travel-027",
+        "tr-travel-029",
+        "tr-travel-030",
+        "tr-travel-031",
+        "tr-travel-032",
+        "tr-travel-034",
+        "tr-travel-035",
+        "tr-travel-036",
+        "tr-travel-038",
+        "tr-travel-039",
+        "tr-travel-041",
+        "tr-travel-042",
+        "tr-travel-043",
+        "tr-travel-044",
+        "tr-travel-045",
+        "tr-travel-047",
+        "tr-travel-048",
+        "tr-travel-049",
+        "tr-travel-051",
+        "tr-travel-052",
+        "tr-travel-053",
+        "tr-travel-054",
+        "tr-travel-055",
+        "tr-travel-056",
+        "tr-travel-057",
+        "tr-travel-058",
+        "tr-travel-059",
+        "tr-travel-060",
+        "tr-travel-061",
+        "tr-travel-062",
+        "tr-travel-063",
+        "tr-travel-064",
+        "tr-travel-065",
+        "tr-travel-066",
+        "tr-travel-067",
+        "tr-travel-068",
+        "tr-travel-069",
+        "tr-travel-070",
+        "tr-travel-071",
+        "tr-travel-072",
+        "tr-travel-073",
+        "tr-travel-074",
+        "tr-travel-075",
+        "tr-travel-076",
+        "tr-travel-077",
+        "tr-travel-078",
+        "tr-travel-079",
+        "tr-travel-080",
+        "tr-travel-081",
+        "tr-travel-082",
+        "tr-travel-083",
+        "tr-travel-084",
+        "tr-travel-085",
+        "tr-travel-086",
+        "tr-travel-087",
+        "tr-travel-088",
+        "tr-travel-089",
+        "tr-travel-090"
+      ],
+      "brokenIds": []
+    },
+    {
+      "lang": "tr",
+      "cat": "dialogue",
+      "catName": "Diyalog ve konuşma",
+      "have": 99,
+      "target": 100,
+      "need": 1,
+      "cls": {
+        "short": 93,
+        "medium": 5,
+        "long": 1
+      },
+      "levels": {
+        "1": 27,
+        "2": 48,
+        "3": 24
+      },
+      "autoLevel": 0,
+      "missingSource": 0,
+      "noLicense": 0,
+      "broken": 0,
+      "reviewed": 0,
+      "nextNum": 100,
+      "missingSourceIds": [],
+      "brokenIds": []
+    },
+    {
+      "lang": "tr",
+      "cat": "work",
+      "catName": "İş ve mesleki okuma",
+      "have": 83,
+      "target": 100,
+      "need": 17,
+      "cls": {
+        "short": 77,
+        "medium": 5,
+        "long": 1
+      },
+      "levels": {
+        "1": 19,
+        "2": 41,
+        "3": 23
+      },
+      "autoLevel": 0,
+      "missingSource": 0,
+      "noLicense": 0,
+      "broken": 0,
+      "reviewed": 0,
+      "nextNum": 84,
+      "missingSourceIds": [],
+      "brokenIds": []
+    },
+    {
+      "lang": "tr",
+      "cat": "poetry",
+      "catName": "Şiir ve edebî metinler",
+      "have": 98,
+      "target": 100,
+      "need": 2,
+      "cls": {
+        "short": 92,
+        "medium": 5,
+        "long": 1
+      },
+      "levels": {
+        "1": 23,
+        "2": 50,
+        "3": 25
+      },
+      "autoLevel": 0,
+      "missingSource": 0,
+      "noLicense": 0,
+      "broken": 0,
+      "reviewed": 0,
+      "nextNum": 99,
+      "missingSourceIds": [],
+      "brokenIds": []
+    },
+    {
+      "lang": "tr",
+      "cat": "language",
+      "catName": "Dil ve telaffuz odaklı",
+      "have": 62,
+      "target": 100,
+      "need": 38,
+      "cls": {
+        "short": 56,
+        "medium": 5,
+        "long": 1
+      },
+      "levels": {
+        "1": 18,
+        "2": 29,
+        "3": 15
+      },
+      "autoLevel": 0,
+      "missingSource": 0,
+      "noLicense": 0,
+      "broken": 0,
+      "reviewed": 0,
+      "nextNum": 63,
+      "missingSourceIds": [],
+      "brokenIds": []
+    },
+    {
+      "lang": "tr",
+      "cat": "kids",
+      "catName": "Çocuklar için",
+      "have": 100,
+      "target": 100,
+      "need": 0,
+      "cls": {
+        "short": 94,
+        "medium": 5,
+        "long": 1
+      },
+      "levels": {
+        "1": 24,
+        "2": 50,
+        "3": 26
+      },
+      "autoLevel": 0,
+      "missingSource": 0,
+      "noLicense": 0,
+      "broken": 0,
+      "reviewed": 0,
+      "nextNum": 101,
+      "missingSourceIds": [],
+      "brokenIds": []
+    },
+    {
+      "lang": "tr",
+      "cat": "longform",
+      "catName": "Yetişkinler için uzun okumalar",
+      "have": 0,
+      "target": 100,
+      "need": 100,
+      "cls": {
+        "short": 0,
+        "medium": 0,
+        "long": 0
+      },
+      "levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "autoLevel": 0,
+      "missingSource": 0,
+      "noLicense": 0,
+      "broken": 0,
+      "reviewed": 0,
+      "nextNum": 1,
+      "missingSourceIds": [],
+      "brokenIds": []
+    },
+    {
+      "lang": "tr",
+      "cat": "letters",
+      "catName": "Günlük ve mektup",
+      "have": 0,
+      "target": 100,
+      "need": 100,
+      "cls": {
+        "short": 0,
+        "medium": 0,
+        "long": 0
+      },
+      "levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "autoLevel": 0,
+      "missingSource": 0,
+      "noLicense": 0,
+      "broken": 0,
+      "reviewed": 0,
+      "nextNum": 1,
+      "missingSourceIds": [],
+      "brokenIds": []
+    },
+    {
+      "lang": "tr",
+      "cat": "critical",
+      "catName": "Eleştirel düşünme ve karşılaştırma",
+      "have": 0,
+      "target": 100,
+      "need": 100,
+      "cls": {
+        "short": 0,
+        "medium": 0,
+        "long": 0
+      },
+      "levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "autoLevel": 0,
+      "missingSource": 0,
+      "noLicense": 0,
+      "broken": 0,
+      "reviewed": 0,
+      "nextNum": 1,
+      "missingSourceIds": [],
+      "brokenIds": []
+    },
+    {
+      "lang": "en",
+      "cat": "daily",
+      "catName": "Günlük yaşam hikâyeleri",
+      "have": 0,
+      "target": 100,
+      "need": 100,
+      "cls": {
+        "short": 0,
+        "medium": 0,
+        "long": 0
+      },
+      "levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "autoLevel": 0,
+      "missingSource": 0,
+      "noLicense": 0,
+      "broken": 0,
+      "reviewed": 0,
+      "nextNum": 1,
+      "missingSourceIds": [],
+      "brokenIds": []
+    },
+    {
+      "lang": "en",
+      "cat": "stories",
+      "catName": "Öykü ve kısa hikâye",
+      "have": 0,
+      "target": 100,
+      "need": 100,
+      "cls": {
+        "short": 0,
+        "medium": 0,
+        "long": 0
+      },
+      "levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "autoLevel": 0,
+      "missingSource": 0,
+      "noLicense": 0,
+      "broken": 0,
+      "reviewed": 0,
+      "nextNum": 1,
+      "missingSourceIds": [],
+      "brokenIds": []
+    },
+    {
+      "lang": "en",
+      "cat": "novel",
+      "catName": "Roman tarzı uzun okumalar",
+      "have": 0,
+      "target": 100,
+      "need": 100,
+      "cls": {
+        "short": 0,
+        "medium": 0,
+        "long": 0
+      },
+      "levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "autoLevel": 0,
+      "missingSource": 0,
+      "noLicense": 0,
+      "broken": 0,
+      "reviewed": 0,
+      "nextNum": 1,
+      "missingSourceIds": [],
+      "brokenIds": []
+    },
+    {
+      "lang": "en",
+      "cat": "news",
+      "catName": "Gazete ve dergi tarzı",
+      "have": 0,
+      "target": 100,
+      "need": 100,
+      "cls": {
+        "short": 0,
+        "medium": 0,
+        "long": 0
+      },
+      "levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "autoLevel": 0,
+      "missingSource": 0,
+      "noLicense": 0,
+      "broken": 0,
+      "reviewed": 0,
+      "nextNum": 1,
+      "missingSourceIds": [],
+      "brokenIds": []
+    },
+    {
+      "lang": "en",
+      "cat": "info",
+      "catName": "Bilgilendirici ve öğretici",
+      "have": 0,
+      "target": 100,
+      "need": 100,
+      "cls": {
+        "short": 0,
+        "medium": 0,
+        "long": 0
+      },
+      "levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "autoLevel": 0,
+      "missingSource": 0,
+      "noLicense": 0,
+      "broken": 0,
+      "reviewed": 0,
+      "nextNum": 1,
+      "missingSourceIds": [],
+      "brokenIds": []
+    },
+    {
+      "lang": "en",
+      "cat": "travel",
+      "catName": "Gezi ve seyahat",
+      "have": 0,
+      "target": 100,
+      "need": 100,
+      "cls": {
+        "short": 0,
+        "medium": 0,
+        "long": 0
+      },
+      "levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "autoLevel": 0,
+      "missingSource": 0,
+      "noLicense": 0,
+      "broken": 0,
+      "reviewed": 0,
+      "nextNum": 1,
+      "missingSourceIds": [],
+      "brokenIds": []
+    },
+    {
+      "lang": "en",
+      "cat": "dialogue",
+      "catName": "Diyalog ve konuşma",
+      "have": 0,
+      "target": 100,
+      "need": 100,
+      "cls": {
+        "short": 0,
+        "medium": 0,
+        "long": 0
+      },
+      "levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "autoLevel": 0,
+      "missingSource": 0,
+      "noLicense": 0,
+      "broken": 0,
+      "reviewed": 0,
+      "nextNum": 1,
+      "missingSourceIds": [],
+      "brokenIds": []
+    },
+    {
+      "lang": "en",
+      "cat": "work",
+      "catName": "İş ve mesleki okuma",
+      "have": 0,
+      "target": 100,
+      "need": 100,
+      "cls": {
+        "short": 0,
+        "medium": 0,
+        "long": 0
+      },
+      "levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "autoLevel": 0,
+      "missingSource": 0,
+      "noLicense": 0,
+      "broken": 0,
+      "reviewed": 0,
+      "nextNum": 1,
+      "missingSourceIds": [],
+      "brokenIds": []
+    },
+    {
+      "lang": "en",
+      "cat": "poetry",
+      "catName": "Şiir ve edebî metinler",
+      "have": 0,
+      "target": 100,
+      "need": 100,
+      "cls": {
+        "short": 0,
+        "medium": 0,
+        "long": 0
+      },
+      "levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "autoLevel": 0,
+      "missingSource": 0,
+      "noLicense": 0,
+      "broken": 0,
+      "reviewed": 0,
+      "nextNum": 1,
+      "missingSourceIds": [],
+      "brokenIds": []
+    },
+    {
+      "lang": "en",
+      "cat": "language",
+      "catName": "Dil ve telaffuz odaklı",
+      "have": 0,
+      "target": 100,
+      "need": 100,
+      "cls": {
+        "short": 0,
+        "medium": 0,
+        "long": 0
+      },
+      "levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "autoLevel": 0,
+      "missingSource": 0,
+      "noLicense": 0,
+      "broken": 0,
+      "reviewed": 0,
+      "nextNum": 1,
+      "missingSourceIds": [],
+      "brokenIds": []
+    },
+    {
+      "lang": "en",
+      "cat": "kids",
+      "catName": "Çocuklar için",
+      "have": 0,
+      "target": 100,
+      "need": 100,
+      "cls": {
+        "short": 0,
+        "medium": 0,
+        "long": 0
+      },
+      "levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "autoLevel": 0,
+      "missingSource": 0,
+      "noLicense": 0,
+      "broken": 0,
+      "reviewed": 0,
+      "nextNum": 1,
+      "missingSourceIds": [],
+      "brokenIds": []
+    },
+    {
+      "lang": "en",
+      "cat": "longform",
+      "catName": "Yetişkinler için uzun okumalar",
+      "have": 0,
+      "target": 100,
+      "need": 100,
+      "cls": {
+        "short": 0,
+        "medium": 0,
+        "long": 0
+      },
+      "levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "autoLevel": 0,
+      "missingSource": 0,
+      "noLicense": 0,
+      "broken": 0,
+      "reviewed": 0,
+      "nextNum": 1,
+      "missingSourceIds": [],
+      "brokenIds": []
+    },
+    {
+      "lang": "en",
+      "cat": "letters",
+      "catName": "Günlük ve mektup",
+      "have": 0,
+      "target": 100,
+      "need": 100,
+      "cls": {
+        "short": 0,
+        "medium": 0,
+        "long": 0
+      },
+      "levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "autoLevel": 0,
+      "missingSource": 0,
+      "noLicense": 0,
+      "broken": 0,
+      "reviewed": 0,
+      "nextNum": 1,
+      "missingSourceIds": [],
+      "brokenIds": []
+    },
+    {
+      "lang": "en",
+      "cat": "critical",
+      "catName": "Eleştirel düşünme ve karşılaştırma",
+      "have": 0,
+      "target": 100,
+      "need": 100,
+      "cls": {
+        "short": 0,
+        "medium": 0,
+        "long": 0
+      },
+      "levels": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "autoLevel": 0,
+      "missingSource": 0,
+      "noLicense": 0,
+      "broken": 0,
+      "reviewed": 0,
+      "nextNum": 1,
+      "missingSourceIds": [],
+      "brokenIds": []
+    }
+  ],
+  "issues": [
+    {
+      "lang": "tr",
+      "type": "duplicate-title",
+      "level": "warning",
+      "msg": "tr-work-070: başlık tr-work-006 ile aynı (içerik farklı; ayrı metin sayıldı)"
+    },
+    {
+      "lang": "tr",
+      "type": "duplicate-title",
+      "level": "warning",
+      "msg": "tr-work-078: başlık tr-work-022 ile aynı (içerik farklı; ayrı metin sayıldı)"
+    },
+    {
+      "lang": "tr",
+      "type": "duplicate-title",
+      "level": "warning",
+      "msg": "tr-language-057: başlık tr-language-013 ile aynı (içerik farklı; ayrı metin sayıldı)"
+    }
+  ],
+  "priorities": [
+    {
+      "lang": "tr",
+      "cat": "longform",
+      "need": 100,
+      "medium": 5,
+      "long": 1,
+      "prompt": "docs/reading/istemler/tr-longform.md"
+    },
+    {
+      "lang": "tr",
+      "cat": "letters",
+      "need": 100,
+      "medium": 5,
+      "long": 1,
+      "prompt": "docs/reading/istemler/tr-letters.md"
+    },
+    {
+      "lang": "tr",
+      "cat": "critical",
+      "need": 100,
+      "medium": 5,
+      "long": 1,
+      "prompt": "docs/reading/istemler/tr-critical.md"
+    },
+    {
+      "lang": "en",
+      "cat": "daily",
+      "need": 100,
+      "medium": 5,
+      "long": 1,
+      "prompt": "docs/reading/istemler/en-daily.md"
+    },
+    {
+      "lang": "en",
+      "cat": "stories",
+      "need": 100,
+      "medium": 5,
+      "long": 1,
+      "prompt": "docs/reading/istemler/en-stories.md"
+    },
+    {
+      "lang": "en",
+      "cat": "novel",
+      "need": 100,
+      "medium": 5,
+      "long": 1,
+      "prompt": "docs/reading/istemler/en-novel.md"
+    },
+    {
+      "lang": "en",
+      "cat": "news",
+      "need": 100,
+      "medium": 5,
+      "long": 1,
+      "prompt": "docs/reading/istemler/en-news.md"
+    },
+    {
+      "lang": "en",
+      "cat": "info",
+      "need": 100,
+      "medium": 5,
+      "long": 1,
+      "prompt": "docs/reading/istemler/en-info.md"
+    },
+    {
+      "lang": "en",
+      "cat": "travel",
+      "need": 100,
+      "medium": 5,
+      "long": 1,
+      "prompt": "docs/reading/istemler/en-travel.md"
+    },
+    {
+      "lang": "en",
+      "cat": "dialogue",
+      "need": 100,
+      "medium": 5,
+      "long": 1,
+      "prompt": "docs/reading/istemler/en-dialogue.md"
+    },
+    {
+      "lang": "en",
+      "cat": "work",
+      "need": 100,
+      "medium": 5,
+      "long": 1,
+      "prompt": "docs/reading/istemler/en-work.md"
+    },
+    {
+      "lang": "en",
+      "cat": "poetry",
+      "need": 100,
+      "medium": 5,
+      "long": 1,
+      "prompt": "docs/reading/istemler/en-poetry.md"
+    }
+  ]
+}

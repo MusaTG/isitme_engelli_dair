@@ -1,0 +1,4 @@
+Aynı uzun metne kaldığın yerden devam et: sonraki 3 bölümü yaz (1100–1500 kelime).
+Başlık satırını, meta satırını ve "---" satırını TEKRAR YAZMA; yalnızca "## Ara başlık" satırları ve paragraflar.
+Giriş ya da açıklama cümlesi yazma; yanıta doğrudan "## " ile başla.
+Bu son parça: metni doğal biçimde bitir. En sonda ayrı bir satıra yalnızca "Kontrol Özeti:" yaz ve altına tüm metnin toplam kelime sayısını yaz.

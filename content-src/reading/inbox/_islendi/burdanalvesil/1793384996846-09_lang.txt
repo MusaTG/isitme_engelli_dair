@@ -1,0 +1,176 @@
+### | Okul Kütüphanesinde Ders Çalışma
+lang: tr | cat: dialogue | sub: school | tags: okul, kütüphane, ders, ödev, arkadaş | level: 1
+---
+Ali: Merhaba Zeynep! Okul kütüphanesinde tek başına sessizce ders çalıştığını görünce yanına gelip selam vermek ve hal hatır sormak istedim.
+
+Zeynep: Merhaba Ali! Çok iyi yaptın, kütüphanemize hoş geldin. Yarın yapılacak Türkçe yazılı sınavı için özet ders notlarımı ve dil bilgisi kurallarını dikkatlice gözden geçiriyordum.
+
+Ali: Harika ve çok planlı bir çalışma! Ben de matematik dersi ödevindeki zor türev problemlerini çözmek için sakin, aydınlık ve sessiz bir çalışma masası arıyordum.
+
+Zeynep: Masanın hemen karşısındaki boş ahşap sandalyeye rahatça oturabilirsin Ali. Kütüphanemiz bugün gerçekten son derece sakin, ferah ve ders çalışmak için çok uygun.
+
+Ali: Çok teşekkür ederim Zeynep. Türkçe sınavı için hazırladığın özet ders notları gerçekten son derece kapsamlı, düzenli ve anlaşılır görünüyor.
+
+Zeynep: Evet Ali, ders öğretmenimizin sınıfta önemle vurguladığı anahtar kavramları, edebi sanatları ve dil bilgisi kurallarını renkli kalemlerle ders defterime tek tek özenle not aldım.
+
+Ali: Birlikte karşılıklı çalışırsak ben de sana matematik formüllerini, denklem çözme yöntemlerini ve pratik problem çözme tekniklerini detaylıca açıklayabilirim.
+
+Zeynep: Bu gerçekten harika ve çok faydalı bir teklif olur Ali! Birlikte ders çalışmak ikimizin de sınav başarısını ve ders motivasyonunu önemli ölçüde artıracaktır.
+
+Ali: Matematik ders kitabındaki zor denklem sorularını ve uygulama örneklerini adım adım birlikte çözelim mi?
+
+Zeynep: Çok iyi bir fikir Ali! Önce ben Türkçe özet ders notlarımı seninle eksiksiz paylaşayım, ardından matematik sorularına ve problem çözümlerine geçelim.
+
+Ali: Harika bir plan Zeynep! Okul kütüphanesinin akşam kapanış saatine kadar önümüzdeki iki saatimizi son derece verimli ve kaliteli bir şekilde değerlendirebiliriz.
+
+Zeynep: Evet Ali, kütüphanenin sunduğu bu sessiz çalışma ortamı sayesinde sınav öncesi tüm eksiklerimizi ve anlamadığımız konuları tamamen tamamlayacağız.
+
+Ali: Ders çalışma seansımız tamamen bittikten sonra okul kantininde birlikte sıcak ve taze bir çay içip dinlenmeye ne dersin?
+
+Zeynep: Çok güzel ve dinlendirici bir fikir Ali, çay molası yoğun ders çalışma temposunun ardından günün tüm yorgunluğunu harika bir şekilde alır.
+
+Ali: O zaman zaman kaybetmeden hemen ders notlarımızı ve test kitaplarımızı açalım ve çalışmaya başlayalım.
+
+Zeynep: Hemen çalışmaya başlayalım Ali, sana matematik problemlerini çözerken zihin açıklığı ve kolaylıklar dilerim!
+
+Ali: Sana da Türkçe sınavı hazırlığında ve ders notu tekrarlarında yürekten başarılar dilerim Zeynep!
+
+Zeynep: Çok teşekkür ederim Ali, hadi başlayalım!
+
+### | Otobüs Durağında Tarihi Çarşı Yolu Tarifi
+lang: tr | cat: dialogue | sub: directions | tags: yol tarifi, otobüs, çarşı, şehir, ulaşım | level: 2
+---
+Kemal: Afedersiniz Hanımefendi, sizi durakta otobüs beklerken rahatsız ediyorum ama kentin tarihi kapalı çarşısına ve bakırcılar arastasına giden en uygun otobüs hattını arıyorum.
+
+Gül: Merhaba Beyefendi! Hiç rahatsızlık değil, memnuniyetle yardımcı olurum. Tarihi kapalı çarşıya ve otantik bakırcılar arastasına gitmek için son derece doğru duraktasınız.
+
+Kemal: Çok sevindim! Akıllı telefonumun şarjı bittiği için şehir içi ulaşım haritasına ve otobüs güzergâhlarına maalesef bakamadım. Hangi numaralı otobüse binmem gerekiyor acaba?
+
+Gül: Bu duraktan her on beş dakikada bir düzenli olarak geçen yirmi iki numaralı şehir içi belediye otobüsüne bindiğinizde hiçbir aktarma yapmadan doğrudan çarşıya ulaşırsınız.
+
+Kemal: Otobüse bindiğimde tam olarak kaçıncı durakta inmem gerekiyor ve yolculuk bu saatte yaklaşık kaç dakika sürer acaba?
+
+Gül: Biniş yaptıktan sonra dördüncü durak olan 'Tarihi Meydan ve Çarşı' durağında ineceksiniz, yolculuk trafik durumuna göre yaklaşık on dakika sürer.
+
+Kemal: Tarihi Meydan durağında indikten sonra kapalı çarşının ana giriş kapısına ve bakırcılara ulaşmak için tam olarak ne tarafa doğru yürümeliyim?
+
+Gül: Otobüsten indiğinizde hemen karşınızda göreceğiniz büyük anıtsal taş kemerli kapıdan içeri girip, nostaljik caddede dosdoğru yüz metre kadar yürüyeceksiniz.
+
+Kemal: Taş kemerli yolun sonunda tarihi kapalı çarşının ahşap giriş kapısını ve dükkânları kolayca görebilir miyim acaba?
+
+Gül: Evet Beyefendi, yolun tam sonunda tarihi kapalı çarşının ahşap oymalı ana kapısı, geleneksel zanaat dükkânları ve hediyelik eşya tezgâhları karşınıza çıkacaktır.
+
+Kemal: Şehir içi otobüs biniş ücretini temassız banka veya kredi kartımla sorunsuz bir şekilde ödeyebilir miyim?
+
+Gül: Evet Beyefendi, tüm belediye otobüslerimizde temassız kredi ve banka kartları son derece pratik bir şekilde geçerlidir, ekstra ulaşım kartı almanıza gerek yoktur.
+
+Kemal: Verdiğiniz bu son derece açık, net, detaylı, yönlendirici ve nazik tarif için size çok teşekkür ederim Hanımefendi.
+
+Gül: Rica ederim Beyefendi, tarihi kapalı çarşıda ve nostaljik sokaklarda son derece keyifli, güzel ve unutulmaz bir gezi dilerim!
+
+Kemal: Sağ olun Hanımefendi, size de hayırlı, huzurlu ve iyi günler dilerim!
+
+### | Mimarlık Seminerinde Meslektaş ile Tanışma
+lang: tr | cat: dialogue | sub: intro | tags: tanışma, mimarlık, seminer, tasarım, kariyer | level: 3
+---
+Levent: Merhaba! Galiba siz de kent mimarlar odasının düzenlediği sürdürülebilir mimarlık ve yeşil bina tasarımları konulu uluslararası seminer programına katılıyorsunuz?
+
+Hande: Merhaba! Evet, çok doğru bir tespit. Ben Hande. Akıllı binalar, ekolojik mimarlık ve enerji verimliliği konularındaki sunumları dinlemek için geldim.
+
+Levent: Çok memnun oldu Levent Bey, ben de Levent. On yıldır kent merkezindeki özel bir mimarlık ofisinde konut ve ticari alan projeleri tasarlıyorum.
+
+Hande: Ben de tanıştığıma çok memnun oldu Levent Bey. Ben de üniversitede ahşap yapı sistemleri, ekolojik malzeme ve tarihi konut restorasyonu alanında akademisyen olarak çalışıyorum.
+
+Levent: Harika ve çok değerli bir uzmanlık alanı! Ahşap yapıların sürdürülebilir kent mimarisine katkısı ve yapılardaki karbon ayak izini azaltması son dönemde son derece kritik bir konu haline geldi.
+
+Hande: Kesinlikle çok haklısınız Levent Bey. Geleneksel ahşap mimarimizin zengin birikiminin çağdaş mühendislik teknolojisiyle harmanlanması geleceğin çevre dostu kent tasarımlarına yön verecektir.
+
+Levent: Seminerin ikinci oturumundaki tarihi konut restorasyonu ve yerel malzeme dönüştürme üzerine sunumu gerçekleştiren akademisyen konuşmacı siz miydiniz acaba?
+
+Hande: Evet Levent Bey, tarihi binaların iklimsel adaptasyonu ve geleneksel yalıtım malzemeleri üzerindeki son bilimsel araştırma sonuçlarımızı meslektaşlarımızla paylaştım.
+
+Levent: Sunumunuz gerçekten son derece ufuk açıcı, teknik derinliği yüksek, akıcı ve ilham vericiydi Hande Hanım, sizi yürekten tebrik ederim.
+
+Hande: Nazik değerlendirmeniz, değerli ilginiz ve güzel sözleriniz için çok teşekkür ederim Levent Bey. Uygulamadaki mimari projelerinizde yeşil bina kriterlerini aktif olarak kullanıyor musunuz?
+
+Levent: Evet Hande Hanım, yeni tasarladığımız projelerimizde güneş panelleri, yağmur suyu toplama depoları, doğal havalandırma bacaları ve yerel doğal malzemeler kullanmaya büyük özen gösteriyoruz.
+
+Hande: Bu vizyoner ve çevre dostu yaklaşımınız Ege bölgesindeki mimari gelişim ve sürdürülebilirlik açısından son derece sevindirici.
+
+Levent: Seminerin kahve molasında ortak projeler ve akademideki son yenilikler üzerine sohbet etmeye devam etmek isterim.
+
+Hande: Mükemmel bir fikir Levent Bey, kahve eşliğinde mesleki deneyimlerimizi ve projelerimizi paylaşmaktan büyük mutluluk duyarım.
+
+Levent: O zaman seminer fuayesindeki kahve alanına doğru birlikte geçelim, buyurun Hande Hanım!
+
+Hande: Çok teşekkür ederim Levent Bey, buyurun gidelim!
+
+### | Otel Odası Temizlik Sorununun Nazikçe Çözümü
+lang: tr | cat: dialogue | sub: problem | tags: sorun, otel, temizlik, müşteri, çözüm | level: 2
+---
+Sami: İyi akşamlar Nermin Hanım, otelin resepsiyon biriminden arıyorum. Tarafımıza bugün tahsis edilen iki yüz beş numaralı odada ailemle birlikte konaklamaktayım.
+
+Nermin: İyi akşamlar Sami Bey! Size ve ailenize nasıl yardımcı olabilirim acaba? Konaklamanızla ilgili bir talebiniz, bir arzunuz veya bir ihtiyacınız mı vardı?
+
+Sami: Evet Nermin Hanım, odamıza az önce giriş yaptık ancak banyo bölümünün genel temizliği, zemin hijyeni ve havlu takımlarının değişimi maalesef tam olarak yapılmamış görünüyor.
+
+Nermin: Yaşadığınız bu talihsiz, kabul edilemez, beklenmedik ve üzücü durum için otelimiz adına sizden içtenlikle özür dilerim Sami Bey. Kat hizmetleri ekibimizin gözünden kaçmış bir aksaklık olmalı.
+
+Sami: Anlayışla karşılıyorum Nermin Hanım, otelin yoğun akşam saatlerinde ve giriş trafiğinde bu tür insani gözden kaçmalar yaşanabilir. Banyonun yeniden hijyenik şekilde detaylıca temizlenmesini rica ediyorum.
+
+Nermin: Yapıcı, kibar, nazik ve son derece anlayışlı yaklaşımınız için çok teşekkür ederim Sami Bey. Kat hizmetleri sorumlumuzu taze havlu takımları, bornozlar ve hijyenik temizlik ürünleriyle hemen odanıza yönlendiriyorum.
+
+Sami: Çok teşekkür ederim Nermin Hanım. Görevli arkadaşımızın banyoyu hijyenik olarak temizlemesi, zeminleri silmesi ve taze havluları yerleştirmesi bizim için tamamen yeterli olacaktır.
+
+Nermin: Görevli arkadaşımız en geç beş dakika içinde kapınızda olacak Sami Bey. Ayrıca yaşanan bu küçük aksaklığı telafi etmek adına bu akşamki yemeğinizi otel restoranımızda özel ikramımız olarak sunmak isteriz.
+
+Sami: Gösterdiğiniz bu yüksek müşteri memnuniyeti odaklı, profesyonel, yapıcı, misafirperver ve nazik yaklaşım için ailece size çok teşekkür ederiz Nermin Hanım.
+
+Nermin: Müşterilerimizin konforu, sağlığı, memnuniyeti ve mutluluğu bizim için her zaman ilk sıradadır Sami Bey. Başka bir ihtiyacınız veya talebiniz olursa lütfen hiç çekinmeden bizi arayın.
+
+Sami: Hızlı çözümünüz, ilginiz, nezaketiniz ve yapıcı tutumunuz için tekrar çok sağ olun Nermin Hanım, hayırlı ve huzurlu akşamlar dilerim.
+
+Nermin: İyi akşamlar Sami Bey, otelimizde huzurlu, mutlu, sağlıklı ve keyifli bir konaklama geçirmenizi dilerim!
+
+Sami: Çok teşekkürler Nermin Hanım, iyi çalışmalar ve kolaylıklar dilerim!
+
+Nermin: Rica ederim Sami Bey, her zaman hizmetinizdeyiz, iyi akşamlar!
+
+### | Sahil Kafesinde Dondurmalı Tatlı Siparişi
+lang: tr | cat: dialogue | sub: restaurant | tags: restoran, kafe, tatlı, dondurma, sipariş | level: 1
+---
+Garson: Sahil kafemize ve deniz manzaralı ferah teras alanımıza hoş geldiniz Efendim! Sizi deniz kenarındaki gölgelikli pencereli masa alanımıza memnuniyetle alabilir miyim?
+
+Emin: Hoş bulduk! İlgilendiğiniz, güler yüzle karşıladığınız ve yer gösterdiğiniz için çok teşekkür ederim. Deniz kenarındaki ahşap masa gerçekten son derece ferah, aydınlık, huzurlu ve güzel görünüyor.
+
+Garson: Masanıza taze dondurma menümüzü ve serinletici içecek listemizi hemen takdim ediyorum. Mutfak şefimiz bu öğleden sonra fırından yeni çıkan taze dondurmalı waffle tatlısını özenle hazırladı.
+
+Emin: Menünüzü dikkatlice inceledim. Kafenizde sunulan dondurma çeşitleriniz günlük olarak taze doğal keçi sütünden mi üretiliyor acaba?
+
+Garson: Evet Efendim, tüm dondurma çeşitlerimiz günlük taze keçi sütü, doğal salep ve gerçek taze meyve özleri ile mutfağımızda geleneksel yöntemlerle özenle hazırlanmaktadır.
+
+Emin: Taze meyveli ve vanilyalı dondurmalı waffle tabağınızın içeriğinde hangi taze meyveler, kuruyemişler ve soslar yer alıyor acaba?
+
+Garson: Waffle tabağımızda fırınlanmış hamur üzerinde taze çilek dilimleri, muz, fındık parçaları, sıcak çikolata sosu ve iki büyük top taze vanilyalı dondurma yer almaktadır.
+
+Emin: Büyüleyici! Peki dondurmalı waffle tabağımın yanında serinletici bir içecek olarak ne tavsiye edersiniz?
+
+Garson: Ev yapımı taze sıkılmış bol buzlu nane aromalı limonatamız waffle tatlısının yanında son derece ferahlatıcı, dengeli, lezzetli ve harika bir ikram olur Efendim.
+
+Emin: O zaman bir porsiyon taze meyveli dondurmalı waffle ve bir bardak taze sıkılmış buzlu limonata rica ediyorum.
+
+Garson: Siparişlerinizi detaylıca not aldım Emin Bey. Limonatanız üç dakika içinde masanızda olur, dondurmalı waffle tatlımız ise en fazla sekiz dakika içinde sıcak ve taze servis edilecektir.
+
+Emin: İlgilendiğiniz, hızlı servis sunduğunuz, güler yüzlü yaklaşımınız ve detaylı bilgilendirme yaptığınız için çok teşekkür ederim.
+
+Garson: Rica ederim Emin Bey, şimdiden afiyet olsun, harika, huzurlu, neşeli, tatlı ve keyifli bir öğleden sonra geçirmenizi dilerim!
+
+Emin: Çok teşekkürler, size de kolay gelsin ve iyi çalışmalar dilerim!
+
+Garson: Sağ olun Emin Bey, afiyet olsun, her zaman yine bekleriz!
+
+Emin: Hoşça kalın, iyi akşamlar dilerim!
+
+Kontrol Özeti:
+İstenen Sayı: 5
+Üretilen Sayı: 5

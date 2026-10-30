@@ -1,0 +1,21 @@
+Kaynaklardaki yazım kılavuzuna göre 5 KISA metin yaz.
+
+- Dil: İngilizce (doğal İngilizce; Türkçeden çeviri değil)
+- Kategori: dialogue (Diyalog ve konuşma)
+- Uzunluk: her metin 350–550 kelime. Alt sınırın altına düşme.
+- Metinler:
+  1) sub: everyday (Günlük konuşma) · level: 3
+  2) sub: restaurant (Restoran ve kafe) · level: 2
+  3) sub: shopping (Market ve alışveriş) · level: 1
+  4) sub: interview (İş görüşmesi) · level: 2
+  5) sub: meeting (Toplantı) · level: 3
+- Her konuşma AYRI SATIRDA "Ad: söz" biçiminde olsun; konuşmaları tek paragrafa yığma.
+
+Her metin TAM OLARAK şu biçimde (YAML ya da başka biçim kullanma):
+
+### | Metnin Başlığı
+lang: en | cat: dialogue | sub: <yukarıdaki> | tags: <3-5 etiket> | level: <yukarıdaki>
+---
+Gövde. Paragraflar arasında boş satır.
+
+"Mevcut başlıklar" kaynağındaki ve bu sohbette daha önce yazdığın başlık ve konuları tekrar etme; her metinde farklı karakter, mekân ve olay. Atıf numarası yazma. En sonda ayrı bir satıra yalnızca "Kontrol Özeti:" yaz ve altına istenen ve üretilen metin sayısını yaz.

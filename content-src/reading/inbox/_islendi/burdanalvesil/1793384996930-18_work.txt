@@ -1,0 +1,103 @@
+### | Şirket İçi Dijital Dönüşüm Ve Müşteri Deneyimi Stratejileri Sunumu
+lang: tr | cat: work | sub: presentation | tags: sunum, dijital, dönüşüm, müşteri, strateji | level: 2
+---
+Değerli yönetim kurulu üyelerimiz, kıdemli birim yöneticilerimiz, değerli yatırımcılarımız, ana hissedarlarımız ve şirketimizin büyüme vizyonuna yön veren değerli çalışma arkadaşlarım, bugün gerçekleştireceğimiz bu stratejik sunumda şirketimizin önümüzdeki iki yıllık dönemde benimseyeceği yenilikçi dijital dönüşüm stratejilerini, yeni müşteri deneyimi adımlarımızı ve verimliliği artırmaya yönelik dinamik projelerimizi tüm detaylarıyla detaylı şekilde paylaşmaktan büyük bir onur duyuyorum.
+
+Günümüzün hızla değişen küresel pazar koşullarında, dijital dönüşüm rüzgârında ve yoğun rekabet ortamında, geleneksel iş yöntemleriyle yüksek müşteri memnuniyeti sağlamak ne yazık ki tek başına yeterli olmamaktadır. Kurumlar artık iş süreçlerinin her bir adımında şeffaf, hızlı, güvenilir, ölçülebilir, esnek ve entegre bir dijital altyapı kurmayı arzulamaktadır. Yapılan son bağımsız araştırmalar, dijital süreç yönetimini benimseyen şirketlerin operasyonel maliyetlerinde %35 oranında tasarruf sağladığını ve iş süreçlerini iki kat daha hızlı tamamladığını net şekilde ortaya koymaktadır.
+
+Bu doğrultuda kurguladığımız yeni operasyonel vizyonumuz üç ana temel sütun üzerine inşa edilmiştir: Birinci sütunumuz, tüm idari birimlerimizi ve saha operasyonlarımızı tek bir platformda birleştiren bütünleşik iş süreçleri yönetimidir. Departmanlar arası veri akışını kesintisiz hale getirerek onay mekanizmalarındaki zaman kayıplarını tamamen ortadan kaldırıyoruz.
+
+İkinci sütunumuz, yapay zekâ destekli kaynak planlama ve otomatik raporlama sistemleridir. İş gücü dağılımını, envanter hareketlerini ve operasyonel dar boğazları anlık olarak analiz ederek, henüz sorun oluşmadan önce önleyici tedbirler geliştireceğiz.
+
+Üçüncü sütunumuz ise çalışanlarımızın mesleki gelişimini destekleyen sürekli eğitim programlarıdır. Saha ve idari ekiplerimizin dijital okuryazarlık yetkinliklerini artırarak kurumsal performansımızı en üst seviyeye taşımayı hedefliyoruz.
+
+Ayrıca operasyonel bütçemizin verimli kullanımı amacıyla her ay birim performans göstergelerini (KPI) anlık takip edecek ve yönetim kuruluna sunacak esnek analiz panelleri kuracağız. Bu paneller sayesinde bütçe sapmaları erken aşamada tespit edilecek ve gerekli iyileştirmeler hızla yapılacaktır.
+
+Sunumumuzun son bölümünde yer alan uygulama takvimi doğrultusunda, ilk çeyrekte altyapı hazırlıklarımızı tamamlayarak ikinci çeyrek itibarıyla yeni operasyonel modelimizi tüm bölge ve tesislerimizde canlıya alacağız. Şirketimizi geleceğe taşıyacak bu vizyoner projeye verdiğiniz güçlü destek için hepinize ayrı ayrı yürekten teşekkür ederim.
+
+### | Kurumsal Bilgi Güvenliği Ve Cihaz Erişim Standartları Talimatnamesi
+lang: tr | cat: work | sub: instructions | tags: talimat, güvenlik, bilgi, cihaz, şirket | level: 3
+---
+Amaç ve Kapsam:
+Bu talimatname, şirketimiz bünyesinde kullanılan tüm kurumsal bilgi sistemlerinin, sunucuların, masaüstü bilgisayarların, dizüstü cihazların, kurumsal mobil telefonların ve ağ altyapısının siber tehditlere, zararlı yazılımlara, yetkisiz veri erişimlerine, veri sızıntılarına ve fiziksel güvenlik risklerine karşı korunmasını sağlamak amacıyla hazırlanmıştır. Şirket ağımıza kablolu veya kablosuz olarak bağlanan tüm personel, stajyer ve dış kaynak hizmet sağlayıcıları bu talimatnamede belirtilen teknik güvenlik kurallarına, erişim yetkilendirme protokollerine, şifreleme kriterlerine ve kurumsal gizlilik politikalarına eksiksiz ve amansızca uymakla mükellef ve yükümlüdür.
+
+1. Kablosuz Ağ ve Uzaktan Erişim Standartları:
+- Şirket personeline tahsis edilen cihazların kurumsal kablosuz ağa bağlantısı yalnızca kişisel dijital sertifika ve İki Faktörlü Kimlik Doğrulama (2FA) ile sağlanacaktır.
+- Şirket dışındayken veya uzaktan çalışma esnasında kurumsal sunuculara erişimde yalnızca Bilgi Teknolojileri birimi tarafından tanımlanmış Sanal Özel Ağ (VPN) bağlantısı kullanılmalıdır.
+- Şifresiz halka açık kablosuz ağlar üzerinden kurumsal sistemlere doğrudan giriş yapılması siber güvenlik riskleri sebebiyle kesinlikle ve tamamen yasaklanmıştır.
+
+2. Cihaz Güvenliği, Yazılım Güncellemeleri ve Şifreleme:
+- Çalışanlar kendilerine tahsis edilen bilgisayarlarda yerel yönetici (Administrator) yetkisi talep edemez; lisanssız veya onaylanmamış üçüncü taraf yazılımları cihazlara yükleyemez.
+- İşletim sistemi güncellemeleri otomatik yüklenecek ve cihazlar haftada en az bir kez tamamen yeniden başlatılacaktır.
+- Tüm bilgisayar diskleri ve taşınabilir medya araçları saklama aşamasında AES-256 standartlarında şifrelenmelidir.
+
+3. İhlal Bildirimi, Denetim, Kontrol ve Yaptırımlar:
+- Cihazlarda şüpheli bir yavaşlama, yetkisiz erişim denemesi veya virüs uyarısı görüldüğünde derhal Siber Güvenlik Olay Müdahale Ekibine yazılı bildirim yapılmalıdır.
+- Bu talimatnameye aykırı hareket eden personel hakkında Disiplin Yönetmeliği hükümleri doğrultusunda gerekli idari, cezai, disiplin ve hukuki yaptırımlar kararlılıkla ve tavizsizce uygulanacaktır.
+
+Bilgi güvenliğini koruma, siber tehditleri engelleme, erişim yetkilerini denetleme, veri gizliliğini sağlama ve kurumsal verileri her zaman emniyette tutma hususında tüm çalışanlarımızın, birim yöneticilerimizin, saha temsilcilerimizin ve teknik ekiplerimizin gerekli özeni, dikkati, duyarlılığı, hassasiyeti ve sorumluluğu göstermesini önemle, içtenlikle, saygıyla ve kararlılıkla rica ederiz.
+
+### | Özel Teknik Destek Ve Cihaz Kurulum Gecikmesi Özür Mektubu
+lang: tr | cat: work | sub: customer | tags: müşteri, iletişim, teknik, özür, bilgilendirme | level: 2
+---
+Sayın Harun Şahin,
+
+Şirketimizden 19 Ekim 2026 tarihinde satın almış olduğunuz sanayi tipi otomasyon ünitesinin yetkili servis kurulumu, teknik montajı ve performans test süreçleriyle ilgili tarafımıza iletmiş olduğunuz haklı şikâyet başvurusu ve bilgilendirme talebi Müşteri İlişkileri Departmanımız tarafından büyük bir dikkat, hassasiyet, ciddiyet, özen ve titizlikle detaylıca incelemeye alınmıştır.
+
+Öncelikle, cihazınızın teknik servis montaj ekibimiz tarafından belirlenen randevu saatinde kurulamaması ve yaşanan iletişim aksaklığı sebebiyle tesisinizde meydana gelen dönemsel üretim gecikmesi ve mağduriyetten ötürü şirketimiz adına sizden ve ekibinizden içtenlikle ve yürekten özür dileriz. Müşterilerimize yüksek standartlarda, hızlı, güvenilir, kesintisiz, sorunsuz, şeffaf, sürdürülebilir ve kaliteli hizmet sunmak en temel kurumsal önceliğimiz ve vazgeçilmez varlık ilkemizdir.
+
+Gerçekleştirilen iç inceleme sonucında, teknik servis ekibimizin intikal güzergahında meydana gelen beklenmedik araç arızası ve bölgesel trafik yoğunluğu sebebiyle randevu saatinize gecikme yaşandığı tespit edilmiştir. Yaşanan bu iletişim kopukluğuyla ilgili sorumlu birimler uyarılmış ve benzer aksaklıkların tekrar etmemesi adına teknik servis takip sistemimizde ve müşteri bilgilendirme süreçlerimizde gerekli düzeltici ve önleyici tedbirler derhal ve kararlılıkla alınmıştır.
+
+Yaşadığınız mağduriyeti telafi etmek ve cihazınızdan maksimum verimi almanızı sağlamak amacıyla şirketimiz tarafından şu adımlar atılmıştır:
+1. Ürününüzün yetkili servis kurulumu ve tüm teknik performans testleri başteknisyenimiz yönetiminde bugün itibarıyla eksiksiz ve ücretsiz olarak tamamlanmıştır.
+2. Cihazınızın standart 2 yıllık garanti süresi, şirketimizin ikramı olarak hiçbir ekstra ücret alınmaksızın 1 yıl süreyle uzatılarak toplam 3 yıla çıkarılmıştır.
+3. Önümüzdeki 12 ay boyunca cihazınızın periyodik ilk iki teknik bakımı şirketimiz tarafından tamamen ücretsiz, kapsamlı ve öncelikli olarak gerçekleştirilecektir.
+4. Tesisinizdeki diğer otomasyon ünitelerinin genel kontrolü için uzman mühendisimiz önümüzdeki hafta özel bir inceleme ve bakım ziyareti gerçekleştirecektir.
+
+Müşteri memnuniyetini her şeyin üzerinde tutan kurumsal anlayışımızla, sizlere hizmet vermekten büyük onur duyuyoruz. Süreçle ilgili sorularınız için müşteri hizmetlerimize dilediğiniz zaman kolayca ulaşabilirsiniz.
+
+Anlayışınız, sabrınız, değerli iş birliğiniz, güveniniz ve desteğiniz için teşekkür ederiz.
+
+Saygılarımla,
+Gaye Arslan
+Müşteri İlişkileri Yöneticisi
+Lider Otomasyon Sistemleri A.Ş.
+
+### | Kurumsal Veri Depolama Ve Otomatik Bulut Yedekleme Sistemleri
+lang: tr | cat: work | sub: tech | tags: teknoloji, yazılım, veri, bulut, yedekleme | level: 1
+---
+Bilişim Ve Sistem Operasyonları Ekibimizin Değerli Üyeleri,
+
+Şirketimizin veri depolama kapasitesini artırmak, kurumsal verilerin güvenliğini sağlamak, olası veri kayıplarını tamamen engellemek, sistem performansını yükseltmek, operasyonel yükleri hafifletmek ve dijital arşiv süreçlerini kesintisiz hale getirmek amacıyla faaliyete geçirdiğimiz Otomatik Bulut Yedekleme ve Depolama Sisteminin teknik mimarisi, kurulum adımları, veri iletim protokolleri, güvenlik katmanları, arşiv standartları, veri doğrulama prosedürleri ve kullanım esasları aşağıda detaylıca özetlenmiştir.
+
+1. Bulut Depolama Mimarisi ve Otomatik Yedekleme:
+Yeni depolama sistemimiz; yerel sunucularda tutulan kurumsal dosyaların, müşteri veritabanlarının, finansal kayıtların ve proje dokümanlarının yüksek güvenlikli bulut sunuculara anlık olarak yedeklenmesi esasına dayanır. Veri yedekleme işlemleri mesai saatlerini olumsuz etkilemeyecek şekilde arka planda otomatik olarak yürütülür. Sistem, veri tekilleştirme (deduplication) teknolojisi sayesinde depolama alanını maksimum verimlilikle kullanmaktadır.
+
+2. Veri Şifreleme ve Siber Güvenlik Standartları:
+Tüm veriler hem iletim esnasında (In-Transit) hem de depolama aşamasında (At-Rest) uluslararası AES-256 standartlarında uçtan uca şifrelenmektedir. Yetkisiz erişimleri engellemek amacıyla tüm kullanıcı girişlerinde İki Faktörlü Kimlik Doğrulama (2FA) zorunlu tutulmuştur. Ayrıca sistem yedekleri olası siber saldırılara karşı fiziksel olarak izole edilmiş felaket kurtarma merkezinde eşzamanlı kopyalanır.
+
+3. Kullanıcı Arayüzü ve Dosya Kurtarma Prosedürleri:
+Çalışanlarımız web tabanlı sezgisel panel üzerinden geçmiş versiyon dosyalarına kolayca ulaşabilir ve yanlışlıkla silinen dokümanları tek bir tıkla saniyeler içinde geri yükleyebilirler. Tüm dosya erişim logları sistem yöneticileri tarafından anlık olarak izlenmektedir.
+
+4. Teknik Destek, Eğitim Ve Danışmanlık Hizmetleri:
+Sistemin kullanımıyla ilgili her türlü teknik destek, altyapı danışmanlığı, yetkilendirme talebi, sistem entegrasyonu, veri kurtarma prosedürleri, yedekleme stratejileri, arşiv yapılandırması, güvenlik denetimleri, veri doğrulama testleri ve eğitim desteği için Bilgi Teknolojileri birimimizle dilediğiniz zaman kolayca, hızlıca, doğrudan, tamamen, şeffafça ve kesintisizce iletişime geçebilirsiniz. Tüm çalışanlarımızın, yazılım geliştiricilerimizin, veri tabanı analistlerimizin, ağ uzmanlarımızın, güvenlik görevlilerimizin ve sistem yöneticilerimizin yeni bulut yedekleme kılavuzunu dikkatlice incelesini, öğrenmesini, kavramasını, uygulamasını, takip etmesini, denetlemesini ve prosedürleri eksiksiz sürdürmesini önemle, içtenlikle, saygıyla, öncelikle, hassasiyetle ve kararlılıkla rica ederiz.
+
+### | Profesyonel Kriz Yönetimi Ve Stratejik Karar Alma Becerileri
+lang: tr | cat: work | sub: growth | tags: gelişim, kariyer, kriz, yönetim, karar | level: 2
+---
+Hızla değişen, karmaşıklaşan, belirsizliklerin arttığı ve yüksek rekabetin hâkim olduğu günümüz iş dünyasında sürdürülebilir bir kariyer başarısı elde etmek, sadece rutin iş süreçlerini yürütmekle değil, kriz anlarında soğukkanlılığı koruyarak hızlı, doğru, analitik, esnek, üretken, akılcı, pratik ve stratejik kararlar alabilmekle mümkündür. İş hayatında karşılaşılan beklenmedik aksaklıklar, pazar dalgalanmaları, operasyonel riskler ve müşteri şikâyetleri karşısında doğru karar alma mekanizmalarını çalıştırabilen profesyoneller, hem organizasyonlarına büyük bir değer katmakta hem de geleceğin başarılı liderleri arasında sağlam bir yer edinmektedir. Bireysel karar alma, risk analizi yapma, kriz yönetimi, zaman yönetimi ve problem çözme yetkinliklerini geliştirmeye yönelik temel stratejiler aşağıda sırasıyla ve detaylıca sıralanmıştır:
+
+1. Veriye Dayalı Analiz ve Durum Değerlendirmesi:
+Kriz anlarında yapılan en büyük hata, panikle veya eksik bilgiyle acele kararlar almaktır. Doğru bir karar süreci, mevcut durumu dürüstçe, tarafsızca, şeffafça ve kapsamlıca analiz etmekle başlar. Olayın kök nedenlerini, etkilenen tarafları ve olası riskleri verilere dayanarak haritalandırmak, en uygun ve etkili çözüm yolunu seçmeyi kolaylaştırır.
+
+2. Çevik Düşünme ve Alternatif Senaryolar Geliştirme:
+İş hayatında her zaman tek bir planla ilerlemek mümkün değildir. Kriz durumlarında A, B ve C planlarını önceden kurgulamış olmak, değişen koşullara hızla adapte olmayı sağlar. Bilişsel esneklik kazanan liderler, beklenmedik engeller karşısında alternatif yollar üreterek ekibini güvenle, başarıyla, vizyonla, cesaretle ve kararlılıkla yönlendirirler.
+
+3. Açık İletişim, Şeffaflık ve Ekip Hizalanması:
+Kriz yönetiminin kalbinde şeffaf, yapıcı, hızlı, dürüst, saygılı, net, güvenilir ve doğru iletişim yer alır. Süreçle ilgili bilgileri ekiple, çalışanlarla, yöneticilerle ve paydaşlarla zamanında paylaşmak, belirsizlikten doğan kaygıyı azaltır. Karar alma süreçlerine ekibi dâhil etmek, ortak akıl yaratarak en doğru, verimli, güçlü ve kalıcı sonuca ulaşmayı sağlar.
+
+4. Sürekli Mesleki Gelişim, Eğitim Ve Akademi Desteği:
+Şirketimizin sunduğu 'Kriz Yönetimi, Risk Analizi, Liderlik Ve Stratejik Karar Alma' akademisine katılarak bireysel yetkinliklerinizi güçlendirebilir, liderlik potansiyelinizi ortaya çıkarabilir, kriz anlarında soğukkanlılığınızı koruyabilir ve kariyer yolculuğunuzda emin, güçlü, başarı dolu, huzurlu ve kararlı adımlarla ilerleyebilirsiniz.
+
+Kontrol Özeti:
+5

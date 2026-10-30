@@ -1,0 +1,21 @@
+Kaynaklardaki yazım kılavuzuna göre 5 KISA metin yaz.
+
+- Dil: İngilizce (doğal İngilizce; Türkçeden çeviri değil)
+- Kategori: poetry (Şiir ve edebî metinler)
+- Uzunluk: her metin 120–300 kelime. Alt sınırın altına düşme.
+- Metinler:
+  1) sub: style (Dil ve anlatım çalışması) · level: 2
+  2) sub: poem (Şiir) · level: 3
+  3) sub: prose (Kısa düzyazı) · level: 2
+  4) sub: description (Betimleme) · level: 1
+  5) sub: nature (Doğa tasviri) · level: 2
+- Şiirlerde satır sonlarını koru, kıtalar arasında boş satır bırak; meta satırına "kind: poem" ekle.
+
+Her metin TAM OLARAK şu biçimde (YAML ya da başka biçim kullanma):
+
+### | Metnin Başlığı
+lang: en | cat: poetry | sub: <yukarıdaki> | tags: <3-5 etiket> | level: <yukarıdaki>
+---
+Gövde. Paragraflar arasında boş satır.
+
+"Mevcut başlıklar" kaynağındaki ve bu sohbette daha önce yazdığın başlık ve konuları tekrar etme; her metinde farklı karakter, mekân ve olay. Atıf numarası yazma. En sonda ayrı bir satıra yalnızca "Kontrol Özeti:" yaz ve altına istenen ve üretilen metin sayısını yaz.

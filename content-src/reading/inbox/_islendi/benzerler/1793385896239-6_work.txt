@@ -1,0 +1,22 @@
+### | Şirket İçi Bilgisayar Ağ Güvenliği ve Cihaz Kullanım Talimatı
+lang: tr | cat: work | sub: instructions | level: 3 | tags: talimat, güvenlik, ağ, cihaz, şirket
+---
+Amaç ve Kapsam:
+Bu talimatname, şirketimiz bünyesinde kullanılan tüm masaüstü bilgisayarların, dizüstü cihazların, kurumsal mobil telefonların ve ağ altyapısının siber tehditlere, zararlı yazılımlara, yetkisiz veri erişimlerine ve fiziksel güvenlik risklerine karşı korunmasını sağlamak amacıyla hazırlanmıştır. Şirket ağımıza kablolu veya kablosuz olarak bağlanan tüm personel, stajyer ve dış kaynak hizmet sağlayıcıları bu talimatnamede belirtilen teknik güvenlik kurallarına, erişim protokollerine, şifreleme kriterlerine ve kurumsal gizlilik politikalarına eksiksiz ve amansızca uymakla mükellef ve sorumlu yükümlüdür.
+
+1. Kablosuz Ağ (Wi-Fi) ve Uzaktan Erişim Standartları:
+- Şirket personeline tahsis edilen cihazların kurumsal kablosuz ağa bağlantısı yalnızca Kişisel Sertifika ve İki Faktörlü Kimlik Doğrulama (2FA) ile sağlanacaktır.
+- Şirket dışındayken veya evden uzaktan çalışma esnasında kurumsal sistemlere ve ortak sunuculara erişimde yalnızca Bilgi Teknolojileri birimi tarafından tanımlanmış Sanal Özel Ağ (VPN) bağlantısı kullanılmalıdır.
+- Kafe, havalimanı ve otel gibi alanlardaki şifresiz veya güvensiz halka açık kablosuz ağlar üzerinden kurumsal e-posta ve sistemlere doğrudan giriş yapılması kesinlikle ve hiçbir koşulda yasaktır.
+
+2. Cihaz Güvenliği ve Yazılım Güncellemeleri:
+- Çalışanlar kendilerine tahsis edilen bilgisayarlarda yerel yönetici (Administrator) yetkisi talep edemez; lisanssız, korsan veya onaylanmamış üçüncü taraf yazılımları cihazlara yükleyemez.
+- İşletim sistemi ve антиvirüs yazılımı güncellemeleri sistem tarafından otomatik olarak yüklenecektir. Güncelleme bildirimleri ertelenmemeli ve cihazlar haftada en az bir kez tamamen yeniden başlatılmalıdır.
+- Şirket cihazlarının çalınması, kaybedilmesi, hasar görmesi veya fiziksel zarara uğraması durumunda derhal Bilgi Teknolojileri birimine yazılı bildirim yapılmalıdır.
+
+3. Taşınabilir Medya ve Harici Cihaz Kısıtlamaları:
+- Kurumsal bilgisayarlara kaynağı belirsiz USB bellek, harici disk veya kişisel telefon bağlantısı yapılması güvenlik yazılımları tarafından otomatik olarak engellenecektir.
+- Dosya aktarımı yalnızca onaylı kurumsal bulut depolama alanları üzerinden güvenli şekilde gerçekleştirilmelidir.
+
+4. İhlal Bildirimi ve Yaptırımlar:
+- Cihazlarda şüpheli bir yavaşlama, garip açılır pencereler veya virüs uyarısı görüldüğünde derhal Siber Güvenlik Olay Müdahale Ekibine bildirim yapılmalıdır. Bu talimatnameye aykırı hareket eden personel hakkında Disiplin Yönetmeliği hükümleri doğrultusunda gerekli idari, idari takibat ve hukuki yaptırımlar uygulanacaktır.

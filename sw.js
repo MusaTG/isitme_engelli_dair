@@ -1,6 +1,6 @@
 // Service worker: uygulama kabuğunu önbelleğe alır, böylece ilk ziyaretten sonra çevrimdışı açılır.
 // Yeni sürüm yayınlarken CACHE adındaki sürüm numarasını artırın; kullanıcılar güncelleme bildirimi alır.
-const CACHE = 'duyum-v4.1.0-5dccb04c';
+const CACHE = 'duyum-v4.7.2-a49771fd';
 const ASSETS = [
   './',
   './index.html',
@@ -39,6 +39,7 @@ const ASSETS = [
   './js/reading/core.js',
   './js/reading/data.js',
   './js/reading/github.js',
+  './js/reading/importer.js',
   './js/reading/readaloud.js',
   './js/reading/rules.js',
   './js/reading/search.js',
@@ -57,6 +58,7 @@ const ASSETS = [
   './js/views/read-ai.js',
   './js/views/read-common.js',
   './js/views/read-home.js',
+  './js/views/read-import.js',
   './js/views/read-library.js',
   './js/views/read-lists.js',
   './js/views/read-mine.js',

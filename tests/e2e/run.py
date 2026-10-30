@@ -18,6 +18,9 @@ BASE = os.environ.get('DUYUM_URL', 'http://localhost:8080/?nosw')
 OUT = (sys.argv[1] if len(sys.argv) > 1 else 'e2e-shots').rstrip('/') + '/'
 os.makedirs(OUT, exist_ok=True)
 FAKE = open(os.path.join(os.path.dirname(__file__), 'fake_voices.js'), encoding='utf8').read()
+# Uygulama içi onay penceresini (confirmAsk) kendiliğinden onaylar — tarayıcı confirm() yerine geçti.
+AUTO_CONFIRM = """new MutationObserver(() => { const b = document.querySelector('.confirm-dlg [data-v="1"]'); if (b) b.click(); }).observe(document, { childList: true, subtree: true });"""
+
 
 RESULTS = []
 
@@ -185,7 +188,7 @@ async def main():
     async with async_playwright() as p:
         b = await p.chromium.launch()
         ctx = await b.new_context(viewport={'width': 390, 'height': 844}, device_scale_factor=2)
-        await ctx.add_init_script(FAKE)
+        await ctx.add_init_script(FAKE); await ctx.add_init_script(AUTO_CONFIRM)
         pg = await ctx.new_page()
         errors = []
         pg.on('pageerror', lambda e: errors.append(f'pageerror: {e} @ {(e.stack or "").splitlines()[1:3]}'))

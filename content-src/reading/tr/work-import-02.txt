@@ -1,0 +1,348 @@
+### 69 | Şirket İçi Yenilikçi Tedarik Zinciri Ve Lojistik Stratejileri Sunumu
+sub: presentation | level: 2 | tags: sunum, tedarik, lojistik, şirket, strateji | similar: ok
+---
+Değerli yönetim kurulu üyelerimiz, kıdemli birim yöneticilerimiz, değerli yatırımcılarımız, ana ortaklarımız ve tedarik zinciri operasyonlarımıza yön veren değerli çalışma arkadaşlarım, bugün gerçekleştireceğimiz bu stratejik sunumda şirketimizin önümüzdeki iki yıllık dönemde benimseyeceği yenilikçi tedarik zinciri stratejilerini, dijital lojistik adımlarımızı ve verimliliği artırmaya yönelik dinamik projelerimizi tüm detaylarıyla detaylı şekilde paylaşmaktan büyük bir onur duyuyorum.
+
+Günümüzün hızla değişen küresel pazar koşullarında, dijital dönüşüm rüzgârında ve yoğun rekabet ortamında, geleneksel tedarik yöntemleriyle yüksek esneklik sağlamak ne yazık ki tek başına yeterli olmamaktadır. Kurumlar artık tedarik süreçlerinin her bir adımında şeffaf, hızlı, güvenilir, ölçülebilir, esnek ve entegre bir lojistik yapısı kurmayı arzulamaktadır. Yapılan son bağımsız araştırmalar, dijital tedarik yönetimini benimseyen şirketlerin lojistik maliyetlerinde %30 oranında tasarruf sağladığını ve teslimat sürelerini iki kat daha hızlı tamamladığını net şekilde ortaya koymaktadır.
+
+Bu doğrultuda kurguladığımız yeni tedarik vizyonumuz üç ana temel sütun üzerine inşa edilmiştir: Birinci sütunumuz, tüm tedarikçilerimizi ve lojistik ağlarımızı tek bir platformda birleştiren bütünleşik süreç yönetimidir. Birimler arası veri akışını kesintisiz hale getirerek sipariş onay mekanizmalarındaki zaman kayıplarını tamamen ortadan kaldırıyoruz.
+
+İkinci sütunumuz, yapay zekâ destekli stok planlama ve otomatik rotalama sistemleridir. Hammadde hareketlerini, depo doluluk oranlarını ve nakliye hatlarını anlık olarak analiz ederek, henüz gecikme oluşmadan önce önleyici tedbirler geliştireceğiz.
+
+Üçüncü sütunumuz ise çalışanlarımızın mesleki gelişimini destekleyen sürekli eğitim programlarıdır. Lojistik ve saha ekiplerimizin dijital okuryazarlık yetkinliklerini artırarak kurumsal performansımızı en üst seviyeye taşımayı hedefliyoruz.
+
+Ayrıca tedarik bütçemizin verimli kullanımı amacıyla her ay birim performans göstergelerini (KPI) anlık takip edecek ve yönetim kuruluna sunacak esnek analiz panelleri kuracağız. Bu paneller sayesinde bütçe sapmaları erken aşamada tespit edilecek ve gerekli iyileştirmeler hızla yapılacaktır.
+
+Sunumumuzun son bölümünde yer alan uygulama takvimi doğrultusunda, ilk çeyrekte altyapı hazırlıklarımızı tamamlayarak ikinci çeyrek itibarıyla yeni tedarik modelimizi tüm bölge ve tesislerimizde canlıya alacağız. Şirketimizi geleceğe taşıyacak bu vizyoner projeye verdiğiniz güçlü destek için hepinize ayrı ayrı yürekten teşekkür ederim.
+
+### 70 | Uluslararası Tedarik Zinciri ve Lojistik Yönetimi Güncellemesi
+sub: email | level: 3 | tags: e-posta, tedarik, lojistik, yönetim, duyuru | similar: ok
+---
+Sayın Bölge Müdürleri, Kıdemli Operasyon Sorumluları ve Değerli Mesai Arkadaşlarım,
+
+Şirketimizin küresel pazarlardaki büyüme hedefleri, operasyonel esnekliği, sürdürülebilirlik ilkeleri, iş süreçleri kalitesi, kurumsal verimliliği, yüksek hizmet standartları, müşteri memnuniyet ilkeleri ve güçlü rekabet yapısını koruma vizyonu doğrultusunda, uluslararası tedarik zinciri ve lojistik yönetimi süreçlerimizi uluslararası standartlara tam uyumlu hale getirmek amacıyla Kapsamlı Tedarik Zinciri Politika ve Prosedür Güncellemesi gerçekleştirilmiştir. İşbu bilgilendirme e-postası, yönetim kurulumuzun oy birliğiyle aldığı karar doğrultusunda yürürlüğe giren yeni çalışma ilkelerini, risk yönetim esaslarını, tedarikçi değerlendirme kriterlerini, kalite standartlarını ve tüm birimlerin uymakla yükümlü olduğu operasyonel süreçleri detaylandırmak üzere kaleme alınmıştır.
+
+Son dönemde küresel lojistik hatlarında yaşanan bölgesel dalgalanmalar, gümrük mevzuatı değişiklikleri, liman yoğunlukları ve hammadde tedarik aksamaları, şirketimizin lojistik altyapısını daha esnek, çok merkezli, dayanıklı ve proaktif bir yapıda yeniden kurgulamasını zorunlu kılmaktadır. Bu doğrultuda, kritik hammadde ve yedek parça tedarikinde tek bir coğrafi bölgeye veya tedarikçiye bağımlılığı azaltmak amacıyla 'Çoklu Kaynak Stratejisi' (Multi-Sourcing) devreye alınmıştır. Her bir ana hammadde kalemi için en az iki alternatif yerel veya bölgesel tedarikçi ile çerçeve sözleşmeler imzalanması hedeflenmektedir.
+
+Yeni politika kapsamında tüm birimlerimizin takip etmesi gereken acil eylem adımları aşağıda sırasıyla belirtilmiştir:
+- Risk Haritasının Güncellenmesi: Tüm bölge müdürlükleri, mevcut tedarikçilerinin finansal dayanıklılık, lojistik kapasite, üretim kalitesi ve jeopolitik risk analizlerini kapsayan değerlendirme raporlarını önümüzdeki 15 gün içinde sistem üzerinden güncellenmelidir.
+- Emniyet Stok Seviyelerinin Revizyonu: Bölgesel depolarımızda tutulan kritik malzeme emniyet stok miktarları, iki haftalık üretim ihtiyacını kesintisiz karşılayacak seviyeye yükseltilmelidir.
+- Dijital Takip ve Erken Uyarı Entegrasyonu: Lojistik sevkiyatlarının anlık konum ve durum takibi için yeni geliştirdiğimiz uydu destekli takip yazılımı tüm sevkiyat hatlarında aktif kullanılacaktır.
+
+Yeni politika dokümanının tamamına ve detaylı uygulama rehberine kurumsal intranet portalımız üzerinden dilediğiniz zaman kolayca ulaşabilirsiniz. Tüm yöneticilerimizin ekiplerini bu kurallar hususunda bilgilendirmesini ve süreçleri titizlikle takip etmesini önemle rica ederiz.
+
+Saygılarımla,
+Ahmet Yılmaz
+Tedarik Zinciri ve Lojistik Direktörü
+Lider Endüstri A.Ş.
+
+### 71 | Biyomedikal Cihaz Sektöründe Küresel Ar-Ge Stratejileri Sunumu
+sub: presentation | level: 2 | tags: sunum, biyomedikal, ar-ge, sağlık, strateji | similar: ok
+---
+Değerli yönetim kurulu üyelerimiz, kıdemli araştırma direktörlerimiz, değerli yatırımcılarımız, ana paydaşlarımız ve biyomedikal araştırma merkezimize yön veren değerli çalışma arkadaşlarım, bugün gerçekleştireceğimiz bu stratejik sunumda şirketimizin önümüzdeki iki yıllık dönemde benimseyeceği küresel Ar-Ge stratejilerini, dijital sağlık entegrasyonu adımlarımızı ve klinik verimliliği artırmaya yönelik dinamik projelerimizi tüm detaylarıyla detaylı şekilde paylaşmaktan büyük bir onur duyuyorum.
+
+Günümüzün hızla değişen küresel sağlık pazar koşullarında, dijital dönüşüm rüzgârında ve yüksek rekabet ortamında, geleneksel tıbbi cihaz üretim yöntemleriyle pazarda kalıcı üstünlük sağlamak ne yazık ki tek başına yeterli olmamaktadır. Sağlık kurumları ve uzman hekimler artık teşhis ve tedavi süreçlerinin her bir adımında şeffaf, hızlı, güvenilir, ölçülebilir, hassas ve entegre bir teknolojik altyapı kurgulamayı arzulamaktadır. Yapılan son bağımsız araştırmalar, yapay zekâ destekli biyomedikal cihazları benimseyen sağlık kuruluşlarının klinik teşhis doğruluğunda %40 artış sağladığını ve hasta bakım süreçlerini iki kat daha hızlı tamamladığını net şekilde ortaya koymaktadır.
+
+Bu doğrultuda kurguladığımız yeni sağlık teknolojileri vizyonumuz üç ana temel sütun üzerine inşa edilmiştir: Birinci sütunumuz, tüm hasta takip cihazlarımızı ve laboratuvar analiz ünitelerimizi tek bir merkezde birleştiren bütünleşik klinik veri yönetimidir. Hastaneler arası tıbbi veri akışını kesintisiz hale getirerek tanı süreçlerındaki zaman kayıplarını tamamen ortadan kaldırıyoruz.
+
+İkinci sütunumuz, yapay zekâ destekli giyilebilir biyosensörler ve uzaktan hasta izleme sistemleridir. Hastaların hayati bulgularını ve biyokimyasal değerlerini anlık olarak analiz ederek, henüz klinik semptomlar gelişmeden önce önleyici tedavi protokolleri geliştireceğiz.
+
+Üçüncü sütunumuz ise sağlık personeline yönelik düzenlenecek sürekli teknik eğitim programlarıdır. Hekim ve hemşirelerimizin yeni nesil cihazlara uyum yetkinliklerini artırarak sağlık hizmeti kalitemizi en üst seviyeye taşımayı hedefliyoruz.
+
+Ayrıca Ar-Ge bütçemizin verimli kullanımı amacıyla her ay ürün klinik performans göstergelerini anlık takip edecek ve yönetim kuruluna sunacak esnek analiz panelleri kuracağız. Bu paneller sayesinde araştırma bütçesi sapmaları erken aşamada tespit edilecek ve gerekli iyileştirmeler hızla yapılacaktır.
+
+Sunumumuzun son bölümünde yer alan uygulama takvimi doğrultusunda, ilk çeyrekte klinik test hazırlıklarımızı tamamlayarak ikinci çeyrek itibarıyla yeni biyomedikal ürün serimizi tüm uluslararası pazarlarda canlıya alacağız. Şirketimizi geleceğe taşıyacak bu vizyoner projeye verdiğiniz güçlü destek için hepinize ayrı ayrı yürekten teşekkür ederim.
+
+### 72 | Özel Taşımacılık Ve Kargo Gecikmesi Bilgilendirme Mektubu
+sub: customer | level: 2 | tags: müşteri, iletişim, kargo, özür, bilgilendirme | similar: ok
+---
+Sayın Turgut Yıldız,
+
+Şirketimizden 20 Ekim 2026 tarihinde satın almış olduğunuz hassas laboratuvar ekipmanlarının kargo ve lojistik teslimat süreçleriyle ilgili tarafımıza iletmiş olduğunuz haklı şikâyet başvurusu ve bilgilendirme talebi Müşteri İlişkileri Departmanımız tarafından büyük bir dikkat, hassasiyet, ciddiyet, özen ve titizlikle detaylıca incelemeye alınmıştır.
+
+Öncelikle, siparişinizin lojistik tedarik zinciri sürecinde belirlenen teslimat tarihinde adresinize ulaştırılamaması ve yaşanan iletişim aksaklığı sebebiyle merkezinizde meydana gelen dönemsel araştırma gecikmesi ve mağduriyetten ötürü şirketimiz adına sizden ve ekibinizden içtenlikle ve yürekten özür dileriz. Müşterilerimize yüksek standartlarda, hızlı, güvenilir, kesintisiz, sorunsuz, şeffaf, sürdürülebilir ve kaliteli hizmet sunmak en temel kurumsal önceliğimiz ve vazgeçilmez varlık ilkemizdir.
+
+Gerçekleştirilen iç inceleme sonucında, bölgesel aktarma depomuzdaki otomasyon bandında meydana gelen beklenmedik teknik arıza ve olumsuz hava koşulları sebebiyle sevkiyat saatinizde gecikme yaşandığı tespit edilmiştir. Yaşanan bu iletişim kopukluğuyla ilgili sorumlu birimler uyarılmış ve benzer aksaklıkların tekrar etmemesi adına lojistik takip sistemimizde ve müşteri bilgilendirme süreçlerimizde gerekli düzeltici ve önleyici tedbirler derhal ve kararlılıkla alınmıştır.
+
+Yaşadığınız mağduriyeti telafi etmek ve şirketinizle olan uzun vadeli iş birliğimizi güçlendirmek amacıyla şirketimiz tarafından şu adımlar atılmıştır:
+1. Siparişinizin nakliye ve kargo teslimat ücretinin tamamı şirketimizin ikramı olarak tarafınıza tamamen iade edilmiştir.
+2. Gelecekteki ilk iki cihaz siparişinizde uygulanmak üzere hesabınıza %15 oranında özel indirim tanımlanmıştır.
+3. Şirketinize özel kıdemli bir lojistik operasyon temsilcisi atanmış olup 7/24 doğrudan iletişim imkânı sağlanmıştır.
+4. Lojistik ekibimiz önümüzdeki hafta merkezinize gelerek gelecekteki sevkiyat takvimini yerinde detaylıca planlayacaktır.
+5. Önümüzdeki 6 ay boyunca tüm sevkiyatlarınız için anlık konum takip raporları e-posta adresinize düzenli iletilecektir.
+6. Şirketinizin tüm lojistik talepleri öncelikli müşteri statüsünde doğrudan işleme alınacaktır.
+
+Müşteri memnuniyetini her şeyin üzerinde tutan kurumsal anlayışımızla, sizlere hizmet vermekten büyük onur duyuyoruz. Süreçle ilgili sorularınız için müşteri hizmetlerimize dilediğiniz zaman kolayca ulaşabilirsiniz.
+
+Anlayışınız, sabrınız, değerli iş birliğiniz, güveniniz ve desteğiniz için teşekkür ederiz.
+
+Saygılarımla,
+Burcu Arslan
+Müşteri İlişkileri Yöneticisi
+Lider Lojistik ve Cihaz A.Ş.
+
+### 73 | Müşteri Deneyimi ve Satış Sonrası Hizmetler Komitesi Toplantı Tutanağı
+sub: minutes | level: 2 | tags: toplantı, tutanak, müşteri, hizmet, kalite | similar: ok
+---
+Toplantı Tarihi: 25 Ekim 2026
+Toplantı Saati: 10.30 - 13.00
+Toplantı Yeri: B Blok 3 Nolu Müşteri İlişkileri Salonu
+Toplantı Başkanı: Hande Yılmaz (Müşteri Deneyimi Direktörü)
+Not Tutan: Cenk Şahin (Kalite Güvence Uzmanı)
+
+Katılımcılar:
+- Hande Yılmaz (Müşteri Deneyimi Direktörü)
+- Cenk Şahin (Kalite Güvence Uzmanı)
+- Nihal Arslan (Çağrı Merkezi Yöneticisi)
+- Hakan Demir (Lojistik ve Sevkiyat Müdürü)
+- Gamze Yıldız (Dijital Pazarlama Sorumlusu)
+
+Gündem Maddeleri:
+1. Üçüncü çeyrek müşteri şikâyet verilerinin, Müşteri Tavsiye Skoru (NPS) sonuçlarının ve çağrı merkezi performans göstergelerinin incelenmesi
+2. Ürün kurulum ve yetkili servis süreçlerinde yaşanan bölgesel gecikmelerin kök neden analizi ve çözüm önerilerinin değerlendirilmesi
+3. Canlı destek hattındaki yapay zekâ sohbet asistanının (Chatbot) yanıt doğruluğunun ve müşteri memnuniyetine etkisinin görüşülmesi
+4. Müşteri sadakat programı yeniliklerinin, özel indirim kuponlarının ve hediye puan kurgularının onaylanması
+
+Görüşmeler ve Alınan Kararlar:
+Toplantı, Hande Yılmaz'ın açılış konuşması ve müşteri memnuniyetini şirket vizyonunun merkezine koyan stratejik hedefleri özetlemesiyle resmi olarak başladı. İlk gündem maddesi kapsamında, üçüncü çeyrek Müşteri Net Tavsiye Skoru (NPS) sonuçları detaylıca değerlendirildi. NPS puanımızın geçen çeyreğe göre 4 puan artarak 74 seviyesine yükseldiği, ancak yetkili servis kurulum süreleriyle ilgili şikâyetlerin toplam başvurular içinde %32'lik önemli bir paya sahip olduğu tespit edildi.
+
+İkinci gündem maddesinde Hakan Demir, yoğun kampanya dönemlerinde yetkili servis araçlarının yetersiz kaldığı bölgeleri aktardı. Kurulum sürelerini kısaltmak ve bölgesal alternatifler yaratmak amacıyla iki yeni bağımsız teknik servis acentesiyle deneme sözleşmesi imzalanmasına oy birliğiyle karar verildi.
+
+Üçüncü gündem maddesinde Nihal Arslan, canlı destek Chatbot yazılımının müşteri temsilcilerinin üzerindeki rutin çağrı yükünü %55 oranında hafiflettiğini belirtti. Chatbot bilgi bankasının yeni ürün SSS verileriyle ve güncel kargo bilgi akışlarıyla sürekli güncellenmesine karar verildi.
+
+Alınan Eylem Kararları:
+1. Yeni teknik servis firmalarıyla entegrasyon testlerinin tamamlanması (Sorumlu: Hakan Demir - Son Tarih: 12 Kasım)
+2. Chatbot soru-cevap veri tabanının güncellenmesi (Sorumlu: Gamze Yıldız - Son Tarih: 5 Kasım)
+3. Çağrı merkezi personeline yönelik kriz iletişimi ve empati eğitiminin planlanması (Sorumlu: Cenk Şahin - Son Tarih: 1 Kasım)
+
+Bir sonraki takip toplantısı 15 Kasım tarihinde aynı salonda gerçekleştirilecektir.
+
+### 74 | Şirket İçi Dijital Dönüşüm Ve Müşteri Deneyimi Stratejileri Sunumu
+sub: presentation | level: 2 | tags: sunum, dijital, dönüşüm, müşteri, strateji | similar: ok
+---
+Değerli yönetim kurulu üyelerimiz, kıdemli birim yöneticilerimiz, değerli yatırımcılarımız, ana hissedarlarımız ve şirketimizin büyüme vizyonuna yön veren değerli çalışma arkadaşlarım, bugün gerçekleştireceğimiz bu stratejik sunumda şirketimizin önümüzdeki iki yıllık dönemde benimseyeceği yenilikçi dijital dönüşüm stratejilerini, yeni müşteri deneyimi adımlarımızı ve verimliliği artırmaya yönelik dinamik projelerimizi tüm detaylarıyla detaylı şekilde paylaşmaktan büyük bir onur duyuyorum.
+
+Günümüzün hızla değişen küresel pazar koşullarında, dijital dönüşüm rüzgârında ve yoğun rekabet ortamında, geleneksel iş yöntemleriyle yüksek müşteri memnuniyeti sağlamak ne yazık ki tek başına yeterli olmamaktadır. Kurumlar artık iş süreçlerinin her bir adımında şeffaf, hızlı, güvenilir, ölçülebilir, esnek ve entegre bir dijital altyapı kurmayı arzulamaktadır. Yapılan son bağımsız araştırmalar, dijital süreç yönetimini benimseyen şirketlerin operasyonel maliyetlerinde %35 oranında tasarruf sağladığını ve iş süreçlerini iki kat daha hızlı tamamladığını net şekilde ortaya koymaktadır.
+
+Bu doğrultuda kurguladığımız yeni operasyonel vizyonumuz üç ana temel sütun üzerine inşa edilmiştir: Birinci sütunumuz, tüm idari birimlerimizi ve saha operasyonlarımızı tek bir platformda birleştiren bütünleşik iş süreçleri yönetimidir. Departmanlar arası veri akışını kesintisiz hale getirerek onay mekanizmalarındaki zaman kayıplarını tamamen ortadan kaldırıyoruz.
+
+İkinci sütunumuz, yapay zekâ destekli kaynak planlama ve otomatik raporlama sistemleridir. İş gücü dağılımını, envanter hareketlerini ve operasyonel dar boğazları anlık olarak analiz ederek, henüz sorun oluşmadan önce önleyici tedbirler geliştireceğiz.
+
+Üçüncü sütunumuz ise çalışanlarımızın mesleki gelişimini destekleyen sürekli eğitim programlarıdır. Saha ve idari ekiplerimizin dijital okuryazarlık yetkinliklerini artırarak kurumsal performansımızı en üst seviyeye taşımayı hedefliyoruz.
+
+Ayrıca operasyonel bütçemizin verimli kullanımı amacıyla her ay birim performans göstergelerini (KPI) anlık takip edecek ve yönetim kuruluna sunacak esnek analiz panelleri kuracağız. Bu paneller sayesinde bütçe sapmaları erken aşamada tespit edilecek ve gerekli iyileştirmeler hızla yapılacaktır.
+
+Sunumumuzun son bölümünde yer alan uygulama takvimi doğrultusunda, ilk çeyrekte altyapı hazırlıklarımızı tamamlayarak ikinci çeyrek itibarıyla yeni operasyonel modelimizi tüm bölge ve tesislerimizde canlıya alacağız. Şirketimizi geleceğe taşıyacak bu vizyoner projeye verdiğiniz güçlü destek için hepinize ayrı ayrı yürekten teşekkür ederim.
+
+### 75 | Kurumsal Bilgi Güvenliği Ve Cihaz Erişim Standartları Talimatnamesi
+sub: instructions | level: 3 | tags: talimat, güvenlik, bilgi, cihaz, şirket | similar: ok
+---
+Amaç ve Kapsam:
+Bu talimatname, şirketimiz bünyesinde kullanılan tüm kurumsal bilgi sistemlerinin, sunucuların, masaüstü bilgisayarların, dizüstü cihazların, kurumsal mobil telefonların ve ağ altyapısının siber tehditlere, zararlı yazılımlara, yetkisiz veri erişimlerine, veri sızıntılarına ve fiziksel güvenlik risklerine karşı korunmasını sağlamak amacıyla hazırlanmıştır. Şirket ağımıza kablolu veya kablosuz olarak bağlanan tüm personel, stajyer ve dış kaynak hizmet sağlayıcıları bu talimatnamede belirtilen teknik güvenlik kurallarına, erişim yetkilendirme protokollerine, şifreleme kriterlerine ve kurumsal gizlilik politikalarına eksiksiz ve amansızca uymakla mükellef ve yükümlüdür.
+
+1. Kablosuz Ağ ve Uzaktan Erişim Standartları:
+- Şirket personeline tahsis edilen cihazların kurumsal kablosuz ağa bağlantısı yalnızca kişisel dijital sertifika ve İki Faktörlü Kimlik Doğrulama (2FA) ile sağlanacaktır.
+- Şirket dışındayken veya uzaktan çalışma esnasında kurumsal sunuculara erişimde yalnızca Bilgi Teknolojileri birimi tarafından tanımlanmış Sanal Özel Ağ (VPN) bağlantısı kullanılmalıdır.
+- Şifresiz halka açık kablosuz ağlar üzerinden kurumsal sistemlere doğrudan giriş yapılması siber güvenlik riskleri sebebiyle kesinlikle ve tamamen yasaklanmıştır.
+
+2. Cihaz Güvenliği, Yazılım Güncellemeleri ve Şifreleme:
+- Çalışanlar kendilerine tahsis edilen bilgisayarlarda yerel yönetici (Administrator) yetkisi talep edemez; lisanssız veya onaylanmamış üçüncü taraf yazılımları cihazlara yükleyemez.
+- İşletim sistemi güncellemeleri otomatik yüklenecek ve cihazlar haftada en az bir kez tamamen yeniden başlatılacaktır.
+- Tüm bilgisayar diskleri ve taşınabilir medya araçları saklama aşamasında AES-256 standartlarında şifrelenmelidir.
+
+3. İhlal Bildirimi, Denetim, Kontrol ve Yaptırımlar:
+- Cihazlarda şüpheli bir yavaşlama, yetkisiz erişim denemesi veya virüs uyarısı görüldüğünde derhal Siber Güvenlik Olay Müdahale Ekibine yazılı bildirim yapılmalıdır.
+- Bu talimatnameye aykırı hareket eden personel hakkında Disiplin Yönetmeliği hükümleri doğrultusunda gerekli idari, cezai, disiplin ve hukuki yaptırımlar kararlılıkla ve tavizsizce uygulanacaktır.
+
+Bilgi güvenliğini koruma, siber tehditleri engelleme, erişim yetkilerini denetleme, veri gizliliğini sağlama ve kurumsal verileri her zaman emniyette tutma hususında tüm çalışanlarımızın, birim yöneticilerimizin, saha temsilcilerimizin ve teknik ekiplerimizin gerekli özeni, dikkati, duyarlılığı, hassasiyeti ve sorumluluğu göstermesini önemle, içtenlikle, saygıyla ve kararlılıkla rica ederiz.
+
+### 76 | Özel Teknik Destek Ve Cihaz Kurulum Gecikmesi Özür Mektubu
+sub: customer | level: 2 | tags: müşteri, iletişim, teknik, özür, bilgilendirme | similar: ok
+---
+Sayın Harun Şahin,
+
+Şirketimizden 19 Ekim 2026 tarihinde satın almış olduğunuz sanayi tipi otomasyon ünitesinin yetkili servis kurulumu, teknik montajı ve performans test süreçleriyle ilgili tarafımıza iletmiş olduğunuz haklı şikâyet başvurusu ve bilgilendirme talebi Müşteri İlişkileri Departmanımız tarafından büyük bir dikkat, hassasiyet, ciddiyet, özen ve titizlikle detaylıca incelemeye alınmıştır.
+
+Öncelikle, cihazınızın teknik servis montaj ekibimiz tarafından belirlenen randevu saatinde kurulamaması ve yaşanan iletişim aksaklığı sebebiyle tesisinizde meydana gelen dönemsel üretim gecikmesi ve mağduriyetten ötürü şirketimiz adına sizden ve ekibinizden içtenlikle ve yürekten özür dileriz. Müşterilerimize yüksek standartlarda, hızlı, güvenilir, kesintisiz, sorunsuz, şeffaf, sürdürülebilir ve kaliteli hizmet sunmak en temel kurumsal önceliğimiz ve vazgeçilmez varlık ilkemizdir.
+
+Gerçekleştirilen iç inceleme sonucında, teknik servis ekibimizin intikal güzergahında meydana gelen beklenmedik araç arızası ve bölgesel trafik yoğunluğu sebebiyle randevu saatinize gecikme yaşandığı tespit edilmiştir. Yaşanan bu iletişim kopukluğuyla ilgili sorumlu birimler uyarılmış ve benzer aksaklıkların tekrar etmemesi adına teknik servis takip sistemimizde ve müşteri bilgilendirme süreçlerimizde gerekli düzeltici ve önleyici tedbirler derhal ve kararlılıkla alınmıştır.
+
+Yaşadığınız mağduriyeti telafi etmek ve cihazınızdan maksimum verimi almanızı sağlamak amacıyla şirketimiz tarafından şu adımlar atılmıştır:
+1. Ürününüzün yetkili servis kurulumu ve tüm teknik performans testleri başteknisyenimiz yönetiminde bugün itibarıyla eksiksiz ve ücretsiz olarak tamamlanmıştır.
+2. Cihazınızın standart 2 yıllık garanti süresi, şirketimizin ikramı olarak hiçbir ekstra ücret alınmaksızın 1 yıl süreyle uzatılarak toplam 3 yıla çıkarılmıştır.
+3. Önümüzdeki 12 ay boyunca cihazınızın periyodik ilk iki teknik bakımı şirketimiz tarafından tamamen ücretsiz, kapsamlı ve öncelikli olarak gerçekleştirilecektir.
+4. Tesisinizdeki diğer otomasyon ünitelerinin genel kontrolü için uzman mühendisimiz önümüzdeki hafta özel bir inceleme ve bakım ziyareti gerçekleştirecektir.
+
+Müşteri memnuniyetini her şeyin üzerinde tutan kurumsal anlayışımızla, sizlere hizmet vermekten büyük onur duyuyoruz. Süreçle ilgili sorularınız için müşteri hizmetlerimize dilediğiniz zaman kolayca ulaşabilirsiniz.
+
+Anlayışınız, sabrınız, değerli iş birliğiniz, güveniniz ve desteğiniz için teşekkür ederiz.
+
+Saygılarımla,
+Gaye Arslan
+Müşteri İlişkileri Yöneticisi
+Lider Otomasyon Sistemleri A.Ş.
+
+### 77 | Nesnelerin İnterneti Tabanlı Akıllı Tesis Otomasyonu
+sub: tech | level: 3 | tags: teknoloji, otomasyon, sensör, mimari, veri | similar: ok
+---
+Giriş ve Mimari Tasarım:
+Endüstri 4.0 dönüşüm sürecinin en kritik bileşenlerinden biri olan Nesnelerin İnterneti (IoT) tabanlı akıllı tesis otomasyon sistemleri, üretim sahalarındaki fiziki cihazların, makine parkurlarının, iklimlendirme ünitelerinin ve enerji hatlarının kablosuz sensör ağları üzerinden anlık olarak izlenmesini, analiz edilmesini ve uzaktan yönetilmesini sağlayan ileri düzey bir teknolojik mimaridir. Bu teknik kılavuz, şirketimizin üretim tesislerinde devreye alınan yeni nesil IoT sensör ağlarının detaylı teknik mimarisini, veri iletişim protokollerini ve güvenlik altyapısını ayrıntılarıyla kurgulayarak açıklamaktadır.
+
+1. Sensör Katmanı ve Veri Toplama Protokolleri:
+Fabrika sahamızdaki 250 farklı noktaya yerleştirilen titreşim, sıcaklık, nem, basınç ve elektrik akım sensörleri, makinelerin anlık çalışma performansını milisaniyelik yüksek hassasiyetle kaydetmektedir. Sensörler arası veri iletişimi, düşük enerji tüketimi ve yüksek menzil sağlayan LoRaWAN ve Zigbee kablosuz haberleşme protokolleri üzerinden kesintisiz yürütülmektedir. Sahadan toplanan ham telemetry verileri, endüstriyel gateway cihazları aracılığıyla filtrelenerek merkeze güvenle iletilir.
+
+2. Bulut Veri İşleme ve Kestirimci Bakım Algoritmaları:
+Saha gateway cihazlarından aktarılan anlık veriler, şirketimizin yerel bulut sunucularında çalışan zaman serisi veri tabanlarına (TimeSeries DB) aktarılır. Sistem bünyesinde çalışan makine öğrenmesi modelleri, makinelerdeki mikro titreşim değişimlerini ve sıcaklık artışlarını analiz ederek olası rulman veya motor arızalarını henüz gerçekleşmeden 72 saat önce tespit eder. Kestirimci bakım (predictive maintenance) uyarısı üreten sistem, bakım ekiplerimize otomatik iş emri kurgulayarak doğrudan yönlendirir.
+
+3. Siber Güvenlik ve Ağ Yalıtımı Standartları:
+IoT ağımızın dış siber saldırılardan korunması amacıyla endüstriyel kontrol ağı (OT) ile kurumsal bilgi teknolojileri ağı (IT) birbirinden fiziksel ve mantıksal güvenlik duvarlarıyla (DMZ) tamamen ayrılmıştır. Sensör verilerinin iletiminde AES-256 uçtan uca kriptolama teknolojisi kullanılmakta olup yetkisiz cihazların ağa katılması tamamen engellenmektedir.
+
+Bu bütüncül teknolojik altyapı ve otomasyon yatırımı sayesinde tesisimizdeki plansız duruş oranları %85 azaltılmış, enerji verimliliği %22 artırılmış ve operasyonel üretim kalitesi en üst seviyeye çıkarılmıştır.
+
+### 78 | Şirket İçi Bilgisayar Ağ Güvenliği ve Cihaz Kullanım Talimatı
+sub: instructions | level: 3 | tags: talimat, güvenlik, ağ, cihaz, şirket | similar: ok
+---
+Amaç ve Kapsam:
+Bu talimatname, şirketimiz bünyesinde kullanılan tüm masaüstü bilgisayarların, dizüstü cihazların, kurumsal mobil telefonların ve ağ altyapısının siber tehditlere, zararlı yazılımlara, yetkisiz veri erişimlerine ve fiziksel güvenlik risklerine karşı korunmasını sağlamak amacıyla hazırlanmıştır. Şirket ağımıza kablolu veya kablosuz olarak bağlanan tüm personel, stajyer ve dış kaynak hizmet sağlayıcıları bu talimatnamede belirtilen teknik güvenlik kurallarına, erişim protokollerine, şifreleme kriterlerine ve kurumsal gizlilik politikalarına eksiksiz ve amansızca uymakla mükellef ve sorumlu yükümlüdür.
+
+1. Kablosuz Ağ (Wi-Fi) ve Uzaktan Erişim Standartları:
+- Şirket personeline tahsis edilen cihazların kurumsal kablosuz ağa bağlantısı yalnızca Kişisel Sertifika ve İki Faktörlü Kimlik Doğrulama (2FA) ile sağlanacaktır.
+- Şirket dışındayken veya evden uzaktan çalışma esnasında kurumsal sistemlere ve ortak sunuculara erişimde yalnızca Bilgi Teknolojileri birimi tarafından tanımlanmış Sanal Özel Ağ (VPN) bağlantısı kullanılmalıdır.
+- Kafe, havalimanı ve otel gibi alanlardaki şifresiz veya güvensiz halka açık kablosuz ağlar üzerinden kurumsal e-posta ve sistemlere doğrudan giriş yapılması kesinlikle ve hiçbir koşulda yasaktır.
+
+2. Cihaz Güvenliği ve Yazılım Güncellemeleri:
+- Çalışanlar kendilerine tahsis edilen bilgisayarlarda yerel yönetici (Administrator) yetkisi talep edemez; lisanssız, korsan veya onaylanmamış üçüncü taraf yazılımları cihazlara yükleyemez.
+- İşletim sistemi ve антиvirüs yazılımı güncellemeleri sistem tarafından otomatik olarak yüklenecektir. Güncelleme bildirimleri ertelenmemeli ve cihazlar haftada en az bir kez tamamen yeniden başlatılmalıdır.
+- Şirket cihazlarının çalınması, kaybedilmesi, hasar görmesi veya fiziksel zarara uğraması durumunda derhal Bilgi Teknolojileri birimine yazılı bildirim yapılmalıdır.
+
+3. Taşınabilir Medya ve Harici Cihaz Kısıtlamaları:
+- Kurumsal bilgisayarlara kaynağı belirsiz USB bellek, harici disk veya kişisel telefon bağlantısı yapılması güvenlik yazılımları tarafından otomatik olarak engellenecektir.
+- Dosya aktarımı yalnızca onaylı kurumsal bulut depolama alanları üzerinden güvenli şekilde gerçekleştirilmelidir.
+
+4. İhlal Bildirimi ve Yaptırımlar:
+- Cihazlarda şüpheli bir yavaşlama, garip açılır pencereler veya virüs uyarısı görüldüğünde derhal Siber Güvenlik Olay Müdahale Ekibine bildirim yapılmalıdır. Bu talimatnameye aykırı hareket eden personel hakkında Disiplin Yönetmeliği hükümleri doğrultusunda gerekli idari, idari takibat ve hukuki yaptırımlar uygulanacaktır.
+
+### 79 | Uluslararası Tedarik Zinciri Risk Yönetimi ve Politika Güncellemesi
+sub: email | level: 3 | tags: e-posta, tedarik, risk, yönetimi, politika | similar: ok
+---
+Sayın Bölge Müdürleri, Kıdemli Operasyon Sorumluları ve Değerli Mesai Arkadaşlarım,
+
+Şirketimizin küresel pazarlardaki operasyonel esnekliğini, verimliliğini, iş kalitesini, kalıcı başarısını ve yüksek rekabet gücünü artırmak, tedarik zinciri aksamalarından doğabilecek olası finansal ve operasyonel kayıpları en aza indirmek ve uluslararası ticaret mevzuatlarına tam uyum sağlamak amacıyla hazırlanan Uluslararası Tedarik Zinciri Risk Yönetimi ve Politika Güncellemesi kılavuzu yönetim kurulumuz tarafından detaylıca incelenerek onaylanmış ve resmi olarak yürürlüğe girmiştir. Bu bilgilendirme e-postası, küresel tedarik ağlarımızda uygulanacak yeni risk analiz kriterlerini, tedarikçi değerlendirme protokollerini, sürdürülebilirlik standartlarını ve tüm bölge müdürlüklerimizin uymakla yükümlü olduğu operasyonel esasları detaylandırmak üzere gönderilmiştir.
+
+Son dönemde küresel lojistik hatlarında yaşanan bölgesel dalgalanmalar, gümrük mevzuatı değişiklikleri, liman yoğunlukları ve hammadde tedarik süreçlerindeki gecikmeler, şirketimizin tedarik zinciri mimarisini daha esnek, çok merkezli, yedekli ve proaktif bir yapıda yeniden kurgulamasını zorunlu kılmıştır. Bu doğrultuda, kritik hammadde ve yedek parça tedarikinde tek bir coğrafi bölgeye veya tedarikçiye bağımlılığı azaltmak amacıyla 'Çoklu Kaynak Stratejisi' (Multi-Sourcing) devreye alınmıştır. Her bir ana hammadde kalemi için en az iki alternatif yerel veya bölgesel tedarikçi ile çerçeve sözleşmeler imzalanması hedeflenmektedir.
+
+Yeni politika kapsamında tüm birimlerimizin takip etmesi gereken acil eylem adımları aşağıda sırasıyla belirtilmiştir:
+- Risk Haritasının Güncellenmesi: Tüm bölge müdürlükleri, mevcut tedarikçilerinin finansal dayanıklılık, lojistik kapasite, üretim kalitesi ve jeopolitik risk analizlerini kapsayan değerlendirme raporlarını önümüzdeki 15 gün içinde sistem üzerinden güncellemelidir.
+- Emniyet Stok Seviyelerinin Revizyonu: Bölgesel depolarımızda tutulan kritik malzeme emniyet stok miktarları, iki haftalık üretim ihtiyacını kesintisiz karşılayacak seviyeye yükseltilmelidir.
+- Dijital Takip ve Erken Uyarı Entegrasyonu: Lojistik sevkiyatlarının anlık konum ve durum takibi için yeni geliştirdiğimiz uydu destekli takip yazılımı tüm sevkiyat hatlarında aktif kullanılacaktır.
+
+Yeni politika dokümanının tamamına ve detaylı uygulama rehberine kurumsal intranet portalımız üzerinden ulaşabilirsiniz. Tüm yöneticilerimizin ekiplerini bu kurallar hususunda bilgilendirmesini ve süreçleri titizlikle takip etmesini önemle rica ederiz.
+
+Saygılarımla,
+Ahmet Yılmaz
+Tedarik Zinciri ve Lojistik Direktörü
+Lider Endüstri A.Ş.
+
+### 80 | Kurumsal Sosyal Medya Hizmet Cihazları Kullanım Talimatnamesi
+sub: instructions | level: 1 | tags: talimat, sosyal medya, güvenlik, şirket, kural | similar: ok
+---
+Amaç ve Kapsam:
+Bu talimatname, şirketimiz bünyesinde görev yapan tüm personelin kurumsal sosyal medya hesaplarını yönetirken, kurumsal içerik paylaşımları yaparken, dijital kanallarda iletişim kurarken ve kendilerine tahsis edilen mobil cihazları kullanırken uymakla yükümlü olduğu temel kuralları, güvenlik prosedürlerini, etik ilkeleri, kurumsal sorumlulukları ve yayın standartlarını belirlemek amacıyla hazırlanmıştır. Kurumsal imajımızın, marka itibarımızın, ticari sırlarımızın ve veri güvenliğimizin korunması adına tüm çalışanların bu talimatnameye eksiksiz, zamanında, eksiksiz ve büyük bir hassasiyetle uyması zorunludur.
+
+1. Kurumsal İçerik Paylaşım ve İletişim İlkeleri:
+- Şirketimizin resmi sosyal medya hesaplarında yapılacak tüm paylaşımlar, Kurumsal İletişim Departmanı tarafından onaylanmış metinler, görsel materyaller ve video içerikleri doğrultusunda gerçekleştirilmelidir.
+- Yetkisiz personel tarafından şirket adına resmi açıklama yapılması, onaylanmamış duyuruların paylaşılması veya ticari sır niteliğindeki iç bilgilerin yayınlanması kesinlikle yasaktır.
+- Paylaşımlarda ve müşteri yorumlarına verilen yanıtlarda kullanılan dil her zaman profesyonel, saygılı, tarafsız, doğru, net ve kurumsal üsluba tamamen uygun olmalıdır.
+
+2. Cihaz Güvenliği ve Erişim Hakları Yönetimi:
+- Kurumsal sosyal medya hesaplarının tanımlı olduğu cep telefonları, tabletler ve bilgisayarlar üçüncü şahısların kullanımına hiçbir koşulda verilmemelidir.
+- Cihazlarda biyometrik kilit veya güçlü şifre kullanımı zorunlu olup, tüm uygulama girişlerinde İki Faktörlü Kimlik Doğrulama (2FA) her zaman aktif tutulmalıdır.
+- Halka açık, şifresiz kablosuz ağlar (Wi-Fi) üzerinden kurumsal sosyal medya yönetim panellerine doğrudan giriş yapılması siber güvenlik riskleri sebebiyle tamamen ve kesinlikle yasaklanmıştır.
+
+3. Kriz Yönetimi, Denetim ve İhlal Bildirimi:
+- Sosyal medya hesaplarında şüpheli bir hareket, yetkisiz erişim veya siber tehdit fark edildiğinde derhal Bilgi Teknolojileri ve Siber Güvenlik Birimine bildirim yapılmalıdır.
+- Şirket hakkında olumsuz bir kampanya başlatıldığında personel bireysel yanıt vermekten kaçınmalı ve konuyu Kurumsal İletişim ekibine iletmelidir. Bu talimatnameye aykırı hareket eden personel hakkında Disiplin Yönetmeliği hükümleri doğrultusunda gerekli idari işlemler uygulanacaktır.
+
+Kurumsal itibarımızı koruma, siber tehditleri engelleme ve bilgi güvenliğini sağlama hususunda göstereceğiniz özen ve hassasiyet için teşekkür ederiz.
+
+İdari İşler ve Kurumsal İletişim Yönetimi
+
+### 81 | Özel Teknik Servis Gecikmesi Bilgilendirme ve Özür Mektubu
+sub: customer | level: 2 | tags: müşteri, iletişim, servis, özür, bilgilendirme | similar: ok
+---
+Sayın Ahmet Şahin,
+
+Şirketimizden 19 Ekim 2026 tarihinde satın almış olduğunuz sanayi tipi üretim tezgahının yetkili servis kurulumu, teknik montajı ve performans test süreçleriyle ilgili tarafımıza iletmiş olduğunuz haklı şikâyet başvurusu ve bilgilendirme talebi Müşteri İlişkileri Departmanımız tarafından büyük bir dikkat, hassasiyet, ciddiyet, özen ve titizlikle detaylıca incelemeye alınmıştır.
+
+Öncelikle, cihazınızın teknik servis montaj ekibimiz tarafından belirlenen randevu saatinde kurulamaması ve yaşanan iletişim aksaklığı sebebiyle işletmenizde meydana gelen dönemsel üretim kaybı ve mağduriyetten ötürü şirketimiz adına sizden ve ekibinizden içtenlikle ve yürekten özür dileriz. Müşterilerimize yüksek standartlarda, hızlı, güvenilir, kesintisiz, sorunsuz, şeffaf ve kaliteli hizmet sunmak en temel kurumsal önceliğimiz ve vazgeçilmez varlık ilkemizdir.
+
+Gerçekleştirilen iç inceleme sonucunda, teknik servis ekibimizin intikal güzergahında meydana gelen beklenmedik araç arızası ve bölgesel trafik yoğunluğu sebebiyle randevu saatinize gecikme yaşandığı tespit edilmiştir. Yaşanan bu iletişim kopukluğuyla ilgili sorumlu birimler uyarılmış ve benzer aksaklıkların tekrar etmemesi adına teknik servis takip sistemimizde ve müşteri bilgilendirme süreçlerimizde gerekli düzeltici ve önleyici tedbirler derhal ve kararlılıkla alınmıştır.
+
+Yaşadığınız mağduriyeti telafi etmek ve cihazınızdan maksimum verimi almanızı sağlamak amacıyla şirketimiz tarafından şu adımlar atılmıştır:
+1. Ürününüzün yetkili servis kurulumu ve tüm teknik performans testleri başteknisyenimiz yönetiminde bugün itibarıyla eksiksiz ve ücretsiz olarak tamamlanmıştır.
+2. Cihazınızın standart 2 yıllık garanti süresi, şirketimizin ikramı olarak hiçbir ekstra ücret alınmaksızın 1 yıl süreyle uzatılarak toplam 3 yıla çıkarılmıştır.
+3. Önümüzdeki 12 ay boyunca cihazınızın periyodik ilk iki teknik bakımı şirketimiz tarafından tamamen ücretsiz, kapsamlı ve öncelikli olarak gerçekleştirilecektir.
+4. Tesisinizdeki diğer cihazların genel kontrolü için uzman mühendisimiz önümüzdeki hafta özel bir inceleme ve bakım ziyareti gerçekleştirecektir.
+
+Müşteri memnuniyetini her şeyin üzerinde tutan kurumsal anlayışımızla, sizlere hizmet vermekten büyük onur duyuyoruz. Süreçle ilgili sorularınız için müşteri hizmetlerimize dilediğiniz zaman kolayca ulaşabilirsiniz.
+
+Anlayışınız, sabrınız, değerli iş birliğiniz, güveniniz ve desteğiniz için teşekkür ederiz.
+
+Saygılarımla,
+Elif Arslan
+Müşteri İlişkileri Yöneticisi
+Lider Endüstriyel Sistemler A.Ş.
+
+### 82 | Derin Öğrenme Tabanlı Biyomedikal Görüntü Analiz Platformu
+sub: tech | level: 3 | tags: teknoloji, yazılım, biyomedikal, yapay zekâ, analiz | similar: ok
+---
+Giriş ve Mimari Tasarım:
+Sağlık teknolojilerinde yapay zekâ, evrişimli sinir ağları ve derin öğrenme algoritmalarının kullanımı, teşhis süreçlerinin hızlandırılması, erken tanı başarısının artırılması, hasta bakımı standartlarının yükseltilmesi ve klinik karar destek sistemlerinin güçlendirilmesi açısından devrim niteliğinde bir dönüşüm sağlamaktadır. Bu teknik doküman, tıp fakülteleri, araştırma hastaneleri, tanı laboratuvarları ve radyoloji merkezleri için geliştirdiğimiz Derin Öğrenme Tabanlı Biyomedikal Görüntü Analiz Platformunun yazılım mimarisini, evrişimli sinir ağı (CNN) algoritmalarını, klinik doğrulama süreçlerini ve veri güvenliği protokollerini detaylıca açıklamaktadır.
+
+1. Görüntü İşleme ve Derin Öğrenme Mimarisi:
+Platformumuz; manyetik rezonans (MR), bilgisayarlı tomografi (BT) ve dijital röntgen görüntülerindeki mikro doku lezyonlarını saniyeler içinde yüksek hassasiyetle tespit eden evrişimli derin sinir ağı modelleri (Convolutional Neural Networks) üzerine kurgulanmıştır. Tıbbi görüntüler sisteme aktarıldığında ilk olarak gürültü azaltma, kontrast dengeleme, kenar belirginleştirme ve veri normalleştirme aşamalarından geçer. Eğitilmiş yapay zekâ modellerimiz, lezyon sınırlarını mikron düzeyinde segmentlere ayırarak radyoloji uzmanlarına otomatik ön değerlendirme raporu sunar.
+
+2. Veri Gizliliği, Siber Güvenlik ve DICOM Standartları:
+Tıbbi görüntü verilerinin işlenmesinde, aktarılmasında ve saklanmasında uluslararası DICOM ve PACS standartlarına tam uyum sağlanmıştır. Hasta mahremiyetini korumak amacıyla tüm kişisel kimlik verileri (Anonymization) görüntü dosyalarından otomatik olarak temizlenmekte ve veriler AES-256 şifreleme protokolü ile bulut sunucularda son derece güvenle saklanmaktadır.
+
+3. Klinik Entegrasyon ve Karar Destek Arayüzü:
+Platform, hastane bilgi yönetim sistemleriyle (HBYS) çift yönlü API entegrasyonuna sahiptir. Radyologlar, web tabanlı sezgisel arayüz üzerinden yapay zekâ tahminlemelerini anlık olarak inceleyebilir, ısı haritaları (Heatmap) üzerinden lezyon yoğunluklarını ve doku değişimlerini detaylıca analiz edebilirler.
+
+4. Sürekli Model Eğitimi, Doğrulama ve Klinik Performans Metrikleri:
+Sistem, yeni klinik verilerle kendini sürekli eğiten esnek, ölçeklenebilir ve dinamik bir altyapıya sahiptir. Yapılan geniş kapsamlı klinik testlerde teşhis doğruluk oranı %96,8 olarak ölçülmüş olup, uzman hekimlerin görüntü inceleme süreleri %60 oranında belirgin şekilde kısalmıştır. Bu teknolojik platform, erken tanı, doğru müdahale, zaman tasarrufu ve tedavi planlamasında hekimlerimize güçlü bir bilimsel destek sunmaktadır.
+
+### 83 | Müşteri Deneyimi ve Kalite Güvence Komitesi Toplantı Tutanağı
+sub: minutes | level: 2 | tags: toplantı, tutanak, müşteri, kalite, değerlendirme | similar: ok
+---
+Toplantı Tarihi: 25 Ekim 2026
+Toplantı Saati: 10.30 - 13.00
+Toplantı Yeri: C Blok 1 Nolu Müşteri İlişkileri Salonu
+Toplantı Başkanı: Hande Yılmaz (Müşteri Deneyimi Direktörü)
+Not Tutan: Cenk Şahin (Kalite Güvence Uzmanı)
+
+Katılımcılar:
+- Hande Yılmaz (Müşteri Deneyimi Direktörü)
+- Cenk Şahin (Kalite Güvence Uzmanı)
+- Nihal Arslan (Çağrı Merkezi Yöneticisi)
+- Hakan Demir (Lojistik Operasyon Sorumlusu)
+- Gamze Yıldız (Dijital Pazarlama Uzmanı)
+
+Gündem Maddeleri:
+1. Üçüncü çeyrek müşteri şikâyet verilerinin, NPS skorlarının ve çağrı merkezi performansının incelenmesi
+2. Kargo ve teslimat süreçlerinde yaşanan bölgesel gecikmelerin kök neden analizi ve çözüm önerileri
+3. Canlı destek hattındaki otomatik yanıt sistemlerinin (Chatbot) hizmet kalitesine ve müşteri memnuniyetine etkisi
+4. Müşteri sadakat programı yeniliklerinin, özel indirim kuponlarının ve kampanya kurgularının onaylanması
+
+Görüşmeler ve Alınan Kararlar:
+Toplantı, Hande Yılmaz'ın açılış konuşması ve müşteri memnuniyetini şirket vizyonunun merkezine koyan stratejik hedefleri özetlemesiyle resmi olarak başladı. İlk gündem maddesi kapsamında, üçüncü çeyrek Müşteri Net Tavsiye Skoru (NPS) sonuçları detaylıca değerlendirildi. NPS puanımızın geçen çeyreğe göre 3 puan artarak 72 seviyesine yükseldiği, ancak kargo teslimat süreleriyle ilgili şikâyetlerin toplam başvurular içinde %38'lik önemli bir paya sahip olduğu tespit edildi.
+
+İkinci gündem maddesinde Hakan Demir, yoğun kampanya dönemlerinde kargo firmalarının aktarma merkezlerinde yaşanan kilitlenmeleri ve araç yetersizliklerini aktardı. Teslimat sürelerini kısaltmak ve bölgesal alternatifler yaratmak amacıyla iki yeni ulusal kargo acentesiyle deneme sözleşmesi imzalanması kararlaştırıldı.
+
+Üçüncü gündem maddesinde Nihal Arslan, canlı destek Chatbot yazılımının müşteri temsilcilerinin üzerindeki rutin çağrı yükünü %55 oranında hafiflettiğini belirtti. Chatbot bilgi bankasının yeni ürün SSS verileriyle ve güncel kargo bilgi akışlarıyla sürekli güncellenmesine karar verildi.
+
+Alınan Eylem Kararları:
+1. Yeni kargo firmalarıyla entegrasyon testlerinin tamamlanması (Sorumlu: Hakan Demir - Son Tarih: 12 Kasım)
+2. Chatbot soru-cevap veri tabanının güncellenmesi (Sorumlu: Gamze Yıldız - Son Tarih: 5 Kasım)
+3. Çağrı merkezi personeline yönelik kriz iletişimi ve empati eğitiminin planlanması (Sorumlu: Cenk Şahin - Son Tarih: 1 Kasım)
+
+Bir sonraki takip toplantısı 15 Kasım tarihinde aynı salonda gerçekleştirilecektir.

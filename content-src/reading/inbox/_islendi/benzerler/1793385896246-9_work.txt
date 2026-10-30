@@ -1,0 +1,35 @@
+### | Müşteri Deneyimi ve Kalite Güvence Komitesi Toplantı Tutanağı
+lang: tr | cat: work | sub: minutes | level: 2 | tags: toplantı, tutanak, müşteri, kalite, değerlendirme
+---
+Toplantı Tarihi: 25 Ekim 2026
+Toplantı Saati: 10.30 - 13.00
+Toplantı Yeri: C Blok 1 Nolu Müşteri İlişkileri Salonu
+Toplantı Başkanı: Hande Yılmaz (Müşteri Deneyimi Direktörü)
+Not Tutan: Cenk Şahin (Kalite Güvence Uzmanı)
+
+Katılımcılar:
+- Hande Yılmaz (Müşteri Deneyimi Direktörü)
+- Cenk Şahin (Kalite Güvence Uzmanı)
+- Nihal Arslan (Çağrı Merkezi Yöneticisi)
+- Hakan Demir (Lojistik Operasyon Sorumlusu)
+- Gamze Yıldız (Dijital Pazarlama Uzmanı)
+
+Gündem Maddeleri:
+1. Üçüncü çeyrek müşteri şikâyet verilerinin, NPS skorlarının ve çağrı merkezi performansının incelenmesi
+2. Kargo ve teslimat süreçlerinde yaşanan bölgesel gecikmelerin kök neden analizi ve çözüm önerileri
+3. Canlı destek hattındaki otomatik yanıt sistemlerinin (Chatbot) hizmet kalitesine ve müşteri memnuniyetine etkisi
+4. Müşteri sadakat programı yeniliklerinin, özel indirim kuponlarının ve kampanya kurgularının onaylanması
+
+Görüşmeler ve Alınan Kararlar:
+Toplantı, Hande Yılmaz'ın açılış konuşması ve müşteri memnuniyetini şirket vizyonunun merkezine koyan stratejik hedefleri özetlemesiyle resmi olarak başladı. İlk gündem maddesi kapsamında, üçüncü çeyrek Müşteri Net Tavsiye Skoru (NPS) sonuçları detaylıca değerlendirildi. NPS puanımızın geçen çeyreğe göre 3 puan artarak 72 seviyesine yükseldiği, ancak kargo teslimat süreleriyle ilgili şikâyetlerin toplam başvurular içinde %38'lik önemli bir paya sahip olduğu tespit edildi.
+
+İkinci gündem maddesinde Hakan Demir, yoğun kampanya dönemlerinde kargo firmalarının aktarma merkezlerinde yaşanan kilitlenmeleri ve araç yetersizliklerini aktardı. Teslimat sürelerini kısaltmak ve bölgesal alternatifler yaratmak amacıyla iki yeni ulusal kargo acentesiyle deneme sözleşmesi imzalanması kararlaştırıldı.
+
+Üçüncü gündem maddesinde Nihal Arslan, canlı destek Chatbot yazılımının müşteri temsilcilerinin üzerindeki rutin çağrı yükünü %55 oranında hafiflettiğini belirtti. Chatbot bilgi bankasının yeni ürün SSS verileriyle ve güncel kargo bilgi akışlarıyla sürekli güncellenmesine karar verildi.
+
+Alınan Eylem Kararları:
+1. Yeni kargo firmalarıyla entegrasyon testlerinin tamamlanması (Sorumlu: Hakan Demir - Son Tarih: 12 Kasım)
+2. Chatbot soru-cevap veri tabanının güncellenmesi (Sorumlu: Gamze Yıldız - Son Tarih: 5 Kasım)
+3. Çağrı merkezi personeline yönelik kriz iletişimi ve empati eğitiminin planlanması (Sorumlu: Cenk Şahin - Son Tarih: 1 Kasım)
+
+Bir sonraki takip toplantısı 15 Kasım tarihinde aynı salonda gerçekleştirilecektir.

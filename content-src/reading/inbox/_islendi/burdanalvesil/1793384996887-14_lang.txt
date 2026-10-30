@@ -1,0 +1,212 @@
+### | Şehir Tiyatrosu Yeni Sezon Repertuar Toplantısı
+lang: tr | cat: dialogue | sub: meeting | tags: toplantı, tiyatro, sanat, sezon, oyun | level: 2
+---
+Mete: Değerli tiyatro sanatçıları, yönetmenlerimiz ve sevgili çalışma arkadaşlarım, şehir tiyatromuzun yeni sezon repertuarı, sahneleme takvimi ve salon tahsisleri konulu değerlendirme toplantımıza hepiniz hoş geldiniz.
+
+Gaye: Günaydın Mete Bey. Sanat kurulumuz ve edebi heyetimiz son bir ay boyunca yerli ve yabancı elliden fazla tiyatro oyun metnini, sahne uyarlamasını ve yeni yazılan oyun taslaklarını detaylıca inceledi.
+
+Mete: Harika Gaye Hanım! İncelemeler sonucunda bu sezon sahnelerimizde tiyatroseverlerle buluşturmayı hedeflediğimiz ana eserler, sahne uyarlamaları ve oyun türleri neler olarak belirlendi acaba?
+
+Gaye: Bu sezon iki klasik Türk tiyatrosu eserini, iki dünya klasiği tragedyayı ve çocuklarımız için hazırlanan iki müzikli çocuk oyununu sahnelerimize taşımayı planlıyoruz.
+
+Mete: Oyuncularımızın prova takvimini ve sahne kullanım saatlerini ne kadarlık bir zaman diliminde kurgulamayı hedefliyorsunuz Gaye Hanım?
+
+Gaye: Provalarımızı önümüzdeki hafta başı itibarıyla başlatıp, dört haftalık yoğun çalışma temposunun ardından ilk prömiyerimizi önümüzdeki ayın sonunda gerçekleştirmeyi hedefliyoruz.
+
+Mete: Peki dekor tasarımı, kostüm dikimi ve sahne ışıklandırma bütçelerinde durumumuz nedir acaba?
+
+Gaye: Tüm dekor ve kostüm tasarımı maliyetlerimizi yıllık bütçe sınırlarımız dâhilinde tutarak marangozhane ve terzi atölyelerimizde iç imkânlarla hazırlıyoruz.
+
+Mete: Bütçe disiplinine gösterdiğiniz bu özen ve sanatsal titizlik için sizi ve ekibinizi yürekten tebrik ederim Gaye Hanım.
+
+Gaye: Çok teşekkür ederim Mete Bey. Tiyatromuzun köklü geleneklerine sadık kalarak seyircilerimize unutulmaz bir sezon yaşatmayı hedefliyoruz.
+
+Mete: Oyun biletlerinin satış fiyatları ve öğrenci indirim oranları hakkında nasıl bir belirleme yaptınız acaba?
+
+Gaye: Bilet fiyatlarımızı her kesimden sanatseverin rahatça oyuna gelebilmesi adına oldukça makul seviyede tuttuk, öğrenciler için de yüzde elli indirim uygulayacağız.
+
+Mete: Çok yerinde ve sanatı toplumla buluşturan harika bir sosyal karar olmuş Gaye Hanım. Oyun broşürleri ve afiş tasarımları hazır mı?
+
+Gaye: Grafik tasarım ekibimiz afiş çalışmalarını ve sezon kitapçığını tamamladı, dijital mecralarda yayınlamaya tamamen hazırız.
+
+Mete: Müşteri memnuniyetini ölçmek adına oyun sonlarında seyirci anketleri de düzenleyecek misiniz?
+
+Gaye: Evet Mete Bey, oyun sonlarında dijital anket kodları ile seyircilerimizin değerli görüş ve önerilerini düzenli olarak toplayacağız.
+
+Mete: Mükemmel! O zaman prova takvimini ve sezon programını resmi olarak onaylıyorum, tüm ekibimize başarılar dilerim.
+
+Gaye: Destekleriniz için çok teşekkürler Mete Bey, haftalık prova raporlarını e-posta ile sizinle paylaşacağım.
+
+Mete: Çok teşekkürler Gaye Hanım, harika, sanat dolu ve verimli bir sezon dilerim!
+
+### | Hastane Kurumsal İletişim ve Danışma Görüşmesi
+lang: tr | cat: dialogue | sub: phone | tags: telefon, hastane, randevu, check-up, sağlık | level: 3
+---
+Nihal: İyi günler, Üniversite Tıp Fakültesi Hastanesi Çağrı ve İletişim Merkezi, ben Nihal. Size bugün nasıl yardımcı olabilirim?
+
+Tarkan: Merhaba Nihal Hanım. Hastanenizin sunduğu kapsamlı yıllık sağlık taraması ve özel check-up paketleri hakkında detaylı bilgi almak istiyordum.
+
+Nihal: Tabii ki Tarkan Bey. Hastanemizde yaş ve cinsiyet gruplarına özel olarak hazırlanan kardiyoloji, nöroloji, dahiliye ve genel sağlık tarama paketlerimiz mevcuttur.
+
+Tarkan: Anladım Nihal Hanım. Kırk yaş üstü erkek bireyler için kurgulanan kapsamlı check-up paketinizin içeriğinde hangi tahliller, tetkikler ve hekim muayeneleri yer almaktadır acaba?
+
+Nihal: Kapsamlı paketimizde kan ve biyokimya tahlilleri, akciğer grafisi, tüm batın ultrasonu, eforlu kardiyoloji testi, göz muayenesi ve beş ayrı uzman hekim değerlendirmesi bulunmaktadır.
+
+Tarkan: Çok detaylı ve bütüncül bir sağlık tarama paketiymiş. Peki bu check-up muayene işlemlerinin tamamı tek bir gün içinde tamamlanabiliyor mu acaba?
+
+Nihal: Evet Tarkan Bey, sabah saat sekiz otuzda aç karnına hastanemize geldiğinizde, özel check-up danışmanımız eşliğinde tüm tetkiklerinizi öğleye kadar kolayca tamamlayabilirsiniz.
+
+Tarkan: Büyüleyici bir organizasyon kolaylığı gerçekten. Peki randevu saatimizi ne kadar öncesinden ve nasıl oluşturmamız gerekiyor?
+
+Nihal: En az iki gün öncesinden telefonla veya internet sitemiz üzerinden randevu kaydınızı oluşturmanız yeterlidir. Dilerseniz hemen telefon üzerinden işleminizi başlatabilirim.
+
+Tarkan: Önümüzdeki hafta içi çarşamba günü sabah saat sekiz otuz için randevumu oluşturmanızı rica ediyorum Nihal Hanım.
+
+Nihal: Randevunuzu çarşamba günü saat sekiz otuz için oluşturdum Tarkan Bey. Randevu gününden önce yapılması gereken açlık ve su tüketimi kurallarını telefonunuza mesaj olarak ileteceğiz.
+
+Tarkan: Hastanenizin hastalar için özel kapalı otopark ve vale hizmeti mevcut mudur acaba?
+
+Nihal: Evet Tarkan Bey, ana binamızın altında üç katlı kapalı otoparkımız ve tüm hastalarımıza özel ücretsiz vale hizmetimiz bulunmaktadır.
+
+Tarkan: Çok sevindim, ulaşım ve park konusunda da mağduriyet yaşamamış olacağız. Özel sağlık sigortası anlaşmanız geçerli mi?
+
+Nihal: Tüm özel sağlık sigortaları ve kurumsal kurum anlaşmaları check-up paketlerimizde tamamen geçerlidir Tarkan Bey.
+
+Tarkan: Detaylı, açıklayıcı, net ve yardımcı bilgilendirmeniz için çok teşekkür ederim Nihal Hanım.
+
+Nihal: Rica ederim Tarkan Bey, hastanemizi tercih ettiğiniz için teşekkür eder, sağlıklı ve iyi günler dileriz!
+
+Tarkan: Çok teşekkürler Nihal Hanım, iyi çalışmalar dilerim!
+
+### | Müzik Odasında Orkestra Prova Çalışması
+lang: tr | cat: dialogue | sub: school | tags: okul, müzik, orkestra, keman, prova | level: 2
+---
+Bora: Günaydın Melis! Okul orkestramızın bahar şenliği konserinde çalacağı klasik müzik eserleri için enstrüman masasını ve notaları hazırlamaya başladın mı?
+
+Melis: Günaydın Bora! Evet, müzik öğretmenimizin çalışma panosuna koyduğu nota sehpasını, keman kutularını ve nota partisyonlarını masaya özenle yerleştirdim.
+
+Bora: Harika bir hazırlık olmuş Melis! Konserde çalacağımız Vivaldi’nin Dört Mevsim eserindeki keman solosu bölümlerini notalardan dikkatlice gözden geçiriyordun sanırım?
+
+Melis: Evet Bora, eserin tempolu kısımlarındaki yay tekniklerini ve ses akort dengesini doğru yakalamak için nota üzerindeki parmak numaralarını işaretliyordum.
+
+Bora: Karşılıklı enstrüman provası yaparsak ritim kaçırmadan eserin armonik dengesini çok daha rahat oturtacağımızdan eminim.
+
+Melis: Kesinlikle katılıyorum Bora! Sen çelloda pes seslerle ritmi tutarken ben kemanımla tiz melodi hatlarını çalarım, böylece muazzam bir tını uyumu elde ederiz.
+
+Bora: Çok doğru bir çalışma metodu Melis! O zaman eserin birinci bölümündeki hızlı geçiş kısımlarını metronom eşliğinde yavaş tempoda çalmaya başlayalım mı?
+
+Melis: Mükemmel bir fikir Bora! Metronomu dakikada seksen vuruş temposuna ayarlıyorum. Notalarımıza odaklanıp ilk ölçüden itibaren çalmaya başlayabiliriz.
+
+Bora: Çello ve keman ses uyumumuz daha ilk ölçülerden itibaren harika duyulmaya başladı Melis!
+
+Melis: Evet Bora! Düzenli hafta içi provalarımız sayesinde bahar şenliği konserimizde okulumuza unutulmaz bir müzik ziyafeti sunacağız.
+
+Bora: Konser kıyafetlerimizi ve sahne düzenimizi müzik öğretmenimizle ne zaman netleştireceğiz acaba?
+
+Melis: Önümüzdeki cuma günü prova sonrasında konser kıyafetleri ve sahne oturma düzeni hakkında kısa bir bilgilendirme toplantısı yapılacak.
+
+Bora: Harika! Peki konser salonundaki ses sisteminin ve mikser ayarlarının kontrolü ne zaman yapılacak?
+
+Melis: Bilişim ve ses ekibimiz perşembe günü öğleden sonra salondaki tüm mikser ve ses sistemini detaylıca test edecek.
+
+Bora: Okul çıkışında müzik odasında iki saat daha prova yaparak eserin ikinci bölümünü de eksiksiz tamamlayalım mı?
+
+Melis: Çok iyi bir plan Bora, müzik öğretmenimiz de provalarımıza katılarak bize rehberlik edecektir.
+
+Bora: Gerçekten son derece uyumlu, verimli, kaliteli ve keyifli bir grup çalışması yürüttük Melis.
+
+Melis: Ben de seninle çalışmaktan büyük keyif aldım Bora, okul çıkışında müzik odasında görüşmek üzere!
+
+Bora: Görüşmek üzere Melis, sana iyi dersler ve başarılar dilerim!
+
+### | Tren Garında Şehir Müzesine Yol Tarifi
+lang: tr | cat: dialogue | sub: directions | tags: yol tarifi, gar, müze, cadde, şehir | level: 1
+---
+Gökhan: Afedersiniz Halil Amca, sizi tren garı çıkışında rahatsız ediyorum ama kentin tarihi şehir müzesine giden en kısa yürüyüş yolunu arıyorum.
+
+Halil: Merhaba Evladım! Hiç rahatsızlık değil, memnuniyetle yardımcı olurum. Şu an kentin tarihi tren garı meydanındasın ve şehir müzesi buradan yürüyerek sadece beş dakika mesafededir.
+
+Gökhan: Çok sevindim Halil Amca! Akıllı telefonumun şarjı bittiği için şehir haritasına bakamadım. Hangi caddeden ne tarafa doğru yürümem gerekiyor acaba?
+
+Halil: Gar binasının çıkışından tam karşıya doğru uzanan ağaçlıklı geniş bulvar boyunca hiç sapmadan dosdoğru yürümelisin.
+
+Gökhan: Bulvarın sonundaki tarihi taş saat kulesinin ve parka çıkan yolun olduğu tarafa doğru mu yürüyeceğim Halil Amca?
+
+Halil: Evet Evladım, saat kulesinin tam yanına geldiğinde sol tarafa doğru ayrılan nostaljik yürüyüş yoluna sapacaksın.
+
+Gökhan: Nostaljik yola saptıktan sonra şehir müzesi binasını kolayca görebilir miyim acaba?
+
+Halil: O yol boyunca elli metre ilerlediğinde tarihi şehir müzesinin büyük taş binası ve geniş bahçesi tam karşında belirecektir.
+
+Gökhan: Müze girişinde müze kart geçerli oluyor mu yoksa bilet almak gerekiyor mu Halil Amca?
+
+Halil: Müze kartın varsa doğrudan sıra beklemeden giriş yapabilirsin Evladım.
+
+Gökhan: Müze kartım çantamda hazır mevcut, harika bir kolaylık olacak.
+
+Halil: Müze bahçesindeki ulu çınar ağacının altında kısa bir çay molası vermeni de öneririm.
+
+Gökhan: Müzenin hemen yanında ziyaret edebileceğim başka tarihi mekânlar var mıdır acaba?
+
+Halil: Evet Evladım, müzenin hemen bitişiğinde tarihi taş kütüphane ve otantik saat kulesi bahçesi yer almaktadır.
+
+Gökhan: Müze gezisinden sonra kentin meşhur el sanatları çarşısına yürüyerek geçebilir miyim?
+
+Halil: Evet Evladım, müze bahçesinin arka kapısından çıktığında doğrudan otantik el sanatları çarşısına ulaşırsın.
+
+Gökhan: Çarşı içinde hediyelik eşya ve geleneksel el sanatları dükkânları açık mıdır?
+
+Halil: Evet Evladım, akşam saat sekize kadar çarşıdaki tüm zanaatkar dükkânları açıktır.
+
+Gökhan: Verdiğin bu net, açık, detaylı, yönlendirici ve nazik tarif için çok teşekkür ederim Halil Amca.
+
+Halil: Rica ederim Evladım, şehir müzesinde sana çok güzel, huzurlu ve keyifli bir gezinti dilerim!
+
+Gökhan: Sağ olasın Halil Amca, hayırlı, neşeli ve güzel günler dilerim!
+
+### | Mahalle El Sanatları Kursunda Tanışma
+lang: tr | cat: dialogue | sub: intro | tags: tanışma, el sanatları, kurs, komşu, hobi | level: 2
+---
+Hülya: Merhaba, iyi günler! Sizi belediyemizin mahalle konağında açtığı geleneksel el sanatları ve çini işleme kursunda görünce selam vermek istedim. Ben Hülya.
+
+Gül: Merhaba Hülya Hanım! Ben de Gül. Çok memnun oldum. Mahallenize ve bu sokağa daha yeni taşındım.
+
+Hülya: Mahallemize ve geleneksel kursumuza tekrar hoş geldiniz Gül Hanım! Ben sekiz yıldır üst sokaktaki pembe apartmanda oturuyorum. Bir ihtiyacınız olursa lütfen çekinmeyin.
+
+Gül: Çok naziksiniz Hülya Hanım, çok teşekkür ederim. Mahallemizin bu kadar sakin, yeşil ve komşuluk ilişkilerinin sıcak olması beni gerçekten çok mutlu etti.
+
+Hülya: Evet, mahallemiz gerçekten şehir gürültüsünden uzak, huzurlu ve samimi bir yerdir. Çini hocamız Ayşe Hanım da alanında son derece tecrübeli ve yardımsever bir eğitmendir.
+
+Gül: Evet, Ayşe Hocamız geldiğim ilk gün bana fırça tekniklerini, çini tabağı zımparalama adımlarını ve desen çizimlerini büyük bir sabırla anlattı.
+
+Hülya: Sizi elinizde çini deseni taslağıyla görünce sormak istedim, geleneksel Türk el sanatlarına ilginiz eskiden beri var mıydı?
+
+Gül: Evet, özellikle geleneksel İznik ve Kütahya çini motiflerini, lale desenlerini incelemekten ve seramik üzerine desen çizmekten büyük bir heyecan duyuyorum.
+
+Hülya: Ne kadar harika! Bizim kursumuzda her ayın sonunda ürettiğimiz çini eserleri mahalle fuayesinde sergilediğimiz küçük bir sergi etkinliğimiz de oluyor.
+
+Gül: Gerçekten mi? Böyle sanatsal bir sergi etkinliğinin olması harika bir motivasyon kaynağı oldu. Ben de eserlerimle katılmayı çok isterim.
+
+Hülya: Sergimizde komşularımızla birlikte taze çay eşliğinde sohbet eder, yaptığımız çini tabakları ve vazoları gururla tanıtırız.
+
+Gül: Kulağa son derece keyifli, estetik, dinlendirici ve sosyalleştirici bir kurs ortamı gibi geliyor Hülya Hanım.
+
+Hülya: Kurs binamızın bahçesindeki dinlenme alanında çay molası veriyoruz, bize katılmak ister misiniz?
+
+Gül: Memnuniyetle katılırım Hülya Hanım, diğer kursiyer komşularımızla da tanışmaktan büyük mutluluk duyarım.
+
+Hülya: Ders çıkışında mahalle çay bahçesinde birlikte kahve içmeye ne dersiniz Gül Hanım?
+
+Gül: Nazik davetiniz ve samimi karşılamanız için çok teşekkür ederim Hülya Hanım, memnuniyetle katılırım.
+
+Hülya: Tekrar hoş geldiniz Gül Hanım, dersimiz başlamak üzere!
+
+Gül: Çok teşekkürler Hülya Hanım, iyi dersler dilerim!
+
+Kontrol Özeti:
+İstenen Sayı: 5
+Üretilen Sayı: 5
+
+---
+
+`14-kisa.txt` kaynağındaki 5 adet diyalog metni kelime alt sınırlarına ve kılavuz kurallarına %100 uygun olarak üretilmiştir. Sıradaki dosya (`15-kisa.txt` vb.) ile devam etmek isterseniz "15 ile devam" yazmanız yeterlidir!

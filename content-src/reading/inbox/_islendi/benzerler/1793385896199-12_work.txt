@@ -1,0 +1,16 @@
+### | Şirket İçi Yenilikçi Tedarik Zinciri Ve Lojistik Stratejileri Sunumu
+lang: tr | cat: work | sub: presentation | level: 2 | tags: sunum, tedarik, lojistik, şirket, strateji
+---
+Değerli yönetim kurulu üyelerimiz, kıdemli birim yöneticilerimiz, değerli yatırımcılarımız, ana ortaklarımız ve tedarik zinciri operasyonlarımıza yön veren değerli çalışma arkadaşlarım, bugün gerçekleştireceğimiz bu stratejik sunumda şirketimizin önümüzdeki iki yıllık dönemde benimseyeceği yenilikçi tedarik zinciri stratejilerini, dijital lojistik adımlarımızı ve verimliliği artırmaya yönelik dinamik projelerimizi tüm detaylarıyla detaylı şekilde paylaşmaktan büyük bir onur duyuyorum.
+
+Günümüzün hızla değişen küresel pazar koşullarında, dijital dönüşüm rüzgârında ve yoğun rekabet ortamında, geleneksel tedarik yöntemleriyle yüksek esneklik sağlamak ne yazık ki tek başına yeterli olmamaktadır. Kurumlar artık tedarik süreçlerinin her bir adımında şeffaf, hızlı, güvenilir, ölçülebilir, esnek ve entegre bir lojistik yapısı kurmayı arzulamaktadır. Yapılan son bağımsız araştırmalar, dijital tedarik yönetimini benimseyen şirketlerin lojistik maliyetlerinde %30 oranında tasarruf sağladığını ve teslimat sürelerini iki kat daha hızlı tamamladığını net şekilde ortaya koymaktadır.
+
+Bu doğrultuda kurguladığımız yeni tedarik vizyonumuz üç ana temel sütun üzerine inşa edilmiştir: Birinci sütunumuz, tüm tedarikçilerimizi ve lojistik ağlarımızı tek bir platformda birleştiren bütünleşik süreç yönetimidir. Birimler arası veri akışını kesintisiz hale getirerek sipariş onay mekanizmalarındaki zaman kayıplarını tamamen ortadan kaldırıyoruz.
+
+İkinci sütunumuz, yapay zekâ destekli stok planlama ve otomatik rotalama sistemleridir. Hammadde hareketlerini, depo doluluk oranlarını ve nakliye hatlarını anlık olarak analiz ederek, henüz gecikme oluşmadan önce önleyici tedbirler geliştireceğiz.
+
+Üçüncü sütunumuz ise çalışanlarımızın mesleki gelişimini destekleyen sürekli eğitim programlarıdır. Lojistik ve saha ekiplerimizin dijital okuryazarlık yetkinliklerini artırarak kurumsal performansımızı en üst seviyeye taşımayı hedefliyoruz.
+
+Ayrıca tedarik bütçemizin verimli kullanımı amacıyla her ay birim performans göstergelerini (KPI) anlık takip edecek ve yönetim kuruluna sunacak esnek analiz panelleri kuracağız. Bu paneller sayesinde bütçe sapmaları erken aşamada tespit edilecek ve gerekli iyileştirmeler hızla yapılacaktır.
+
+Sunumumuzun son bölümünde yer alan uygulama takvimi doğrultusunda, ilk çeyrekte altyapı hazırlıklarımızı tamamlayarak ikinci çeyrek itibarıyla yeni tedarik modelimizi tüm bölge ve tesislerimizde canlıya alacağız. Şirketimizi geleceğe taşıyacak bu vizyoner projeye verdiğiniz güçlü destek için hepinize ayrı ayrı yürekten teşekkür ederim.

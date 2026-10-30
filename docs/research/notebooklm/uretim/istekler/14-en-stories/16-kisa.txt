@@ -1,0 +1,20 @@
+Kaynaklardaki yazım kılavuzuna göre 5 KISA metin yaz.
+
+- Dil: İngilizce (doğal İngilizce; Türkçeden çeviri değil)
+- Kategori: stories (Öykü ve kısa hikâye)
+- Uzunluk: her metin 350–550 kelime. Alt sınırın altına düşme.
+- Metinler:
+  1) sub: learning (Yeni bir şey öğrenme) · level: 2
+  2) sub: journey (Yolculuk) · level: 1
+  3) sub: nature (Doğada) · level: 2
+  4) sub: curiosity (Merak ve keşif) · level: 3
+  5) sub: humor (Mizahi) · level: 2
+
+Her metin TAM OLARAK şu biçimde (YAML ya da başka biçim kullanma):
+
+### | Metnin Başlığı
+lang: en | cat: stories | sub: <yukarıdaki> | tags: <3-5 etiket> | level: <yukarıdaki>
+---
+Gövde. Paragraflar arasında boş satır.
+
+"Mevcut başlıklar" kaynağındaki ve bu sohbette daha önce yazdığın başlık ve konuları tekrar etme; her metinde farklı karakter, mekân ve olay. Atıf numarası yazma. En sonda ayrı bir satıra yalnızca "Kontrol Özeti:" yaz ve altına istenen ve üretilen metin sayısını yaz.

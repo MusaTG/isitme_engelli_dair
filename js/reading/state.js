@@ -7,7 +7,7 @@ export const MAX_VERSIONS = 5;
 export const IDLE_SEC = 300; // 5 dk hareketsizlikte oturum süresi saymayı bırakır
 
 export function defaultView() {
-  return { size: 19, line: 1.7, para: 1, width: 'm', font: 'sans', align: 'left', theme: 'app', margin: 'normal', focus: false, hideSpeakers: false };
+  return { size: 19, line: 1.7, para: 1, width: 'm', font: 'sans', align: 'left', theme: 'app', margin: 'normal', focus: false, hideSpeakers: false, ttsWords: 3 };
 }
 
 export function ensureReading(profile) {

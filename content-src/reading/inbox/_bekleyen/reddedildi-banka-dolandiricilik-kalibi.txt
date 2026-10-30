@@ -1,0 +1,22 @@
+# Aktarılmadı: arayan "banka görevlisine" kişisel güvenlik bilgisi (doğum tarihi, anne kızlık soyadı harfleri) verilmesini güvenli bir davranış gibi gösteriyor (telefon dolandırıcılığı kalıbı).
+
+### | Banka Yetkilisi ile Güvenlik Doğrulaması
+lang: tr | cat: dialogue | sub: phone | tags: telefon, banka, güvenlik, doğrulama, işlem | level: 3
+---
+Semih: İyi günler Banu Hanım, ben bankanızın genel müdürlük güvenlik ve şüpheli işlem biriminden müşteri temsilciniz Semih.
+Banu: İyi günler Semih Bey, hayırdır inşallah, kredi kartımla veya banka hesabımla ilgili beklenmedik bir sorun mu yaşandı acaba?
+Semih: Endişelenmeyiniz Banu Hanım, hesabınızda herhangi bir finansal kayıp veya izinsiz erişim bulunmamaktadır. Sadece yurt dışı kaynaklı bir e-ticaret platformu üzerinden kartınızla yapılan yüksek tutarlı bir alışveriş işlemini güvenlik protokollerimiz gereği teyit etmek amacıyla arıyorum.
+Banu: Anladım Semih Bey. Yaklaşık yarım saat önce yurt dışı merkezli bir yazılım şirketinden yıllık sistem aboneliği için kartımla ödeme yapmıştım.
+Semih: Bilgilendirme için çok teşekkür ederim Banu Hanım. Güvenlik doğrulaması adına sistemde kayıtlı doğum tarihinizi ve anne kızlık soyadınızın üçüncü ve beşinci harflerini teyit edebilir miyim?
+Banu: Tabii ki Semih Bey. Doğum tarihim on beş mayıs bin dokuz yüz seksen beş, istenen harfler ise N ve R harfleridir.
+Semih: Verdiğiniz güvenlik bilgileri sistemimizle birebir uyuşmaktadır Banu Hanım. Yurt dışı alışveriş işleminize geçici olarak koyduğumuz güvenlik blokesini hemen kaldırıyorum.
+Banu: Çok teşekkür ederim Semih Bey. Bankanızın bu tür yüksek tutarlı işlemlerde anında telefonla arayarak doğrulama yapması ve güvenlik tedbiri alması müşteri olarak bana büyük bir güven veriyor.
+Semih: Bizim için müşterilerimizin finansal güvenliği ve memnuniyeti her zaman ilk sıradadır Banu Hanım. Kartınızı yurt dışı alışverişlerinde daha güvenli kullanabilmeniz adına mobil uygulamamız üzerinden sanal kart oluşturma seçeneğimizi de değerlendirebilirsiniz.
+Banu: Sanal kart uygulamasını nasıl aktifleştirebileceğim hakkında kısa bir bilgi verebilir misiniz acaba?
+Semih: Mobil bankacılık uygulamamıza giriş yaptıktan sonra 'Kartlarım' sekmesinden 'Sanal Kart Oluştur' butonuna tıklayarak limitini anlık belirleyeceğiniz güvenli bir dijital kart üretebilirsiniz.
+Banu: Çok pratik ve güvenli bir çözüm yöntemiymiş. Bugün ilk fırsatta mobil uygulamadan sanal kartımı oluşturacağım.
+Semih: Harika Banu Hanım. Güvenlik blokeniz tamamen kaldırılmıştır, alışveriş işleminizi sorunsuz şekilde tamamlayabilirsiniz.
+Banu: Gösterdiğiniz dikkat, profesyonel yaklaşım ve nazik bilgilendirmeleriniz için çok teşekkür ederim Semih Bey.
+Semih: Rica ederim Banu Hanım, bankamızı tercih ettiğiniz için teşekkür eder, sağlıklı, güvenli ve iyi günler dileriz!
+Banu: Sağ olun Semih Bey, iyi çalışmalar dilerim.
+

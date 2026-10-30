@@ -1,5 +1,78 @@
 # Değişiklik günlüğü
 
+## 4.7.2 — 2026-10-24 (hata düzeltmesi: silme onayları)
+
+- **Ayraç ve “burada kaldım” silinmiyordu:** silme onayı tarayıcının `confirm()` penceresiyle soruluyordu; bazı ortamlar (gömülü sayfalar, bazı uygulama içi tarayıcılar, Claude deneme sayfası) bu pencereyi engelleyip her zaman “hayır” döndürür. Tüm onaylar uygulama içi pencereye taşındı (`confirmAsk`, Esc/Vazgeç = hayır). Etkilenen 14 işlem: ayraç/burada kaldım/not silme (okuyucu ve Ayraçlar), liste silme, kendi metnini silme ve sürüm geri yükleme, metni baştan okuma, süreli oturumu bitirme/değiştirme, egzersizi erken bitirme, hedef ve not silme, profil kaldırma, tüm verileri silme.
+- **Test:** `npm run e2e:marks` (tarayıcı onayı engellenmiş ortamda ekleme, Vazgeç, silme — okuyucu ve Ayraçlar sayfası).
+
+## 4.7.1 — 2026-10-24 (hata düzeltmesi: beceriler)
+
+- **Takılma giderildi:** Kelime tanımadaki “Kelime öğren” kartında Dinle'ye basınca oluşan hata, Sonraki/Bitir düğmelerini ve sayfadan çıkışı durduruyordu (ekran donmuş görünüyordu). Düzeltildi; ayrıca bu kartta ses iki kez başlatılmıyor.
+- **Ses gelmeden cevap verilemez:** Cevaplar ses gerçekten başlayınca açılır. Ses motoru hiç başlamazsa (Chrome'da bilinen takılma) bir kez sıfırlanıp yeniden denenir; yine başlamazsa “Ses başlamadı” uyarısı çıkar, cevaplar kilitli kalır ve bu dinleme hakkından düşmez. Önceden ses çıkmasa da süre dolunca “okundu” sayılıp cevaplar açılıyordu.
+- **Uzun konuşmalar:** Chrome'un uzun konuşmayı kendiliğinden duraklatmasına karşı konuşurken düzenli “resume”.
+- **Öğrenme kartında ses hataları** artık görünür (önceden sessizce yutuluyordu).
+- **Test:** `npm run e2e:skills` — 7 gruptaki 47 görevin her biri: Dinle → cevap → Sonraki → sayfadan çıkış; ses motoru takılması senaryosu.
+
+## 4.7.0 — 2026-10-24
+
+- **Yumuşak kelime vurgusu:** sesli dinlemede o an okunan kelime en belirgin, yanındaki yardımcı kelimeler uzaklaştıkça soluklaşarak vurgulanır (1–5 kelimelik pencere, kelime kelime kayar; öbek öbek atlamaz).
+- **Başlıklar okunur:** metin başlığı ve bölüm başlıkları da sesli okunur ve vurgulanır; bir bölümün başından dinlemeye başlanınca önce o bölümün başlığı okunur.
+- **İçerik:** 40 TR gezi + 34 TR diyalog metni (gezi 90, diyalog 54); 1 diyalog telefon dolandırıcılığı kalıbı içerdiği için aktarılmadı. Aktarım öncesi düzeltmeler: sayı/yazım hataları, doğrulanamayan ya da yanlış bilgi içeren 4 cümle, sağlık iddiası içeren 1 cümle.
+
+## 4.6.0 — 2026-10-24 (sesli dinlemede kelime takibi)
+
+- **Kelime öbeği vurgusu:** sesli dinlemede paragraf yerine okunan 1–5 kelime vurgulanır (görünüm ayarlarında “Sesli dinlemede vurgu”, varsayılan 3). Ses motorunun kelime sınırı olayları kullanılır; bu olayı göndermeyen seslerde konuşma hızından tahmini ilerleme. CSS Custom Highlight API ile (metne ve işaretlere dokunmaz); desteklemeyen tarayıcıda paragraf vurgusu.
+- **Elle kaydırma:** dinlerken sayfa elle kaydırılırsa vurgu ortalanmaz ama ilerlemeye devam eder; “Okunan yere git” düğmesi takibi geri açar. Uygulamanın kendi kaydırması elle kaydırma sayılmaz.
+- **Kaldığı yerden devam:** “Durdur” başa sarmaz; devam noktası kesik çizgiyle işaretlenir ve kaydedilir (sayfa yeniden açılınca da). “Dinle” sırasıyla: seçili metin → durdurduktan sonra dokunulan kelime → kaldığı kelime → görünen paragraf.
+- **Test:** `npm run e2e:tts` (15 kontrol).
+
+## 4.5.2 — 2026-10-24
+
+- **Hazır istek dosyaları:** `docs/research/notebooklm/uretim/istekler/` — eksiklerin tamamı için 646 ayrı istek (kısa 5'li, orta tekli, uzun 4 parça, roman dizileri 2 parça); her istekte alt kategori, seviye ve kelime aralığı belirli; sıra listesi `SIRA.md`. Her aktarmada yeniden üretilir.
+- **Yanıt içinde dil/kategori:** isteklerin meta satırında `lang:` / `cat:` var; yanıtlar tek dosyada toplanabilir. Kütüphane dosyalarına bu iki alan yazılmaz.
+- **İçerik:** 5 TR diyalog daha (toplam 20).
+
+## 4.5.1 — 2026-10-24 (ilk NotebookLM partisi)
+
+- **İlk içerik:** NotebookLM'den gelen 15 TR diyalog metni kütüphaneye aktarıldı (`tr/dialogue-import-01.txt`).
+- **Sohbet çıktısı temizleme genişletildi:** başlık ya da madde imiyle gelen meta satırı (`## sub: …`), tek paragrafa yığılmış diyalog (her konuşma ayrı satıra bölünür), sondaki “Kontrol Özeti” bölümü.
+
+## 4.5.0 — 2026-10-24 (araştırma ilk turu: uygulanabilir kararlar)
+
+- **Metin başına üretim beyanı:** okuyucuda “Yapay zekâ destekli taslak · insan incelemesi bekliyor / incelemesinden geçti” ya da “İnsan tarafından yazıldı” (`origin`, `reviewed`). Genel lisans notu yalnızca lisansı söylüyor.
+- **Okunabilirlik puanı:** Ateşman (TR) / Flesch (EN), okuyucuda ek bilgi olarak; metin düzeyini değiştirmez (eşleme araştırması bekliyor). Katalogda `rs`.
+- **Kalıcı depolama:** Ayarlar → Gizlilik'te durum ve “Kalıcı depolama iste” düğmesi.
+- **Denetim testleri:** olumlu klinik iddia taraması (arayüz, rehber, istemler) ve lisans denetimi.
+- **Araştırma kaydı:** `docs/research/notebooklm/arastirma/sonuclar/1-ilk-tur-degerlendirme.md` — ilk tur yalnızca proje dosyalarına dayandığı için bulgular “düşük/kaynaksız” sayıldı; kanıt gerektiren öneriler Faz 6'ya ertelendi.
+
+## 4.4.0 — 2026-10-24 (Faz 4–5: NotebookLM ile içerik üretimi ve araştırma paketi)
+
+- **NotebookLM üretim paketi** (`docs/research/notebooklm/uretim/`, `npm run reading:notebooklm`): dil başına yazım kılavuzu ve mevcut başlıklar (deftere kaynak olarak), sohbet ayarı, kategori başına parti parti istemler (kısa 5'li, orta tekli, uzun ve roman dizileri parça parça). Eksik listesinden üretilir; her içe aktarmada ve yayında güncellenir.
+- **Sohbet çıktısı temizleme:** `.txt`/`.md` aktarımında kaynak işaretleri, kalın yazı, kod çitleri, kaçışlar, numaralı/çizgisiz başlıklar, büyük harfli anahtarlar ve kaybolan `---` satırı düzeltilir (kütüphane aracı ve uygulama içi aktarma).
+- **Dosya adından dil/kategori:** `tr-dialogue-01.txt` doğrudan `inbox/` içine konabilir; uygulama içi aktarmada da geçerli.
+- **Araştırma paketi** (`docs/research/notebooklm/arastirma/`): değerlendirme protokolü, 8 konu (soru, kaynaklar, istemler, etkilenen yer), karar kaydı şablonu.
+
+## 4.3.0 — 2026-10-24 (Faz 3: içerik altyapısı)
+
+- **Toplu içe aktarma (kütüphane aracı):** `npm run reading:import` artık önce ön izleme gösterir (eklenecek / güncellenecek / tekrar olduğu için atlanacak / hatalı, dil–kategori dağılımı, kayıt bazında gerekçe) ve onay ister; `--yes` onaysız uygular, `--dry` yalnızca rapor üretir. Rapor `inbox/RAPOR.md` + makine okunur `inbox/RAPOR.json`.
+- **Biçimler:** .txt/.md blok biçimi, JSON ve CSV (virgül ya da noktalı virgül, tırnaklı alanlar, Türkçe sütun adları). Desteklenmeyen dosyalar açık hatayla raporlanır ve yerinde bırakılır.
+- **Güvenli tekrar çalıştırma:** İçerik özeti (`contentHash`, başlıktan bağımsız) aynı metin atlanır; aynı başlık farklı içerik uyarıyla eklenir; `id:` ile var olan metin yerinde güncellenir ve sürümü artar. Mevcut metinler hiçbir durumda silinmez.
+- **Şema:** Metin başına `level` (kütüphaneye aktarmada zorunlu; yoksa tahmin edilir ve ayrıca sayılır), `source` / `license` / `author` (kaynak varsa lisans zorunlu), `origin`, `reviewed`.
+- **Durum raporu:** `docs/reading/status.json` (makine okunur) ve genişletilmiş `EKSIKLER.md`: dil × kategori mevcut/hedef/eksik, uzunluk ve seviye dağılımı, tahmini seviye, kaynak bilgisi eksik metinler, bozuk/tekrar kayıtlar, öncelik sırası.
+- **Uygulama içinden:** Kendi metinlerim → çoklu dosya seçimi ve “Metni yapıştırarak aktar”; aynı kurallarla ön izleme diyaloğu, onaydan sonra kayıt (kayıt başarısızsa geri alınır) ve JSON rapor.
+- **Kurallar tek yerde:** `js/reading/rules.js` (derleyici, durum raporu, içe aktarma ve yapay zekâ üretimi ortak kullanır).
+
+## 4.2.0 — 2026-10-24 (Faz 2: kritik düzeltmeler)
+
+- **Veri kaybı önleme:** Kayıtlı veri bozuk okunursa artık silinmiyor ve üzerine yazılmıyor: ham veri `duyum.v1.corrupt.<zaman>` anahtarına karantinaya alınıyor, her açılışta alınan son sağlam yedekten (`duyum.v1.bak`) devam ediliyor, ekranda “Bozuk veriyi indir / Anladım” bildirimi çıkıyor. Karantina yazılamazsa kayıt durduruluyor (bozuk veri ezilmesin).
+- **Kayıt alanı doldu uyarısı:** Kota hatasında her ekranda görünen kalıcı uyarı (önceden yalnızca bazı ekranlarda).
+- **Güvenli içe aktarma:** Kabul edilen metinler önce geçici dosyaya yazılıyor, hepsi yazılınca atomik olarak yerine taşınıyor; ancak bundan sonra kaynak dosya `_islendi/` altına alınıyor. Hata olursa hiçbir şey değişmiyor, kaynak inbox'ta kalıyor.
+- **Okuyucu temaları:** Açık, sepya, koyu ve loş okuyucu temaları artık tam renk setiyle tüm okuma ekranını (üst çubuk, içindekiler, paneller, düğmeler, form alanları, odak) kapsıyor; uygulama teması ne olursa olsun görünmez öğe kalmıyor (16 kombinasyon axe ile 0 ihlal).
+- **Erişilebilirlik:** Hedefler, okuma geçmişi, ayraçlar ve kendi metinlerim süzgeç çubukları geçersiz `tablist` rolünden düğme grubu + `aria-pressed` / bağlantılarda `aria-current` yapısına geçirildi.
+- **Okuma durumu:** Bilgi panelindeki durum seçimi konum kaydıyla eşitleniyor.
+- **Taşma:** Büyük yazıda okuma sayfalarındaki dil seçiminin yarattığı yatay taşma giderildi.
+- **Testler:** Bozuk veri/kota/yedek için 3 birim testi, içe aktarmada hata taklidiyle atomiklik testi; tarayıcı testlerine durum eşitleme ve kurtarma senaryoları; yeni `npm run e2e:a11y` (axe-core, tema × sayfa × okuyucu teması, taşma).
+
 ## 4.1.0 — 2026-10-19
 
 **Yapay zekâ ile okuma metni (yeni, isteğe bağlı)**

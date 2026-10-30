@@ -1,5 +1,12 @@
 # Değişiklik günlüğü
 
+## 4.7.3 — 2026-10-30 (yeni metinler, güncelleme düzeltmesi)
+
+- **Güncelleme takılıyordu:** yeni sürüm yayınlanınca çıkan “Yeniden yükle” yalnızca sayfayı yeniliyordu; service worker beklemede kaldığı için uygulamanın tüm sekmeleri kapanana dek eski sürüm (ör. 552 metinlik kütüphane) açılmaya devam ediyordu. Yeni service worker artık kurulur kurulmaz etkinleşir (`skipWaiting`).
+- **İçerik:** 388 yeni TR metin (çocuk, şiir, iş, diyalog, dil; 5 uzun metin dört parçadan birleştirildi). TR toplam 1.034. Aktarım öncesi: NotebookLM'in İngilizce sayıları (“ten dakika”), yazım hataları, metne karışmış araç günlüğü temizlendi.
+- **İçe aktarma:** e-posta imzasıyla biten metin “yarıda kesilmiş” sayılmaz; “Kontrol Özeti:5” biçimi de temizlenir; `similar: ok` / `--allow-similar` ile bilinçli olarak eklenen benzer metin aktarmada ve derlemede hata vermez (birebir aynı içerik yine reddedilir).
+- **Windows:** araçlar ve testler `fileURLToPath` ile Windows'ta da çalışır; motor testi seçenek etiketlerini seçeneğin dilinde karşılaştırır (Türkçe I/İ).
+
 ## 4.7.2 — 2026-10-24 (hata düzeltmesi: silme onayları)
 
 - **Ayraç ve “burada kaldım” silinmiyordu:** silme onayı tarayıcının `confirm()` penceresiyle soruluyordu; bazı ortamlar (gömülü sayfalar, bazı uygulama içi tarayıcılar, Claude deneme sayfası) bu pencereyi engelleyip her zaman “hayır” döndürür. Tüm onaylar uygulama içi pencereye taşındı (`confirmAsk`, Esc/Vazgeç = hayır). Etkilenen 14 işlem: ayraç/burada kaldım/not silme (okuyucu ve Ayraçlar), liste silme, kendi metnini silme ve sürüm geri yükleme, metni baştan okuma, süreli oturumu bitirme/değiştirme, egzersizi erken bitirme, hedef ve not silme, profil kaldırma, tüm verileri silme.

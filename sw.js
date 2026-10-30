@@ -1,6 +1,6 @@
 // Service worker: uygulama kabuğunu önbelleğe alır, böylece ilk ziyaretten sonra çevrimdışı açılır.
 // Yeni sürüm yayınlarken CACHE adındaki sürüm numarasını artırın; kullanıcılar güncelleme bildirimi alır.
-const CACHE = 'duyum-v4.7.2-a49771fd';
+const CACHE = 'duyum-v4.7.3-a49771fd';
 const ASSETS = [
   './',
   './index.html',
@@ -100,7 +100,9 @@ const ASSETS = [
 ];
 
 self.addEventListener('install', (event) => {
-  event.waitUntil(caches.open(CACHE).then((c) => c.addAll(ASSETS)));
+  // Beklemeden etkinleş: yoksa yeni sürüm, uygulamanın tüm sekmeleri kapanana dek bekler ve "Yeniden yükle" eski
+  // sürümü açmaya devam eder (eski v4.1 sayfaları da bu yolla güncellenir).
+  event.waitUntil(caches.open(CACHE).then((c) => c.addAll(ASSETS)).then(() => self.skipWaiting()));
 });
 
 self.addEventListener('activate', (event) => {

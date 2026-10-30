@@ -1,6 +1,6 @@
 {
   "name": "duyum",
-  "version": "4.7.2",
+  "version": "4.7.3",
   "private": true,
   "description": "Türkçe ve İngilizce destekli, ücretsiz işitsel dinleme pratiği uygulaması (PWA).",
   "type": "module",

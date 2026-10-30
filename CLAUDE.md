@@ -1,6 +1,6 @@
 # Duyum — Claude Code için proje notları
 
-Derleme gerektirmeyen statik PWA (TR/EN): işitsel dinleme egzersizleri + Okuma Egzersizi modülü. Ücretsiz, veri yalnızca cihazda, hesap/analitik yok. Sürüm: `package.json` (şu an 4.7.2). Değişiklik geçmişi: `CHANGELOG.md`. Denetim ve faz raporları: `docs/audit/v5-denetim.md`.
+Derleme gerektirmeyen statik PWA (TR/EN): işitsel dinleme egzersizleri + Okuma Egzersizi modülü. Ücretsiz, veri yalnızca cihazda, hesap/analitik yok. Sürüm: `package.json` (şu an 4.7.3). Değişiklik geçmişi: `CHANGELOG.md`. Denetim ve faz raporları: `docs/audit/v5-denetim.md`.
 
 ## Değişmez kurallar
 
